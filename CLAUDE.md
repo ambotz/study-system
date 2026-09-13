@@ -43,7 +43,16 @@ specific behavior lives in the **data** (`40-professor/`), never in forked skill
 code. If you find yourself writing `if professor == "Baude"` into a skill, the
 thing you are encoding belongs in a professor file instead.
 
-## 3. Doctrine module schema — FIXED
+## 3. Frontmatter keys — underscores, always
+
+**Every frontmatter key in this vault uses `snake_case`. No hyphens. Ever.**
+
+This is not style. In Dataview, a bare hyphen in an expression parses as
+subtraction: `professor_emphasis >= 2` works, `professor-emphasis >= 2` silently
+returns nothing — and an empty table looks exactly like a passing one. A query
+that fails loudly is recoverable; one that returns zero rows in November is not.
+
+## 4. Doctrine module schema — FIXED
 
 Body sections, in this order, no additions, no reordering:
 
@@ -60,20 +69,54 @@ Frontmatter, required on every module:
 
 ```yaml
 topic:               # string
-sub-topic:           # string
-professor-emphasis:  # integer 1-3
-exam-likelihood:     # high | medium | low
+sub_topic:           # string
+professor_emphasis:  # integer 1-3
+exam_likelihood:     # high | medium | low
 confidence:          # integer 1-5, self-rated, human-set only
-last-drilled:        # YYYY-MM-DD or null
+last_drilled:        # YYYY-MM-DD or null
 ```
 
 This frontmatter is the study queue. Dataview reads it. If it drifts, the queue
-breaks silently — an empty result looks the same as a passing one.
+breaks silently.
 
 **`confidence` is human-set.** No agent writes or revises it. It is a self-rating
 and an agent inferring it defeats the purpose of the field.
 
-## 4. Session file schema — FIXED
+## 5. Case file schema — FIXED
+
+Two layers in one file, extraction first. The top half is what survives into the
+doctrine modules; the bottom half is cold-call prep and is allowed to decay.
+Buccola's class is no-device, so the bottom half gets read off paper.
+
+Order is load-bearing. The extraction block leads because it is the part that
+must still be true in December. If the class layer stops getting filled in by
+week six, the file is still doing its job.
+
+```yaml
+case:                  # short name, matches the filename
+citation:
+court:
+year:
+class:                 # busorg | conlaw | legalfinance
+topic:
+feeds_module:          # wikilink(s) to the doctrine module(s) this case supports
+read_for:              # YYYY-MM-DD, the class meeting it was assigned for
+posture_drove_outcome: # true | false
+```
+
+Body, in this order:
+
+1. **Rule contributed** — one sentence. What this case adds to the doctrine that
+   wasn't already there. If it adds nothing, say so; some cases are illustrations.
+2. **Operative facts** — only the facts that did work. Not the story.
+3. **What the court rejected** — the losing argument, stated at its strongest.
+4. **Where it sits** — the neighboring case, and the single fact that distinguishes
+   them. This is the raw material for line-drawing drills.
+5. **Professor gloss** — filled in after class, not before. Empty until then.
+6. `---`
+7. **Class layer** — posture / issue / holding / reasoning / dissent / cold-call notes.
+
+## 6. Session file schema — FIXED
 
 One file per class meeting, named `YYYY-MM-DD.md`, in `<class>/20-sessions/`.
 Captured within ~20 minutes of class, by dictation, against the same six prompts
@@ -86,19 +129,12 @@ every time:
 5. What he said doesn't matter
 6. Any exam signal
 
-The six prompts are fixed so that the capture is comparable across weeks and
+The six prompts are fixed so that capture is comparable across weeks and
 machine-readable without parsing prose. Session files are **raw capture**. They
 are never cleaned up in place, never rewritten to read better, and never deleted
 after reconciliation — they are the audit trail behind every doctrine module.
 
-## 5. Case file schema — NOT YET SETTLED
-
-`10-cases/` is scaffolded but has no fixed schema yet. **Do not create case files
-and do not write a `case-brief` skill until this is settled with the human.**
-Inventing a schema here and building on it is exactly the failure this section
-exists to prevent.
-
-## 6. Format law
+## 7. Format law
 
 - **Never freehand frontmatter.** A deterministic transform (OCR, tagging, an
   API call) asks a model for JSON against a schema, validates that JSON in a
@@ -114,7 +150,7 @@ exists to prevent.
   the graph and backlinks work.
 - One file per case. One file per class meeting. One file per rule.
 
-## 7. Guardrails
+## 8. Guardrails
 
 - **Abrams Clinic material never enters this repo.** Not in any folder, not as a
   quotation, not as an anonymized example. This repo has a cloud remote and an
@@ -130,12 +166,11 @@ exists to prevent.
 - **Keep `ANTHROPIC_API_KEY` unset** in any shell that runs this vault's jobs, so
   nothing silently routes to per-token Console billing instead of the Pro plan.
 
-## 8. Open — do not silently resolve
+## 9. Open — do not silently resolve
 
 These are unsettled. An agent that picks a default here and proceeds has made a
 decision that was the human's to make. Ask.
 
-- Case file schema (§5).
 - Scheduling mechanism for the nightly job: local cron/launchd (needs a `pmset`
   wake schedule) vs. cloud Routines (needs the private remote, restricted to
   `claude/`-prefixed branches).

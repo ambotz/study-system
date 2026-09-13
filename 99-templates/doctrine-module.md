@@ -1,10 +1,10 @@
 ---
 topic: 
-sub-topic: 
-professor-emphasis: 2
-exam-likelihood: medium
+sub_topic: 
+professor_emphasis: 2
+exam_likelihood: medium
 confidence: 1
-last-drilled: 
+last_drilled: 
 ---
 
 ## Rule statement

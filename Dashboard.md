@@ -1,17 +1,11 @@
 ---
-note-type: dashboard
+note_type: dashboard
 ---
 
 # Study queue
 
-Generated views over `30-doctrine` frontmatter. Nothing here is authored —
-if a table is empty, there are no modules matching, not a broken query.
-
-> [!warning] Dataview and hyphenated keys
-> The schema uses hyphenated frontmatter keys (`professor-emphasis`,
-> `sub-topic`). In Dataview expressions a bare hyphen parses as subtraction,
-> so every query below reaches those fields as `row["professor-emphasis"]`.
-> Writing `professor-emphasis >= 2` will silently return nothing.
+Generated views over `30-doctrine` frontmatter. Nothing here is authored — if a
+table is empty, there are no modules matching, not a broken query.
 
 ## Drill queue — high emphasis, low confidence
 
@@ -19,12 +13,12 @@ if a table is empty, there are no modules matching, not a broken query.
 TABLE WITHOUT ID
   file.link AS "Module",
   topic AS "Topic",
-  row["professor-emphasis"] AS "Emph",
+  professor_emphasis AS "Emph",
   confidence AS "Conf",
-  row["last-drilled"] AS "Last drilled"
+  last_drilled AS "Last drilled"
 FROM "busorg/30-doctrine" OR "conlaw/30-doctrine"
-WHERE row["professor-emphasis"] >= 2 AND confidence <= 3
-SORT row["professor-emphasis"] DESC, confidence ASC
+WHERE professor_emphasis >= 2 AND confidence <= 3
+SORT professor_emphasis DESC, confidence ASC
 ```
 
 ## Never drilled
@@ -33,10 +27,10 @@ SORT row["professor-emphasis"] DESC, confidence ASC
 TABLE WITHOUT ID
   file.link AS "Module",
   topic AS "Topic",
-  row["exam-likelihood"] AS "Exam likelihood"
+  exam_likelihood AS "Exam likelihood"
 FROM "busorg/30-doctrine" OR "conlaw/30-doctrine"
-WHERE !row["last-drilled"]
-SORT row["exam-likelihood"] ASC
+WHERE !last_drilled
+SORT exam_likelihood ASC
 ```
 
 ## Coverage — modules per topic
@@ -49,6 +43,21 @@ TABLE WITHOUT ID
 FROM "busorg/30-doctrine" OR "conlaw/30-doctrine"
 GROUP BY topic
 SORT length(rows) DESC
+```
+
+## Cases not yet feeding a module
+
+A case file whose `feeds_module` is empty has been read but not reconciled into
+the doctrine layer. That is the date-in/doctrine-out rule, made visible.
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Case",
+  topic AS "Topic",
+  read_for AS "Read for"
+FROM "busorg/10-cases" OR "conlaw/10-cases"
+WHERE !feeds_module
+SORT read_for DESC
 ```
 
 ## Sessions not yet reconciled
