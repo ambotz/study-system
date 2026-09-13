@@ -45,6 +45,21 @@ GROUP BY topic
 SORT length(rows) DESC
 ```
 
+## Cases by class meeting
+
+The date-indexed view of `10-cases`. Folders are not used for this, because a
+case read twice sits in two meetings and can only live in one folder — Revlon is
+assigned on both Oct 28 and Nov 5. A query groups by date without duplicating a
+file, and regroups by topic or professor emphasis just as easily.
+
+```dataview
+TABLE WITHOUT ID
+  rows.file.link AS "Cases"
+FROM "busorg/10-cases" OR "conlaw/10-cases"
+GROUP BY read_for AS "Class meeting"
+SORT read_for ASC
+```
+
 ## Cases not yet feeding a module
 
 A case file whose `feeds_module` is empty has been read but not reconciled into
