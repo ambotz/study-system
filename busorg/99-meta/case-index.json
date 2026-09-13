@@ -1,0 +1,642 @@
+{
+  "class": "busorg",
+  "professor": "Buccola",
+  "term": "Autumn 2026",
+  "exam": {
+    "date": "2026-12-15",
+    "time": "09:00-12:00",
+    "format": "in-class, closed-book, word-limited"
+  },
+  "sources": {
+    "bc": {
+      "file": "__ Badawi Casey - Business Associations (2d ed).pdf",
+      "offset": 6,
+      "label": "Badawi & Casey, Business Associations (2d ed. 2023)"
+    },
+    "cp": {
+      "file": "__ 2026 Autumn Supplemental Case Pack [v1].pdf",
+      "offset": 0,
+      "label": "Supplemental case pack"
+    }
+  },
+  "sessions": [
+    {
+      "session": 1,
+      "date": "2026-09-28",
+      "title": "What is a Firm?",
+      "readings": []
+    },
+    {
+      "session": 2,
+      "date": "2026-09-30",
+      "title": "Perspectives on Agency",
+      "readings": [
+        {
+          "case": "In re Motors Liquidation",
+          "kind": "case",
+          "source": "bc",
+          "start": 13,
+          "end": 17
+        },
+        {
+          "case": "Detroit Lions v. Argovitz",
+          "kind": "case",
+          "source": "bc",
+          "start": 26,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "session": 3,
+      "date": "2026-10-01",
+      "title": "Incidents of Partnership and Incorporation",
+      "readings": [
+        {
+          "case": "Meinhard v. Salmon",
+          "kind": "case",
+          "source": "bc",
+          "start": 37,
+          "end": 43
+        },
+        {
+          "case": "Walkovzky v. Carlton",
+          "kind": "case",
+          "source": "bc",
+          "start": 64,
+          "end": 68
+        }
+      ]
+    },
+    {
+      "session": 4,
+      "date": "2026-10-05",
+      "title": "Early Charters (and Deference to Directors)",
+      "readings": [
+        {
+          "case": "An Act to Incorporate the National Insurance Company",
+          "kind": "document",
+          "note": "Canvas: National Insurance Company - Charter.pdf"
+        },
+        {
+          "case": "Scott v. Depeyster",
+          "kind": "case",
+          "source": "cp",
+          "start": 2,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "session": 5,
+      "date": "2026-10-07",
+      "title": "Modern Charters",
+      "readings": [
+        {
+          "case": "8 Del. C. 102(a)(3),(b)(1),(c); 109(b); 121; 122(1)-(17); 141(a),(b)",
+          "kind": "statute"
+        },
+        {
+          "case": "NVIDIA Certificate of Incorporation",
+          "kind": "document",
+          "note": "Canvas"
+        },
+        {
+          "case": "Gorman v. Salamone",
+          "kind": "case",
+          "source": "bc",
+          "start": 98,
+          "end": 100
+        },
+        {
+          "case": "West Palm Beach Firefighters' Pension Fund v. Moelis & Co.",
+          "kind": "case",
+          "source": "cp",
+          "start": 11,
+          "end": 15
+        },
+        {
+          "case": "8 Del. C. 122(18)",
+          "kind": "statute"
+        },
+        {
+          "case": "NVIDIA Bylaws",
+          "kind": "document",
+          "note": "Canvas; skim"
+        }
+      ]
+    },
+    {
+      "session": 6,
+      "date": "2026-10-12",
+      "title": "Modern Deference",
+      "readings": [
+        {
+          "case": "Shlensky v. Wrigley",
+          "kind": "case",
+          "source": "bc",
+          "start": 103,
+          "end": 106
+        },
+        {
+          "case": "Smith v. Van Gorkom",
+          "kind": "case",
+          "source": "bc",
+          "start": 120,
+          "end": 134
+        },
+        {
+          "case": "8 Del. C. 102(b)(7)",
+          "kind": "statute"
+        }
+      ]
+    },
+    {
+      "session": 7,
+      "date": "2026-10-13",
+      "title": "Interested Transactions",
+      "readings": [
+        {
+          "case": "8 Del. C. 144(a) (pre-SB 21)",
+          "kind": "statute"
+        },
+        {
+          "case": "Bayer v. Beran",
+          "kind": "case",
+          "source": "bc",
+          "start": 153,
+          "end": 157
+        },
+        {
+          "case": "In re Investors Bancorp",
+          "kind": "case",
+          "source": "bc",
+          "start": 165,
+          "end": 172
+        },
+        {
+          "case": "8 Del. C. 144(a),(d)(6),(e)(4),(5),(7),(8),(d)(2),(3) (post-SB 21)",
+          "kind": "statute"
+        }
+      ]
+    },
+    {
+      "session": 8,
+      "date": "2026-10-14",
+      "title": "Good Faith and Oversight",
+      "readings": [
+        {
+          "case": "In re Caremark International Inc. Derivative Litigation",
+          "kind": "case",
+          "source": "cp",
+          "start": 16,
+          "end": 24
+        },
+        {
+          "case": "Marchand v. Barnhill",
+          "kind": "case",
+          "source": "bc",
+          "start": 285,
+          "end": 298
+        },
+        {
+          "case": "Segway Inc. v. Cai",
+          "kind": "case",
+          "source": "cp",
+          "start": 25,
+          "end": 27
+        }
+      ]
+    },
+    {
+      "session": 9,
+      "date": "2026-10-15",
+      "title": "Controlling Stockholders",
+      "readings": [
+        {
+          "case": "Sinclair Oil v. Levien",
+          "kind": "case",
+          "source": "bc",
+          "start": 173,
+          "end": 176
+        },
+        {
+          "case": "In re Tesla Motors (Tesla 1)",
+          "kind": "case",
+          "source": "bc",
+          "start": 177,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "session": 10,
+      "date": "2026-10-19",
+      "title": "Controlling Stockholders",
+      "readings": [
+        {
+          "case": "In re Tesla Motors (Tesla 2)",
+          "kind": "case",
+          "source": "cp",
+          "start": 28,
+          "end": 45
+        },
+        {
+          "case": "8 Del. C. 144(b),(c),(e)(1),(2),(3) (post-SB 21)",
+          "kind": "statute"
+        }
+      ]
+    },
+    {
+      "session": 11,
+      "date": "2026-10-21",
+      "title": "Direct and Derivative Claims",
+      "readings": [
+        {
+          "case": "Tooley v. Donaldson, Lufkin & Jenrette",
+          "kind": "case",
+          "source": "bc",
+          "start": 241,
+          "end": 242
+        },
+        {
+          "case": "In re Riverstone National",
+          "kind": "case",
+          "source": "bc",
+          "start": 242,
+          "end": 249
+        },
+        {
+          "case": "Del. Ct. Ch. R. 23.1",
+          "kind": "rule"
+        },
+        {
+          "case": "United Food (Tri-State) Pension Fund v. Zuckerberg",
+          "kind": "case",
+          "source": "bc",
+          "start": 267,
+          "end": 284
+        }
+      ]
+    },
+    {
+      "session": 12,
+      "date": "2026-10-22",
+      "title": "Derivative Procedure",
+      "readings": [
+        {
+          "case": "In re Oracle Corp. Derivative Litigation",
+          "kind": "case",
+          "source": "bc",
+          "start": 361,
+          "end": 373
+        }
+      ]
+    },
+    {
+      "session": 13,
+      "date": "2026-10-27",
+      "title": "Books & Records",
+      "readings": [
+        {
+          "case": "8 Del. C. 220 (pre-SB 21)",
+          "kind": "statute"
+        },
+        {
+          "case": "Amalgamated Bank v. Yahoo!",
+          "kind": "case",
+          "source": "bc",
+          "start": 342,
+          "end": 360
+        },
+        {
+          "case": "8 Del. C. 220 (post-SB 21)",
+          "kind": "statute"
+        }
+      ]
+    },
+    {
+      "session": 14,
+      "date": "2026-10-28",
+      "title": "Application: Friendly M&A Litigation",
+      "readings": [
+        {
+          "case": "Revlon v. MacAndrews & Forbes",
+          "kind": "case",
+          "source": "bc",
+          "start": 486,
+          "end": 496
+        },
+        {
+          "case": "Omnicare v. NCS Healthcare",
+          "kind": "case",
+          "source": "bc",
+          "start": 519,
+          "end": 531
+        },
+        {
+          "case": "In re Trulia",
+          "kind": "case",
+          "source": "bc",
+          "start": 581,
+          "end": 590
+        }
+      ]
+    },
+    {
+      "session": 15,
+      "date": "2026-10-29",
+      "title": "Application: Friendly M&A Litigation",
+      "readings": [
+        {
+          "case": "Kahn v. M&F Worldwide",
+          "kind": "case",
+          "source": "bc",
+          "start": 194,
+          "end": 198
+        },
+        {
+          "case": "8 Del. C. 144(c) (post-SB 21)",
+          "kind": "statute"
+        },
+        {
+          "case": "Corwin v. KKR Financial Holdings",
+          "kind": "case",
+          "source": "bc",
+          "start": 551,
+          "end": 554
+        }
+      ]
+    },
+    {
+      "session": 16,
+      "date": "2026-11-02",
+      "title": "Aiding and Abetting",
+      "readings": [
+        {
+          "case": "RBC Capital Markets v. Jervis",
+          "kind": "case",
+          "source": "bc",
+          "start": 576,
+          "end": 581
+        },
+        {
+          "case": "In re Mindbody, Inc., Stockholder Litigation",
+          "kind": "case",
+          "source": "cp",
+          "start": 46,
+          "end": 81
+        }
+      ]
+    },
+    {
+      "session": 17,
+      "date": "2026-11-04",
+      "title": "Takeovers",
+      "readings": [
+        {
+          "case": "Cheff v. Mathes",
+          "kind": "case",
+          "source": "bc",
+          "start": 442,
+          "end": 448
+        },
+        {
+          "case": "Unocal v. Mesa Petroleum",
+          "kind": "case",
+          "source": "bc",
+          "start": 448,
+          "end": 456
+        }
+      ]
+    },
+    {
+      "session": 18,
+      "date": "2026-11-05",
+      "title": "Takeovers",
+      "readings": [
+        {
+          "case": "8 Del. C. 151, 157",
+          "kind": "statute"
+        },
+        {
+          "case": "Moran v. Household International",
+          "kind": "case",
+          "source": "bc",
+          "start": 459,
+          "end": 462
+        },
+        {
+          "case": "Revlon v. MacAndrews & Forbes (redux)",
+          "kind": "case",
+          "source": "bc",
+          "start": 486,
+          "end": 496
+        }
+      ]
+    },
+    {
+      "session": 19,
+      "date": "2026-11-09",
+      "title": "Takeovers",
+      "readings": [
+        {
+          "case": "Paramount v. Time",
+          "kind": "case",
+          "source": "bc",
+          "start": 496,
+          "end": 506
+        },
+        {
+          "case": "Paramount v. QVC",
+          "kind": "case",
+          "source": "bc",
+          "start": 506,
+          "end": 518
+        },
+        {
+          "case": "Air Products v. Airgas",
+          "kind": "case",
+          "source": "bc",
+          "start": 463,
+          "end": 476
+        }
+      ]
+    },
+    {
+      "session": 20,
+      "date": "2026-11-11",
+      "title": "Voting",
+      "readings": [
+        {
+          "case": "8 Del. C. 141(d), 212, 216, 218",
+          "kind": "statute"
+        },
+        {
+          "case": "Ringling Brothers v. Ringling",
+          "kind": "case",
+          "source": "bc",
+          "start": 85,
+          "end": 91
+        },
+        {
+          "case": "Hewlett v. Hewlett-Packard",
+          "kind": "case",
+          "source": "bc",
+          "start": 91,
+          "end": 98
+        }
+      ]
+    },
+    {
+      "session": 21,
+      "date": "2026-11-12",
+      "title": "Voting",
+      "readings": [
+        {
+          "case": "Schnell v. Chris-Craft Industries",
+          "kind": "case",
+          "source": "bc",
+          "start": 80,
+          "end": 82
+        },
+        {
+          "case": "8 Del. C. 228(a)",
+          "kind": "statute"
+        },
+        {
+          "case": "Blasius Industries v. Atlas Corp.",
+          "kind": "case",
+          "source": "cp",
+          "start": 82,
+          "end": 87
+        },
+        {
+          "case": "Coster v. UIP Companies",
+          "kind": "case",
+          "source": "cp",
+          "start": 88,
+          "end": 95
+        }
+      ]
+    },
+    {
+      "session": 22,
+      "date": "2026-11-16",
+      "title": "Voting (and Activism)",
+      "readings": [
+        {
+          "case": "1934 Act 13; SEC Rule 13D",
+          "kind": "statute"
+        },
+        {
+          "case": "1934 Act 14; SEC Rule 14a-19",
+          "kind": "statute"
+        },
+        {
+          "case": "The Williams Companies Stockholder Litigation",
+          "kind": "case",
+          "source": "bc",
+          "start": 477,
+          "end": 486
+        },
+        {
+          "case": "8 Del. C. 144(d)(6)(b) (post-SB 21)",
+          "kind": "statute"
+        }
+      ]
+    },
+    {
+      "session": 23,
+      "date": "2026-11-18",
+      "title": "VC and PE Problems",
+      "readings": [
+        {
+          "case": "In re Trados",
+          "kind": "case",
+          "source": "bc",
+          "start": 645,
+          "end": 660
+        },
+        {
+          "case": "New Enterprise Associates 14 v. Rich",
+          "kind": "case",
+          "source": "cp",
+          "start": 96,
+          "end": 98
+        }
+      ]
+    },
+    {
+      "session": 24,
+      "date": "2026-11-19",
+      "title": "Creditors",
+      "readings": [
+        {
+          "case": "8 Del. C. 170, 154",
+          "kind": "statute"
+        },
+        {
+          "case": "NACEPF v. Gheewalla",
+          "kind": "case",
+          "source": "bc",
+          "start": 719,
+          "end": 725
+        },
+        {
+          "case": "Quadrant Structured Products v. Vertin",
+          "kind": "case",
+          "source": "cp",
+          "start": 99,
+          "end": 111
+        }
+      ]
+    },
+    {
+      "session": 25,
+      "date": "2026-11-30",
+      "title": "Non-Corporate Entities",
+      "readings": [
+        {
+          "case": "Elf Atochem North America v. Jaffari",
+          "kind": "case",
+          "source": "bc",
+          "start": 395,
+          "end": 401
+        },
+        {
+          "case": "Note on LLC default fiduciary duties",
+          "kind": "note",
+          "source": "bc",
+          "start": 415,
+          "end": 416
+        },
+        {
+          "case": "Miller v. HCP & Co.",
+          "kind": "case",
+          "source": "cp",
+          "start": 112,
+          "end": 121
+        }
+      ]
+    },
+    {
+      "session": 26,
+      "date": "2026-12-02",
+      "title": "Non-Stock Corporations",
+      "readings": [
+        {
+          "case": "University of Chicago Articles and Bylaws",
+          "kind": "document",
+          "note": "Canvas"
+        }
+      ]
+    },
+    {
+      "session": 27,
+      "date": "2026-12-03",
+      "title": "Overflow",
+      "readings": []
+    }
+  ]
+}

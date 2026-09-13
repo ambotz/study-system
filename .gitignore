@@ -15,3 +15,11 @@
 # Never commit credentials
 .env
 *.pem
+
+# Course source material — stays on disk and in the OneDrive mirror, never in git.
+# The casebook and case pack are large binaries git cannot diff or compress, and
+# everything here is re-downloadable from Canvas. 00-source is an input folder;
+# the repo tracks what we DERIVE from it, not the readings themselves.
+*/00-source/**/*.pdf
+*/00-source/**/*.epub
+*/00-source/**/*.docx
