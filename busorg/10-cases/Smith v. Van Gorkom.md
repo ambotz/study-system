@@ -19,48 +19,39 @@ applied without any inquiry into whether the price was in fact fair.
 
 ## Facts
 
-- Jerome Van Gorkom was chief executive of Trans Union for 17 years and chairman
-  for 2, owned 75,000 shares, and was approaching mandatory retirement at 65.
-  Van Gorkom told senior management he would sell his own shares at $55.
-- The $55 figure came from a feasibility run by Trans Union's controller on
-  whether a leveraged buyout could service its debt at that price. The $55 figure
-  was not a valuation of Trans Union and did not purport to be one.
-- Van Gorkom selected $55 alone, proposed $55 to Jay Pritzker rather than
-  receiving $55 from Pritzker, and disclosed neither the derivation of the figure
-  nor his own authorship of the figure to the Trans Union board.
-- The September 20 board meeting was called the previous day, with the purpose
-  undisclosed to all but two directors, and ran **two hours**. No crisis forced
-  the timetable; the deadline was Pritzker's and the board accepted Pritzker's
-  deadline without resistance.
-- The board's entire basis was a **20-minute oral presentation**. Copies of the
-  merger agreement arrived too late to be read, and Van Gorkom had not read the
-  merger agreement he was describing.
+- The $55 price came from a feasibility run by Trans Union's controller on
+  whether a leveraged buyout could service its debt at that price. The figure was
+  not a valuation of Trans Union and did not purport to be one.
+- Van Gorkom selected $55 alone and proposed $55 to Jay Pritzker rather than
+  receiving $55 from Pritzker. Van Gorkom disclosed neither the derivation of the
+  figure nor his own authorship of it to the board.
+- The board's entire basis for approving the sale was a **20-minute oral
+  presentation**. Copies of the merger agreement arrived too late to be read, and
+  Van Gorkom had not read the merger agreement he was describing.
+- The September 20 meeting ran **two hours**, was called the previous day with
+  its purpose undisclosed to all but two directors, and faced no crisis. The
+  three-day deadline was Pritzker's, and the board accepted it without
+  resistance.
 - Chief financial officer Donald Romans told the board that $55 was "in the range
   of a fair price" but "at the beginning of the range," and that his study was
   not a valuation. **No director asked a follow-up question** — not why $55 sat
-  at the bottom of the range, not to see the study, and not whether the finance
-  department could produce a fairness analysis within the 36 hours remaining.
-- Counsel James Brennan advised the board that a fairness opinion was not
-  required as a matter of law, and that directors might be sued if they rejected
-  the offer.
-- Van Gorkom executed the merger agreement that evening at the opening of the
-  Chicago Lyric Opera. No director had read the merger agreement before signing
-  and delivery.
-- Ten directors served, five inside and five outside. Four outside directors were
-  sitting chief executives and one was a former Dean of the University of Chicago
-  business school. *The court treated this pedigree as insufficient* — see Court
-  Ruling below.
-- The price carried a real premium: 62% over the 1980 average trading price, 48%
-  over the last close, and 39% over the highest price in six years. *The court
-  treated the premium as proving nothing about value.*
+  at the bottom, not to see the study, and not whether the finance department
+  could produce a fairness analysis within the 36 hours remaining.
 - The 90-day "market test" barred Trans Union from **soliciting** competing
   offers and from sharing non-public information. The October 10 amendments then
   required a signed, more favorable definitive agreement before Trans Union could
-  withdraw, and compressed the proxy timetable — narrowing the escape while
-  appearing to widen it. The board approved those amendments **sight unseen** and
-  the record does not establish that any director read them.
-- Trans Union's stockholders approved the merger, 69.9% of outstanding shares in
-  favor.
+  withdraw, and compressed the proxy timetable. The board approved those
+  amendments **sight unseen**.
+- The price carried a real premium: 62% over the 1980 average trading price, 48%
+  over the last close, and 39% over the six-year high. *Argued and rejected — but
+  a board holding both a premium and a valuation is a different case.*
+- Four of the five outside directors were sitting chief executives and one was a
+  former Dean of the University of Chicago business school. *Argued and
+  rejected — the pedigree was real and the court held it supplied no
+  information.*
+- Counsel James Brennan advised that a fairness opinion was not required as a
+  matter of law, and that the directors might be sued if they rejected the offer.
+  *Argued and rejected — the advice was correct and did not answer the question.*
 
 ## Court Ruling
 
@@ -169,25 +160,38 @@ describes is the raw material those later standards operationalize.
 Trans Union was a publicly traded holding company whose earnings came mainly from
 railcar leasing. It generated hundreds of millions in annual cash flow and had
 accumulated large investment tax credits it could not use, because depreciation
-deductions left it without enough taxable income. Lobbying Congress had gone
-nowhere, and acquiring smaller companies with taxable income had not solved the
-problem either. Selling Trans Union to a buyer with taxable income was one of
-several alternatives senior management floated in late August 1980.
+deductions left it without enough taxable income to absorb them. Lobbying
+Congress had gone nowhere, and acquiring smaller companies with taxable income
+had not solved the problem either. Selling Trans Union to a buyer with taxable
+income was one of several alternatives senior management floated in late August
+1980.
 
-Van Gorkom moved on that idea alone. He had the controller run the numbers on
-whether a leveraged buyout at $55 per share could service its debt, was
-disappointed by the answer, and met Jay Pritzker anyway on September 13. Van
-Gorkom proposed $55; Pritzker mentioned $50 as more attractive but the price was
-never renegotiated. Pritzker demanded a decision within three days and the right
-to buy one million treasury shares at $38, seventy-five cents above market.
+Jerome Van Gorkom had been chief executive for 17 years and chairman for 2, owned
+75,000 shares, and was approaching mandatory retirement at 65. At a September 5
+management meeting he said he would be willing to take $55 for his own shares,
+and he vetoed a management-led buyout as a conflict of interest. Romans had run
+rough numbers at $50 and $60, which indicated $50 would be easy and $60 difficult
+— never a valuation, only a test of what debt the cash flow could carry.
+
+Van Gorkom moved on the idea alone from there. He had the controller test a
+buyout at $55, was disappointed to learn $50–80 million would remain outstanding
+after five years, and met Pritzker at his home on September 13 anyway. Pritzker
+mentioned $50 as more attractive; the price was never renegotiated. Pritzker
+demanded a decision within three days and the right to buy one million treasury
+shares at $38, seventy-five cents above market.
 
 Senior management's reaction on the morning of September 20 was uniformly
-negative. Van Gorkom went to the board meeting that noon regardless, presented
-for twenty minutes, and the board approved. Dissent among senior officers became
-widespread within ten days, producing the October amendments — which the board
-also approved without reading. Salomon Brothers' three-month solicitation
-produced two interested parties, GE Credit and Kohlberg Kravis Roberts, both of
-which withdrew.
+negative — no officer other than Chelberg and Peterson supported the proposal.
+Van Gorkom went to the board meeting at noon regardless. He executed the merger
+agreement that evening at a social event he was hosting for the opening of the
+Chicago Lyric Opera; no director had read it.
+
+Dissent among senior officers became widespread within ten days and produced the
+October amendments, which the board also approved without reading. Salomon
+Brothers' three-month solicitation produced two interested parties, GE Credit and
+Kohlberg Kravis Roberts, both of which withdrew. On February 10 the stockholders
+approved the merger, 69.9% of outstanding shares in favor, 7.25% against, and
+22.85% not voted.
 
 ### Issue
 

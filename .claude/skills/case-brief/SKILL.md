@@ -66,10 +66,16 @@ Look the reading up in `<class>/99-meta/case-index.json`.
 1. `## Rule` — one sentence. What this case adds to the doctrine that was not
    already there. "Nothing — illustration of [[X]]" is a legitimate answer, and a
    better answer than inventing a contribution.
-2. `## Facts` — bulleted. The facts that decided the case, plus the facts needed
-   to follow the opinion at all. A fact the court discussed and then explained
-   away belongs here with its fate noted on the bullet, in italics, because the
-   reader needs to know the fact was argued and lost.
+2. `## Facts` — bulleted, **pivotal facts only**. A fact belongs here if it
+   decided the case, if the issue or ruling turns on it, or if changing it would
+   change the result. Apply that last test deliberately — these are the facts a
+   hypothetical gets built on.
+   A fact the court discussed and then explained away still belongs here, with
+   its fate noted in italics, because a hypothetical that removes the defect
+   around it comes out differently.
+   Everything else — background, narrative, procedural colour, good-to-know
+   detail — goes to the class layer Facts section and is **not** repeated here.
+   The two Facts sections divide the material; they do not duplicate it.
 3. `## Court Ruling` — two bolded groups, `**Held**` and `**Rejected**`, each
    bulleted. Under **Rejected**, state each losing argument at its strongest, in
    italics, and then give the court's answer to that argument. An argument
@@ -85,8 +91,11 @@ Look the reading up in `<class>/99-meta/case-index.json`.
 
 - `### Posture` — one or two bullets. Note the posture explicitly when the
   posture is unusual and drives how hard the holding bites.
-- `### Facts` — prose. Narrative detail packs more densely here than bullets
-  allow.
+- `### Facts` — prose, carrying the **full narrative**: background, how the
+  parties arrived at the dispute, procedural colour, and the detail that is worth
+  knowing but decided nothing. Prose packs more densely than bullets here. Do not
+  restate the brief layer's pivotal facts except where the narrative is
+  unintelligible without them.
 - `### Issue` — bulleted, one bullet per issue.
 - `### Holding` — bulleted, one bullet per issue, in the same order as the
   issues. Each bullet gives the disposition **and** what the disposition turned
@@ -142,3 +151,6 @@ Stop and say so, rather than producing something plausible:
 6. Holding bullets map one-to-one onto Issue bullets, in the same order.
 7. Every rejected argument stated at its strongest before the court's answer.
 8. `case` frontmatter matches the filename and matches `case-index.json`.
+9. The two Facts sections divide the material rather than duplicating it — every
+   bullet in the brief layer passes the would-changing-it-change-the-result test,
+   and nothing that fails that test appears in both places.

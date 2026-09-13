@@ -149,9 +149,17 @@ posture_drove_outcome: # true | false
 
 1. **Rule** — one sentence. What this case adds to the doctrine that was not
    already there. "Nothing — illustration of [[X]]" is a legitimate answer.
-2. **Facts** — bulleted. The facts that decided the case, and the facts needed to
-   follow the opinion at all. A fact that the court discussed and then explained
-   away belongs here, with the outcome noted on the bullet.
+2. **Facts** — bulleted, and **pivotal facts only**. A fact earns a place here if
+   it decided the case, if the issue or the ruling turns on it, or if changing it
+   would change the result. That last test is the important one: these are the
+   facts a hypothetical can be built on, which is what makes this section the
+   input to line-drawing drills.
+   A fact the court discussed and then explained away still belongs here, with
+   its fate noted in italics — the premium in [[Smith v. Van Gorkom]] lost, but a
+   hypothetical in which the board had both a premium and a valuation comes out
+   differently, so the premium is pivotal.
+   Background, narrative, and good-to-know detail go to the class layer instead.
+   Do not repeat them here.
 3. **Court Ruling** — bulleted, in two groups: what the court **held**, and what
    the court **rejected**. State a rejected argument at its strongest before
    giving the court's answer to that argument.
@@ -166,8 +174,12 @@ posture_drove_outcome: # true | false
 Below a `---`. In this order:
 
 - **Posture** — light. One or two bullets.
-- **Facts** — prose is acceptable here and often better, since narrative detail
-  packs more densely without bullet overhead.
+- **Facts** — prose, and the **full narrative**: background, how the parties got
+  there, procedural colour, and the good-to-know detail that did not decide
+  anything. Prose beats bullets here because narrative packs more densely without
+  bullet overhead. The brief layer holds the pivotal facts; this section holds
+  everything else worth knowing, and does not restate the pivotal ones except
+  where the story is unintelligible without them.
 - **Issue** — bulleted. Multiple issues get multiple bullets.
 - **Holding** — bulleted, one bullet per issue, in the same order as the issues.
   Each bullet states the disposition and what it turned on. Never a compressed
