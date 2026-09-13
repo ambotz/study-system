@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "99-attachments",
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "showUnsupportedFiles": false,
+  "promptDelete": false
+}
