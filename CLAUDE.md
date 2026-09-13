@@ -79,8 +79,30 @@ last_drilled:        # YYYY-MM-DD or null
 This frontmatter is the study queue. Dataview reads it. If it drifts, the queue
 breaks silently.
 
-**`confidence` is human-set.** No agent writes or revises it. It is a self-rating
-and an agent inferring it defeats the purpose of the field.
+### Who owns which field
+
+Three of these fields describe things no one can know when the module is
+created. The rule is who is allowed to *revise* them, not who types them first.
+
+| Field | Set at creation by | Revised by |
+|---|---|---|
+| `topic`, `sub_topic` | whoever creates the module | anyone, on correction |
+| `professor_emphasis` | first pass, from the syllabus and the professor file | **`session-reconcile` only**, from what was actually said in class |
+| `exam_likelihood` | first pass, same basis | **`session-reconcile` only** |
+| `confidence` | initialized to `1` | **the human only** |
+| `last_drilled` | empty | `exam-drill`, on a completed attempt |
+
+`professor_emphasis` and `exam_likelihood` are predictions before the class
+happens and evidence afterwards. A first pass at creation is fine and keeps the
+module inside the Dataview queue from day one. What is not fine is any skill
+other than `session-reconcile` quietly revising them later — the whole value of
+those numbers is that they track what the professor did, and a second writer
+with a different basis destroys that.
+
+`confidence` is a **self-rating**. An agent may write the initial `1`, meaning
+"not yet rated," and may never touch it again. An agent inferring how well you
+know something defeats the entire purpose of the field, and it is the field the
+drill queue leans on hardest.
 
 ## 5. Case file schema — FIXED
 
