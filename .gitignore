@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+._*
+
+# Obsidian — per-machine UI state, not content
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.trash/
+
+# Generated render output — regenerated from markdown, never authoritative
+*.pdf.tmp
+.pandoc-cache/
+
+# Never commit credentials
+.env
+*.pem
