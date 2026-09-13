@@ -38,6 +38,10 @@ touches has done nothing useful.
 Classes: `busorg/` (Buccola), `conlaw/` (Baude), `legalfinance/` (Kelley).
 Legal Finance is deliberately deferred — scaffolded, not populated.
 
+Repo-wide utilities that no single skill owns live in `.claude/scripts/`. A
+script that is one skill's deterministic sub-step lives in that skill's own
+`scripts/` folder instead.
+
 Skills are repo-scoped and live in `.claude/skills/<name>/SKILL.md`. Professor-
 specific behavior lives in the **data** (`40-professor/`), never in forked skill
 code. If you find yourself writing `if professor == "Baude"` into a skill, the
@@ -104,15 +108,30 @@ with a different basis destroys that.
 know something defeats the entire purpose of the field, and it is the field the
 drill queue leans on hardest.
 
+### Statutes and rules
+
+A reading that is a statute, a rule, or a governance document has no opinion to
+brief and therefore never produces a case file. It produces a **doctrine module**
+instead, created directly from the text of the provision.
+
+Such a module is created with its body populated from the provision itself and
+its `professor_emphasis` and `exam_likelihood` set on a first pass. Class
+treatment of the provision arrives later, through `session-reconcile`, which
+polishes the module the same way it polishes any other. A statute with no module
+is a silent gap in the doctrine layer — 22 of the 70 BusOrg readings are
+statutes, rules, or governance documents.
+
 ## 5. Case file schema — FIXED
 
-Two layers in one file, extraction first. The top half is what survives into the
-doctrine modules; the bottom half is cold-call prep and is allowed to decay.
-Buccola's class is no-device, so the bottom half gets read off paper.
+Two layers in one file.
 
-Order is load-bearing. The extraction block leads because it is the part that
-must still be true in December. If the class layer stops getting filled in by
-week six, the file is still doing its job.
+- The **brief layer** is the extraction that survives into `30-doctrine` and must
+  still be true in December.
+- The **class layer** is cold-call prep against the opinion. It is allowed to
+  decay after the class meeting has passed.
+
+The brief layer leads. If the class layer stops getting filled in by week six,
+the file is still doing its job.
 
 ```yaml
 case:                  # short name, matches the filename
@@ -126,17 +145,40 @@ read_for:              # YYYY-MM-DD, the class meeting it was assigned for
 posture_drove_outcome: # true | false
 ```
 
-Body, in this order:
+### Brief layer
 
-1. **Rule contributed** — one sentence. What this case adds to the doctrine that
-   wasn't already there. If it adds nothing, say so; some cases are illustrations.
-2. **Operative facts** — only the facts that did work. Not the story.
-3. **What the court rejected** — the losing argument, stated at its strongest.
-4. **Where it sits** — the neighboring case, and the single fact that distinguishes
-   them. This is the raw material for line-drawing drills.
+1. **Rule** — one sentence. What this case adds to the doctrine that was not
+   already there. "Nothing — illustration of [[X]]" is a legitimate answer.
+2. **Facts** — bulleted. The facts that decided the case, and the facts needed to
+   follow the opinion at all. A fact that the court discussed and then explained
+   away belongs here, with the outcome noted on the bullet.
+3. **Court Ruling** — bulleted, in two groups: what the court **held**, and what
+   the court **rejected**. State a rejected argument at its strongest before
+   giving the court's answer to that argument.
+4. **Context** — prose is fine here, and wikilinks are expected. The neighboring
+   cases, the distinguishing fact between this case and each neighbor, the
+   statutory or legislative response, and anything else that does not fit the
+   three sections above but that a reader in December would want.
 5. **Professor gloss** — filled in after class, not before. Empty until then.
-6. `---`
-7. **Class layer** — posture / issue / holding / reasoning / dissent / cold-call notes.
+
+### Class layer
+
+Below a `---`. In this order:
+
+- **Posture** — light. One or two bullets.
+- **Facts** — prose is acceptable here and often better, since narrative detail
+  packs more densely without bullet overhead.
+- **Issue** — bulleted. Multiple issues get multiple bullets.
+- **Holding** — bulleted, one bullet per issue, in the same order as the issues.
+  Each bullet states the disposition and what it turned on. Never a compressed
+  answer like "no on both" that forces the reader back up the page.
+- **Rule** — bulleted. Deliberately redundant with the brief layer's Rule; it
+  belongs here so the class layer reads as a complete brief on its own.
+- **Reasoning** — bulleted. Name the judge in parentheses where the judge is
+  notable.
+- **Dissent / concurrence** — bulleted main points, judge named in parentheses.
+- **Cold-call notes** — what will be asked, what to be ready to be pushed on, and
+  what is easy to get wrong under pressure. Elaborate; this section earns space.
 
 ## 6. Session file schema — FIXED
 
@@ -163,14 +205,36 @@ after reconciliation — they are the audit trail behind every doctrine module.
   script, and lets the *script* write the YAML. A model writing YAML directly
   will eventually invent a key, and nothing will error.
 - **Plain markdown is the source of truth.** Obsidian is a viewer. Gemini and
-  NotebookLM are compute pointed at this vault. None of them is a second vault.
-  If a tool's output isn't in this repo, it doesn't exist.
+  NotebookLM are compute pointed at this vault. Neither is a second vault.
 - **Generated files are never hand-edited.** Outlines and PDFs are regenerated
   from source. Editing a generated file means the next regeneration silently
   discards the edit.
-- **Wikilinks over paths.** `[[Meinhard v. Salmon]]`, not a relative path, so
-  the graph and backlinks work.
+- **Wikilinks over paths.** `[[Meinhard v. Salmon]]`, not a relative path. Every
+  case name and every module name mentioned in any file is a wikilink. The graph
+  view is how doctrine connects to cases, and an unlinked mention is invisible
+  to the graph.
+- **Statutes and rules get doctrine modules, not case files.** A reading with no
+  opinion to brief still states law. See section 4.
 - One file per case. One file per class meeting. One file per rule.
+
+### House style
+
+These are not preferences. A file that violates them is wrong and gets rewritten.
+
+- **No meta-commentary.** Never narrate a section's own purpose inside that
+  section — no "only the facts that did work," no "what follows is," no
+  explaining the template back to the reader. The heading already says what the
+  section is. Output files are read under time pressure; a sentence about the
+  file's own construction is noise.
+- **Bullets by default** for Issue, Holding, Rule, Elements, and Court Ruling.
+  Prose for Facts and Context, where detail flows and bullets fragment it.
+- **MECE.** Bullets in one list do not overlap and together cover the ground.
+- **One idea per bullet.** No compression that has to be read twice.
+- **Name the antecedent.** Prefer the noun to "it," "this," or "that," even when
+  the noun is longer. A pronoun three clauses from its referent costs the reader
+  more than the extra words cost.
+- **Name the judge** in parentheses for reasoning and dissent where the judge is
+  notable — more often relevant in Con Law than in BusOrg.
 
 ## 8. Guardrails
 

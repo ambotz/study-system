@@ -23,3 +23,7 @@
 */00-source/**/*.pdf
 */00-source/**/*.epub
 */00-source/**/*.docx
+
+# Generated from case-index.json by .claude/scripts/index_to_xlsx.py.
+# Regenerated on demand; a tracked binary would churn on every regeneration.
+*/99-meta/case-index.xlsx

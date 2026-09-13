@@ -1,7 +1,7 @@
 ---
-class: 
-date: 
-professor: 
+class:
+date:
+professor:
 ---
 
 ## 1. What doctrine was on the table

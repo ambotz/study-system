@@ -10,83 +10,146 @@ read_for: 2026-10-12
 posture_drove_outcome: false
 ---
 
-## Rule contributed
+## Rule
 
 The business judgment rule protects only an **informed** decision, and the
 measure of whether directors informed themselves of all material information
-reasonably available is **gross negligence** — a process standard, applied
-without any inquiry into whether the price was actually fair.
+reasonably available is **gross negligence** — a test of the board's process,
+applied without any inquiry into whether the price was in fact fair.
 
-## Operative facts
+## Facts
 
-Only what did work. The premium, the board's pedigree, and the 90-day window
-all appear here because the court had to explain why each one *failed*.
+- Jerome Van Gorkom was chief executive of Trans Union for 17 years and chairman
+  for 2, owned 75,000 shares, and was approaching mandatory retirement at 65.
+  Van Gorkom told senior management he would sell his own shares at $55.
+- The $55 figure came from a feasibility run by Trans Union's controller on
+  whether a leveraged buyout could service its debt at that price. The $55 figure
+  was not a valuation of Trans Union and did not purport to be one.
+- Van Gorkom selected $55 alone, proposed $55 to Jay Pritzker rather than
+  receiving $55 from Pritzker, and disclosed neither the derivation of the figure
+  nor his own authorship of the figure to the Trans Union board.
+- The September 20 board meeting was called the previous day, with the purpose
+  undisclosed to all but two directors, and ran **two hours**. No crisis forced
+  the timetable; the deadline was Pritzker's and the board accepted Pritzker's
+  deadline without resistance.
+- The board's entire basis was a **20-minute oral presentation**. Copies of the
+  merger agreement arrived too late to be read, and Van Gorkom had not read the
+  merger agreement he was describing.
+- Chief financial officer Donald Romans told the board that $55 was "in the range
+  of a fair price" but "at the beginning of the range," and that his study was
+  not a valuation. **No director asked a follow-up question** — not why $55 sat
+  at the bottom of the range, not to see the study, and not whether the finance
+  department could produce a fairness analysis within the 36 hours remaining.
+- Counsel James Brennan advised the board that a fairness opinion was not
+  required as a matter of law, and that directors might be sued if they rejected
+  the offer.
+- Van Gorkom executed the merger agreement that evening at the opening of the
+  Chicago Lyric Opera. No director had read the merger agreement before signing
+  and delivery.
+- Ten directors served, five inside and five outside. Four outside directors were
+  sitting chief executives and one was a former Dean of the University of Chicago
+  business school. *The court treated this pedigree as insufficient* — see Court
+  Ruling below.
+- The price carried a real premium: 62% over the 1980 average trading price, 48%
+  over the last close, and 39% over the highest price in six years. *The court
+  treated the premium as proving nothing about value.*
+- The 90-day "market test" barred Trans Union from **soliciting** competing
+  offers and from sharing non-public information. The October 10 amendments then
+  required a signed, more favorable definitive agreement before Trans Union could
+  withdraw, and compressed the proxy timetable — narrowing the escape while
+  appearing to widen it. The board approved those amendments **sight unseen** and
+  the record does not establish that any director read them.
+- Trans Union's stockholders approved the merger, 69.9% of outstanding shares in
+  favor.
 
-- Van Gorkom chose $55 himself. It came from a controller's feasibility run on
-  whether an LBO could service debt at that price — not from any valuation of
-  the company. He never told the board where the number came from, or that he
-  had proposed it to Pritzker rather than received it.
-- The board got a **20-minute oral presentation**. No copies of the merger
-  agreement in time to read. Van Gorkom had not read the agreement he was
-  describing, and signed it that evening at the opening of the Lyric Opera.
-- **Two hours**, no advance notice of the meeting's purpose, and no crisis
-  forcing the pace — the deadline was Pritzker's, accepted without resistance.
-- CFO Romans told the board $55 was "in the range of a fair price," but "at the
-  beginning of the range," and that his study was not a valuation. **No director
-  asked a follow-up.** Nobody asked why $55 sat at the bottom, asked to see the
-  study, or asked whether finance could do a fairness analysis inside the 36
-  hours available.
-- The "market test" was illusory: the agreement barred Trans Union from
-  *soliciting* offers and from sharing non-public information. The October 10
-  amendments then required a signed, more-favorable definitive agreement to
-  escape — narrowing the out while appearing to widen it. The board approved
-  those amendments sight unseen and may never have read them.
-- The premium was real — 62% over the 1980 average, 48% over last close, 39%
-  over the six-year high. It still lost.
+## Court Ruling
 
-## What the court rejected
+**Held**
 
-At its strongest, the defense was: a 62% premium, a 90-day market test, five
-sitting CEOs on a ten-person board, and counsel's advice that no fairness
-opinion was legally required, taken together, are enough.
+- The board did not reach an informed business judgment on September 20. The
+  directors failed to inform themselves of Van Gorkom's role in originating both
+  the sale and the price, were uninformed as to the intrinsic value of Trans
+  Union, and were **grossly negligent** in approving a sale of the company on two
+  hours' consideration without prior notice and without the exigency of a crisis.
+- The board also breached the duty to disclose all material information a
+  reasonable stockholder would consider important in deciding whether to approve
+  the offer.
+- The October 8 and October 10 board actions "exhibited the same deficiencies"
+  and cured nothing. A defective decision can in principle be cured by later
+  informed action, but not by repeating the original defect.
+- Reversed. Remanded to the Court of Chancery to determine the fair value of the
+  plaintiffs' shares based on the intrinsic value of Trans Union on September 20,
+  with damages to the extent fair value exceeds $55 per share.
 
-The court answered each on its own terms. A premium is measured against
-*something*, and market price measures only the value of a minority share — so
-without a valuation the premium proves nothing about the company's worth. The
-market test never legally existed, so it cannot retroactively inform a decision
-made before it. Expertise is not information: the directors knew Trans Union
-well, but none of that knowledge bore on the intrinsic value of 100% of the
-equity, which the board had never once considered. And counsel's advice was
-*correct* — no fairness opinion is required — but advice about what the law does
-not demand is not advice that what you did was enough.
+**Rejected**
 
-The most transferable line: a board "may not abdicate that duty by leaving to
-the shareholders alone the decision to approve or disapprove."
+- *The premium was 62% over market, which establishes the price was fair.* A
+  premium is measured against a baseline, and a publicly traded price measures
+  only the value of a **minority** share. Without a valuation of the company,
+  the size of the premium says nothing about the worth of 100% of the equity —
+  particularly where the board knew the market had persistently undervalued Trans
+  Union because of the unusable investment tax credits.
+- *A 90-day market test validated the price.* No market test legally existed. The
+  agreement barred solicitation, the press release announced "definitive"
+  agreements without disclosing any right to accept higher offers, and the
+  October 10 amendments narrowed rather than widened the exit. A market test that
+  post-dates a decision could not inform that decision in any event.
+- *A board of sitting chief executives is sophisticated enough to judge this deal
+  in two hours.* The directors' knowledge of Trans Union as a going concern was
+  real and irrelevant. None of that knowledge bore on the intrinsic value of the
+  whole company, a subject the board had never once considered. Expertise is not
+  information.
+- *Counsel advised that no fairness opinion was required.* Brennan's advice was
+  **correct**. Advice that the law does not require a particular step is not
+  advice that what the board actually did was sufficient. Counsel's separate
+  observation that directors might be sued if they refused could not justify
+  being "stampeded into a patently unadvised act," since a board acting within
+  the business judgment rule faces no ultimate liability.
+- *The stockholders approved the merger, which ratifies the board's decision.* In
+  the merger context 8 Del. C. § 251(b) obliges directors to act in an informed
+  and deliberate manner before submitting an agreement, and a director "may not
+  abdicate that duty by leaving to the shareholders alone the decision to approve
+  or disapprove."
 
-## Where it sits
+## Context
 
-Against **[[Shlensky v. Wrigley]]** (B&C 103–06), assigned the same day.
+The case to read against this one is [[Shlensky v. Wrigley]], assigned the same
+day. Shlensky refused to examine whether declining to install lights at Wrigley
+Field was a sound decision; Van Gorkom examines, across fifteen pages, how a
+decision came to be made. Both opinions apply the business judgment rule and they
+point in opposite directions. The distinguishing fact is what the plaintiff
+attacked — substance in Shlensky, process in Van Gorkom. **The business judgment
+rule protects substance, not process**, and that single proposition resolves most
+line-drawing problems in this part of the course.
 
-Shlensky refused to examine whether not installing lights at Wrigley Field was a
-*good decision*. Van Gorkom examined, in fifteen pages, *how* a decision got
-made. Both are business judgment rule cases and they point opposite directions.
+Two statutory provisions frame the opinion from either side. 8 Del. C. § 141(a)
+supplies the premise, that the business and affairs of a Delaware corporation are
+managed by the board, which is why the rule exists to protect the free exercise
+of board power. 8 Del. C. § 141(e) supplies the defense the directors could not
+reach: good-faith reliance on officer reports, which failed here because Van
+Gorkom's presentation was uninformed about its own subject and Romans' statement
+was not a valuation. The court's gloss on § 141(e) is the durable part — a report
+must be pertinent to the matter before the board and must earn good-faith rather
+than blind reliance.
 
-The distinguishing fact is what the plaintiff attacked. Shlensky attacked the
-substance — the wisdom of the choice. Van Gorkom attacked the process — the
-absence of information behind the choice. **The rule protects substance, not
-process.** That single sentence is the line-drawing engine for most of what
-follows in this part of the course.
-
-Downstream: the legislature disagreed with the result and answered with
-§ 102(b)(7), which lets a charter eliminate director liability in damages for
-care violations. That provision is assigned the same day, and it is why a
+The Delaware General Assembly disagreed with the result and answered with
+**8 Del. C. § 102(b)(7)**, assigned the same day, which permits a charter
+provision eliminating director liability in **monetary damages** for a breach of
+fiduciary duty, while preserving liability for loyalty breaches, acts not in good
+faith, intentional misconduct, knowing violations of law, § 174 liability, and
+transactions producing an improper personal benefit. Virtually every Delaware
+corporation adopted such a provision. The practical consequence is that a
 standalone duty of care damages claim is now dismissed at the pleading stage
-(*Malpiede*), and why plaintiffs replead everything as loyalty or bad faith
-(*Cornerstone*).
+([[Malpiede v. Townson|Malpiede]]), and plaintiffs therefore plead loyalty or bad faith
+instead ([[In re Cornerstone Therapeutics|Cornerstone]]). Section 102(b)(7) reaches only
+damages, so it leaves injunctive relief untouched.
+
+Worth holding onto for the merger sequence later in the course: Van Gorkom is a
+**sale-of-control** case decided before [[Revlon v. MacAndrews & Forbes|Revlon]] and
+before [[Unocal v. Mesa Petroleum|Unocal]], and the informational failure Van Gorkom
+describes is the raw material those later standards operationalize.
 
 ## Professor gloss
-
-<!-- After class 2026-10-12. Empty until then. -->
 
 ---
 
@@ -94,61 +157,152 @@ standalone duty of care damages claim is now dismissed at the pleading stage
 
 ### Posture
 
-Class action for damages by Trans Union shareholders against the directors.
-Chancery ruled for the defendants after trial; Delaware Supreme Court
-**reversed** and remanded for a determination of fair value, with damages to the
-extent fair value exceeded $55.
+- Stockholder class action for damages against the Trans Union directors.
+- Court of Chancery ruled for the defendants after trial; Delaware Supreme Court
+  reversed and remanded for a fair-value determination.
+- Rare posture worth noting: a **post-trial money judgment against outside
+  directors**, not a pleading-stage opinion. That rarity is much of why the
+  decision landed as hard as it did on boards and on the D&O insurance market.
 
-Worth noticing: this is a post-trial judgment imposing personal liability on
-outside directors, not a motion-to-dismiss opinion. That is rare, and it is most
-of why the case landed as hard as it did.
+### Facts
+
+Trans Union was a publicly traded holding company whose earnings came mainly from
+railcar leasing. It generated hundreds of millions in annual cash flow and had
+accumulated large investment tax credits it could not use, because depreciation
+deductions left it without enough taxable income. Lobbying Congress had gone
+nowhere, and acquiring smaller companies with taxable income had not solved the
+problem either. Selling Trans Union to a buyer with taxable income was one of
+several alternatives senior management floated in late August 1980.
+
+Van Gorkom moved on that idea alone. He had the controller run the numbers on
+whether a leveraged buyout at $55 per share could service its debt, was
+disappointed by the answer, and met Jay Pritzker anyway on September 13. Van
+Gorkom proposed $55; Pritzker mentioned $50 as more attractive but the price was
+never renegotiated. Pritzker demanded a decision within three days and the right
+to buy one million treasury shares at $38, seventy-five cents above market.
+
+Senior management's reaction on the morning of September 20 was uniformly
+negative. Van Gorkom went to the board meeting that noon regardless, presented
+for twenty minutes, and the board approved. Dissent among senior officers became
+widespread within ten days, producing the October amendments — which the board
+also approved without reading. Salomon Brothers' three-month solicitation
+produced two interested parties, GE Credit and Kohlberg Kravis Roberts, both of
+which withdrew.
 
 ### Issue
 
-Whether the directors reached an informed business judgment in approving the
-cash-out merger on September 20, and if not, whether their later conduct cured
-the defect.
+- Whether the Trans Union directors reached an informed business judgment when
+  they approved the cash-out merger on September 20, 1980.
+- If not, whether the directors' subsequent conduct on October 8 and October 10
+  cured the defect in the September 20 decision.
+- Whether the directors breached their duty to disclose material information to
+  stockholders in advance of the February 10 vote.
 
 ### Holding
 
-No on both. The September 20 approval was not an informed business judgment;
-the directors were grossly negligent. The October 8 and October 10 actions
-exhibited "the same deficiencies" and cured nothing.
+- **On the September 20 decision: not informed.** The directors were grossly
+  negligent, having failed to inform themselves of Van Gorkom's role in
+  originating the sale and the price, and having never considered the intrinsic
+  value of the company they were selling.
+- **On cure: no cure.** The October 8 and October 10 actions repeated the same
+  defect — approval of terms the directors had not read — and therefore could not
+  rectify the September 20 failure.
+- **On disclosure: breached.** The directors failed to disclose all information a
+  reasonable stockholder would consider important in deciding how to vote.
+- **Disposition:** judgment for the plaintiffs, with damages measured by the
+  excess of fair value on September 20 over the $55 paid.
+
+### Rule
+
+- A board decision carries a presumption that the directors acted on an informed
+  basis, in good faith, and in the honest belief that the action was in the
+  corporation's best interests.
+- The party attacking the decision bears the burden of rebutting that
+  presumption.
+- Whether a judgment was informed turns on whether the directors informed
+  themselves, prior to deciding, of **all material information reasonably
+  available** to them.
+- The standard for that failure is **gross negligence**, not ordinary negligence.
+- The duty to reach an informed judgment is a duty of **care**, expressly
+  distinct from the duty of loyalty.
+- Under § 141(e) directors may rely in good faith on officer reports, but a
+  report must be pertinent to the matter before the board and must merit
+  good-faith rather than blind reliance.
+- In a merger, § 251(b) requires informed and deliberate action before the
+  agreement goes to stockholders, and the board may not discharge that duty by
+  passing the question to the stockholders.
 
 ### Reasoning
 
-1. § 141(a) vests management in the board; the BJR exists to protect the free
-   exercise of that power. The rule is a *presumption* of an informed, good
-   faith, honest-belief decision, and the attacker must rebut it.
-2. Informedness turns on whether directors informed themselves of all material
-   information **reasonably available**. Gross negligence is the standard.
-3. Duty to be informed is a duty of **care**, expressly distinguished from
-   loyalty — the distinction that § 102(b)(7) would later make decisive.
-4. § 141(e) protects good-faith reliance on officer "reports," but a report must
-   be pertinent to the matter and earn good-faith rather than blind reliance.
-   Van Gorkom's presentation failed because he was uninformed about the document
-   he described; Romans' statement failed because it was not a valuation.
-5. In a merger, § 251(b) requires informed and deliberate action before putting
-   the agreement to shareholders — no abdication to the stockholder vote.
+*(Horsey, J.)*
 
-### Dissent
+- Section 141(a) vests management of the corporation in the board, and the
+  business judgment rule exists to protect the full and free exercise of that
+  managerial power. The rule is therefore a presumption, and the attacker must
+  rebut it.
+- The presumption fails on informedness where directors did not gather material
+  information reasonably available to them. Gross negligence is the measure
+  because directors are not insurers of good outcomes, but neither does the rule
+  shelter "an unintelligent or unadvised judgment."
+- Fulfillment of the fiduciary function "requires more than the mere absence of
+  bad faith or fraud" — the absence of self-dealing does not answer a care claim.
+- Van Gorkom's twenty-minute presentation could not qualify as a § 141(e) report
+  because Van Gorkom was uninformed about the essential provisions of the
+  document he described. Romans' statement could not qualify because Romans'
+  study was avowedly not a valuation.
+- The directors were entitled to give **some** credence to their chairman's view
+  of value, provided that view rested on a sound basis. Had the directors asked,
+  they would have learned the $55 figure was derived solely from leveraged-buyout
+  feasibility, and could not then have relied on it in good faith. The breach is
+  located in the failure to ask.
+- On the merger-specific duty, a board cannot convert an uninformed decision into
+  a shareholder question; § 251(b) requires the board to deliberate first.
 
-McNeilly. The inside directors had 116 years at the company and 68 years of
-board service between them; the outside directors 78 years as CEOs. "Directors
-of this caliber are not ordinarily taken in by a 'fast shuffle'." The corporate
-world runs on the fast track and these were professional businessmen, not
-intellectual figureheads.
+### Dissent / concurrence
 
-Read it as the real argument for a *substance* test over a *process* test, and
-note the majority never denies the board's quality — it denies that quality
-substitutes for information.
+*(McNeilly, J.)*
+
+- The five inside directors had 116 years of collective employment at Trans Union
+  and 68 combined years of board service; the five outside directors had 78
+  combined years as chief executives and 53 years of service on the Trans Union
+  board.
+- "Directors of this caliber are not ordinarily taken in by a 'fast shuffle'."
+- These directors "knew Trans Union like the back of their hands" and were
+  qualified to make informed judgments on the spot, including on a sale of the
+  entire corporation.
+- The corporate world operates on "the fast track," and the majority's timetable
+  objection mistakes ordinary deal speed for negligence.
+- Read McNeilly as the real argument for a substance test over a process test.
+  Note that the majority never disputes the board's quality — the majority
+  disputes that quality substitutes for information.
 
 ### Cold-call notes
 
-- If asked what the board should have done: ask Romans for a valuation, or ask
-  whether one could be produced in 36 hours. The court says the failure to *ask*
-  is the breach — not the absence of a fairness opinion, which is never required.
-- Ready to be pushed on: was this really gross negligence, or ordinary
-  negligence dressed up because the court disliked the outcome? That is the
-  standard academic attack and the dissent's real thrust.
-- Keep straight: the court never holds $55 was unfair. It holds nobody knew.
+- **If asked what the board should have done:** ask Romans for a valuation, or
+  ask whether the finance department could produce one inside the 36 hours
+  available. The answer is not "obtain a fairness opinion" — the court says twice
+  that no fairness opinion is required as a matter of law, and repeating that
+  requirement back is the most common wrong answer in this case.
+- **The trap in the question "was $55 unfair?":** the court never holds that $55
+  was unfair. The court holds that nobody on the board knew whether $55 was fair.
+  Keep the answer on information, not on price.
+- **Be ready to be pushed on the standard.** The standard academic attack, and
+  McNeilly's real thrust, is that this conduct looks like ordinary negligence
+  relabelled as gross negligence because the court disliked what happened. The
+  honest answer is that "gross" is doing work here mostly through the
+  accumulation of failures — no notice, no documents, no valuation, no questions,
+  no reading — rather than through any single one of them.
+- **Be ready for the § 102(b)(7) follow-up.** If asked whether this case would
+  come out the same way today: the liability holding would not survive an
+  exculpatory charter provision, because the claim is care and the remedy sought
+  is damages. The process holding survives intact and still governs injunctive
+  relief and still shapes how boards run sale processes.
+- **Have the timeline ready.** August 27 management meeting, September 5 the $55
+  figure surfaces, September 13 the Pritzker dinner, September 20 the board
+  meeting and signing at the opera, October 8 amendments approved sight unseen,
+  October 10 amendments executed, February 10 stockholder approval. Buccola can
+  ask where in that sequence the breach crystallizes, and the answer is
+  September 20, with October 8 and 10 as failed cures.
+- **Know the dissent's numbers.** 116 years, 68 years, 78 years. The specificity
+  is the argument, and quoting it is the fastest way to show the counter-position
+  is understood.

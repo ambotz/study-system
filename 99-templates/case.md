@@ -10,26 +10,26 @@ read_for:
 posture_drove_outcome: false
 ---
 
-## Rule contributed
+## Rule
 
-<!-- One sentence. What this case adds that wasn't already there.
-     "Nothing — illustration of [[ ]]" is a legitimate answer. -->
+## Facts
 
-## Operative facts
+- 
+- 
 
-<!-- Only the facts that did work. Not the story. -->
+## Court Ruling
 
-## What the court rejected
+**Held**
 
-<!-- The losing argument, at its strongest. -->
+- 
 
-## Where it sits
+**Rejected**
 
-<!-- Neighboring case, and the one fact that distinguishes them. -->
+- 
+
+## Context
 
 ## Professor gloss
-
-<!-- After class only. Leave empty until then. -->
 
 ---
 
@@ -37,12 +37,30 @@ posture_drove_outcome: false
 
 ### Posture
 
+- 
+
+### Facts
+
 ### Issue
+
+- 
 
 ### Holding
 
+- 
+
+### Rule
+
+- 
+
 ### Reasoning
+
+- 
 
 ### Dissent / concurrence
 
+- 
+
 ### Cold-call notes
+
+- 
