@@ -95,13 +95,15 @@ def build(cls, ix, out):
                 pdf = f"{rd['start'] + off}–{rd['end'] + off}"
 
             written = ""
-            if rd["kind"] == "case":
+            if rd["kind"] in ("case", "document", "note"):
                 path = os.path.join(cases_dir, rd["case"] + ".md")
                 written = "yes" if os.path.exists(path) else "no"
 
             module = ""
             if rd["kind"] in ("statute", "rule"):
                 module = "doctrine module"
+            elif rd["kind"] in ("document", "note"):
+                module = "document note"
 
             vals = [
                 s["session"] if j == 0 else "",
@@ -132,19 +134,19 @@ def build(cls, ix, out):
     ws2 = wb.create_sheet("Sessions")
     ws2["A1"] = f"{cls} — session summary"
     ws2["A1"].font = TITLE
-    cols2 = ["Session", "Date", "Day", "Title", "Cases", "Statutes & rules",
-             "Other", "Briefs written"]
+    cols2 = ["Session", "Date", "Day", "Title", "Readings", "Statutes & rules",
+             "Other", "Notes written"]
     header_row(ws2, 3, cols2)
     ws2.freeze_panes = "A4"
     r = 4
     for s in ix["sessions"]:
         d = datetime.date.fromisoformat(s["date"])
         rs = s["readings"]
-        ncase = sum(1 for x in rs if x["kind"] == "case")
+        ncase = sum(1 for x in rs if x["kind"] in ("case", "document", "note"))
         nstat = sum(1 for x in rs if x["kind"] in ("statute", "rule"))
         noth = len(rs) - ncase - nstat
         nwritten = sum(
-            1 for x in rs if x["kind"] == "case"
+            1 for x in rs if x["kind"] in ("case", "document", "note")
             and os.path.exists(os.path.join(cases_dir, x["case"] + ".md"))
         )
         vals = [s["session"], d, WEEKDAY[d.weekday()], s["title"], ncase, nstat,

@@ -1,6 +1,8 @@
 ---
 topic: Deference to directors
-sub_topic: Oversight of subordinates / honest error of judgment
+sub_topic: Common law oversight of subordinates / honest error of judgment
+authority:
+  - common law
 professor_emphasis: 2
 exam_likelihood: medium
 confidence: 1

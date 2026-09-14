@@ -26,7 +26,7 @@ touches has done nothing useful.
 ```
 <class>/
   00-source/      syllabus, readings, slides — read-only inputs, never edited
-  10-cases/       one file per case, fixed schema
+  10-cases/       one file per assigned READING — cases and documents alike
   20-sessions/    one file per class meeting, raw capture, date-named
   30-doctrine/    rule modules — the master DB
   40-professor/   instructor profile, past exams, hypo bank
@@ -73,12 +73,23 @@ Frontmatter, required on every module:
 
 ```yaml
 topic:               # string
-sub_topic:           # string
+sub_topic:           # string — lead with the governing provision where one exists
+authority:           # list — every provision this module is built on
+  - 8 Del. C. § 141(a)
 professor_emphasis:  # integer 1-3
 exam_likelihood:     # high | medium | low
 confidence:          # integer 1-5, self-rated, human-set only
 last_drilled:        # YYYY-MM-DD or null
 ```
+
+**`authority` is required on every module.** It carries the section numbers the
+module is built on, so the governing provision is visible the moment the file opens
+and is queryable across the whole vault. A module resting on no statute takes the
+single entry `common law`; that is a real answer, not a blank. `sub_topic` leads
+with the provision as well, so the pairing is visible in a file listing.
+
+Never let a section number live only in the body. Remembering which statute goes
+with which doctrine is itself exam content.
 
 This frontmatter is the study queue. Dataview reads it. If it drifts, the queue
 breaks silently.
@@ -196,6 +207,38 @@ Below a `---`. In this order:
   else.
 - **Cold-call notes** — what will be asked, what to be ready to be pushed on, and
   what is easy to get wrong under pressure. Elaborate; this section earns space.
+
+### Document readings — a lighter schema
+
+Not every assigned reading is a case. A charter, a set of bylaws, or a casebook
+note has no opinion to brief, but it is still a reading, and it gets its own file in
+`10-cases/` alongside the cases. One place per reading means the by-class-meeting
+view is complete, progress tracking covers everything assigned, and a document
+feeding two modules is not split between them.
+
+Document notes take a **light** schema, not the two-layer case schema:
+
+```yaml
+reading:        # name, matching case-index.json
+kind:           # document | note
+source:         # the file in 00-source, or where it came from
+class:          # busorg | conlaw | legalfinance
+topic:
+feeds_module:   # wikilink(s)
+read_for:       # YYYY-MM-DD
+```
+
+Body, three sections only:
+
+1. **What it is** — a few lines. Enough that a reader in December knows what the
+   document is and why it was assigned.
+2. **What to notice** — bulleted. The provisions that do work for this course, each
+   with the statutory default it varies where there is one. This is the section that
+   earns its keep; everything else in a governance document is machinery.
+3. **Where it goes** — the modules this reading feeds, as wikilinks.
+
+A reading marked `{skim}` on the syllabus gets the same treatment. Skim means
+**notice selectively**, not summarise briefly.
 
 ## 6. Session file schema — FIXED
 

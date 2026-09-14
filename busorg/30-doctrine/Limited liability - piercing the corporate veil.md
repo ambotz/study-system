@@ -1,6 +1,8 @@
 ---
 topic: Limited liability
-sub_topic: Veil piercing / enterprise entity versus dummy corporation
+sub_topic: Common law veil piercing / enterprise entity versus dummy corporation
+authority:
+  - common law
 professor_emphasis: 2
 exam_likelihood: medium
 confidence: 1

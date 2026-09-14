@@ -1,6 +1,8 @@
 ---
 topic: Corporate form
 sub_topic: Special-act charters versus the modern enabling statute
+authority:
+  - N.Y. Laws 1815, ch. CLXXIII (National Insurance Co.)
 professor_emphasis: 2
 exam_likelihood: low
 confidence: 1

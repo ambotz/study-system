@@ -45,6 +45,21 @@ GROUP BY topic
 SORT length(rows) DESC
 ```
 
+## Doctrine by statute
+
+Which provision governs which module. Built from the `authority` field, so a module
+covering two sections appears under both.
+
+```dataview
+TABLE WITHOUT ID
+  rows.file.link AS "Modules",
+  rows.topic AS "Topic"
+FROM "busorg/30-doctrine" OR "conlaw/30-doctrine"
+FLATTEN authority AS provision
+GROUP BY provision AS "Authority"
+SORT provision ASC
+```
+
 ## Cases by class meeting
 
 The date-indexed view of `10-cases`. Folders are not used for this, because a

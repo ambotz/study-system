@@ -1,6 +1,8 @@
 ---
 topic: Agency
-sub_topic: Duty of loyalty / self-dealing and disclosure
+sub_topic: Common law duty of loyalty / self-dealing and disclosure
+authority:
+  - common law
 professor_emphasis: 3
 exam_likelihood: high
 confidence: 1

@@ -1,6 +1,8 @@
 ---
 topic: Partnership
-sub_topic: Duty of loyalty / appropriation of a venture opportunity
+sub_topic: Common law duty of loyalty / appropriation of a venture opportunity
+authority:
+  - common law
 professor_emphasis: 3
 exam_likelihood: high
 confidence: 1

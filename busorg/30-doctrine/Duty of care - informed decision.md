@@ -1,6 +1,11 @@
 ---
 topic: Duty of care
-sub_topic: Informed decision / gross negligence
+sub_topic: § 141(a) informed decision / gross negligence; § 141(e) reliance
+authority:
+  - 8 Del. C. § 141(a)
+  - 8 Del. C. § 141(e)
+  - 8 Del. C. § 251(b)
+  - 8 Del. C. § 102(b)(7)
 professor_emphasis: 2
 exam_likelihood: high
 confidence: 1

@@ -1,6 +1,8 @@
 ---
 topic: 
 sub_topic: 
+authority:
+  - 
 professor_emphasis: 2
 exam_likelihood: medium
 confidence: 1

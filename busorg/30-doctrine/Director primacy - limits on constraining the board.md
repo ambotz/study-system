@@ -1,6 +1,10 @@
 ---
 topic: Director primacy
-sub_topic: Section 141(a) limits on bylaws and stockholder agreements
+sub_topic: § 141(a) limits on bylaws and stockholder agreements; § 122(18) response
+authority:
+  - 8 Del. C. § 141(a)
+  - 8 Del. C. § 141(c)
+  - 8 Del. C. § 122(18)
 professor_emphasis: 3
 exam_likelihood: high
 confidence: 1

@@ -19,10 +19,15 @@ procedure.
 Look the reading up in `<class>/99-meta/case-index.json`.
 
 - `kind: "case"` with a page range → brief it.
-- `kind: "statute"`, `"rule"`, `"document"`, or `"note"` → **stop**. These have no
-  opinion to brief. They produce a doctrine module built from the text of the
-  provision, not a case file. Say so and stop; do not produce an empty case file
-  and do not improvise a brief from background knowledge.
+- `kind: "statute"` or `"rule"` → **stop**. These have no opinion to brief. They
+  produce a doctrine module built from the text of the provision, not a case file.
+  Say so and stop; do not produce an empty case file and do not improvise a brief
+  from background knowledge.
+- `kind: "document"` or `"note"` → **not a case brief, but still a file.** A charter,
+  a set of bylaws, or a casebook note gets a **document note** in the same
+  `10-cases/` folder, on the light three-section schema in `CLAUDE.md` section 5 —
+  What it is / What to notice / Where it goes. Do not apply the two-layer case
+  schema to a document.
 - Not in the index at all → **stop and ask**. The index is generated from the
   syllabus. A reading that is missing from the index means either the syllabus
   changed or the name is wrong, and both are worth a human's attention.

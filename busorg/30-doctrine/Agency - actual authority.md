@@ -1,6 +1,8 @@
 ---
 topic: Agency
 sub_topic: Actual authority / manifestation versus intention
+authority:
+  - Restatement (Third) of Agency § 3.01
 professor_emphasis: 2
 exam_likelihood: medium
 confidence: 1

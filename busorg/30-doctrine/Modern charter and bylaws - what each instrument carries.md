@@ -1,6 +1,13 @@
 ---
 topic: Corporate form
-sub_topic: Charter and bylaws under the enabling statute
+sub_topic: §§ 102, 109, 141(a) — charter and bylaws under the enabling statute
+authority:
+  - 8 Del. C. § 102(a)(3)
+  - 8 Del. C. § 102(b)(7)
+  - 8 Del. C. § 109
+  - 8 Del. C. § 141(a)
+  - 8 Del. C. § 122(18)
+  - 8 Del. C. § 228(a)
 professor_emphasis: 3
 exam_likelihood: high
 confidence: 1

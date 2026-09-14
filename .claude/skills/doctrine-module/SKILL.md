@@ -97,12 +97,20 @@ modules and link them.
 
 ```yaml
 topic:               # string
-sub_topic:           # string
+sub_topic:           # lead with the governing provision where one exists
+authority:           # REQUIRED list of every provision the module rests on
+  - 8 Del. C. § 141(a)
 professor_emphasis:  # 1-3, first pass at creation
 exam_likelihood:     # high | medium | low, first pass at creation
 confidence: 1        # initialise to 1; never write this field again
 last_drilled:        # leave empty
 ```
+
+- **`authority` is required.** List every provision the module is built on, in full
+  citation form. A module resting on no statute takes the single entry
+  `common law`. Never leave a section number to appear only in the body — the
+  pairing of statute to doctrine is itself exam content, and it has to be visible
+  when the file opens and queryable across the vault.
 
 - `professor_emphasis` and `exam_likelihood` get a **first pass** at creation,
   from the syllabus and the professor file. After creation only
@@ -162,6 +170,7 @@ line — instruments drift, and noticing the drift is the skill.
 
 ## Before finishing, check
 
+0. `authority` present and complete, and `sub_topic` leads with the provision.
 1. All eight sections present, in order.
 2. `Professor gloss` empty — no placeholder, no comment.
 3. `confidence: 1` and `last_drilled` empty.

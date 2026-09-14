@@ -1,6 +1,9 @@
 ---
 topic: Duty of care
-sub_topic: Charter exculpation — 8 Del. C. § 102(b)(7)
+sub_topic: § 102(b)(7) charter exculpation of monetary damages
+authority:
+  - 8 Del. C. § 102(b)(7)
+  - 8 Del. C. § 174
 professor_emphasis: 3
 exam_likelihood: high
 confidence: 1

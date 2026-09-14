@@ -1,6 +1,8 @@
 ---
 topic: Business judgment rule
-sub_topic: Scope of protection / non-review of substance
+sub_topic: § 141(a) / scope of protection / non-review of substance
+authority:
+  - 8 Del. C. § 141(a)
 professor_emphasis: 3
 exam_likelihood: high
 confidence: 1
