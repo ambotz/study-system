@@ -106,8 +106,14 @@ Look the reading up in `<class>/99-meta/case-index.json`.
 - `### Reasoning` — bulleted, with the judge named in parentheses above the
   bullets where the judge is notable.
 - `### Dissent / concurrence` — bulleted main points, judge named in parentheses.
-  Give the dissent its strongest form; the dissent is usually the best available
+  Give a real dissent its strongest form; a dissent is usually the best available
   counter-argument and feeds the counterfactual drill type.
+  Where the panel was unanimous, say so in one line. Then add a **very short**
+  sketch of what could have been argued — two or three lines — and **only where
+  there is genuinely something to say**: a tension the opinion glosses over, a
+  definition doing more work than it admits. Where the opinion is simply
+  uncontroversial, one line and stop. Manufacturing an objection to fill the
+  heading is worse than leaving the heading nearly empty.
 - `### Cold-call notes` — the most elaborated section in the class layer. Cover
   what will be asked, the wrong answer that sounds right, what to be ready to be
   pushed on, and anything memorisable that shows command of the case. Specific

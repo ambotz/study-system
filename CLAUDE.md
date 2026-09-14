@@ -189,6 +189,11 @@ Below a `---`. In this order:
 - **Reasoning** — bulleted. Name the judge in parentheses where the judge is
   notable.
 - **Dissent / concurrence** — bulleted main points, judge named in parentheses.
+  Where the panel was unanimous, say so in one line and stop. Add a short sketch
+  of what could have been argued **only where there is genuinely something to
+  say** — a real tension the opinion papers over, not a manufactured objection.
+  Two or three lines at most. Most unanimous opinions get one line and nothing
+  else.
 - **Cold-call notes** — what will be asked, what to be ready to be pushed on, and
   what is easy to get wrong under pressure. Elaborate; this section earns space.
 

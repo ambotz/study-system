@@ -46,12 +46,12 @@ The trigger that does the real work. The line runs between two things that look
 similar and are not:
 
 - **Personal gain** — the director or controller stands to receive something the
-  other stockholders do not. Protection is lost, and the transaction moves toward
+  other stockholders do not. **Protection is lost**, and the transaction moves toward
   entire fairness review. See [[Sinclair Oil v. Levien]] and
   [[In re Tesla Motors (Tesla 1)]].
 - **Personal preference** — the director acts on idiosyncratic conviction,
   aesthetic judgment, or civic concern, taking nothing from the decision.
-  Protection holds. Philip Wrigley's belief that baseball belongs in daylight
+  **Protection holds**. Philip Wrigley's belief that baseball belongs in daylight
   produced no side payment, so it was preference and not conflict, even though he
   held 80% of the stock and the corporation lost money for five years.
 

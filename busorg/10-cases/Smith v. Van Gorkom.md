@@ -17,6 +17,8 @@ measure of whether directors informed themselves of all material information
 reasonably available is **gross negligence** — a test of the board's process,
 applied without any inquiry into whether the price was in fact fair.
 
+When does BJR apply? When an informed decision is made.
+
 ## Facts
 
 - The $55 price came from a feasibility run by Trans Union's controller on
