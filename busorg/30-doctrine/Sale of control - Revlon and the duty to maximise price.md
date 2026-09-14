@@ -42,8 +42,27 @@ declining to announce a sale.
    signing exclusivity.
 3. **A change of control.** Public stockholders are cashed out, or control passes
    to a controlling stockholder or group, so the stockholders permanently lose the
-   ability to obtain a control premium in a later transaction
-   ([[Paramount v. QVC]]).
+   ability to obtain a control premium in a later transaction.
+
+**The modern test is disjunctive.** [[Paramount v. QVC]] settles it: "when a
+corporation undertakes a transaction which will cause: (a) **a change in corporate
+control**; **or** (b) **a break-up** of the corporate entity, the directors' obligation
+is to seek the best value reasonably available to the stockholders." A break-up is
+**not** required, and the contrary reading of [[Paramount v. Time]] is "erroneous."
+
+**The control-premium rationale.** Control is an asset of the public stockholders that
+can be sold only once. While it sits with "the **fluid aggregation of unaffiliated
+stockholders**," every holder keeps the leverage to demand a premium in some future
+transaction; once it passes to one person or a cohesive group, "the current...
+stockholders will have **no leverage in the future** to demand another control premium."
+That is why enhanced scrutiny is "mandated by: (a) the threatened diminution of the
+current stockholders' voting power; (b) the fact that an asset belonging to public
+stockholders (a control premium) is being sold and may never be available again; and
+(c) the traditional concern of Delaware courts for actions which impair or impede
+stockholder voting rights."
+
+Test any fact pattern by asking where control sits **before and after**. Dispersed to
+dispersed is no trigger; dispersed to a single holder is.
 
 ### When the duty does not attach
 
@@ -89,6 +108,16 @@ uninformed.
   permissible only where **rationally related benefits accrue to the
   stockholders**, and is inappropriate altogether once an auction among active
   bidders is in progress.
+- **Compare the alternatives properly.** A board "is not limited to considering only the
+  amount of cash involved, and is not required to ignore totally its view of the future
+  value of a strategic alliance," but where non-cash consideration is involved it "should
+  try to **quantify its value, if feasible**, to achieve an objective comparison." It may
+  weigh fairness and feasibility, financing and its consequences, legality, risk of
+  non-consummation, the bidder's identity and background, and the bidder's plans.
+- **The obligation is continuing.** A board that reopens a signed deal must reconsider
+  the **deal protections**, not only the price. In QVC the board used a hostile bid as
+  leverage on October 24 and left the no-shop, the termination fee and the uncapped
+  option untouched, which is the failure the injunction rests on.
 
 ### Lock-ups and no-shops
 
@@ -107,6 +136,8 @@ contest on a preferred basis, can only destroy bidding.
 | | |
 |---|---|
 | Standard | Unocal enhanced scrutiny, with price as the sole legitimate objective |
+| What it examines | "(a) a judicial determination regarding the adequacy of the **decisionmaking process** employed by the directors, including the information on which the directors based their decision; and (b) a judicial examination of the **reasonableness of the directors' action** in light of the circumstances then existing" |
+| How strict | "[W]hether the directors made a **reasonable decision, not a perfect decision**." A court will not second-guess a choice among several reasonable alternatives |
 | Burden | On the **directors**, to show reasonable grounds for believing a danger existed and that the response was reasonable in relation to the threat |
 | Satisfying prong one | Good faith and reasonable investigation |
 | Prong two, post-trigger | Measures defended on any ground other than price fail |

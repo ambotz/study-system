@@ -73,6 +73,35 @@ as to limit the exercise of its fiduciary duties is **invalid and unenforceable*
 A sophisticated counterparty that negotiated for such a provision from a board
 acting in violation of its duties acquires no vested contract right in it.
 
+[[Paramount v. QVC]] states both halves. On the provisions: "whether or not they are
+presumptively valid in the abstract, [they] may not validly define or limit the
+directors' fiduciary duties under Delaware law or prevent the... directors from carrying
+out their fiduciary duties." On the counterparty: the argument "is that the... directors
+could enter into an agreement in violation of their fiduciary duties and then render
+[the company], and ultimately its stockholders, liable for failing to carry out an
+agreement in violation of those duties. [Its] protestations about vested rights are
+without merit."
+
+**The no-shop line is drawn but not located.** QVC expressly reserves whether a no-shop
+"could validly have operated here at an early stage solely to prevent [the target] from
+actively '**shopping**' the company," while holding it "could not prevent the...
+directors from carrying out their fiduciary duties in **considering unsolicited bids** or
+in negotiating for the best value reasonably available." Soliciting may be barred;
+responding may not.
+
+### Uncapped options are the particular danger
+
+An option whose value rises with the competing bid punishes exactly the outcome
+stockholders want. The Paramount option covered 19.9% at $69.14, was **not capped**, and
+could be paid for with "a senior subordinated note of questionable marketability" instead
+of $1.6 billion in cash (the Note Feature) or settled in cash for the spread (the Put
+Feature). It was worth over $200 million when QVC bid $80 and nearly $500 million at $90
+— "unusual and potentially 'draconian' provisions."
+
+A termination fee "whether or not unreasonable by itself" may still be impermissible
+"when coupled with" such an option. The measures are assessed together, not one at a
+time.
+
 Where a cohesive group holding majority voting power is irrevocably committed to
 the transaction, the board cannot abdicate to the stockholders, because the
 outcome of the vote is already a foregone conclusion. In that configuration an
