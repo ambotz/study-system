@@ -138,7 +138,8 @@ protections... let this be a parable of unnecessary peril, despite the outcome."
 ## Best counter-case
 
 [[Kahn v. M&F Worldwide]], assigned in session 15, as the common-law baseline the statute
-departs from.
+departs from; the framework itself is in
+[[Controller buyouts - the MFW dual protection structure]].
 
 The distinguishing line: **MFW required both protections, adopted from the outset, for any
 controller squeeze-out; § 144(b) requires one of three for an ordinary controller deal and
@@ -169,3 +170,7 @@ many protections are needed.
    is why session 16 still has work to do.
 7. **Skipping the definitional gateway.** If the blockholder is not a controller under
    § 144(e)(2), the transaction runs through § 144(a) instead, and the analysis is different.
+8. **Reaching for [[Cleansing by stockholder vote - Corwin and the fully informed vote|Corwin]]
+   on a controller deal.** Corwin cleanses only transactions not subject to entire fairness, so
+   a controller on both sides takes the deal out of it. The vote route here is § 144(b)(2), not
+   Corwin.
