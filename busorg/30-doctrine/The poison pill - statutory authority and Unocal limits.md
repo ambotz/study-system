@@ -111,10 +111,18 @@ policies — compounds all three, because that describes most engaged institutio
 
 What Williams leaves open matters as much as what it decides. It does **not** hold that
 anti-activist pills are per se invalid; it assumes for argument that **gap filling** (the
-§ 13(d) ten-day window lets a lightning strike go undetected, and the express-agreement
-group standard misses wolf packs) is a legitimate objective, and strikes the plan on
+§ 13(d) window lets a lightning strike go undetected, and the express-agreement group
+standard misses wolf packs) is a legitimate objective, and strikes the plan on
 proportionality instead. A narrower plan, tracking the disclosure gap rather than
 sweeping in parallel conduct, is unresolved.
+
+The gaps themselves have moved since 2021, and the argument moves with them — see
+[[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]. The SEC's 2023
+amendments cut the initial Schedule 13D deadline from ten calendar days to **five
+business days**, so the delay a gap-filling pill answers is roughly half what Williams
+described. The **wolf-pack gap survives**: § 13(d)(3) deems a group to exist only where
+persons act together "for the purpose of acquiring, holding, or disposing" of securities,
+and voting is not on that list.
 
 ### Why the pill displaced everything else
 

@@ -8,6 +8,7 @@ topic: Takeover defences
 feeds_module:
   - "[[The poison pill - statutory authority and Unocal limits]]"
   - "[[Takeover defences - Unocal enhanced scrutiny]]"
+  - "[[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]"
 read_for: 2026-11-16
 posture_drove_outcome: true
 ---
@@ -176,11 +177,19 @@ adoption of a pill in response to COVID-19," requiring "[c]ompany-specific circu
 as well as indicia of emerging or present threats." Delaware's caution has created "an
 appropriate culture of caution in the board room."
 
-Session 22 also assigns § 13 and Rule 13D and § 14 and Rule 14a-19 — the disclosure
-machinery whose gaps the Williams board said it was filling, and the universal proxy
-rule that makes a short-slate contest cheaper. The pill and the federal rules move in
-opposite directions on the same problem: how easily an activist can assemble a position
-and a slate before the board knows.
+Session 22 also assigns § 13 and Rule 13d-1 and § 14 and Rule 14a-19 — the disclosure
+machinery whose gaps the Williams board said it was filling, and the universal proxy rule
+that makes a short-slate contest cheaper. See
+[[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]. The pill and the
+federal rules move in opposite directions on the same problem: how easily an activist can
+assemble a position and a slate before the board knows.
+
+Two dates matter for reading the opinion today. Williams describes a **ten-day** § 13(d)
+window; the SEC's **2023 amendments** cut the initial Schedule 13D deadline to **five
+business days**, so the delay gap the board invoked is roughly half what it was. And
+**Rule 14a-19**, the universal proxy, took effect in 2022 — the year after this
+decision — making the short-slate campaign the board feared substantially cheaper to run.
+The **wolf-pack gap** under § 13(d)(3) is the one that survives both changes.
 
 ## Professor gloss
 

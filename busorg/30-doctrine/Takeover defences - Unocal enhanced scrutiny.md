@@ -86,7 +86,12 @@ applications:
 |---|---|
 | **Stockholder activism as a category** | Never cognisable. Activism reaches the board through the proxy fight, so treating it as a threat is "an extreme manifestation of the proscribed we-know-better justification for interfering with the franchise" |
 | **Hypothetical short-termism or distraction** | Not cognisable in the abstract — "mere euphemisms for stereotypes of stockholder activism generally." Whether a **particularised** version qualifies is expressly left open |
-| **Hypothetical rapid accumulation past 5%** (the "lightning strike" the § 13(d) ten-day window hides) | Left undecided and **assumed legitimate**; the plan failed on prong two instead. Recognising it would be "an omnipresent justification" available to every Delaware corporation |
+| **Hypothetical rapid accumulation past 5%** (the "lightning strike" the § 13(d) filing window hides) | Left undecided and **assumed legitimate**; the plan failed on prong two instead. Recognising it would be "an omnipresent justification" available to every Delaware corporation |
+
+The third threat is the one with a moving denominator: the federal window Williams
+described as ten days is now **five business days**, and the universal proxy arrived in
+2022. See [[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]] for what
+is left of the gap.
 
 Note the tension with **substantive coercion**, which *is* cognisable and which is also a
 claim that stockholders will misjudge value. The distinction Delaware draws is

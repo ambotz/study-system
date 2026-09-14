@@ -187,6 +187,21 @@ The court's footnote frames it as a choice of entity rather than a gap in privat
 imposed on other entities, if that is what the stakeholders desire." That is the bridge to
 sessions 25 and 26 — if you want member-managed governance, use an LLC.
 
+### The federal overlay
+
+State law says who may vote and how the meeting runs. Two federal rules sit on top of a
+contested election and are worth naming in any proxy-fight problem — see
+[[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]:
+
+- **Rule 13d-1** requires anyone crossing **5%** of a registered class with a control
+  purpose to file **Schedule 13D within five business days**, and freezes their voting
+  and buying until the tenth day after filing.
+- **Rule 14a-19**, the **universal proxy**, puts every nominee from both sides on every
+  card, so a holder voting by proxy can split a ticket. It applies only where someone
+  solicits for non-registrant nominees, and it **does not reach consent solicitations** —
+  which makes the § 228(a) written-consent route a way around the universal card in a
+  corporation that has not opted out.
+
 ## Professor gloss
 
 ## Common trap
