@@ -99,10 +99,25 @@ close question:
   bizarre that the DGCL would prohibit one means of accomplishing a goal while
   allowing another, that is what the doctrine of independent legal significance
   contemplates."
-- **8 Del. C. § 122(18)** — assigned immediately after Moelis, and the legislature's
-  response to it. **The text of § 122(18) is not in this vault**, so this module does
-  not state its terms. Obtain the provision and complete this entry before relying
-  on it.
+- **8 Del. C. § 122(18)** — the legislature's answer to Moelis, assigned immediately
+  after it. A corporation may, "**[n]otwithstanding § 141(a) of this title**, make
+  contracts with 1 or more current or prospective stockholders (or 1 or more
+  beneficial owners of stock), **in its or their capacity as such**," for minimum
+  consideration determined by the board, "which may include inducing stockholders or
+  beneficial owners of stock to take, or refrain from taking, 1 or more actions."
+  Two limits carry the weight:
+  - no provision is enforceable against the corporation "to the extent such contract
+    provision is **contrary to the certificate of incorporation** or would be
+    contrary to the laws of this State (other than § 115 of this title) if included
+    in the certificate of incorporation"; and
+  - the corporation is "subject to the remedies available under the law governing the
+    contract," so the stockholder's recourse is **contractual, not specific
+    performance of governance**.
+
+  The net effect: § 122(18) reverses the Moelis holding that such agreements are
+  void, while preserving the charter's supremacy over them. The charter still wins;
+  what changed is that a conflicting agreement is now unenforceable rather than
+  ultra vires.
 
 ## Leading case
 

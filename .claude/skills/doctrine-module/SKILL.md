@@ -29,8 +29,27 @@ itself. Twenty-two of the seventy BusOrg readings take this path, including
 
 For a statute module:
 
-- Read the provision from `00-source`. Quote the operative language rather than
-  paraphrasing it — a paraphrase of a statute is a different statute.
+- **Pull the text with the extractor**, never from memory:
+
+  ```
+  python3 .claude/skills/doctrine-module/scripts/extract_statute.py 141 --sub a
+  python3 .claude/skills/doctrine-module/scripts/extract_statute.py 144 --source dgcl144post
+  python3 .claude/skills/doctrine-module/scripts/extract_statute.py 23.1 --source chancery
+  python3 .claude/skills/doctrine-module/scripts/extract_statute.py 14 --source sea34
+  ```
+
+  Sources: `dgcl`, `dgcl144pre`, `dgcl144post`, `dgcl220pre`, `dgcl220post`, `sb21`,
+  `chancery`, `sea34`. `--list` prints every heading in a source.
+
+- **Quote the operative language, tightly.** A paraphrase of a statute is a
+  different statute, so never paraphrase — but never reproduce a whole subsection
+  either. Quote the phrase that does the work and summarise the scaffolding around
+  it in your own words, clearly marked as such. The exam is closed-book and
+  word-limited; a block paragraph of statutory text is dead weight on exam day and
+  will not be reproduced from memory. A quoted fragment of a dozen words that
+  decides cases is worth more than a full subsection.
+- **Where a provision opens with a cross-reference, quote it.** "Notwithstanding
+  § 141(a) of this title" is the entire significance of § 122(18).
 - `Elements` come from the structure of the provision: its subsections,
   conditions, and safe harbours.
 - `Leading case` is the case that construes the provision, if one is assigned. If
@@ -119,6 +138,18 @@ Modules are long-lived and get edited far more often than they get created.
   point of keeping these files in Obsidian.
 - **Never let a wikilink wrap across a line break.** Obsidian silently fails to
   resolve a link containing a newline.
+
+## Readings marked {skim}
+
+The syllabus marks some readings to skim. Do not summarise the document. Identify
+the provisions that **do work for this course** and say what to notice about each,
+then stop. A governance document is mostly machinery; the exam-relevant content is
+usually a handful of provisions and one or two asymmetries between them.
+
+For a charter or bylaws, read for **elections and variances**, not for content: at
+each provision ask what the statutory default is and what this document does
+instead. The gap is the fact worth recording. Vestigial or stale text is worth a
+line — instruments drift, and noticing the drift is the skill.
 
 ## Refusals
 
