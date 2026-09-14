@@ -105,6 +105,11 @@ non-controller boards rarely survive both.
   [[Disclosure settlements in deal litigation - the give and the get]].
 - **Coerced votes.** Structural coercion of the Omnicare kind, or a vote whose
   outcome was fixed before it was taken.
+- **A paradigmatic Revlon claim.** Where a conflicted fiduciary concealed his
+  machinations from the board, the board could not disclose what it did not know, so
+  the vote is not fully informed. [[In re Mindbody, Inc., Stockholder Litigation]]
+  endorses the generalisation that proving such a claim will ordinarily defeat the
+  defence — the most reliable route around Corwin on a sale-process fact pattern.
 - **Waste.** A fully informed vote cannot ratify a transaction no person of
   ordinary sound business judgment could consider fair consideration.
 - **Bad faith.** Business judgment review is a presumption, not immunity. See

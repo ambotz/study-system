@@ -4,6 +4,7 @@ sub_topic: Ct. Ch. R. 23.1 — the three-part Zuckerberg demand futility test
 authority:
   - Del. Ct. Ch. R. 23.1
   - common law (Aronson; Rales; Zuckerberg)
+  - 8 Del. C. § 220 (the tools at hand)
   - 8 Del. C. § 102(b)(7) (why prong two changed)
 professor_emphasis: 3
 exam_likelihood: high

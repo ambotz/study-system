@@ -21,7 +21,9 @@ price for the stockholders at a sale of the company."
 Revlon is not a separate standard of review. It is Unocal enhanced scrutiny
 applied where the only cognisable corporate objective left is price, so a
 defensive measure justified by anything other than price is disproportionate by
-definition.
+definition. Revlon "did not create a new fiduciary duty or change the nature of
+existing fiduciary duties" — in a sale of control, **directors and officers alike**
+must exercise the duties they already have to maximise value.
 
 ## Elements
 
@@ -53,6 +55,26 @@ declining to announce a sale.
   safety devices alone does not trigger Revlon. Rather... such devices are
   properly subject to a Unocal analysis." See
   [[Deal protection devices - Unocal review of merger lock-ups]].
+
+### What enhanced scrutiny examines
+
+Two questions, restated in [[In re Mindbody, Inc., Stockholder Litigation]]:
+
+1. the **reasonableness of the decision-making process**, including the information
+   on which the fiduciaries based the decision; and
+2. the **reasonableness of the action** in light of the circumstances then existing.
+
+### The paradigmatic claim
+
+"[A] conflicted fiduciary who is insufficiently checked by the board and who tilts
+the sale process toward his own personal interests in ways inconsistent with
+maximizing stockholder value." Proving it calls both questions above into doubt at
+once.
+
+It also generally **defeats Corwin cleansing**, because "the Board did not know
+about and could not disclose the information about the officer's machinations."
+The same concealment that establishes the breach leaves the stockholder vote
+uninformed.
 
 ### What the duty requires once attached
 

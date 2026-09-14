@@ -10,7 +10,7 @@ Usage:
   index_to_xlsx.py                 # all classes that have an index
   index_to_xlsx.py --class busorg
 """
-import argparse, datetime, json, os, sys
+import argparse, datetime, json, os, re, sys
 
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
@@ -96,7 +96,10 @@ def build(cls, ix, out):
 
             written = ""
             if rd["kind"] in ("case", "document", "note"):
-                path = os.path.join(cases_dir, rd["case"] + ".md")
+                # A case assigned twice carries a " (redux)" suffix in the index so
+                # the by-session view is complete, but there is still one file.
+                stem = re.sub(r"\s*\(redux\)$", "", rd["case"])
+                path = os.path.join(cases_dir, stem + ".md")
                 written = "yes" if os.path.exists(path) else "no"
 
             module = ""
