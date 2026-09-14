@@ -5,7 +5,7 @@ authority:
   - 8 Del. C. § 157 (rights and options respecting stock)
   - 8 Del. C. § 151(g) (blank-check preferred; certificate of designations)
   - 8 Del. C. § 141(a) (inherent authority over the business and affairs)
-  - common law (Moran; Unitrin; Carmody v. Toll Brothers; Mentor Graphics v. Quickturn; Selectica; Airgas)
+  - common law (Moran; Unitrin; Carmody v. Toll Brothers; Mentor Graphics v. Quickturn; Selectica; Airgas; Williams)
 professor_emphasis: 3
 exam_likelihood: high
 confidence: 1
@@ -77,6 +77,45 @@ are **within the power or authority of the Board**."
 - **Nobody ever triggers a pill.** Its entire function is to force a bidder to negotiate
   with the board or to run a **proxy contest** to elect directors who will redeem.
 
+### Mission creep, and the anti-activist pill
+
+The pill was built for one job and has been pointed at several others. Moran's plan
+answered the **front-end-loaded two-tier tender offer**. Then the flip-over gained a
+flip-in; triggers fell from 20% to 15% and in places to 10%; the device was repurposed to
+protect **net operating losses** (Selectica); and most recently it has been aimed at
+**stockholder activism**.
+
+[[The Williams Companies Stockholder Litigation]] is the limit on that last move, and its
+transportable holding is that the Unocal analysis does not travel unchanged with the
+device. "[T]he proportionality analysis is **tied to a pill's purpose, and with new
+purposes come new considerations**." So a defendant cannot answer a new-purpose pill by
+reciting Moran's screen — "no stockholder is precluded from launching a proxy contest" —
+because the conduct a new-purpose pill actually reaches may be the **pre-contest
+conversation** rather than the contest.
+
+Three features drove the Williams result, and they are the ones to check on any
+anti-activist plan:
+
+- **Trigger level.** 5%, against a market where only about 2% of plans go below 10% and
+  where only nine non-NOL pills have ever used 5%. Notably the court says the trigger is
+  **not** the primary offender, because a percentage cap still leaves a dollar toehold.
+- **Beneficial ownership reaching synthetic equity** — options, warrants — beyond the
+  federal § 13(d) default.
+- **"Acting in concert" reaching parallel conduct, plus a daisy chain.** This was "the
+  primary offender": plus factors as innocuous as "exchanging information, attending
+  meetings, [or] conducting discussions" sweep in routine investor-conference behaviour,
+  and the daisy chain aggregates holders who do not know each other exist.
+
+A **narrow passive-investor exemption** — excluding anyone who seeks to direct corporate
+policies — compounds all three, because that describes most engaged institutions.
+
+What Williams leaves open matters as much as what it decides. It does **not** hold that
+anti-activist pills are per se invalid; it assumes for argument that **gap filling** (the
+§ 13(d) ten-day window lets a lightning strike go undetected, and the express-agreement
+group standard misses wolf packs) is a legitimate objective, and strikes the plan on
+proportionality instead. A narrower plan, tracking the disclosure gap rather than
+sweeping in parallel conduct, is unresolved.
+
 ### Why the pill displaced everything else
 
 Moran's comparative point is the reason the device took over. A rights plan "does not
@@ -96,6 +135,7 @@ debt-financed discriminatory self-tender in [[Unocal v. Mesa Petroleum]].
 | **No no-hand or slow-hand** | A pill no newly elected board may redeem, or may not redeem for a period, is draconian, coercive and preclusive | Mentor Graphics v. Quickturn |
 | **The election route must survive** | Bidders need an avenue to the stockholders that is not prohibitively expensive; stockholders need a mechanism to reverse the defence | Unitrin; Airgas |
 | **Pill plus staggered board is NOT preclusive** | Making control "more difficult" is not making it "realistically unattainable"; delay is not prevention | Versata v. Selectica |
+| **The threat must be real, not hypothetical** | A clear-day pill aimed at activism as a category, or at abstract "short-termism," fails prong one; a 5% trigger plus a parallel-conduct acting-in-concert provision fails prong two | [[The Williams Companies Stockholder Litigation]] |
 
 The principle behind the dead-hand line is that "a pill that binds directors forever
 cannot be valid." That is what keeps "just say **never**" unlawful while leaving "just
@@ -175,6 +215,19 @@ The limits held even so. The court insists "this case does not endorse 'just say
 directors still owe duties to short-term as well as long-term holders; and pills cannot
 have set expiration dates precisely because the annual meeting supplies the real one.
 
+**The other pole is [[The Williams Companies Stockholder Litigation]]**, and the pair is
+the cleanest way to state where the line sits. Airgas: identified bidder, identified
+price, sixteen months of deliberation, a bidder's own nominees inside the boardroom —
+pill maintained. Williams: no bidder, no price, no specific activist, a pill adopted at an
+"urgent" meeting as the stock fell — pill enjoined. The variable is not the board's
+sincerity, which was intact in both. It is whether the threat was **particular**.
+
+Williams also shows that a board can win the *process* half of prong one and still lose.
+Nearly all independent outside directors, two meetings, outside legal and financial
+advisors, genuine deliberation — "nothing about the process jumps out as unreasonable."
+"The real problem is not the process that Defendants followed, but the threats they
+identified."
+
 ## Professor gloss
 
 ## Common trap
@@ -202,3 +255,14 @@ have set expiration dates precisely because the annual meeting supplies the real
 9. **Ignoring the charter.** Section 157(a) is subject to the certificate of incorporation,
    and § 151(g) requires blank-check authority expressly vested there. No authorised
    preferred, no pill of this design.
+10. **Carrying Moran's prong-two screen to a new-purpose pill.** "[W]ith new purposes come
+    new considerations." Against an anti-activist plan, "a proxy contest is still
+    possible" is not an answer, because the plan may reach the communications that precede
+    a contest.
+11. **Reading the board's own resolution as the threat.** Williams found the resolution,
+    the press release and the proxy supplement all recited takeover deterrence, and all
+    were false. The articulated rationale is a **finding of fact** drawn from testimony and
+    contemporaneous email.
+12. **Overclaiming Williams.** It does not hold anti-activist pills invalid, and it does
+    not decide whether gap filling or particularised short-termism is a cognisable threat.
+    It assumes the former and strikes on proportionality.

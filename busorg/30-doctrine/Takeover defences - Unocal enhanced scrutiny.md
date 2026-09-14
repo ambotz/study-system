@@ -2,7 +2,7 @@
 topic: Takeover defences
 sub_topic: Common law Unocal — § 141(a) power, § 160(a) authority, and the two-prong proportionality test
 authority:
-  - common law (Cheff; Unocal; Moran; Unitrin; Paramount v. Time; Airgas)
+  - common law (Cheff; Unocal; Moran; Unitrin; Paramount v. Time; Airgas; Williams)
   - 8 Del. C. § 141(a) (management of the business and affairs)
   - 8 Del. C. § 160(a) (authority to deal in the corporation's own stock)
   - 8 Del. C. § 144(d)(6)(b) (post-SB 21, savings clause preserving injunctive review of change-of-control devices)
@@ -46,6 +46,17 @@ investigation**."
   finding of a threat" ([[Air Products v. Airgas]]).
 - The threat that counts is the one **the board actually discussed**, not the ones
   litigation counsel assembles later.
+- **And that is a finding of fact, not a reading of the resolution.** In
+  [[The Williams Companies Stockholder Litigation]] the board resolution, the press
+  release and the proxy supplement all recited takeover deterrence; the court found from
+  testimony and contemporaneous email that the real objective was insulation from
+  activists, and judged the board on that. "They cannot justify their conduct based on
+  threats that they never identified or beliefs they did not hold."
+- **Process and threat are separate halves, and a board can win one and lose the other.**
+  Williams found nearly all independent outside directors, two meetings, outside counsel
+  and bankers on hand, and "nothing about the process jumps out as unreasonable" — then
+  struck the measure, because "[t]he real problem is not the process that Defendants
+  followed, but the threats they identified."
 
 **Unocal's list of cognisable concerns**: "inadequacy of the price offered, nature and
 timing of the offer, questions of illegality, the impact on 'constituencies' other than
@@ -61,6 +72,28 @@ stake, including those of short term speculators."
 | **Structural coercion** | A two-tier, front-end-loaded offer that stampedes holders into tendering at the first tier out of fear of the back end | [[Unocal v. Mesa Petroleum]] | An all-cash, all-shares offer with an equal back end in the same currency |
 | **Opportunity loss** | A time-based threat that the offer forecloses a better alternative the board is pursuing | [[Paramount v. Time]] | Months have passed with no alternative on the table |
 | **Substantive coercion** | The risk that stockholders will **disbelieve the board's view of long-term value** and tender into an underpriced offer "in ignorance or a mistaken belief" | [[Paramount v. Time]], applied in [[Air Products v. Airgas]] | Rarely — this is the catch-all, and inadequate price alone now qualifies |
+
+### What is NOT a cognisable threat
+
+A threat that reduces to "the stockholders will get it wrong" is not a threat. Directors
+"cannot justify their actions by arguing that 'without their intervention, the
+stockholders would vote erroneously out of ignorance or mistaken belief'"; "[t]he notion
+that directors know better than the stockholders about who should be on the board is no
+justification at all." [[The Williams Companies Stockholder Litigation]] supplies three
+applications:
+
+| Asserted threat | Status |
+|---|---|
+| **Stockholder activism as a category** | Never cognisable. Activism reaches the board through the proxy fight, so treating it as a threat is "an extreme manifestation of the proscribed we-know-better justification for interfering with the franchise" |
+| **Hypothetical short-termism or distraction** | Not cognisable in the abstract — "mere euphemisms for stereotypes of stockholder activism generally." Whether a **particularised** version qualifies is expressly left open |
+| **Hypothetical rapid accumulation past 5%** (the "lightning strike" the § 13(d) ten-day window hides) | Left undecided and **assumed legitimate**; the plan failed on prong two instead. Recognising it would be "an omnipresent justification" available to every Delaware corporation |
+
+Note the tension with **substantive coercion**, which *is* cognisable and which is also a
+claim that stockholders will misjudge value. The distinction Delaware draws is
+**franchise versus tender offer**: a board may tell holders they are wrong about price
+and keep a pill up (Airgas); it may not tell them they are wrong about who should sit on
+the board. Williams collapses the distinction in the activism context by observing that
+activism operates *through* the vote.
 
 **Inadequate value is not the only cognisable threat.** Time expressly "disapprove[s]"
 of the narrower construction and rejects the Chancery decisions holding that an all-cash
@@ -88,6 +121,21 @@ Post-Unitrin, prong two runs in **two steps, in this order**:
      unattainable." **Delay, even significant delay, is not preclusion.**
 2. **Range of reasonableness.** "[T]he 'specific nature of the threat [] sets the
    parameters for the range of permissible defensive tactics' at any given time."
+
+Where coercion and preclusion are not alleged, step two does the whole job, and Williams
+shows how it is argued: **comparatively**, against market practice (only about 2% of pills
+trigger below 10%; of twenty-one pills adopted in the first weeks of COVID, only Williams'
+used 5%, and thirteen of those twenty-one companies faced live campaigns), and
+**intrinsically**, by what the operative definitions actually reach. A measure can be an
+outlier on both tracks at once.
+
+Two further Williams points travel to any defensive-measure problem. First, the range is
+**purpose-relative** — "the proportionality analysis is tied to a pill's purpose, and with
+new purposes come new considerations" — so a screen calibrated to one objective does not
+answer a measure adopted for another. Second, **effects short of blocking the formal
+mechanism count**: a plan that leaves a proxy contest technically available may still be
+disproportionate if it chills the private soundings by which holders "take the
+temperature" of each other before launching one.
 
 "[T]he obvious requisite to determining the reasonableness of a defensive action is a
 **clear identification of the nature of the threat**," requiring "an evaluation of the
@@ -229,3 +277,13 @@ absolute.
 9. **Missing that Revlon displaces the second prong's content.** Once the company is being
    sold, price is the only legitimate objective, so a defence justified by strategy or
    culture fails automatically.
+10. **Treating good process as satisfying prong one.** It satisfies only half of it. The
+    board must *also* articulate a legitimate threat, and Williams is the case where an
+    unimpeachable process produced an illegitimate one.
+11. **Accepting the board's papered rationale.** The articulated threat is a factual
+    finding. Resolutions, press releases and proxy supplements can all be wrong.
+12. **Letting "the stockholders might choose badly" count as a threat.** In the franchise
+    context it never does, whether dressed as activism, short-termism or distraction.
+13. **Assuming a hypothetical threat is enough.** Cheff's disruption concern was attached
+    to an identified buyer; Williams' was an abstraction. "Specific, immediate" is the
+    phrase to reach for.

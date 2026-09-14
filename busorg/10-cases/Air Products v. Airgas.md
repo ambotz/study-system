@@ -201,6 +201,14 @@ offers, weakly protected under Unocal, and the stockholder franchise, robustly p
 under Blasius, "appears to have collapsed" in **Coster v. UIP Companies**, assigned in
 session 21, which folds Blasius into a Unocal-shaped inquiry. Chunk K picks that up.
 
+Airgas is also half of a pair. It is the high-water mark for the pill against a real
+bidder; [[The Williams Companies Stockholder Litigation]], assigned in session 22, is
+where a pill dies on a clear day against nobody. Read them together and the variable is
+not board sincerity — intact in both — but whether the threat was **particular**. Williams
+also answers a question Airgas leaves hanging: whether Moran's coercive/preclusive screen
+is the whole of prong two. It is not, once the pill is adopted for a purpose Moran never
+contemplated.
+
 ## Professor gloss
 
 ---
