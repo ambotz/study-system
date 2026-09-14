@@ -37,7 +37,7 @@ SORT exam_likelihood ASC
 
 ```dataview
 TABLE WITHOUT ID
-  topic AS "Topic",
+  key AS "Topic",
   length(rows) AS "Modules",
   min(rows.confidence) AS "Weakest"
 FROM "busorg/30-doctrine" OR "conlaw/30-doctrine"
@@ -52,12 +52,12 @@ covering two sections appears under both.
 
 ```dataview
 TABLE WITHOUT ID
-  rows.file.link AS "Modules",
-  rows.topic AS "Topic"
+  key AS "Authority",
+  rows.file.link AS "Modules"
 FROM "busorg/30-doctrine" OR "conlaw/30-doctrine"
 FLATTEN authority AS provision
-GROUP BY provision AS "Authority"
-SORT provision ASC
+GROUP BY provision
+SORT key ASC
 ```
 
 ## Cases by class meeting
@@ -69,10 +69,11 @@ file, and regroups by topic or professor emphasis just as easily.
 
 ```dataview
 TABLE WITHOUT ID
-  rows.file.link AS "Cases"
+  key AS "Class meeting",
+  rows.file.link AS "Readings"
 FROM "busorg/10-cases" OR "conlaw/10-cases"
-GROUP BY read_for AS "Class meeting"
-SORT read_for ASC
+GROUP BY read_for
+SORT key ASC
 ```
 
 ## Cases not yet feeding a module

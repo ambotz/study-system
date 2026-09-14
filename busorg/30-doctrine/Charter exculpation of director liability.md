@@ -7,7 +7,7 @@ authority:
 professor_emphasis: 3
 exam_likelihood: high
 confidence: 1
-last_drilled: 
+last_drilled:
 ---
 
 ## Rule statement
