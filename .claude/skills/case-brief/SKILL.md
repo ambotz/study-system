@@ -50,7 +50,14 @@ Look the reading up in `<class>/99-meta/case-index.json`.
 
 4. **Write the file** to `<class>/10-cases/<Case Name>.md`, using the case name
    exactly as `case-index.json` spells it, so wikilinks from doctrine modules
-   resolve. Follow the section order below exactly.
+   resolve.
+
+   **A case name must never end in a period.** "Moelis & Co." becomes a file named
+   `...Co.md`, whose note name is `...Co` without the period, so every wikilink
+   written with the period fails to resolve — silently, like every other wikilink
+   failure. If the syllabus name ends in a period or is unwieldy, shorten it to a
+   filesystem-safe canonical form, **update `case-index.json` to match**, and use
+   that form everywhere. Avoid `/` and `:` for the same reason. Follow the section order below exactly.
 
 5. **Fill `feeds_module`** with a wikilink to the doctrine module this case
    supports. If no such module exists yet, say which module needs creating rather

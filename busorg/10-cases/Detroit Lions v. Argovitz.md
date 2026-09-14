@@ -90,7 +90,7 @@ the resulting deal is no defence.
 ## Context
 
 Paired with [[In re Motors Liquidation]] to split agency into its two halves.
-Motors Liquidation asks what an agent may **do** on the principal's behalf;
+Motors Liquidation asks what an agent may **do** on the principal's behalf (whatever he is authorized to do);
 Argovitz asks what an agent **owes** while doing it. The casebook's framing is
 that the duty of loyalty is the foremost fiduciary duty and that business law does
 not forbid acting under a conflict — it demands a higher standard of conduct and
