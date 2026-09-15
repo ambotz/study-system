@@ -61,6 +61,25 @@ anything, and the argument for regulation stops depending on protecting claimant
   explain, so it absorbs every unmodelled factor. [[Social inflation]].
 - **Combined ratios are not a claims measure.** A ratio above 100 can reflect soft pricing,
   reserve strengthening for prior accident years, or reinsurance structure.
+- **The same model that predicts more spending also predicts less.**
+  [[Antill and Grenadier - Financing the Litigation Arms Race]] find that a funded plaintiff
+  spends more and resists longer (deadweight loss up), **and** that a defendant facing a
+  credibly capitalised plaintiff gets a lower marginal return on its own defensive spending,
+  so it escalates less. The net effect on total surplus is **ambiguous** in a peer-reviewed
+  finance journal by authors with no stake in the market. The deterrence channel has never
+  been tested and predicts the opposite of what the defence bar asserts: defendants facing
+  funded plaintiffs should spend **less** on defence.
+- **The claim-generation channel is rebutted by the only large dataset that exists.**
+  [[Avraham and Sebok - Empirical Investigation of Third Party Consumer Litigant Funding]]:
+  funders rejected just over half of 191,144 applications, and applications arrived a median
+  **308 days after injury** — "clients decide to file lawsuits for reasons that have nothing
+  to do with funding." This bites on the consumer market, not on the firm-level lending
+  [[Parikh - Opaque Capital and Mass-Tort Financing]] describes; see
+  [[Non-meritorious claims and claim aggregation]].
+- **The market is too small to carry the claim alone.** About **39 active commercial
+  funders**, 12–15 driving most deal flow, **$16.1bn** AUM and **$2.8bn** of new commitments.
+  Whatever is driving trucking verdicts from $2.3m to $22.3m, an industry of that size is not
+  the whole of it.
 - **Enforcement rising is not a cost — it may be the system working.**
   [[Bedi and Marra - The Shadows of Litigation Finance]] turn the argument around: if
   capital lets meritorious claims be brought that were previously priced out, more claims

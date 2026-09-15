@@ -79,6 +79,17 @@ control rights*, and *funders cannot take control rights*.
   fight over a funder's role in settlement, ending with Sysco assigning its antitrust claims
   to a Burford affiliate. Read [[Burford - Legal Finance 101]]'s control language against
   what happened there. [[Frankel - Sysco and Burford]].
+- **Parikh supplies two documented instances and a structural reason.**
+  [[Parikh - Opaque Capital and Mass-Tort Financing]] reports Capital-Provision Agreements
+  with **individual** claimants carrying settlement vetoes and restrictions on changing
+  counsel, citing *Boling v. Prospect Funding Holdings*, and describes Sysco as "rendered
+  helpless" by a settlement veto. His structural point is sharper than either anecdote: in
+  mass tort financing the money goes to the **firm**, so the claimant is not a party to the
+  agreement that constrains their case and has no one owing them a duty as to it.
+- **Two industries, one word.** Burford underwrites single commercial claims at a $3m floor
+  with a passive posture; the capital Parikh describes lends against a firm's book and takes
+  veto rights over individual settlements. Both descriptions can be accurate, and most of the
+  disagreement in the literature is people describing different products.
 - **The remedy question is separate from the fact question.** Steinitz does not propose
   banning control; she proposes **fiduciary duties** on funders "to act in the best
   interests of the funded client" — which would restructure the economics rather than the
@@ -86,7 +97,14 @@ control rights*, and *funders cannot take control rights*.
 
 ## Where the law is now
 
-- **No US statute** regulates funder control of commercial litigation.
+- **No US statute** regulates funder control of **commercial** litigation.
+- **Consumer funding in New York is now regulated by statute.**
+  [[New York Consumer Litigation Funding Act]] provides that the funder "shall have no role
+  in deciding whether, when and how much" the claim settles for, that the attorney retains
+  independent professional judgment, and that the company may not "interfere." It also bans
+  colluding with lawyers to induce a client to terminate counsel. So for consumer funding in
+  New York the question is answered by legislation rather than by contract or by a funder's
+  self-description.
 - **Professional conduct rules bind the lawyer, not the funder.** ABA Model Rules 5.4 and
   1.2; NYC Bar Formal Opinion 2018-5 addresses the related fee-interest question. Class 4.
 - **Disclosure rules reach it indirectly.** D.N.J. L. Civ. R. 7.1.1 (June 2021) requires

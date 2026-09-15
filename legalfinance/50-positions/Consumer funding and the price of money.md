@@ -80,9 +80,31 @@ though the doctrinal question remains open.
   all.** Everything turns on it and nobody has it. The productive version of this argument
   is: what loss rate would make 39% a year a fair price, and is there any reason to think
   the actual rate is that high on cases a contingency-fee lawyer has already accepted?
-- **Avraham and Sebok** (Class 2) is the only empirical study of the consumer market on this
-  syllabus, and **Skiba and Xiao** (Class 3) is the payday-lending comparison done
-  seriously. Do not settle this file before reading them; the Class 1 material only frames
+- **The Class 2 and 3 readings largely answer this, and the answer is that there are three
+  prices, not one.**
+  [[Avraham and Sebok - Empirical Investigation of Third Party Consumer Litigant Funding]],
+  on 191,144 applications: advertised rate a median **3.2% monthly** (38% simple annual);
+  **embedded contractual rate a median 115%** over the funding period once monthly
+  compounding (88% of cases), interest buckets, minimum interest periods and processing fees
+  averaging 12.5% are counted; **realised return a median 50%**, roughly **43% annualised**,
+  after defaults and haircuts. Which number is "the price" decides whether a cap is a modest
+  protection or a prohibition.
+- **The contract is routinely not enforced as written.** More than half of funded consumers
+  pay less than the amount due: roughly 10% default entirely, 49% take haircuts, 34% pay in
+  full, 5% overpay. The industry reads this as proof the real price is moderate. The harder
+  reading is that the written price is a fiction and the actual price is set by the funder's
+  discretion after the fact, which a consumer cannot shop on.
+- **Pricing is relational, not posted.** Firms with 1,000+ funded cases got posted rates of
+  **2.5% against 3.4%** and fees of **5% against 10%**. The plaintiff never negotiates, and
+  their price depends on which firm they walked into.
+- **The payday analogy half holds, tested by a payday-lending empiricist.**
+  [[Skiba and Xiao - Consumer Litigation Funding as Payday Lending]]: prices are comparable
+  in magnitude (payday 260–520% APR, CLF 200%+) and borrowers look alike (68% against 51%
+  spending on living expenses), but the **non-recourse feature removes the debt trap**, which
+  is the principal justification for payday rate caps. Funding "cannot cause borrowers to
+  fall into a debt cycle directly."
+- **So the argument for capping has to be rebuilt on other ground** — the valuation problem,
+  unconscionability, or the funder's discretion over haircuts. Nobody on the syllabus rebuilds
   it.
 - **Swiss Re and Steinitz agree on the diagnosis and differ on the instrument** — rate caps
   and APR disclosure versus a minimum guaranteed share for the claimant. That is a real
@@ -98,9 +120,20 @@ though the doctrinal question remains open.
   - **Maine** and **Nebraska** — registration with the state plus contract disclosure of the
     total amount the consumer must repay.
   - **West Virginia** — 18% cap (Swiss Re, p. 24).
-  - **New York** — the Consumer Litigation Funding Act, 2025 N.Y. Laws ch. 645
-    (S.1104-A/A.804-C) as amended by S.8808, is the newest and most detailed regime.
-    Class 3. [[New York Consumer Litigation Funding Act]].
+  - **New York** — [[New York Consumer Litigation Funding Act]], 2025 N.Y. Laws ch. 645
+    (S.1104-A/A.804-C) as amended by S.8808. Signed **December 19, 2025**, effective 180 days
+    later and prospective only. The most complete regime in the country, and it adopts several
+    instruments at once rather than choosing: registration with the Department of State;
+    charges capped at **25% of gross proceeds** *and* at the military-credit APR ceiling under
+    10 U.S.C. § 987(b); prescribed disclosure in 12-point bold; a **ten-business-day
+    rescission** right; no prepayment penalties; bans on referral fees to attorneys and medical
+    providers; an **attorney acknowledgment** without which the contract is **void**; and AG
+    enforcement with forfeiture of principal and charges plus $5,000 per violation.
+  - **New York is now a natural experiment.** It enacted both of Skiba and Xiao's
+    recommendations — a plain repayment amount and date, and attorney acknowledgment — *and*
+    the characteristic restriction they said would "hurt low-income borrowers and be easily
+    evaded." Avraham and Sebok's decade of data is the pre-period baseline. Whether supply
+    contracts after mid-2026 is observable.
 - **Common law:** where champerty survives, it reaches consumer advances directly.
   [[Maslowski v. Prospect Funding Partners]] (Minn. 2020) abolished the doctrine in
   Minnesota; [[Fast Trak Investment Co v. Sax]] (9th Cir. 2020) is the usury framing.
