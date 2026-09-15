@@ -11,12 +11,14 @@
             "id": "56fbd848c65948dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf"
+                "file": "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026)"
+              "icon": "lucide-file",
+              "title": "Bedi and Marra - The Shadows of Litigation Finance"
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
+                "file": "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
+                "file": "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
+                "file": "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,6 +190,7 @@
   },
   "active": "56fbd848c65948dd",
   "lastOpenFiles": [
+    "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
     "10-readings/Bedi and Marra - The Shadows of Litigation Finance.md",
     "10-readings/09 - AI and the future of firm economics",
     "10-readings/08 - Disclosure and the regulatory landscape",
@@ -203,7 +206,6 @@
     "10-readings/01 - Rationale and economics/Burford - Legal Finance 101.md",
     "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
     "10-readings/01 - Rationale and economics",
-    "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
     "50-positions/Litigation funding and liability costs.md",
     "50-positions/Funder control over the case.md",
     "50-positions/Disclosure of funding agreements.md",
