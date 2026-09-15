@@ -36,7 +36,12 @@ touches has done nothing useful.
 ```
 
 Classes: `busorg/` (Buccola), `conlaw/` (Baude), `legalfinance/` (Kelley).
-Legal Finance is deliberately deferred — scaffolded, not populated.
+
+**Legal Finance overrides this contract.** It is a seminar with no exam, three
+graded deliverables, and readings that are articles and bills rather than cases,
+so it renames three folders, adds a fourth, and replaces the doctrine-module and
+case-file schemas. The override lives at `legalfinance/CLAUDE.md` and governs
+inside that folder; this file governs everywhere it is silent.
 
 Repo-wide utilities that no single skill owns live in `.claude/scripts/`. A
 script that is one skill's deterministic sub-step lives in that skill's own
@@ -322,6 +327,9 @@ decision that was the human's to make. Ask.
   `claude/`-prefixed branches).
 - Whether Harvey gives clean-enough Delaware corporate authority to shortcut the
   BusOrg case layer — test on three cases before designing around it.
-- Legal Finance's exam-day tool (Exam4 kills the network; local Ollama was the
-  sketch). Out of scope until the seminar's needs are clearer.
+- Legal Finance's exam-day tool. **The premise is gone** — the Autumn 2026
+  syllabus says there is no final exam in the seminar, so nothing in that class
+  needs an offline tool. Whether the Exam4/local-Ollama sketch is still wanted
+  for the classes that *do* have closed-book exams is a separate question and
+  still Ashwin's to answer.
 - Per-skill prompts. The charter is the spec, not the implementation.

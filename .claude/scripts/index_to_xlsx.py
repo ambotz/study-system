@@ -6,6 +6,17 @@ regenerate. The workbook carries no formulas: every column is either a fact from
 the syllabus or a fact about the filesystem, so there is nothing for a
 spreadsheet to compute.
 
+Two index shapes are supported, selected by the index's "style" key:
+
+  "pages"  (default)  readings live in a source PDF and are cited by page range.
+                      Columns show printed pages, PDF pages, and the per-source
+                      offset. This is BusOrg and Con Law.
+  "links"             readings live on the open web, on Canvas, or on paper.
+                      Columns show the speaker's interest, whether the reading
+                      is retrievable at all, and the link. This is Legal Finance.
+
+The notes directory is "10-cases" unless the index sets "readings_dir".
+
 Usage:
   index_to_xlsx.py                 # all classes that have an index
   index_to_xlsx.py --class busorg
@@ -35,7 +46,38 @@ KIND_LABEL = {
     "rule": "Rule",
     "document": "Document",
     "note": "Note",
+    "article": "Article",
+    "report": "Report",
+    "testimony": "Testimony",
+    "bill": "Bill",
+    "ethics_opinion": "Ethics op.",
+    "news": "News",
+    "podcast": "Podcast",
+    "model_doc": "Model doc",
+    "case_study": "Case study",
 }
+SPEAKER_LABEL = {
+    "funder": "Funder",
+    "claimholder": "Claimholder",
+    "law_firm": "Law firm",
+    "defense_bar": "Defence bar",
+    "insurer": "Insurer",
+    "academic": "Academic",
+    "government": "Government",
+    "regulator": "Regulator",
+    "press": "Press",
+    "neutral": "Neutral",
+}
+ACCESS_LABEL = {
+    "open": "Open",
+    "paywalled": "Paywalled",
+    "canvas": "Canvas only",
+    "handout": "Handout",
+}
+# Readings an agent cannot retrieve on its own.
+BLOCKED_ACCESS = ("canvas", "handout")
+# In "pages" style, these kinds are the ones that get their own note file.
+PAGES_FILE_KINDS = ("case", "document", "note")
 WEEKDAY = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
 
@@ -52,7 +94,29 @@ def header_row(ws, row, labels):
     ws.row_dimensions[row].height = 28
 
 
+def note_stem(rd):
+    """The filename stem for a reading's note.
+
+    A case assigned twice carries a " (redux)" suffix in the index so the
+    by-session view is complete, but there is still one file. Link-style indexes
+    give a short "file" stem because the reading name is a full citation.
+    """
+    return re.sub(r"\s*\(redux\)$", "", rd.get("file") or rd["case"])
+
+
+def has_note(readings_dir, rd):
+    return os.path.exists(os.path.join(readings_dir, note_stem(rd) + ".md"))
+
+
+def expects_note(style, rd):
+    if style == "links":
+        return rd.get("access") not in BLOCKED_ACCESS
+    return rd["kind"] in PAGES_FILE_KINDS
+
+
 def build(cls, ix, out):
+    style = ix.get("style", "pages")
+    readings_dir = os.path.join(VAULT, cls, ix.get("readings_dir", "10-cases"))
     wb = Workbook()
 
     # ---------- Readings ----------
@@ -61,23 +125,32 @@ def build(cls, ix, out):
     ws["A1"] = f"{cls} — {ix.get('professor', '')}, {ix.get('term', '')}"
     ws["A1"].font = TITLE
     exam = ix.get("exam", {})
-    ws["A2"] = f"Exam: {exam.get('date','')} {exam.get('time','')} — {exam.get('format','')}"
+    if exam.get("date") in (None, "", "none"):
+        ws["A2"] = f"Assessment: {exam.get('format', 'see syllabus')}"
+    else:
+        ws["A2"] = f"Exam: {exam.get('date','')} {exam.get('time','')} — {exam.get('format','')}"
     ws["A2"].font = BODY_DIM
-    ws["A3"] = f"Generated {datetime.date.today().isoformat()} from 99-meta/case-index.json. Do not edit; regenerate."
+    ws["A3"] = (f"Generated {datetime.date.today().isoformat()} from "
+                f"99-meta/case-index.json. Do not edit; regenerate.")
     ws["A3"].font = BODY_DIM
 
-    cols = ["Session", "Date", "Day", "Session title", "Reading", "Kind",
-            "Source", "Printed pp.", "PDF pp.", "Brief written", "Feeds module"]
+    if style == "links":
+        cols = ["Session", "Date", "Day", "Session title", "Grp", "Reading",
+                "Kind", "Speaks for", "Access", "Note written", "Link"]
+        widths = [8, 12, 6, 34, 5, 54, 11, 13, 12, 13, 46]
+    else:
+        cols = ["Session", "Date", "Day", "Session title", "Reading", "Kind",
+                "Source", "Printed pp.", "PDF pp.", "Brief written", "Feeds module"]
+        widths = [8, 12, 6, 34, 46, 11, 9, 12, 12, 13, 15]
     header_row(ws, 5, cols)
     ws.freeze_panes = "A6"
 
-    cases_dir = os.path.join(VAULT, cls, "10-cases")
     r = 6
     for s in ix["sessions"]:
         d = datetime.date.fromisoformat(s["date"])
         if not s["readings"]:
             vals = [s["session"], d, WEEKDAY[d.weekday()], s["title"],
-                    "— no assigned reading —", "", "", "", "", "", ""]
+                    "— no assigned reading —"] + [""] * (len(cols) - 5)
             for i, v in enumerate(vals, start=1):
                 c = ws.cell(row=r, column=i, value=v)
                 c.font = BODY_DIM
@@ -87,41 +160,55 @@ def build(cls, ix, out):
             continue
 
         for j, rd in enumerate(s["readings"]):
-            src = ix["sources"].get(rd.get("source"), {})
-            off = src.get("offset")
-            printed = pdf = ""
-            if "start" in rd:
-                printed = f"{rd['start']}–{rd['end']}"
-                pdf = f"{rd['start'] + off}–{rd['end'] + off}"
-
-            written = ""
-            if rd["kind"] in ("case", "document", "note"):
-                # A case assigned twice carries a " (redux)" suffix in the index so
-                # the by-session view is complete, but there is still one file.
-                stem = re.sub(r"\s*\(redux\)$", "", rd["case"])
-                path = os.path.join(cases_dir, stem + ".md")
-                written = "yes" if os.path.exists(path) else "no"
-
-            module = ""
-            if rd["kind"] in ("statute", "rule"):
-                module = "doctrine module"
-            elif rd["kind"] in ("document", "note"):
-                module = "document note"
-
-            vals = [
+            lead = [
                 s["session"] if j == 0 else "",
                 d if j == 0 else "",
                 WEEKDAY[d.weekday()] if j == 0 else "",
                 s["title"] if j == 0 else "",
-                rd["case"],
-                KIND_LABEL.get(rd["kind"], rd["kind"]),
-                rd.get("source", "").upper() or rd.get("note", ""),
-                printed, pdf, written, module,
             ]
+
+            if expects_note(style, rd):
+                written = "yes" if has_note(readings_dir, rd) else "no"
+            else:
+                written = "blocked" if style == "links" else ""
+
+            if style == "links":
+                vals = lead + [
+                    rd.get("group", ""),
+                    rd["case"],
+                    KIND_LABEL.get(rd["kind"], rd["kind"]),
+                    SPEAKER_LABEL.get(rd.get("speaker", ""), ""),
+                    ACCESS_LABEL.get(rd.get("access", ""), rd.get("access", "")),
+                    written,
+                    rd.get("url") or rd.get("note", ""),
+                ]
+                emphasised = rd["kind"] not in ("news",)
+                wrap_cols = (4, 6, 11)
+            else:
+                src = ix["sources"].get(rd.get("source"), {})
+                off = src.get("offset")
+                printed = pdf = ""
+                if "start" in rd:
+                    printed = f"{rd['start']}–{rd['end']}"
+                    pdf = f"{rd['start'] + off}–{rd['end'] + off}"
+                module = ""
+                if rd["kind"] in ("statute", "rule"):
+                    module = "doctrine module"
+                elif rd["kind"] in ("document", "note"):
+                    module = "document note"
+                vals = lead + [
+                    rd["case"],
+                    KIND_LABEL.get(rd["kind"], rd["kind"]),
+                    rd.get("source", "").upper() or rd.get("note", ""),
+                    printed, pdf, written, module,
+                ]
+                emphasised = rd["kind"] == "case"
+                wrap_cols = (4, 5)
+
             for i, v in enumerate(vals, start=1):
                 c = ws.cell(row=r, column=i, value=v)
-                c.font = BODY if rd["kind"] == "case" else BODY_DIM
-                c.alignment = Alignment(vertical="top", wrap_text=(i in (4, 5)))
+                c.font = BODY if emphasised else BODY_DIM
+                c.alignment = Alignment(vertical="top", wrap_text=(i in wrap_cols))
                 if s["session"] % 2 == 0:
                     c.fill = BAND
                 if j == len(s["readings"]) - 1:
@@ -131,29 +218,37 @@ def build(cls, ix, out):
             r += 1
 
     ws.auto_filter.ref = f"A5:{get_column_letter(len(cols))}{r - 1}"
-    autosize(ws, [8, 12, 6, 34, 46, 11, 9, 12, 12, 13, 15])
+    autosize(ws, widths)
 
     # ---------- Sessions ----------
     ws2 = wb.create_sheet("Sessions")
     ws2["A1"] = f"{cls} — session summary"
     ws2["A1"].font = TITLE
-    cols2 = ["Session", "Date", "Day", "Title", "Readings", "Statutes & rules",
-             "Other", "Notes written"]
+    if style == "links":
+        cols2 = ["Session", "Date", "Day", "Title", "Readings", "Retrievable",
+                 "Blocked", "Notes written"]
+        widths2 = [8, 12, 6, 44, 9, 12, 9, 14]
+    else:
+        cols2 = ["Session", "Date", "Day", "Title", "Readings", "Statutes & rules",
+                 "Other", "Notes written"]
+        widths2 = [8, 12, 6, 38, 8, 16, 8, 14]
     header_row(ws2, 3, cols2)
     ws2.freeze_panes = "A4"
     r = 4
     for s in ix["sessions"]:
         d = datetime.date.fromisoformat(s["date"])
         rs = s["readings"]
-        ncase = sum(1 for x in rs if x["kind"] in ("case", "document", "note"))
-        nstat = sum(1 for x in rs if x["kind"] in ("statute", "rule"))
-        noth = len(rs) - ncase - nstat
-        nwritten = sum(
-            1 for x in rs if x["kind"] in ("case", "document", "note")
-            and os.path.exists(os.path.join(cases_dir, x["case"] + ".md"))
-        )
-        vals = [s["session"], d, WEEKDAY[d.weekday()], s["title"], ncase, nstat,
-                noth, f"{nwritten} / {ncase}" if ncase else ""]
+        expected = [x for x in rs if expects_note(style, x)]
+        nwritten = sum(1 for x in expected if has_note(readings_dir, x))
+        if style == "links":
+            # Readings | Retrievable | Blocked
+            mid = [len(rs), len(expected), len(rs) - len(expected)]
+        else:
+            # Readings (briefable) | Statutes & rules | Other
+            nstat = sum(1 for x in rs if x["kind"] in ("statute", "rule"))
+            mid = [len(expected), nstat, len(rs) - len(expected) - nstat]
+        vals = [s["session"], d, WEEKDAY[d.weekday()], s["title"]] + mid + [
+            f"{nwritten} / {len(expected)}" if expected else ""]
         for i, v in enumerate(vals, start=1):
             c = ws2.cell(row=r, column=i, value=v)
             c.font = BODY
@@ -161,24 +256,49 @@ def build(cls, ix, out):
             c.border = EDGE
         ws2.cell(row=r, column=2).number_format = "yyyy-mm-dd"
         r += 1
-    autosize(ws2, [8, 12, 6, 38, 8, 16, 8, 14])
+    autosize(ws2, widths2)
 
-    # ---------- Sources ----------
-    ws3 = wb.create_sheet("Sources")
-    ws3["A1"] = "Source PDFs and page mapping"
-    ws3["A1"].font = TITLE
-    ws3["A2"] = ("Printed page is what the syllabus cites. PDF page is what a reader "
-                 "opens. The offset is a fixed property of each scan.")
-    ws3["A2"].font = BODY_DIM
-    header_row(ws3, 4, ["Key", "Source", "File", "PDF page = printed page +"])
-    r = 5
-    for key, src in ix["sources"].items():
-        for i, v in enumerate([key.upper(), src["label"], src["file"], src["offset"]], start=1):
-            c = ws3.cell(row=r, column=i, value=v)
-            c.font = BODY
-            c.border = EDGE
-        r += 1
-    autosize(ws3, [8, 46, 52, 26])
+    # ---------- Assignments (only where the index carries them) ----------
+    if ix.get("assignments"):
+        ws4 = wb.create_sheet("Assignments")
+        ws4["A1"] = f"{cls} — graded deliverables"
+        ws4["A1"].font = TITLE
+        ws4["A2"] = ix.get("exam", {}).get("format", "")
+        ws4["A2"].font = BODY_DIM
+        header_row(ws4, 4, ["#", "Due", "Day", "Deliverable", "Detail", "Weight"])
+        ws4.freeze_panes = "A5"
+        r = 5
+        today = datetime.date.today()
+        for a in ix["assignments"]:
+            d = datetime.date.fromisoformat(a["due"])
+            vals = [a["n"], d, WEEKDAY[d.weekday()], a["title"],
+                    a.get("detail", ""), a.get("weight", "")]
+            for i, v in enumerate(vals, start=1):
+                c = ws4.cell(row=r, column=i, value=v)
+                c.font = BODY if d >= today else BODY_DIM
+                c.alignment = Alignment(vertical="top", wrap_text=(i in (4, 5)))
+                c.border = EDGE
+            ws4.cell(row=r, column=2).number_format = "yyyy-mm-dd"
+            r += 1
+        autosize(ws4, [5, 12, 6, 44, 60, 30])
+
+    # ---------- Sources (only where readings sit in paginated PDFs) ----------
+    if ix.get("sources"):
+        ws3 = wb.create_sheet("Sources")
+        ws3["A1"] = "Source PDFs and page mapping"
+        ws3["A1"].font = TITLE
+        ws3["A2"] = ("Printed page is what the syllabus cites. PDF page is what a reader "
+                     "opens. The offset is a fixed property of each scan.")
+        ws3["A2"].font = BODY_DIM
+        header_row(ws3, 4, ["Key", "Source", "File", "PDF page = printed page +"])
+        r = 5
+        for key, src in ix["sources"].items():
+            for i, v in enumerate([key.upper(), src["label"], src["file"], src["offset"]], start=1):
+                c = ws3.cell(row=r, column=i, value=v)
+                c.font = BODY
+                c.border = EDGE
+            r += 1
+        autosize(ws3, [8, 46, 52, 26])
 
     wb.save(out)
     return out
@@ -201,6 +321,21 @@ def main():
         out = os.path.join(VAULT, cls, "99-meta", "case-index.xlsx")
         build(cls, ix, out)
         print("wrote", os.path.relpath(out, VAULT))
+
+        style = ix.get("style", "pages")
+        rdir = os.path.join(VAULT, cls, ix.get("readings_dir", "10-cases"))
+        exp = [x for s in ix["sessions"] for x in s["readings"] if expects_note(style, x)]
+        blocked = [x for s in ix["sessions"] for x in s["readings"]
+                   if not expects_note(style, x)] if style == "links" else []
+        done = [x for x in exp if has_note(rdir, x)]
+        print(f"  readings with files: {len(done)} / {len(exp)}")
+        for x in exp:
+            if not has_note(rdir, x):
+                print(f"   MISSING  {note_stem(x)}")
+        if blocked:
+            print(f"  not retrievable by agent ({len(blocked)}):")
+            for x in blocked:
+                print(f"   {x.get('access','?'):8} {note_stem(x)}")
         made += 1
     if not made:
         sys.exit("No case-index.json found in any class folder.")

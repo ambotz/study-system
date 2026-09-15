@@ -10,6 +10,9 @@ Three failure modes, all of which Obsidian fails at silently:
   3. A note name ending in a period, which collides with the .md extension.
 
 Exit code 1 on a hard failure (1 or 3). Forward references never fail the check.
+
+CLAUDE.md files are skipped. They are format law, and their schema examples carry
+placeholder wikilinks that are not meant to resolve to anything.
 """
 import os, re, sys, glob
 
@@ -17,7 +20,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 VAULT = os.path.abspath(os.path.join(HERE, "..", ".."))
 
 md = [f for f in glob.glob(os.path.join(VAULT, "**", "*.md"), recursive=True)
-      if "/99-templates/" not in f and "/.claude/" not in f]
+      if "/99-templates/" not in f and "/.claude/" not in f
+      and os.path.basename(f) != "CLAUDE.md"]
 notes = {os.path.splitext(os.path.basename(f))[0] for f in md}
 
 multiline, trailing, links = [], [], {}
