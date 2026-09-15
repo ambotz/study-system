@@ -104,7 +104,17 @@ def note_stem(rd):
 
 
 def has_note(readings_dir, rd):
-    return os.path.exists(os.path.join(readings_dir, note_stem(rd) + ".md"))
+    """True if the reading has a note anywhere under the readings directory.
+
+    Legal Finance files its readings in one subfolder per class meeting, so a
+    direct join is not enough. Note names are unique vault-wide (Obsidian
+    wikilinks require it), so a recursive search cannot pick the wrong file.
+    """
+    target = note_stem(rd) + ".md"
+    for root, _dirs, files in os.walk(readings_dir):
+        if target in files:
+            return True
+    return False
 
 
 def expects_note(style, rd):
