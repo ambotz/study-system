@@ -70,8 +70,8 @@
           "kind": "article",
           "speaker": "academic",
           "access": "open",
-          "url": "https://bit.ly/3C7RVSS",
-          "note": "Marra is the same William Marra assigned in Class 9 as a Burford author — check his affiliation at the time of writing before treating this as disinterested scholarship."
+          "url": "https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=4739&context=vlr",
+          "note": "Syllabus link is bit.ly/3C7RVSS. Co-author Marra was Investment Manager at Validity Finance, a commercial funder, per the first-page author footnote; he appears again in Class 9 writing on funding."
         },
         {
           "case": "Swiss Re Institute, US litigation funding and social inflation: the rising costs of legal liability (Dec. 2021)",
@@ -79,7 +79,8 @@
           "kind": "report",
           "speaker": "defense_side",
           "access": "open",
-          "url": "https://bit.ly/3vspYkJ"
+          "url": "https://www.swissre.com/dam/jcr:7435a896-5f4b-463b-a1e6-7d4ec17db556/swiss-re-institute-expertise-publication-us-litigation-funding-and-social-inflation-december2021.pdf",
+          "note": "Syllabus link is bit.ly/3vspYkJ."
         },
         {
           "case": "Steinitz, Written Testimony Before the House Committee on Oversight and Accountability (Sept. 13, 2023)",
@@ -95,7 +96,8 @@
           "kind": "report",
           "speaker": "government",
           "access": "open",
-          "url": "https://www.gao.gov/products/gao-23-105210"
+          "url": "https://www.gao.gov/assets/gao-23-105210.pdf",
+          "note": "Full report PDF; the syllabus links the product page."
         },
         {
           "case": "Burford Capital, Legal Finance 101",
@@ -103,7 +105,8 @@
           "kind": "report",
           "speaker": "funder",
           "access": "open",
-          "url": "https://www.burfordcapital.com/insights-news-events/insights-research/legal-finance-101/"
+          "url": "https://www.burfordcapital.com/media/qouakrx1/2024-intro-to-legal-finance.pdf",
+          "note": "Syllabus link is the gated landing page; this is the 2024 guide PDF itself."
         }
       ]
     },
