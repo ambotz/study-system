@@ -4,8 +4,6 @@ topic:
 kind: 
 class: legalfinance
 sessions: 
-professor_emphasis: 
-confidence: 1
 ---
 
 ## What it is
@@ -27,5 +25,3 @@ confidence: 1
 ## Where it shows up
 
 - 
-
-## Professor gloss

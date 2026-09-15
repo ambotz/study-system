@@ -19,26 +19,10 @@ access:
 
 - 
 
-## Argument
-
-- 
-
-## Evidence
-
-- 
-
 ## Who is speaking
-
-## Where it goes
-
-- 
 
 ## Seminar hooks
 
 - 
-- 
-- 
-
-## Citable detail
 
 ## In seminar

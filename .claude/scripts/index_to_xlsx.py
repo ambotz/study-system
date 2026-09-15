@@ -59,14 +59,13 @@ KIND_LABEL = {
 SPEAKER_LABEL = {
     "funder": "Funder",
     "claimholder": "Claimholder",
-    "law_firm": "Law firm",
-    "defense_bar": "Defence bar",
-    "insurer": "Insurer",
+    "defense_side": "Defence side",
+    "practitioner": "Practitioner",
     "academic": "Academic",
     "government": "Government",
-    "regulator": "Regulator",
     "press": "Press",
-    "neutral": "Neutral",
+    # Blank means nobody is advocating — a court opinion, a model document.
+    "": "",
 }
 ACCESS_LABEL = {
     "open": "Open",

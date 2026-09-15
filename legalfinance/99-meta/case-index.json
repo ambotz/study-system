@@ -70,13 +70,14 @@
           "kind": "article",
           "speaker": "academic",
           "access": "open",
-          "url": "https://bit.ly/3C7RVSS"
+          "url": "https://bit.ly/3C7RVSS",
+          "note": "Marra is the same William Marra assigned in Class 9 as a Burford author — check his affiliation at the time of writing before treating this as disinterested scholarship."
         },
         {
           "case": "Swiss Re Institute, US litigation funding and social inflation: the rising costs of legal liability (Dec. 2021)",
           "file": "Swiss Re - US litigation funding and social inflation",
           "kind": "report",
-          "speaker": "insurer",
+          "speaker": "defense_side",
           "access": "open",
           "url": "https://bit.ly/3vspYkJ"
         },
@@ -195,7 +196,7 @@
           "case": "New York Consumer Litigation Funding Act, 2025 N.Y. Laws ch. 645 (S.1104-A/A.804-C), as amended by S.8808",
           "file": "New York Consumer Litigation Funding Act",
           "kind": "statute",
-          "speaker": "regulator",
+          "speaker": "government",
           "access": "open",
           "url": "https://www.nysenate.gov/legislation/bills/2025/S1104/amendment/A"
         }
@@ -210,7 +211,7 @@
           "case": "Lord Neuberger, From Barretry, Maintenance and Champerty to Litigation Funding (Harbour Litigation Funding Lecture, May 8, 2013)",
           "file": "Neuberger - From Barretry Maintenance and Champerty to Litigation Funding",
           "kind": "article",
-          "speaker": "neutral",
+          "speaker": "",
           "group": "A",
           "access": "open",
           "url": "https://ukhumanrightsblog.com/wp-content/uploads/2013/05/lord-neuberger-harbour-litigation-lecture-8-may-2013.pdf"
@@ -219,7 +220,7 @@
           "case": "Maslowski v. Prospect Funding Partners LLC, 944 N.W.2d 235 (Minn. 2020)",
           "file": "Maslowski v. Prospect Funding Partners",
           "kind": "case",
-          "speaker": "neutral",
+          "speaker": "",
           "group": "A",
           "access": "open",
           "url": ""
@@ -228,7 +229,7 @@
           "case": "Fast Trak Inv. Co. v. Sax, 962 F.3d 455, 465 (9th Cir. 2020)",
           "file": "Fast Trak Investment Co v. Sax",
           "kind": "case",
-          "speaker": "neutral",
+          "speaker": "",
           "group": "A",
           "access": "open",
           "url": ""
@@ -237,7 +238,7 @@
           "case": "NYC Bar Formal Opinion 2018-5: Litigation Funders' Contingent Interest in Legal Fees (with ABA Model Rules 1.8(e) and 5.4)",
           "file": "NYC Bar Formal Opinion 2018-5",
           "kind": "ethics_opinion",
-          "speaker": "regulator",
+          "speaker": "government",
           "group": "B",
           "access": "open",
           "url": "https://bit.ly/3D0fhen"
@@ -262,7 +263,7 @@
           "case": "Term sheets for commercial plaintiff financing and for financing of a mass tort law firm",
           "file": "Term sheet - commercial plaintiff financing",
           "kind": "model_doc",
-          "speaker": "neutral",
+          "speaker": "",
           "access": "handout",
           "url": "",
           "note": "Handed out during Class 1."
@@ -271,7 +272,7 @@
           "case": "Model draft funding agreements for plaintiff commercial financing and for a mass tort law firm",
           "file": "Model funding agreement - plaintiff commercial financing",
           "kind": "model_doc",
-          "speaker": "neutral",
+          "speaker": "",
           "access": "handout",
           "url": "",
           "note": "Handed out during Class 3."
@@ -288,7 +289,7 @@
           "case": "Tackling Predatory Litigation Funding Act, S. 1821, 119th Cong. (2025)",
           "file": "Tackling Predatory Litigation Funding Act - S 1821",
           "kind": "bill",
-          "speaker": "regulator",
+          "speaker": "government",
           "access": "open",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/1821"
         },
@@ -296,7 +297,7 @@
           "case": "Sidley Austin, U.S. Senate Draft of the Reconciliation Bill Introduces New Punitive Excise Tax Regime for Litigation Financing (June 2025)",
           "file": "Sidley - Punitive excise tax regime for litigation financing",
           "kind": "article",
-          "speaker": "law_firm",
+          "speaker": "practitioner",
           "access": "open",
           "url": "https://www.sidley.com/en/insights/newsupdates/2025/06/us-senate-draft-of-the-reconciliation-bill-introduces-new-punitive-excise-tax-regime"
         }
@@ -327,7 +328,7 @@
           "case": "Model participation agreement for a syndicated litigation finance loan",
           "file": "Model participation agreement - syndicated litigation finance loan",
           "kind": "model_doc",
-          "speaker": "neutral",
+          "speaker": "",
           "access": "handout",
           "url": "",
           "note": "Distributed during Class 5."
@@ -344,7 +345,7 @@
           "case": "Norton Rose Fulbright, Securitization Insight Ep. 24: Litigation Funding: An Emerging Asset Class (Aug. 8, 2022)",
           "file": "Norton Rose Fulbright - Litigation funding as an emerging asset class",
           "kind": "podcast",
-          "speaker": "law_firm",
+          "speaker": "practitioner",
           "access": "open",
           "url": "https://www.nortonrosefulbright.com/en-us/knowledge/podcasts/securitization-podcast/2022/20220808---episode-24"
         }
@@ -375,7 +376,7 @@
           "case": "Holland & Knight, Why Lawyers and Law Firms Should Pay Attention to MSO Partnerships (Oct. 2025)",
           "file": "Holland and Knight - Why law firms should pay attention to MSO partnerships",
           "kind": "article",
-          "speaker": "law_firm",
+          "speaker": "practitioner",
           "access": "open",
           "url": "https://www.hklaw.com/en/insights/publications/2025/10/why-lawyers-and-law-firms-should-be-paying-attention"
         },
@@ -383,7 +384,7 @@
           "case": "Texas Committee on Professional Ethics, Opinion No. 706 (Feb. 2025) (fee arrangements with nonlawyer-owned MSOs)",
           "file": "Texas Ethics Opinion 706",
           "kind": "ethics_opinion",
-          "speaker": "regulator",
+          "speaker": "government",
           "access": "canvas",
           "url": ""
         },
@@ -391,7 +392,7 @@
           "case": "Hunton, Understanding Law Firm MSOs: A High-Level Overview for Investors and Firms (2026)",
           "file": "Hunton - Understanding law firm MSOs",
           "kind": "article",
-          "speaker": "law_firm",
+          "speaker": "practitioner",
           "access": "open",
           "url": "https://www.hunton.com/insights/legal/understanding-law-firm-msos-a-high-level-overview-for-investors-and-firms"
         }
@@ -414,7 +415,7 @@
           "case": "N.J. Local Civil Rule 7.1.1",
           "file": "New Jersey Local Civil Rule 7.1.1",
           "kind": "rule",
-          "speaker": "regulator",
+          "speaker": "government",
           "access": "open",
           "url": "https://www.njd.uscourts.gov/sites/njd/files/CompleteLocalRules.pdf"
         },
@@ -422,7 +423,7 @@
           "case": "In re Nimitz Techs. LLC, 2022 WL 17494845 (Fed. Cir. Dec. 8, 2022)",
           "file": "In re Nimitz Technologies",
           "kind": "case",
-          "speaker": "neutral",
+          "speaker": "",
           "access": "open",
           "url": "https://casetext.com/case/in-re-nimitz-techs"
         },
@@ -430,7 +431,7 @@
           "case": "Lawyers for Civil Justice & U.S. Chamber Institute for Legal Reform, A Revised Proposal: Amend Rule 26(a)(1)(A) on TPLF Disclosure (Mar. 10, 2026)",
           "file": "LCJ and ILR - Proposal to amend Rule 26 on TPLF disclosure",
           "kind": "report",
-          "speaker": "defense_bar",
+          "speaker": "defense_side",
           "access": "open",
           "url": "https://www.uscourts.gov/sites/default/files/document/26-cv-8_suggestion_from_lcj_ilr_-_rule_26.pdf"
         },
@@ -438,7 +439,7 @@
           "case": "Litigation Funding Transparency Act of 2026, S. 3826, 119th Cong.",
           "file": "Litigation Funding Transparency Act - S 3826",
           "kind": "bill",
-          "speaker": "regulator",
+          "speaker": "government",
           "access": "open",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3826/text"
         },
@@ -446,7 +447,7 @@
           "case": "Survey of state legislation on litigation finance disclosure and regulation (GA, KS, LA, MT, OK, NY, 2025-2026)",
           "file": "Survey of state litigation finance legislation",
           "kind": "report",
-          "speaker": "neutral",
+          "speaker": "",
           "access": "handout",
           "url": "",
           "note": "Handed out during Class 6."
@@ -486,7 +487,7 @@
           "case": "Furlong, The Identity Opportunity for Lawyers",
           "file": "Furlong - The Identity Opportunity for Lawyers",
           "kind": "article",
-          "speaker": "neutral",
+          "speaker": "press",
           "access": "open",
           "url": "https://jordanfurlong.substack.com/p/the-identity-opportunity-for-lawyers"
         },
@@ -494,7 +495,7 @@
           "case": "Thomson Reuters Institute & Georgetown Law, 2026 Report on the State of the US Legal Market (technology and AI findings)",
           "file": "Thomson Reuters and Georgetown - 2026 State of the US Legal Market",
           "kind": "report",
-          "speaker": "neutral",
+          "speaker": "",
           "access": "canvas",
           "url": ""
         }
