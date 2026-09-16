@@ -48,6 +48,17 @@ the claimants who gain access are the ones the access argument is about.
   is **$3m in financing against roughly $30m of expected damages**. Commercial funding is
   unavailable to any individual and to most small businesses. Defending it on access
   grounds describes a different product than the one being sold.
+- **Neuberger identified the same gap in 2013 and nothing has closed it.** CFAs, DBAs and
+  third-party funding "cannot do the business where the claim is small," and for those claimants
+  his answer was "quick and rough justice" rather than capital.
+- **Class 9 supplies the first proposed answer, and it is technological rather than legal.**
+  [[Marra - AI and the Future of Litigation Funding]] argues the binding constraint was never
+  claim size but **diligence cost per matter**, which is roughly fixed — and that machine
+  learning relaxes it, letting funders "profitably finance smaller cases previously overlooked
+  due to review costs." Qanlex already writes **$100,000 to $3m** per case using AI screening,
+  an order of magnitude below the incumbent floor. If that generalises, the access argument
+  stops being a category error; if it does not, the gap is permanent.
+  [[Can AI price legal claims]].
 - **Where it does reach individuals, the price is the problem.** Consumer advances of
   $1,000–$10,000 at 15% to 18% of the amount funded applied every six months are access on
   terms that consume the recovery. [[Consumer funding and the price of money]].

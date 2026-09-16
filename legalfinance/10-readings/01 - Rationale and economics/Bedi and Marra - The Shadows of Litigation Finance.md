@@ -84,8 +84,9 @@ That does not make the article wrong, and the pre-claim framework stands or fall
 own logic. It does mean the piece is not disinterested scholarship in a student-edited law
 review; it is a well-built argument for a conclusion that is worth money to one author's
 employer. Marra appears again on this syllabus in Class 9, writing on litigation funding
-for a trade publication — check his affiliation at that date, because it is a useful
-marker of how the industry's people move.
+for Bloomberg Law — by then at **Certum Group**, another litigation risk and funding company.
+Validity, then Certum: a career inside the industry, arguing across a decade that policymakers
+should encourage it, with the affiliation disclosed in footnotes.
 
 ## Where it goes
 
