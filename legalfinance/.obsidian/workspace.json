@@ -11,14 +11,12 @@
             "id": "56fbd848c65948dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
-                "mode": "source",
-                "source": false
+                "file": "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Bedi and Marra - The Shadows of Litigation Finance"
+              "icon": "lucide-file-text",
+              "title": "Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026)"
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
+                "file": "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
+                "file": "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
+                "file": "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +188,14 @@
   },
   "active": "56fbd848c65948dd",
   "lastOpenFiles": [
+    "50-positions/Foreign funding and national security.md",
+    "30-concepts/Work product and privilege in litigation funding.md",
+    "10-readings/08 - Disclosure and the regulatory landscape/Litigation Funding Transparency Act - S 3826.md",
+    "10-readings/08 - Disclosure and the regulatory landscape/LCJ and ILR - Proposal to amend Rule 26 on TPLF disclosure.md",
+    "10-readings/08 - Disclosure and the regulatory landscape/In re Nimitz Technologies.md",
+    "10-readings/08 - Disclosure and the regulatory landscape/New Jersey Local Civil Rule 7.1.1.md",
+    "10-readings/08 - Disclosure and the regulatory landscape/Steinitz - Follow the Money.md",
+    "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
     "50-positions/Litigation finance as an asset class.md",
     "30-concepts/Law firm MSOs.md",
     "30-concepts/Syndication, secondaries and securitisation.md",
@@ -203,19 +209,11 @@
     "10-readings/06 - Insurance, syndications, secondaries, securitisation/Broughton - The Niche Insurance Policy Behind a Big Legal Payout.md",
     "10-readings/06 - Insurance, syndications, secondaries, securitisation/Slingshot Capital - Secondary investing in litigation finance.md",
     "10-readings/01 - Rationale and economics/Burford - Legal Finance 101.md",
-    "10-readings/01 - Rationale and economics/Bedi and Marra - The Shadows of Litigation Finance.md",
     "50-positions/Funders and legal fees.md",
     "50-positions/Fiduciary duties for funders.md",
     "50-positions/Policing funding agreements.md",
     "30-concepts/The litigation-investment agreement.md",
     "30-concepts/Tax treatment of litigation funding.md",
-    "30-concepts/Fee sharing and Rule 5.4.md",
-    "30-concepts/Usury and recharacterisation.md",
-    "30-concepts/Champerty and maintenance.md",
-    "10-readings/05 - Structuring, economics and tax/Sidley - Punitive excise tax regime for litigation financing.md",
-    "10-readings/05 - Structuring, economics and tax/Tackling Predatory Litigation Funding Act - S 1821.md",
-    "10-readings/05 - Structuring, economics and tax/Sebok and Wendel - Duty in the Litigation-Investment Agreement.md",
-    "10-readings/04 - Champerty, usury and legal ethics/Frankel - Sysco and Burford.md",
     "00-source/Legal Finance Seminar (LAWS 53571-01) Syllabus (Autumn 2026).pdf",
     "10-readings/09 - AI and the future of firm economics",
     "10-readings/08 - Disclosure and the regulatory landscape",
