@@ -14,6 +14,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!caution] Source check — The 4th ed. mislabels the Territories Clause as "Art. I, § 3" (p. 724); it is Art. IV, § 3. The 7–2 vote is inferred, as the excerpt gives no count.
+
 ## Rule
 
 Now repudiated: no person of African descent whose ancestors were enslaved could be a "citizen" of the United States or of a State under Article III, and Congress could not exclude slavery from a federal territory because the Fifth Amendment's Due Process Clause protected slaveholders' property there. What survives is the case's lesson about judicial power: the Court reached out, after holding that it had no jurisdiction, to void an act of Congress on the most divisive question of the age, and the political branches, the country, and finally Article V (the Thirteenth and Fourteenth Amendments) answered it.

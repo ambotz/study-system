@@ -10,6 +10,8 @@ feeds_module:
 read_for: null
 ---
 
+> [!caution] Source check — Identification (S. Rep. No. 75-711, 1937) is presumed from the syllabus's "Senate Report." Quotations come from reproductions, and the committee and floor vote counts are from a secondary source. Confirm against Canvas.
+
 ## What it is
 
 The Senate Judiciary Committee's adverse report on President Franklin Roosevelt's 1937 bill to reorganize the federal judiciary (S. 1392), Reorganization of the Federal Judiciary, S. Rep. No. 75-711 (1937), reporting the bill back "with the recommendation that it do not pass." The identification is presumed from the syllabus entry "(canvas) Senate Report" and should be confirmed against the Canvas packet, which may excerpt the report. Roosevelt announced the plan on February 5, 1937, after the Court had struck down much of the early New Deal: for each Justice over 70 who did not retire, the President could appoint an additional Justice, up to six, for a Court of as many as fifteen. The Senate then had 76 Democrats out of 96, and the committee had a Democratic majority, yet it voted 10–8 to report the bill adversely; on July 22, 1937, the Senate recommitted the bill, 70–20. The quotations below are from the report as reproduced by Teaching American History and are pending a check against the printed report.

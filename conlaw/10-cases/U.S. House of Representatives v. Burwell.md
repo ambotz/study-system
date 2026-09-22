@@ -13,6 +13,8 @@ read_for: null
 posture_drove_outcome: true
 ---
 
+> [!caution] Source check — The casebook excerpts the 2015 standing opinion (130 F. Supp. 3d 53), not the 2016 merits opinion; the merits ruling appears only in the casebook's notes.
+
 ## Rule
 
 The House of Representatives, as an institution, has Article III standing to sue executive officers for spending money Congress never appropriated, because an Appropriations Clause violation strips the House of its constitutional role. It has no standing to sue over the executive's allegedly unlawful implementation of a statute, even when framed as usurpation of legislative power.

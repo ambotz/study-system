@@ -13,6 +13,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!caution] Source check — Built from the Court's opinion, but only its first ~30 pages were retrievable. Sotomayor's dissent and most of Gorsuch's concurrence are described only as the majority characterizes them. Check against the Canvas version.
+
 ## Rule
 
 An officer who exercises executive power must be removable by the President at will, whether the agency has one head or five, so the FTC Act's for-cause protection is unconstitutional. [[Humphrey's Executor v. United States|Humphrey's Executor]] survives, at most, as the "observation" that an agency exercising "no part of the executive power" falls outside the rule; "[i]f anything more is left of Humphrey's, we overrule it."

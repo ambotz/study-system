@@ -12,6 +12,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!caution] Source check — Now overruled by Trump v. Slaughter (June 29, 2026), which is after the casebook; see that brief.
+
 ## Rule
 
 [[Myers v. United States|Myers]]'s illimitable removal power "is confined to purely executive officers," so Congress may protect members of a "quasi legislative" and "quasi judicial" body like the FTC against removal except for cause. No longer good law: [[Seila Law LLC v. Consumer Financial Protection Bureau|Seila Law]] (2020) confined it, and [[Trump v. Slaughter]] (2026) overruled what remained.

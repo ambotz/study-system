@@ -14,6 +14,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!caution] Source check — Built from the U.S. Reports text; a few passages rest on a single retrieval without an exact-match check. Check against the Canvas version.
+
 ## Rule
 
 The President has a constitutionally based privilege for confidential communications, and those communications are "presumptively privileged," but the privilege is qualified: "[t]he generalized assertion of privilege must yield to the demonstrated, specific need for evidence in a pending criminal trial." The courts, not the President, decide the privilege's scope, and a dispute between the President and a Special Prosecutor protected by a binding regulation is justiciable.

@@ -13,6 +13,8 @@ read_for: null
 posture_drove_outcome: true
 ---
 
+> [!caution] Source check — The casebook's excerpt cuts the disposition line; "the motion failed" paraphrases it.
+
 ## Rule
 
 A citizen and member of the Supreme Court bar has no standing to challenge a Justice's appointment: a private individual must show "a direct injury," actual or imminent, and "a general interest common to all members of the public" is not enough. Otherwise nothing new: an application of [[Massachusetts v. Mellon; Frothingham v. Mellon|Massachusetts v. Mellon]] and [[Fairchild v. Hughes]] to the most prominent constitutional question of 1937.

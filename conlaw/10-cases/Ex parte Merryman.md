@@ -14,6 +14,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!caution] Source check — The casebook cites the case as "D. Md." and says Taney ruled "from the bench," while Bates calls it "a judge, at chambers." The standard citation (C.C.D. Md.) is used here.
+
 ## Rule
 
 Chief Justice Taney, sitting alone, held that only Congress may suspend the privilege of the writ of habeas corpus, so a President cannot suspend it himself or delegate that discretion to a military officer. The case is taught less for that ruling than for what followed: the President did not comply, and Taney conceded that his power had been "resisted by a force too strong for me to overcome," which poses the question whether the executive must obey a specific judicial judgment.

@@ -15,6 +15,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!caution] Source check — Majority and syllabus are from the opinion. Quotations from the separate opinions (Sotomayor, Barrett, Thomas, Jackson) come from published reproductions, not the slip opinion. Check against the Canvas version.
+
 ## Rule
 
 A former President has "absolute immunity from criminal prosecution for actions within his conclusive and preclusive constitutional authority," "at least presumptive immunity from prosecution for all his official acts," and "no immunity for unofficial acts." Jackson's Youngstown category of "conclusive and preclusive" power, which Congress cannot regulate, becomes a zone that criminal law cannot reach either.

@@ -11,6 +11,8 @@ feeds_module:
 read_for: null
 ---
 
+> [!caution] Source check — Canvas contents unknown. Built from senate.gov, the Federal Judicial Center and Hinds' Precedents. The article-by-article Senate vote tallies are from a secondary source and unverified.
+
 ## What it is
 
 The only impeachment of a Supreme Court Justice. The Jeffersonian House impeached Associate Justice Samuel Chase, "an ardent Federalist supporter" known for "open partisanship both on and off the bench" (Federal Judicial Center), on March 12, 1804 (73–32), adopted eight articles in December 1804, and tried him before the Senate with Vice President Aaron Burr presiding; on March 1, 1805, "the Senate acquitted Chase when none of the eight articles of impeachment secured the votes of two-thirds." The Canvas packet's exact contents are not yet known; this note is built from the articles as printed in Hinds' Precedents (vol. 3, ch. 72), the U.S. Senate's historical account (senate.gov), and the Federal Judicial Center's history, and should be reconciled against the Canvas version. It is assigned as the first of Class 15's three congressional checks on the Court, with [[Ex parte McCardle]] (jurisdiction) and the [[Senate Report on Court Packing]] (size).

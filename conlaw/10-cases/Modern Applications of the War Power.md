@@ -11,6 +11,8 @@ feeds_module:
 read_for: null
 ---
 
+> [!caution] Source check — The 4th ed. stops in early 2021. The 5th ed. may update this section; the post-2021 events here were added from verified sources.
+
 ## What it is
 
 The casebook's last war-initiation materials (pp. 322–325): the text of the Authorization for Use of Military Force of September 18, 2001 (Pub. L. No. 107–40) with two notes, and a note titled "The War Powers Debate Continues: Syria and Soleimani," covering the Office of Legal Counsel's opinion on the April 2018 Syria airstrikes, the January 2020 Soleimani strike and the vetoed Iran resolution, and President Biden's February 2021 Syria strike. The 4th edition stops in early 2021; the syllabus cites the 5th edition, which may carry this note forward.

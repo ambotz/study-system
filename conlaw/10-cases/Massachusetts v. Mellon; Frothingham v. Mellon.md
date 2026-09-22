@@ -14,6 +14,8 @@ read_for: null
 posture_drove_outcome: true
 ---
 
+> [!caution] Source check — The casebook text garbles the opinion's last sentence; only the clean fragment is quoted.
+
 ## Rule
 
 Neither a State nor a federal taxpayer can challenge a federal spending statute merely by alleging that Congress exceeded its powers. A State suing for itself needs an actual or threatened injury to proprietary, territorial or quasi-sovereign rights, not "abstract questions of political power"; a State cannot sue as parens patriae to protect its citizens from federal law; and a federal taxpayer's interest is too "minute and indeterminable" to support suit. The Court reviews acts of Congress only when a party shows "some direct injury suffered or threatened."

@@ -13,6 +13,8 @@ read_for: null
 posture_drove_outcome: true
 ---
 
+> [!caution] Source check — Opinion quoted in short verbatim excerpts; the full text was not retrievable in one piece. Check against the Canvas version.
+
 ## Rule
 
 Congress may withdraw the Supreme Court's appellate jurisdiction over a class of cases under the Exceptions Clause of Art. III, § 2, even while a case in that class is pending and has been argued, and the Court will not inquire into Congress's motive; the withdrawal reached only the statutory route it repealed, so other routes to the Court (the 1789 Act, original habeas) survived.

@@ -14,6 +14,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!caution] Source check — The casebook never identifies the two cancelled items; the class-layer description of them comes from the full opinion.
+
 ## Rule
 
 Congress cannot authorize the President to cancel, that is, to deprive of "legal force or effect," parts of a statute after it has been enacted. Cancellation is repeal, and repeal must follow Article I, § 7. The rule of [[INS v. Chadha]] binds Congress and the President alike, and their agreement cannot change the "finely wrought" procedure short of an Article V amendment.

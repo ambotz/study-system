@@ -14,6 +14,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!caution] Source check — The excerpt states neither the formal disposition nor that Marshall recused (he had decided the case below on circuit).
+
 ## Rule
 
 Congress may reorganize the inferior federal courts and transfer a pending cause from one such court to another; and Supreme Court Justices may sit as circuit judges without separate commissions, because "practice and acquiescence" since 1789 "has indeed fixed the construction." The Court sustains the Jeffersonian reorganization without addressing whether Congress could abolish the judgeships of sitting life-tenured judges.

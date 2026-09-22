@@ -13,6 +13,8 @@ read_for: null
 posture_drove_outcome: true
 ---
 
+> [!caution] Source check — Built from the Court's opinion, partially retrieved. Thomas's dissent is partial; Alito's and Barrett's dissents were not retrieved and are described only as the majority characterizes them. Check against the Canvas version.
+
 ## Rule
 
 The Federal Reserve is the exception [[Trump v. Slaughter]] reserved: the Governors' for-cause protection "is consistent with the Constitution" because the Fed follows the First and Second Banks' tradition of monetary policy insulated from the President. Under the statute, "cause" is judicially reviewable and sets "a substantial threshold." A fixed term with removal "for cause" also carries the common-law requirement of notice and an opportunity to respond before removal.
