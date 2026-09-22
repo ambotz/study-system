@@ -146,6 +146,12 @@ Repeated from `CLAUDE.md` because violating these is the most common failure.
 - **Wikilink every case and module name**, everywhere, including cases not on the
   syllabus. The graph view is how doctrine connects to cases. Use a display alias
   for long names — `[[In re Caremark International Inc. Derivative Litigation|Caremark]]`.
+- **Keep both Facts sections brief-length.** Brief layer: 4–6 bullets, roughly 120–180
+  words, each one sentence of fact plus at most one short italic line on why it is pivotal.
+  Class layer: one paragraph, roughly 100–150 words. A memorable figure or date that decides
+  nothing belongs in Cold-call notes, not Facts.
+- **Do not hard-wrap prose in output files.** Each paragraph and each bullet is a single line;
+  only new bullets and nested bullets start new lines. Hard wraps render as mid-sentence breaks.
 - **Never let a wikilink wrap across a line break.** Obsidian will not resolve a
   link containing a newline, and the failure is silent.
 

@@ -12,148 +12,47 @@ read_for: null
 
 ## What it is
 
-An Office of Legal Counsel opinion by Karl R. Thompson, *The Department of Homeland Security's
-Authority to Prioritize Removal of Certain Aliens Unlawfully Present in the United States and to
-Defer Removal of Others*, 38 Op. O.L.C. 39 (2014), dated November 19, 2014 and addressed to the
-Secretary of Homeland Security and the Counsel to the President. It answers two questions: may DHS
-prioritize removal of some categories of aliens over others, and may it extend deferred action to
-certain parents of children present in the United States? President Obama announced the DAPA
-program the next day, November 20, 2014.
+An Office of Legal Counsel opinion by Karl R. Thompson, *The Department of Homeland Security's Authority to Prioritize Removal of Certain Aliens Unlawfully Present in the United States and to Defer Removal of Others*, 38 Op. O.L.C. 39 (2014), dated November 19, 2014 and addressed to the Secretary of Homeland Security and the Counsel to the President. It answers two questions: may DHS prioritize removal of some categories of aliens over others, and may it extend deferred action to certain parents of children present in the United States? President Obama announced the DAPA program the next day, November 20, 2014.
 
-The casebook assigns it as the third episode of enforcement discretion, after
-[[United States v. Cox]] and [[Adams v. Richardson]]: the executive's own attempt to state the
-limits of the Take Care power, written to defend a programmatic non-enforcement policy.
+The casebook assigns it as the third episode of enforcement discretion, after [[United States v. Cox]] and [[Adams v. Richardson]]: the executive's own attempt to state the limits of the Take Care power, written to defend a programmatic non-enforcement policy.
 
 ## What to notice
 
-- **The resource premise.** About 11.3 million undocumented aliens; resources to remove "fewer
-  than 400,000 such aliens each year." Every step of the argument leans on this gap. Without it,
-  prioritization looks like choice rather than necessity.
-- **Deferred action is defined narrowly.** It does not "legalize" anyone, "does not confer any
-  lawful immigration status," provides no path to permanent residence or citizenship, lasts three
-  years subject to renewal, and "could be terminated at any time at DHS's discretion." The memo
-  needs all of these features to keep deferred action on the discretion side of the line.
-- **The source of discretion.** Rooted in the duty to "take Care that the Laws be faithfully
-  executed," and in [[Heckler v. Chaney]]: faithful execution "does not necessarily entail
-  'act[ing] against each technical violation of the statute.'" Immigration gets extra latitude:
-  "a field where flexibility and the adaptation of the congressional policy to infinitely variable
-  conditions constitute the essence of the program," and the broad discretion of officials is a
-  "principal feature of the removal system" ([[Arizona v. United States]]).
-- **The admission that the limits are unclear.** The Take Care inquiry "does not lend itself
-  easily to the application of set formulas or bright-line rules," and because non-enforcement is
-  generally unreviewable, courts have not "squarely addressed its constitutional bounds." The memo
-  says Congress, not the courts, has policed the line: when dissatisfied, it has legislated.
+- **The resource premise.** About 11.3 million undocumented aliens; resources to remove "fewer than 400,000 such aliens each year." Every step of the argument leans on this gap. Without it, prioritization looks like choice rather than necessity.
+- **Deferred action is defined narrowly.** It does not "legalize" anyone, "does not confer any lawful immigration status," provides no path to permanent residence or citizenship, lasts three years subject to renewal, and "could be terminated at any time at DHS's discretion." The memo needs all of these features to keep deferred action on the discretion side of the line.
+- **The source of discretion.** Rooted in the duty to "take Care that the Laws be faithfully executed," and in [[Heckler v. Chaney]]: faithful execution "does not necessarily entail 'act[ing] against each technical violation of the statute.'" Immigration gets extra latitude: "a field where flexibility and the adaptation of the congressional policy to infinitely variable conditions constitute the essence of the program," and the broad discretion of officials is a "principal feature of the removal system" ([[Arizona v. United States]]).
+- **The admission that the limits are unclear.** The Take Care inquiry "does not lend itself easily to the application of set formulas or bright-line rules," and because non-enforcement is generally unreviewable, courts have not "squarely addressed its constitutional bounds." The memo says Congress, not the courts, has policed the line: when dissatisfied, it has legislated.
 - **The four principles.** The memo's framework, each tied to a source in the unit:
-  - First, enforcement decisions should reflect "factors which are peculiarly within [the
-    enforcing agency's] expertise": resources, priorities, fit with overall policy (Heckler).
-  - Second, the executive cannot, "under the guise of exercising enforcement discretion, attempt
-    to effectively rewrite the laws to match its policy preferences." Decisions must be "consonant
-    with, rather than contrary to, the congressional policy." It cites Jackson's lowest-ebb
-    passage from [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]].
-  - Third, the executive "ordinarily cannot" adopt a general policy "so extreme as to amount to an
-    abdication of its statutory responsibilities" (Heckler's footnote 4, quoting
-    [[Adams v. Richardson|Adams]]). Abdication "is ordinarily incompatible with the constitutional
-    obligation to faithfully execute the laws."
-  - Fourth, non-enforcement is "most comfortably characterized as judicially unreviewable" when
-    case-by-case. General policies are not forbidden if they "merely provide a framework for
-    making individualized, discretionary assessments," but a policy "that forecloses the exercise
-    of case-by-case discretion poses 'special risks.'"
-- **The "But see" to the unconstitutional-statute opinion.** Principle three is qualified by the
-  1994 OLC opinion that the President "is required to act in accordance with the laws—including
-  the Constitution, which takes precedence over other forms of law." That is the non-enforcement
-  theory behind [[Obama, Statement on H.R. 1473]]; Note 4 asks whether the distinction holds.
-- **The prioritization policy is approved.** Three tiers (national security, border and serious
-  crime first; significant misdemeanants, recent entrants since January 1, 2014 and visa abusers
-  second; final removal orders since January 1, 2014 third), with a safety valve for removal that
-  "would serve an important federal interest." The policy is "not a 'single-shot non-enforcement
-  decision,'" but provides "a general framework for exercising enforcement discretion in
-  individual cases, rather than establishing an absolute, inflexible policy."
+  - First, enforcement decisions should reflect "factors which are peculiarly within [the enforcing agency's] expertise": resources, priorities, fit with overall policy (Heckler).
+  - Second, the executive cannot, "under the guise of exercising enforcement discretion, attempt to effectively rewrite the laws to match its policy preferences." Decisions must be "consonant with, rather than contrary to, the congressional policy." It cites Jackson's lowest-ebb passage from [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]].
+  - Third, the executive "ordinarily cannot" adopt a general policy "so extreme as to amount to an abdication of its statutory responsibilities" (Heckler's footnote 4, quoting [[Adams v. Richardson|Adams]]). Abdication "is ordinarily incompatible with the constitutional obligation to faithfully execute the laws."
+  - Fourth, non-enforcement is "most comfortably characterized as judicially unreviewable" when case-by-case. General policies are not forbidden if they "merely provide a framework for making individualized, discretionary assessments," but a policy "that forecloses the exercise of case-by-case discretion poses 'special risks.'"
+- **The "But see" to the unconstitutional-statute opinion.** Principle three is qualified by the 1994 OLC opinion that the President "is required to act in accordance with the laws—including the Constitution, which takes precedence over other forms of law." That is the non-enforcement theory behind [[Obama, Statement on H.R. 1473]]; Note 4 asks whether the distinction holds.
+- **The prioritization policy is approved.** Three tiers (national security, border and serious crime first; significant misdemeanants, recent entrants since January 1, 2014 and visa abusers second; final removal orders since January 1, 2014 third), with a safety valve for removal that "would serve an important federal interest." The policy is "not a 'single-shot non-enforcement decision,'" but provides "a general framework for exercising enforcement discretion in individual cases, rather than establishing an absolute, inflexible policy."
 - **Deferred action differs from ordinary discretion in three respects.** The memo concedes each:
-  - It is not a decision not to prosecute past conduct; it is "a decision to openly tolerate an
-    undocumented alien's continued presence in the United States for a fixed period."
-  - It carries benefits beyond non-enforcement: eligibility to apply for work authorization and
-    tolling of unlawful presence under § 1182(a)(9).
-  - Class-based programs "set forth certain threshold eligibility criteria and then invite
-    individuals who satisfy these criteria to apply."
-- **The memo's answers to those differences.** Toleration is inherent in any non-removal; the
-  difference is "not, in our view, insignificant" but does not "fundamentally transform" deferred
-  action. The benefits rest on "independent and more specific statutory authority rooted in the
-  text of the INA," not on the Take Care Clause. Class-based criteria do "not in and of itself
-  cross the line between executing the law and rewriting it," so long as officials keep
-  "discretion to deny applications even if the applicant fulfills all of the program criteria."
-  The analogy is to leniency programs that invite violators to identify themselves.
-- **The bottom lines (summarized by the editors).** DAPA, for parents of U.S. citizens and lawful
-  permanent residents, is permissible; DACA had earlier received oral approval; deferred action
-  for parents of DACA recipients is not permissible. The excerpt omits the memo's reasons for the
-  last conclusion.
-- **Why distinguish prioritization from deferred action?** Note 1. Prioritization is pure
-  non-enforcement: the agency spends its resources elsewhere and tells no one they are safe.
-  Deferred action is a notice to an individual, for a fixed term, with benefits attached. The
-  first is Cox; the second begins to resemble a dispensation, which excused individuals from
-  the law in advance. The memo's own three concessions are the case against it.
-- **Map it onto Cox and Adams.** Principles one and four are [[United States v. Cox|Cox]] and
-  Heckler: individualized judgment about resources. Principle three is Adams. The memo's move is
-  to say a class-wide program with case-by-case review remains on Cox's side. The weak point is
-  whether "case-by-case" discretion to deny qualified applicants is real or nominal; the Fifth
-  Circuit in Note 5 treated DAPA as "much more than nonenforcement."
-- **Map it onto Youngstown.** The memo places deferred action in category one or two: Congress
-  has "acknowledged" deferred action ([[Reno v. American-Arab Anti-Discrimination Committee]]),
-  and the work-authorization and tolling benefits rest on statutory text. Its second principle
-  concedes that a policy contrary to congressional policy would be at the lowest ebb. The Fifth
-  Circuit's view that the INA "flatly does not permit the reclassification of millions of illegal
-  aliens as lawfully present" is an argument that DAPA was category three.
-- **How far does the logic extend?** Note 3. Could the executive decline to enforce the drug laws,
-  or pick which taxes to collect? On the memo's framework, the answer turns on resources and fit
-  with congressional policy. A resource-free choice (the IRS declining a tax it could easily
-  collect) fails principle one; a category-wide exemption fails principle four. The honest answer
-  is that the framework limits the executive only as much as the resource gap is real.
-- **What is Congress's role?** Note 2. Congress can forbid both prioritization and deferred action
-  by statute, and the memo says Congress has done so when dissatisfied. Whether Congress must
-  authorize deferred action is harder: without the specific statutory authority for work
-  permits and tolling, the benefits would rest on the Take Care Clause alone, which the memo
-  itself declines to rely on.
-- **The unconstitutional-statute distinction.** Note 4. Declining to enforce a statute the
-  President thinks unconstitutional follows a higher law; declining for policy reasons follows no
-  law. The distinction makes sense in theory. It is what Obama's 2011 signing statement invoked
-  when he said he would "construe section 2262 not to abrogate these Presidential prerogatives."
-  The risk is that constitutional objections can be manufactured as easily as resource ones.
-- **The Price test.** Note 7: non-enforcement authority reaches particular cases but extends
-  "neither to prospective licensing of prohibited conduct nor to policy-based nonenforcement of
-  federal laws for entire categories of offenders," because American Presidents "lack authority to
-  suspend statutes or grant dispensations that prospectively excuse legal violations." Cox fits
-  (a particular case). Adams fits (category-wide non-enforcement was unlawful). The prioritization
-  policy probably fits (a framework for particular cases). DAPA is the hardest: announced in
-  advance, for a class, with a promise of forbearance for three years, it looks like "prospective
-  licensing."
+  - It is not a decision not to prosecute past conduct; it is "a decision to openly tolerate an undocumented alien's continued presence in the United States for a fixed period."
+  - It carries benefits beyond non-enforcement: eligibility to apply for work authorization and tolling of unlawful presence under § 1182(a)(9).
+  - Class-based programs "set forth certain threshold eligibility criteria and then invite individuals who satisfy these criteria to apply."
+- **The memo's answers to those differences.** Toleration is inherent in any non-removal; the difference is "not, in our view, insignificant" but does not "fundamentally transform" deferred action. The benefits rest on "independent and more specific statutory authority rooted in the text of the INA," not on the Take Care Clause. Class-based criteria do "not in and of itself cross the line between executing the law and rewriting it," so long as officials keep "discretion to deny applications even if the applicant fulfills all of the program criteria." The analogy is to leniency programs that invite violators to identify themselves.
+- **The bottom lines (summarized by the editors).** DAPA, for parents of U.S. citizens and lawful permanent residents, is permissible; DACA had earlier received oral approval; deferred action for parents of DACA recipients is not permissible. The excerpt omits the memo's reasons for the last conclusion.
+- **Why distinguish prioritization from deferred action?** Note 1. Prioritization is pure non-enforcement: the agency spends its resources elsewhere and tells no one they are safe. Deferred action is a notice to an individual, for a fixed term, with benefits attached. The first is Cox; the second begins to resemble a dispensation, which excused individuals from the law in advance. The memo's own three concessions are the case against it.
+- **Map it onto Cox and Adams.** Principles one and four are [[United States v. Cox|Cox]] and Heckler: individualized judgment about resources. Principle three is Adams. The memo's move is to say a class-wide program with case-by-case review remains on Cox's side. The weak point is whether "case-by-case" discretion to deny qualified applicants is real or nominal; the Fifth Circuit in Note 5 treated DAPA as "much more than nonenforcement."
+- **Map it onto Youngstown.** The memo places deferred action in category one or two: Congress has "acknowledged" deferred action ([[Reno v. American-Arab Anti-Discrimination Committee]]), and the work-authorization and tolling benefits rest on statutory text. Its second principle concedes that a policy contrary to congressional policy would be at the lowest ebb. The Fifth Circuit's view that the INA "flatly does not permit the reclassification of millions of illegal aliens as lawfully present" is an argument that DAPA was category three.
+- **How far does the logic extend?** Note 3. Could the executive decline to enforce the drug laws, or pick which taxes to collect? On the memo's framework, the answer turns on resources and fit with congressional policy. A resource-free choice (the IRS declining a tax it could easily collect) fails principle one; a category-wide exemption fails principle four. The honest answer is that the framework limits the executive only as much as the resource gap is real.
+- **What is Congress's role?** Note 2. Congress can forbid both prioritization and deferred action by statute, and the memo says Congress has done so when dissatisfied. Whether Congress must authorize deferred action is harder: without the specific statutory authority for work permits and tolling, the benefits would rest on the Take Care Clause alone, which the memo itself declines to rely on.
+- **The unconstitutional-statute distinction.** Note 4. Declining to enforce a statute the President thinks unconstitutional follows a higher law; declining for policy reasons follows no law. The distinction makes sense in theory. It is what Obama's 2011 signing statement invoked when he said he would "construe section 2262 not to abrogate these Presidential prerogatives." The risk is that constitutional objections can be manufactured as easily as resource ones.
+- **The Price test.** Note 7: non-enforcement authority reaches particular cases but extends "neither to prospective licensing of prohibited conduct nor to policy-based nonenforcement of federal laws for entire categories of offenders," because American Presidents "lack authority to suspend statutes or grant dispensations that prospectively excuse legal violations." Cox fits (a particular case). Adams fits (category-wide non-enforcement was unlawful). The prioritization policy probably fits (a framework for particular cases). DAPA is the hardest: announced in advance, for a class, with a promise of forbearance for three years, it looks like "prospective licensing."
 
 ## Where it goes
 
-- [[Enforcement discretion - Art. II § 3 Take Care]] — the executive's own statement of the four
-  limits on Take Care discretion.
-- [[Presidential power - Art. II and the Youngstown categories]] — the memo cites Jackson's lowest
-  ebb and depends on locating deferred action in category one or two.
+- [[Enforcement discretion - Art. II § 3 Take Care]] — the executive's own statement of the four limits on Take Care discretion.
+- [[Presidential power - Art. II and the Youngstown categories]] — the memo cites Jackson's lowest ebb and depends on locating deferred action in category one or two.
 - [[United States v. Cox]] — the prosecutorial-discretion baseline behind principles one and four.
 - [[Adams v. Richardson]] — the abdication limit that becomes principle three.
 - [[Heckler v. Chaney]] — the source of most of the memo's doctrine, including the Adams footnote.
-- [[Obama, Statement on H.R. 1473]] — the same administration's non-enforcement on constitutional
-  grounds, which the memo sets apart in its "But see."
-- [[Youngstown Sheet & Tube Co. v. Sawyer]] — Frankfurter's gloss of practice is the form of the
-  memo's reliance on decades of deferred-action programs.
-- [[United States v. Texas (2016)]] — the Fifth Circuit's preliminary injunction against DAPA was
-  affirmed by an equally divided Court, 4–4, without opinion or precedent (Note 5). DHS Secretary
-  John Kelly rescinded DAPA on June 15, 2017.
-- [[Department of Homeland Security v. Regents of the University of California|DHS v. Regents]]
-  (2020) — the rescission of DACA was arbitrary and capricious because the Acting Secretary did
-  not separate forbearance, which is within her discretion, from benefits eligibility (Note 6).
-  Attorney General Barr later had the Thompson memo revoked, and President Biden ordered DACA
-  preserved on January 20, 2021.
-- Post-casebook DACA litigation — DHS codified DACA in a 2022 final rule. On January 17, 2025, the
-  Fifth Circuit held the rule's work-authorization provisions unlawful under the INA, held them
-  severable from the forbearance provisions, and narrowed the injunction to Texas. The court's
-  split between forbearance and benefits is the memo's own distinction, turned against its second
-  answer.
-- [[United States v. Texas (2023)]] — states lacked standing to challenge DHS's enforcement
-  priorities (Kavanaugh, J., for five Justices; 8–1 in the judgment). The Executive "possesses
-  authority to decide how to prioritize and how aggressively to pursue legal actions," but the
-  Court reserved the abdication case. The memo's first question has effectively been answered in
-  the executive's favor; its second has not.
+- [[Obama, Statement on H.R. 1473]] — the same administration's non-enforcement on constitutional grounds, which the memo sets apart in its "But see."
+- [[Youngstown Sheet & Tube Co. v. Sawyer]] — Frankfurter's gloss of practice is the form of the memo's reliance on decades of deferred-action programs.
+- [[United States v. Texas (2016)]] — the Fifth Circuit's preliminary injunction against DAPA was affirmed by an equally divided Court, 4–4, without opinion or precedent (Note 5). DHS Secretary John Kelly rescinded DAPA on June 15, 2017.
+- [[Department of Homeland Security v. Regents of the University of California|DHS v. Regents]] (2020) — the rescission of DACA was arbitrary and capricious because the Acting Secretary did not separate forbearance, which is within her discretion, from benefits eligibility (Note 6). Attorney General Barr later had the Thompson memo revoked, and President Biden ordered DACA preserved on January 20, 2021.
+- Post-casebook DACA litigation — DHS codified DACA in a 2022 final rule. On January 17, 2025, the Fifth Circuit held the rule's work-authorization provisions unlawful under the INA, held them severable from the forbearance provisions, and narrowed the injunction to Texas. The court's split between forbearance and benefits is the memo's own distinction, turned against its second answer.
+- [[United States v. Texas (2023)]] — states lacked standing to challenge DHS's enforcement priorities (Kavanaugh, J., for five Justices; 8–1 in the judgment). The Executive "possesses authority to decide how to prioritize and how aggressively to pursue legal actions," but the Court reserved the abdication case. The memo's first question has effectively been answered in the executive's favor; its second has not.
