@@ -7,7 +7,7 @@ class: conlaw
 topic: "Legislative power — power of the purse and congressional standing"
 feeds_module:
   - "[[The power of the purse - Art. I § 9 cl. 7 appropriations]]"
-  - "[[Standing - Art. III § 2 and institutional legislative injury]]"
+  - "[[Standing - Art. III § 2 cases and controversies]]"
   - "[[Separation of powers - vesting clauses and checks and balances]]"
 read_for: null
 posture_drove_outcome: true
