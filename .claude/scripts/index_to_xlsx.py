@@ -80,6 +80,11 @@ PAGES_FILE_KINDS = ("case", "document", "note")
 WEEKDAY = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
 
+def wday(d):
+    """Weekday label, or blank where the syllabus gives no date yet."""
+    return WEEKDAY[d.weekday()] if d else ""
+
+
 def autosize(ws, widths):
     for i, w in enumerate(widths, start=1):
         ws.column_dimensions[get_column_letter(i)].width = w
@@ -148,17 +153,30 @@ def build(cls, ix, out):
                 "Kind", "Speaks for", "Access", "Note written", "Link"]
         widths = [8, 12, 6, 34, 5, 54, 11, 13, 12, 13, 46]
     else:
+        # Optional columns appear only when the index uses them, so an index
+        # without them (BusOrg) renders exactly as before.
+        all_rd = [x for s in ix["sessions"] for x in s["readings"]]
+        show_syl = any("syllabus_pp" in x for x in all_rd)
+        show_pdf = any(v.get("offset") is not None for v in ix["sources"].values())
+        show_flag = any(x.get("flag") for x in all_rd)
         cols = ["Session", "Date", "Day", "Session title", "Reading", "Kind",
-                "Source", "Printed pp.", "PDF pp.", "Brief written", "Feeds module"]
-        widths = [8, 12, 6, 34, 46, 11, 9, 12, 12, 13, 15]
+                "Source", "Printed pp."]
+        widths = [8, 12, 6, 34, 46, 11, 9, 12]
+        if show_syl:
+            cols.append(ix.get("syllabus_pp_label", "Syllabus pp.")); widths.append(12)
+        if show_pdf:
+            cols.append("PDF pp."); widths.append(12)
+        cols += ["Brief written", "Feeds module"]; widths += [13, 15]
+        if show_flag:
+            cols.append("Flag"); widths.append(60)
     header_row(ws, 5, cols)
     ws.freeze_panes = "A6"
 
     r = 6
     for s in ix["sessions"]:
-        d = datetime.date.fromisoformat(s["date"])
+        d = datetime.date.fromisoformat(s["date"]) if s.get("date") else None
         if not s["readings"]:
-            vals = [s["session"], d, WEEKDAY[d.weekday()], s["title"],
+            vals = [s["session"], d, wday(d), s["title"],
                     "— no assigned reading —"] + [""] * (len(cols) - 5)
             for i, v in enumerate(vals, start=1):
                 c = ws.cell(row=r, column=i, value=v)
@@ -172,7 +190,7 @@ def build(cls, ix, out):
             lead = [
                 s["session"] if j == 0 else "",
                 d if j == 0 else "",
-                WEEKDAY[d.weekday()] if j == 0 else "",
+                wday(d) if j == 0 else "",
                 s["title"] if j == 0 else "",
             ]
 
@@ -199,7 +217,8 @@ def build(cls, ix, out):
                 printed = pdf = ""
                 if "start" in rd:
                     printed = f"{rd['start']}–{rd['end']}"
-                    pdf = f"{rd['start'] + off}–{rd['end'] + off}"
+                    if off is not None:
+                        pdf = f"{rd['start'] + off}–{rd['end'] + off}"
                 module = ""
                 if rd["kind"] in ("statute", "rule"):
                     module = "doctrine module"
@@ -209,10 +228,17 @@ def build(cls, ix, out):
                     rd["case"],
                     KIND_LABEL.get(rd["kind"], rd["kind"]),
                     rd.get("source", "").upper() or rd.get("note", ""),
-                    printed, pdf, written, module,
+                    printed,
                 ]
+                if show_syl:
+                    vals.append(rd.get("syllabus_pp", ""))
+                if show_pdf:
+                    vals.append(pdf)
+                vals += [written, module]
+                if show_flag:
+                    vals.append(rd.get("flag", ""))
                 emphasised = rd["kind"] == "case"
-                wrap_cols = (4, 5)
+                wrap_cols = (4, 5, len(cols)) if show_flag else (4, 5)
 
             for i, v in enumerate(vals, start=1):
                 c = ws.cell(row=r, column=i, value=v)
@@ -245,7 +271,7 @@ def build(cls, ix, out):
     ws2.freeze_panes = "A4"
     r = 4
     for s in ix["sessions"]:
-        d = datetime.date.fromisoformat(s["date"])
+        d = datetime.date.fromisoformat(s["date"]) if s.get("date") else None
         rs = s["readings"]
         expected = [x for x in rs if expects_note(style, x)]
         nwritten = sum(1 for x in expected if has_note(readings_dir, x))
@@ -256,7 +282,7 @@ def build(cls, ix, out):
             # Readings (briefable) | Statutes & rules | Other
             nstat = sum(1 for x in rs if x["kind"] in ("statute", "rule"))
             mid = [len(expected), nstat, len(rs) - len(expected) - nstat]
-        vals = [s["session"], d, WEEKDAY[d.weekday()], s["title"]] + mid + [
+        vals = [s["session"], d, wday(d), s["title"]] + mid + [
             f"{nwritten} / {len(expected)}" if expected else ""]
         for i, v in enumerate(vals, start=1):
             c = ws2.cell(row=r, column=i, value=v)

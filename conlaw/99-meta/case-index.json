@@ -1,0 +1,1016 @@
+{
+  "class": "conlaw",
+  "course": "Constitutional Law I: Government Structure",
+  "professor": "Baude",
+  "term": "Autumn 2026",
+  "meets": "Mon, Wed, Thu 1:30-2:35 pm",
+  "office_hours": "Tuesdays 1:30-3:30 pm",
+  "syllabus": "DRAFT of 9/14/26. Dates are not given in the syllabus; fill them in when the final version is posted.",
+  "exam": {
+    "date": null,
+    "time": "",
+    "format": "in-class, closed-book exam, plus participation (cold-calling; email by 11 a.m. to pass)",
+    "note": "Open question: an earlier note says a one-page outline is allowed; the draft syllabus says only 'closed-book'. Confirm before building 50-outline."
+  },
+  "policies": {
+    "devices": "No electronic devices in class. No recording or transcription.",
+    "canvas": "Canvas readings must be printed."
+  },
+  "style": "pages",
+  "syllabus_pp_label": "Syllabus pp. (5th)",
+  "sources": {
+    "pmbb4": {
+      "file": "The Constitution of the United States (University Casebook -- Michael Paulsen, Michael McConnell, Samuel Bray, William (2021).epub",
+      "offset": null,
+      "label": "Paulsen, McConnell, Bray & Baude, The Constitution of the United States (4th ed. 2021). EPUB with the print edition's page numbers embedded, so printed page = EPUB page."
+    },
+    "pmbb5": {
+      "file": null,
+      "offset": null,
+      "label": "Same, 5th ed. 2022 — the edition the syllabus cites. Not held. Its page ranges are kept as syllabus_pp on each reading."
+    }
+  },
+  "sessions": [
+    {
+      "session": 0,
+      "date": null,
+      "title": "Optional background (before the quarter)",
+      "readings": [
+        {
+          "case": "Before the Constitution",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 19,
+          "end": 27,
+          "syllabus_pp": "17–25"
+        },
+        {
+          "case": "Constitutional Themes",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 35,
+          "end": 40,
+          "syllabus_pp": "33–38"
+        },
+        {
+          "case": "The Dead-Hand Problem",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 40,
+          "end": 41,
+          "syllabus_pp": "33–38"
+        },
+        {
+          "case": "A Map of the Constitution",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 42,
+          "end": 44,
+          "syllabus_pp": "40–42"
+        }
+      ],
+      "optional": true
+    },
+    {
+      "session": 1,
+      "date": null,
+      "title": "An Introduction to the Constitutional Text",
+      "readings": [
+        {
+          "case": "The Constitution of the United States",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 1,
+          "end": 15,
+          "syllabus_pp": "1–14"
+        }
+      ],
+      "part": "The Constitution"
+    },
+    {
+      "session": 2,
+      "date": null,
+      "title": "Introduction",
+      "readings": [
+        {
+          "case": "Types of Constitutional Argument",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 41,
+          "end": 42,
+          "syllabus_pp": "38–40"
+        },
+        {
+          "case": "An Introduction to the Separation of Powers",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 45,
+          "end": 46,
+          "syllabus_pp": "43–60"
+        },
+        {
+          "case": "Youngstown Sheet & Tube Co. v. Sawyer",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 46,
+          "end": 62,
+          "syllabus_pp": "43–60"
+        }
+      ],
+      "part": "I. The Separation of Powers — introduction"
+    },
+    {
+      "session": 3,
+      "date": null,
+      "title": "Specificity and Delegation",
+      "readings": [
+        {
+          "case": "A Map of Article I",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 62,
+          "end": 64,
+          "syllabus_pp": "60–81"
+        },
+        {
+          "case": "The Post Roads Debate",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 64,
+          "end": 70,
+          "syllabus_pp": "60–81"
+        },
+        {
+          "case": "The Non-Delegation Doctrine's Good Year",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 70,
+          "end": 71,
+          "syllabus_pp": "60–81",
+          "flag": "Syllabus calls this 'One Good Year'."
+        },
+        {
+          "case": "Gundy v. United States",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 71,
+          "end": 82,
+          "syllabus_pp": "60–81"
+        }
+      ],
+      "part": "I. The Separation of Powers — A. Legislative Power"
+    },
+    {
+      "session": 4,
+      "date": null,
+      "title": "Bicameralism and Presentment",
+      "readings": [
+        {
+          "case": "INS v. Chadha",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 108,
+          "end": 121,
+          "syllabus_pp": "106–128"
+        },
+        {
+          "case": "Clinton v. City of New York",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 121,
+          "end": 130,
+          "syllabus_pp": "106–128"
+        }
+      ],
+      "part": "I. The Separation of Powers — A. Legislative Power"
+    },
+    {
+      "session": 5,
+      "date": null,
+      "title": "The Power of the Purse",
+      "readings": [
+        {
+          "case": "United States v. Lovett",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 130,
+          "end": 139,
+          "syllabus_pp": "128–145"
+        },
+        {
+          "case": "Obama, Statement on H.R. 1473",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 139,
+          "end": 140,
+          "syllabus_pp": "128–145",
+          "flag": "Syllabus: 'Signing Statement on HR 1473'."
+        },
+        {
+          "case": "U.S. House of Representatives v. Burwell",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 140,
+          "end": 147,
+          "syllabus_pp": "128–145"
+        },
+        {
+          "case": "Power of the Purse — additional materials",
+          "kind": "document",
+          "note": "Canvas",
+          "flag": "Syllabus: '(canvas) Additional Materials'. Contents not yet known."
+        }
+      ],
+      "part": "I. The Separation of Powers — A. Legislative Power"
+    },
+    {
+      "session": 6,
+      "date": null,
+      "title": "Appointment & Removal",
+      "readings": [
+        {
+          "case": "Introduction to Article II",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 166,
+          "end": 168,
+          "syllabus_pp": "163–177"
+        },
+        {
+          "case": "A Map of Article II",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 168,
+          "end": 169,
+          "syllabus_pp": "163–177"
+        },
+        {
+          "case": "The Federalist No. 70",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 169,
+          "end": 172,
+          "syllabus_pp": "163–177"
+        },
+        {
+          "case": "The Federalist No. 76",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 172,
+          "end": 175,
+          "syllabus_pp": "163–177"
+        },
+        {
+          "case": "Buckley v. Valeo",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 175,
+          "end": 179,
+          "syllabus_pp": "163–177"
+        },
+        {
+          "case": "The Decision of 1789",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 196,
+          "end": 199,
+          "syllabus_pp": "193–196",
+          "flag": "Casebook heading: 'Foundations of the Removal Power: The Decision of 1789'."
+        },
+        {
+          "case": "Humphrey's Executor v. United States",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 212,
+          "end": 214,
+          "syllabus_pp": "209–212",
+          "flag": "Syllabus says 'v. FEC'; the case is Humphrey's Executor v. United States (1935)."
+        }
+      ],
+      "part": "I. The Separation of Powers — B. Executive Power"
+    },
+    {
+      "session": 7,
+      "date": null,
+      "title": "Removal & Control",
+      "readings": [
+        {
+          "case": "Trump v. Slaughter",
+          "kind": "case",
+          "note": "Canvas"
+        },
+        {
+          "case": "Trump v. Cook",
+          "kind": "case",
+          "note": "Canvas"
+        }
+      ],
+      "part": "I. The Separation of Powers — B. Executive Power",
+      "continues": 6,
+      "note": "Class 6 materials continued."
+    },
+    {
+      "session": 8,
+      "date": null,
+      "title": "Suspending and Dispensing Powers?",
+      "readings": [
+        {
+          "case": "United States v. Cox",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 251,
+          "end": 259,
+          "syllabus_pp": "248–267"
+        },
+        {
+          "case": "Adams v. Richardson",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 259,
+          "end": 262,
+          "syllabus_pp": "248–267"
+        },
+        {
+          "case": "The Thompson Memo",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 262,
+          "end": 269,
+          "syllabus_pp": "248–267",
+          "flag": "Karl R. Thompson (OLC), The Department of Homeland Security's Authority to Prioritize Removal (2014)."
+        }
+      ],
+      "part": "I. The Separation of Powers — B. Executive Power"
+    },
+    {
+      "session": 9,
+      "date": null,
+      "title": "War",
+      "readings": [
+        {
+          "case": "Madison's Notes on the War Power",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 302,
+          "end": 305,
+          "syllabus_pp": "300–328",
+          "flag": "Includes the casebook's framing notes (Starting War; Text; Historical Context), 302–304."
+        },
+        {
+          "case": "The Prize Cases",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 305,
+          "end": 314,
+          "syllabus_pp": "300–328",
+          "flag": "Casebook caption: The Brig Amy Warwick (The Prize Cases). Includes 'Practice and Precedent', 305."
+        },
+        {
+          "case": "Declarations of War",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 314,
+          "end": 316,
+          "syllabus_pp": "300–328",
+          "flag": "Declaration of War Against Japan; Gulf of Tonkin Resolution."
+        },
+        {
+          "case": "The War Powers Resolution",
+          "kind": "statute",
+          "source": "pmbb4",
+          "start": 316,
+          "end": 318,
+          "syllabus_pp": "300–328"
+        },
+        {
+          "case": "Nixon, Veto of the War Powers Resolution",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 318,
+          "end": 322,
+          "syllabus_pp": "300–328",
+          "flag": "Inside the syllabus's 'The War Powers Resolution' item; split out because a statute gets no note file."
+        },
+        {
+          "case": "Modern Applications of the War Power",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 322,
+          "end": 325,
+          "syllabus_pp": "300–328",
+          "flag": "4th ed.: AUMF (322) and 'The War Powers Debate Continues: Syria and Soleimani' (323). The 5th ed. may update this — optional spot-check."
+        },
+        {
+          "case": "Terminating War",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 325,
+          "end": 326,
+          "syllabus_pp": "300–328",
+          "flag": "Not named in the syllabus, but inside its page range. Read it."
+        },
+        {
+          "case": "The Emancipation Proclamation",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 326,
+          "end": 328,
+          "syllabus_pp": "300–328",
+          "flag": "Preliminary (326) and Final (327) Proclamations."
+        },
+        {
+          "case": "Lincoln, Order of Retaliation",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 328,
+          "end": 329,
+          "syllabus_pp": "300–328"
+        }
+      ],
+      "part": "I. The Separation of Powers — B. Executive Power"
+    },
+    {
+      "session": 10,
+      "date": null,
+      "title": "Impeachment, Removal, Prosecution",
+      "readings": [
+        {
+          "case": "The Impeachment of Andrew Johnson",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 350,
+          "end": 357,
+          "syllabus_pp": "349–358",
+          "flag": "David Currie on the Impeachment of Andrew Johnson."
+        },
+        {
+          "case": "United States v. Nixon",
+          "kind": "case",
+          "note": "Canvas"
+        },
+        {
+          "case": "Trump v. United States",
+          "kind": "case",
+          "note": "Canvas"
+        }
+      ],
+      "part": "I. The Separation of Powers — B. Executive Power"
+    },
+    {
+      "session": 11,
+      "date": null,
+      "title": "Judicial Review",
+      "readings": [
+        {
+          "case": "A Map of Article III",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 372,
+          "end": 376,
+          "syllabus_pp": "370–396"
+        },
+        {
+          "case": "Brutus No. 11",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 376,
+          "end": 379,
+          "syllabus_pp": "370–396"
+        },
+        {
+          "case": "The Federalist No. 78",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 379,
+          "end": 381,
+          "syllabus_pp": "370–396"
+        },
+        {
+          "case": "Marbury v. Madison",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 381,
+          "end": 396,
+          "syllabus_pp": "370–396",
+          "flag": "Includes 'Background to Marbury', 381–384."
+        },
+        {
+          "case": "Stuart v. Laird",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 396,
+          "end": 397,
+          "syllabus_pp": "370–396"
+        }
+      ],
+      "part": "I. The Separation of Powers — C. The Judicial Power"
+    },
+    {
+      "session": 12,
+      "date": null,
+      "title": "The Dred Scott Case",
+      "readings": [
+        {
+          "case": "Dred Scott v. Sandford",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 724,
+          "end": 753,
+          "syllabus_pp": "725–754"
+        }
+      ],
+      "part": "I. The Separation of Powers — C. The Judicial Power"
+    },
+    {
+      "session": 13,
+      "date": null,
+      "title": "Judicial Supremacy",
+      "readings": [
+        {
+          "case": "The Lincoln-Douglas Debates",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 397,
+          "end": 402,
+          "syllabus_pp": "396–415"
+        },
+        {
+          "case": "Cooper v. Aaron",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 402,
+          "end": 407,
+          "syllabus_pp": "396–415"
+        },
+        {
+          "case": "Ex parte Merryman",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 407,
+          "end": 410,
+          "syllabus_pp": "396–415"
+        },
+        {
+          "case": "Bates, Opinion on the Suspension of Habeas Corpus",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 410,
+          "end": 416,
+          "syllabus_pp": "396–415",
+          "flag": "Not named in the syllabus, but inside its page range. Read it."
+        }
+      ],
+      "part": "I. The Separation of Powers — C. The Judicial Power"
+    },
+    {
+      "session": 14,
+      "date": null,
+      "title": "Cases and Controversies",
+      "readings": [
+        {
+          "case": "The Correspondence of the Justices",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 416,
+          "end": 419,
+          "syllabus_pp": "415–428"
+        },
+        {
+          "case": "Tocqueville on the American Judiciary",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 419,
+          "end": 422,
+          "syllabus_pp": "415–428"
+        },
+        {
+          "case": "Ex parte Levitt",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 422,
+          "end": 423,
+          "syllabus_pp": "415–428"
+        },
+        {
+          "case": "Massachusetts v. Mellon; Frothingham v. Mellon",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 423,
+          "end": 427,
+          "syllabus_pp": "415–428"
+        },
+        {
+          "case": "Standing, Mootness, and Ripeness",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 427,
+          "end": 428,
+          "syllabus_pp": "415–428",
+          "flag": "Not named in the syllabus, but inside its page range. Read it."
+        }
+      ],
+      "part": "I. The Separation of Powers — C. The Judicial Power"
+    },
+    {
+      "session": 15,
+      "date": null,
+      "title": "Impeachment, Jurisdiction Stripping, Court Packing",
+      "readings": [
+        {
+          "case": "The Impeachment of Justice Chase",
+          "kind": "document",
+          "note": "Canvas"
+        },
+        {
+          "case": "Ex parte McCardle",
+          "kind": "case",
+          "note": "Canvas"
+        },
+        {
+          "case": "Senate Report on Court Packing",
+          "kind": "document",
+          "note": "Canvas",
+          "flag": "Syllabus: 'Senate Report'. Presumably the 1937 Senate Judiciary Committee report; confirm on Canvas."
+        }
+      ],
+      "part": "I. The Separation of Powers — C. The Judicial Power"
+    },
+    {
+      "session": 16,
+      "date": null,
+      "title": "The Bank, Part I",
+      "readings": [
+        {
+          "case": "Campbell, Four Views on the Nature of the Union",
+          "kind": "document",
+          "note": "Canvas"
+        },
+        {
+          "case": "A Map of the Federalism Provisions",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 461,
+          "end": 462,
+          "syllabus_pp": "461–484"
+        },
+        {
+          "case": "The Federalist No. 10",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 462,
+          "end": 468,
+          "syllabus_pp": "461–484",
+          "flag": "Not named in the syllabus, but inside its page range. Read it. Includes 'The Political Theory of American Federalism'."
+        },
+        {
+          "case": "The Bank Debate",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 468,
+          "end": 484,
+          "syllabus_pp": "461–484",
+          "flag": "Syllabus: 'Legislative and Executive Debate on the Bank'. Madison's speech (470), Jefferson's opinion (476), Hamilton's opinion (478)."
+        }
+      ],
+      "part": "II. Federalism"
+    },
+    {
+      "session": 17,
+      "date": null,
+      "title": "The Bank, Part II",
+      "readings": [
+        {
+          "case": "McCulloch v. Maryland",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 484,
+          "end": 502,
+          "syllabus_pp": "484–508"
+        },
+        {
+          "case": "Madison, Letter to Lafayette",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 502,
+          "end": 503,
+          "syllabus_pp": "484–508",
+          "flag": "Includes 'After McCulloch', 502."
+        },
+        {
+          "case": "Jackson, Veto Message on the Bank",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 503,
+          "end": 506,
+          "syllabus_pp": "484–508"
+        },
+        {
+          "case": "The Death of the Second Bank",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 506,
+          "end": 508,
+          "syllabus_pp": "484–508"
+        }
+      ],
+      "part": "II. Federalism",
+      "note": "Bank debates continued as necessary."
+    },
+    {
+      "session": 18,
+      "date": null,
+      "title": "The Commerce Clause",
+      "readings": [
+        {
+          "case": "Hammer v. Dagenhart",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 515,
+          "end": 523,
+          "syllabus_pp": "515–532",
+          "flag": "Includes the bridge note 'After Gibbons v. Ogden', 515–518."
+        },
+        {
+          "case": "United States v. Darby",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 523,
+          "end": 528,
+          "syllabus_pp": "515–532",
+          "flag": "Includes the bridge note 'After Hammer v. Dagenhart', 523."
+        },
+        {
+          "case": "Wickard v. Filburn",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 528,
+          "end": 532,
+          "syllabus_pp": "515–532"
+        }
+      ],
+      "part": "II. Federalism"
+    },
+    {
+      "session": 19,
+      "date": null,
+      "title": "The Federalism Revolution?",
+      "readings": [
+        {
+          "case": "United States v. Lopez",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 536,
+          "end": 550,
+          "syllabus_pp": "536–561"
+        },
+        {
+          "case": "Gonzales v. Raich",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 550,
+          "end": 561,
+          "syllabus_pp": "536–561"
+        }
+      ],
+      "part": "II. Federalism"
+    },
+    {
+      "session": 20,
+      "date": null,
+      "title": "State Sovereignty",
+      "readings": [
+        {
+          "case": "Garcia v. San Antonio Metropolitan Transit Authority",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 570,
+          "end": 582,
+          "syllabus_pp": "571–596"
+        },
+        {
+          "case": "Printz v. United States",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 582,
+          "end": 595,
+          "syllabus_pp": "571–596"
+        }
+      ],
+      "part": "II. Federalism"
+    },
+    {
+      "session": 21,
+      "date": null,
+      "title": "Taxing",
+      "readings": [
+        {
+          "case": "Express Limits on the Power to Tax",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 596,
+          "end": 597,
+          "syllabus_pp": "596–609"
+        },
+        {
+          "case": "Hylton v. United States",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 597,
+          "end": 603,
+          "syllabus_pp": "596–609"
+        },
+        {
+          "case": "Implied Limits on the Power to Tax",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 603,
+          "end": 607,
+          "syllabus_pp": "596–609"
+        },
+        {
+          "case": "Bailey v. Drexel Furniture Co.",
+          "kind": "case",
+          "note": "Canvas",
+          "flag": "The Child Labor Tax Case."
+        }
+      ],
+      "part": "II. Federalism"
+    },
+    {
+      "session": 22,
+      "date": null,
+      "title": "Spending",
+      "readings": [
+        {
+          "case": "Madison, Veto Message on the Bonus Bill",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 608,
+          "end": 612,
+          "syllabus_pp": "609–629",
+          "flag": "Includes the casebook's spending-power introduction and 'The Assumption Controversy', 608–611."
+        },
+        {
+          "case": "Hamilton, Report on Manufactures",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 612,
+          "end": 614,
+          "syllabus_pp": "609–629"
+        },
+        {
+          "case": "The Savannah Fire Debate",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 614,
+          "end": 618,
+          "syllabus_pp": "609–629"
+        },
+        {
+          "case": "South Dakota v. Dole",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 618,
+          "end": 627,
+          "syllabus_pp": "609–629",
+          "flag": "Includes 'Spending Litigation During the New Deal', 618–620."
+        }
+      ],
+      "part": "II. Federalism"
+    },
+    {
+      "session": 23,
+      "date": null,
+      "title": "NFIB v. Sebelius",
+      "readings": [
+        {
+          "case": "NFIB v. Sebelius",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 628,
+          "end": 658,
+          "syllabus_pp": "629–659"
+        }
+      ],
+      "part": "II. Federalism"
+    },
+    {
+      "session": 24,
+      "date": null,
+      "title": "Secession",
+      "readings": [
+        {
+          "case": "Buchanan, Address to Congress",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 760,
+          "end": 763,
+          "syllabus_pp": "760–780"
+        },
+        {
+          "case": "Lincoln, First Inaugural Address",
+          "kind": "document",
+          "source": "pmbb4",
+          "start": 763,
+          "end": 774,
+          "syllabus_pp": "760–780"
+        },
+        {
+          "case": "Texas v. White",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 774,
+          "end": 777,
+          "syllabus_pp": "760–780"
+        },
+        {
+          "case": "Jefferson Davis, Farewell Address to the Senate",
+          "kind": "document",
+          "note": "Canvas"
+        }
+      ],
+      "part": "II. Federalism"
+    },
+    {
+      "session": 25,
+      "date": null,
+      "title": "Article IV",
+      "readings": [
+        {
+          "case": "Corfield v. Coryell",
+          "kind": "case",
+          "source": "pmbb4",
+          "start": 710,
+          "end": 715,
+          "syllabus_pp": "711–716"
+        },
+        {
+          "case": "National Pork Producers Council v. Ross",
+          "kind": "case",
+          "note": "Canvas"
+        }
+      ],
+      "part": "III. The Rest of the Original Constitution"
+    },
+    {
+      "session": 26,
+      "date": null,
+      "title": "Article V",
+      "readings": [
+        {
+          "case": "The Congressional Pay Amendment",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 803,
+          "end": 804,
+          "syllabus_pp": "805–815",
+          "flag": "4th ed. frames the whole chapter around it ('A Perfect Problem')."
+        },
+        {
+          "case": "The Riddles of Article V",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 804,
+          "end": 812,
+          "syllabus_pp": "805–815",
+          "flag": "The 4th ed.'s treatment of Article V, as numbered questions. Dillon is cited at 804; the ERA is discussed at 806–807."
+        },
+        {
+          "case": "Dillon v. Gloss",
+          "kind": "case",
+          "syllabus_pp": "805–815",
+          "flag": "GAP: not excerpted in the 4th ed. (cited only at p. 804). Get 5th ed. pp. 805–815, or the opinion itself: 256 U.S. 368 (1921), public domain."
+        },
+        {
+          "case": "The Equal Rights Amendment",
+          "kind": "note",
+          "source": "pmbb4",
+          "start": 806,
+          "end": 807,
+          "syllabus_pp": "805–815",
+          "flag": "PARTIAL: the 4th ed. has questions only, not a section. The 5th ed. likely treats it more fully. Get 5th ed. pp. 805–815."
+        }
+      ],
+      "part": "III. The Rest of the Original Constitution"
+    },
+    {
+      "session": 27,
+      "date": null,
+      "title": "Article VI",
+      "readings": [
+        {
+          "case": "In re Neagle",
+          "kind": "case",
+          "note": "Canvas"
+        },
+        {
+          "case": "Article VI — other materials",
+          "kind": "document",
+          "note": "Canvas",
+          "flag": "Syllabus: 'and other materials'. Contents not yet known."
+        }
+      ],
+      "part": "III. The Rest of the Original Constitution"
+    }
+  ]
+}
