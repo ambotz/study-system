@@ -4,6 +4,7 @@ citation: "256 U.S. 368"
 court: U.S.
 year: 1921
 class: conlaw
+session: 26
 topic: "Amendment process — ratification deadlines"
 feeds_module: "[[Amendment process - Art. V]]"
 read_for: null

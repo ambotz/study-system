@@ -4,6 +4,7 @@ citation: "130 F. Supp. 3d 53"
 court: D.D.C.
 year: 2015
 class: conlaw
+session: 5
 topic: "Legislative power — power of the purse and congressional standing"
 feeds_module:
   - "[[The power of the purse - Art. I § 9 cl. 7 appropriations]]"

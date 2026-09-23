@@ -3,6 +3,7 @@ reading: "Terminating War"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 325–326 (syllabus cites 5th ed. pp. 300–328)"
 class: conlaw
+session: 9
 topic: "War powers — terminating war"
 feeds_module:
   - "[[War powers - Art. I § 8 cl. 11 and the Commander in Chief]]"

@@ -4,6 +4,7 @@ citation: "603 U.S. 593"
 court: U.S.
 year: 2024
 class: conlaw
+session: 10
 topic: "Executive power — presidential immunity from criminal prosecution"
 feeds_module:
   - "[[Presidential immunity and privilege - Art. II]]"

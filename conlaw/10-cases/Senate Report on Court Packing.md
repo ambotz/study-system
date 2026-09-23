@@ -3,6 +3,7 @@ reading: "Senate Report on Court Packing"
 kind: document
 source: "Canvas (not in the casebook); built from public sources pending the Canvas version"
 class: conlaw
+session: 15
 topic: "Judicial power — congressional control of the Court's size"
 feeds_module:
   - "[[Congressional control of the courts - Art. III jurisdiction and court size]]"

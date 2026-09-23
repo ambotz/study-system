@@ -3,6 +3,7 @@ reading: "Before the Constitution"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 19–27 (syllabus cites 5th ed. pp. 17–25, optional)"
 class: conlaw
+session: 0
 topic: "Constitutional background"
 feeds_module: "[[Constitutional themes and the dead hand]]"
 read_for: null

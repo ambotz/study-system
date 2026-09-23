@@ -3,6 +3,7 @@ reading: "The Federalist No. 10"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 462–468 (syllabus cites 5th ed. pp. 461–484)"
 class: conlaw
+session: 16
 topic: "Federalism — political theory of the extended republic"
 feeds_module:
   - "[[Nature of the Union - compact theory, nationalism and secession]]"

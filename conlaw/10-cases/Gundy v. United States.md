@@ -4,6 +4,7 @@ citation: "139 S. Ct. 2116"
 court: U.S.
 year: 2019
 class: conlaw
+session: 3
 topic: "Legislative power — delegation"
 feeds_module: "[[Nondelegation - Art. I § 1 and the intelligible principle]]"
 read_for: null

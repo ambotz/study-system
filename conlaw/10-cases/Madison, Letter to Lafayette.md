@@ -3,6 +3,7 @@ reading: "Madison, Letter to Lafayette"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 502–503 (syllabus cites 5th ed. pp. 484–508)"
 class: conlaw
+session: 17
 topic: "Constitutional interpretation — practice, liquidation and the Bank"
 feeds_module:
   - "[[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]]"

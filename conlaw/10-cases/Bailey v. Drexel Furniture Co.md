@@ -4,6 +4,7 @@ citation: "259 U.S. 20"
 court: U.S.
 year: 1922
 class: conlaw
+session: 21
 topic: "Federal legislative power — regulatory taxes and the tax/penalty line"
 feeds_module:
   - "[[Taxing power - Art. I § 8 cl. 1 and direct taxes]]"

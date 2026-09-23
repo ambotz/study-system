@@ -4,6 +4,7 @@ citation: "5 U.S. (1 Cranch) 137"
 court: U.S.
 year: 1803
 class: conlaw
+session: 11
 topic: "Judicial power — judicial review"
 feeds_module:
   - "[[Judicial review - Art. III and the Supremacy Clause]]"

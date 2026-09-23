@@ -3,6 +3,7 @@ reading: "An Introduction to the Separation of Powers"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 45–46 (syllabus cites 5th ed. pp. 43–60)"
 class: conlaw
+session: 2
 topic: "Separation of powers — introduction"
 feeds_module:
   - "[[Separation of powers - vesting clauses and checks and balances]]"

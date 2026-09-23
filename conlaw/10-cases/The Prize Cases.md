@@ -4,6 +4,7 @@ citation: "67 U.S. (2 Black) 635"
 court: U.S.
 year: 1863
 class: conlaw
+session: 9
 topic: "War powers — defensive war and the President's power to recognize a state of war"
 feeds_module:
   - "[[War powers - Art. I § 8 cl. 11 and the Commander in Chief]]"

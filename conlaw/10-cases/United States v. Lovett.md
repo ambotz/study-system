@@ -4,6 +4,7 @@ citation: "328 U.S. 303"
 court: U.S.
 year: 1946
 class: conlaw
+session: 5
 topic: "Legislative power — power of the purse and bills of attainder"
 feeds_module:
   - "[[The power of the purse - Art. I § 9 cl. 7 appropriations]]"

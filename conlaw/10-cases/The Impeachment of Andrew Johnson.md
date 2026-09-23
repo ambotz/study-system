@@ -3,6 +3,7 @@ reading: "The Impeachment of Andrew Johnson"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 350–357 (syllabus cites 5th ed. pp. 349–358)"
 class: conlaw
+session: 10
 topic: "Executive power — impeachment"
 feeds_module:
   - "[[Impeachment - Art. II § 4 high crimes and misdemeanors]]"

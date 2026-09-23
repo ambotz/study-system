@@ -3,6 +3,7 @@ reading: "The Impeachment of Justice Chase"
 kind: document
 source: "Canvas (not in the casebook); built from public sources pending the Canvas version"
 class: conlaw
+session: 15
 topic: "Judicial power — impeachment of judges and judicial independence"
 feeds_module:
   - "[[Impeachment - Art. II § 4 high crimes and misdemeanors]]"

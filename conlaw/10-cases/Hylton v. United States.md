@@ -4,6 +4,7 @@ citation: "3 U.S. (3 Dall.) 171"
 court: U.S.
 year: 1796
 class: conlaw
+session: 21
 topic: "Federal legislative power — the taxing power and direct taxes"
 feeds_module:
   - "[[Taxing power - Art. I § 8 cl. 1 and direct taxes]]"

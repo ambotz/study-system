@@ -3,6 +3,7 @@ reading: "The Death of the Second Bank"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 506–508 (syllabus cites 5th ed. pp. 484–508)"
 class: conlaw
+session: 17
 topic: "Constitutional interpretation — who interprets, and settlement outside the courts"
 feeds_module:
   - "[[Judicial supremacy and departmentalism - Art. VI oath]]"

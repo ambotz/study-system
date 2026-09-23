@@ -3,6 +3,7 @@ reading: "A Map of Article III"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 372–376 (syllabus cites 5th ed. pp. 370–396)"
 class: conlaw
+session: 11
 topic: "Judicial power — structure of Article III"
 feeds_module:
   - "[[Judicial review - Art. III and the Supremacy Clause]]"

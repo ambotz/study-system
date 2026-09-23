@@ -3,6 +3,7 @@ reading: "Obama, Statement on H.R. 1473"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 139–140 (syllabus cites 5th ed. pp. 128–145)"
 class: conlaw
+session: 5
 topic: "Legislative power — power of the purse and signing statements"
 feeds_module:
   - "[[The power of the purse - Art. I § 9 cl. 7 appropriations]]"

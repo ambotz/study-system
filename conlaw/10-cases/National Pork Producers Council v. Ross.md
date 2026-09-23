@@ -4,6 +4,7 @@ citation: "598 U.S. 356"
 court: U.S.
 year: 2023
 class: conlaw
+session: 25
 topic: "Federalism — the dormant Commerce Clause and state regulation of in-state sales"
 feeds_module:
   - "[[Dormant Commerce Clause - Art. I § 8 cl. 3 and state discrimination]]"

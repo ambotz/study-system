@@ -3,6 +3,7 @@ reading: "Introduction to Article II"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 166–168 (syllabus cites 5th ed. pp. 163–177)"
 class: conlaw
+session: 6
 topic: "Executive power — Article II and the royal prerogative"
 feeds_module:
   - "[[Presidential power - Art. II and the Youngstown categories]]"

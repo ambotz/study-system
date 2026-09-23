@@ -4,6 +4,7 @@ citation: "343 U.S. 579"
 court: U.S.
 year: 1952
 class: conlaw
+session: 2
 topic: "Separation of powers — presidential power"
 feeds_module:
   - "[[Presidential power - Art. II and the Youngstown categories]]"

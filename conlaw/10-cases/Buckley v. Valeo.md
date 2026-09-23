@@ -4,6 +4,7 @@ citation: "424 U.S. 1"
 court: U.S.
 year: 1976
 class: conlaw
+session: 6
 topic: "Executive power — the appointment power and the officer line"
 feeds_module:
   - "[[Appointments - Art. II § 2 cl. 2 and the officer line]]"

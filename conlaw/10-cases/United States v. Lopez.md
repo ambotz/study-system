@@ -4,6 +4,7 @@ citation: "514 U.S. 549"
 court: U.S.
 year: 1995
 class: conlaw
+session: 19
 topic: "Federalism — the commerce power and its outer limits"
 feeds_module:
   - "[[Commerce power - Art. I § 8 cl. 3]]"

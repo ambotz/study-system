@@ -4,6 +4,7 @@ citation: "521 U.S. 898"
 court: U.S.
 year: 1997
 class: conlaw
+session: 20
 topic: "Federalism — anti-commandeering of state executive officers"
 feeds_module:
   - "[[State sovereignty and anti-commandeering - Tenth Amendment]]"

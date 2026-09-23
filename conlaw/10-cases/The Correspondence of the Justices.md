@@ -3,6 +3,7 @@ reading: "The Correspondence of the Justices"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 416–419 (syllabus cites 5th ed. pp. 415–428)"
 class: conlaw
+session: 14
 topic: "Judicial power — advisory opinions and cases or controversies"
 feeds_module:
   - "[[Standing - Art. III § 2 cases and controversies]]"

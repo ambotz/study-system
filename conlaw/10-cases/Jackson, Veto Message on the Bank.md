@@ -3,6 +3,7 @@ reading: "Jackson, Veto Message on the Bank"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 503–506 (syllabus cites 5th ed. pp. 484–508)"
 class: conlaw
+session: 17
 topic: "Constitutional interpretation — departmentalism and the veto power"
 feeds_module:
   - "[[Judicial supremacy and departmentalism - Art. VI oath]]"

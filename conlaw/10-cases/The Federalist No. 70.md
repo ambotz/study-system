@@ -3,6 +3,7 @@ reading: "The Federalist No. 70"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 169–172 (syllabus cites 5th ed. pp. 163–177)"
 class: conlaw
+session: 6
 topic: "Executive power — unity and accountability"
 feeds_module:
   - "[[Removal - Art. II § 1 and the Humphrey's exception]]"

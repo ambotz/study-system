@@ -3,6 +3,7 @@ reading: "Brutus No. 11"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 376–379 (syllabus cites 5th ed. pp. 370–396)"
 class: conlaw
+session: 11
 topic: "Judicial power — judicial review and its critics"
 feeds_module:
   - "[[Judicial review - Art. III and the Supremacy Clause]]"

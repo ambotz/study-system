@@ -4,6 +4,7 @@ citation: "567 U.S. 519"
 court: U.S.
 year: 2012
 class: conlaw
+session: 23
 topic: "Federal legislative power — commerce, necessary and proper, taxing and spending"
 feeds_module:
   - "[[Commerce power - Art. I § 8 cl. 3]]"

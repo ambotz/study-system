@@ -4,6 +4,7 @@ citation: "302 U.S. 633"
 court: U.S.
 year: 1937
 class: conlaw
+session: 14
 topic: "Judicial power — standing and generalized grievances"
 feeds_module:
   - "[[Standing - Art. III § 2 cases and controversies]]"

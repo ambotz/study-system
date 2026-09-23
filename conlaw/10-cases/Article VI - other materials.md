@@ -3,6 +3,7 @@ reading: "Article VI - other materials"
 kind: note
 source: "Canvas (not in the casebook); built from public sources pending the Canvas version"
 class: conlaw
+session: 27
 topic: "Supremacy, the oath, and the religious test — Article VI"
 feeds_module:
   - "[[Supremacy and the oath - Art. VI]]"

@@ -4,6 +4,7 @@ citation: "483 U.S. 203"
 court: U.S.
 year: 1987
 class: conlaw
+session: 22
 topic: "Federal legislative power — conditional spending and state autonomy"
 feeds_module:
   - "[[Spending power - Art. I § 8 cl. 1 general welfare and conditional grants]]"

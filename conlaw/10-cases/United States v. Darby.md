@@ -4,6 +4,7 @@ citation: "312 U.S. 100"
 court: U.S.
 year: 1941
 class: conlaw
+session: 18
 topic: "Federalism — commerce power, channels and production for commerce"
 feeds_module:
   - "[[Commerce power - Art. I § 8 cl. 3]]"

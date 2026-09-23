@@ -3,6 +3,7 @@ reading: "The Dead-Hand Problem"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 40–41 (syllabus cites 5th ed. pp. 33–38, optional)"
 class: conlaw
+session: 0
 topic: "Constitutional background"
 feeds_module: "[[Constitutional themes and the dead hand]]"
 read_for: null

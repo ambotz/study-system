@@ -4,6 +4,7 @@ citation: "295 U.S. 602"
 court: U.S.
 year: 1935
 class: conlaw
+session: 6
 topic: "Executive power — removal and independent agencies"
 feeds_module:
   - "[[Removal - Art. II § 1 and the Humphrey's exception]]"

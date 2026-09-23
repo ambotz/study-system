@@ -4,6 +4,7 @@ citation: "545 U.S. 1"
 court: U.S.
 year: 2005
 class: conlaw
+session: 19
 topic: "Federalism — the commerce power and the Necessary and Proper Clause"
 feeds_module:
   - "[[Commerce power - Art. I § 8 cl. 3]]"

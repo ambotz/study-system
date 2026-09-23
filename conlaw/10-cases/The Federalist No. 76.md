@@ -3,6 +3,7 @@ reading: "The Federalist No. 76"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 172–175 (syllabus cites 5th ed. pp. 163–177)"
 class: conlaw
+session: 6
 topic: "Executive power — the appointment power"
 feeds_module:
   - "[[Appointments - Art. II § 2 cl. 2 and the officer line]]"

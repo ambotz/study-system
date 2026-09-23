@@ -3,6 +3,7 @@ reading: "A Map of Article I"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 62–64 (syllabus cites 5th ed. pp. 60–81)"
 class: conlaw
+session: 3
 topic: "Legislative power — structure of Article I"
 feeds_module:
   - "[[Separation of powers - vesting clauses and checks and balances]]"

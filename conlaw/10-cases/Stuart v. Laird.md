@@ -4,6 +4,7 @@ citation: "5 U.S. (1 Cranch) 299"
 court: U.S.
 year: 1803
 class: conlaw
+session: 11
 topic: "Judicial power — congressional control of the lower courts"
 feeds_module:
   - "[[Congressional control of the courts - Art. III jurisdiction and court size]]"

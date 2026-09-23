@@ -4,6 +4,7 @@ citation: "418 U.S. 683"
 court: U.S.
 year: 1974
 class: conlaw
+session: 10
 topic: "Executive power — executive privilege and judicial process"
 feeds_module:
   - "[[Presidential immunity and privilege - Art. II]]"

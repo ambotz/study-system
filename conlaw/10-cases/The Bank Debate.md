@@ -3,6 +3,7 @@ reading: "The Bank Debate"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 468–484 (syllabus cites 5th ed. pp. 461–484)"
 class: conlaw
+session: 16
 topic: "Federalism — implied powers and the Necessary and Proper Clause"
 feeds_module:
   - "[[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]]"

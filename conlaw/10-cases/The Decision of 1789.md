@@ -3,6 +3,7 @@ reading: "The Decision of 1789"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 196–199 (syllabus cites 5th ed. pp. 193–196)"
 class: conlaw
+session: 6
 topic: "Executive power — removal and the Decision of 1789"
 feeds_module:
   - "[[Removal - Art. II § 1 and the Humphrey's exception]]"

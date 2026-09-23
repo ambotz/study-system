@@ -4,6 +4,7 @@ citation: "262 U.S. 447"
 court: U.S.
 year: 1923
 class: conlaw
+session: 14
 topic: "Judicial power — taxpayer and state standing"
 feeds_module:
   - "[[Standing - Art. III § 2 cases and controversies]]"

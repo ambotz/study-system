@@ -4,6 +4,7 @@ citation: "469 U.S. 528"
 court: U.S.
 year: 1985
 class: conlaw
+session: 20
 topic: "Federalism — state sovereignty and the political safeguards of federalism"
 feeds_module:
   - "[[State sovereignty and anti-commandeering - Tenth Amendment]]"

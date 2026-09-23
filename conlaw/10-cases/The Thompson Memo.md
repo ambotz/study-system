@@ -3,6 +3,7 @@ reading: "The Thompson Memo"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 262–269 (syllabus cites 5th ed. pp. 248–267)"
 class: conlaw
+session: 8
 topic: "Executive power — enforcement discretion and the Take Care Clause"
 feeds_module:
   - "[[Enforcement discretion - Art. II § 3 Take Care]]"

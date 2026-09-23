@@ -4,6 +4,7 @@ citation: "609 U.S. ___ (2026) (No. 25-332)"
 court: U.S.
 year: 2026
 class: conlaw
+session: 7
 topic: "Executive power — removal and independent agencies"
 feeds_module:
   - "[[Removal - Art. II § 1 and the Humphrey's exception]]"

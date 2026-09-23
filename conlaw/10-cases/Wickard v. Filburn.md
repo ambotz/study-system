@@ -4,6 +4,7 @@ citation: "317 U.S. 111"
 court: U.S.
 year: 1942
 class: conlaw
+session: 18
 topic: "Federalism — commerce power and aggregation"
 feeds_module:
   - "[[Commerce power - Art. I § 8 cl. 3]]"

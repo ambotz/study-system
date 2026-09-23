@@ -3,6 +3,7 @@ reading: "Bates, Opinion on the Suspension of Habeas Corpus"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 410–416 (syllabus cites 5th ed. pp. 396–415)"
 class: conlaw
+session: 13
 topic: "Judicial power — executive coordinacy, suspension, and judgment supremacy"
 feeds_module:
   - "[[Judicial supremacy and departmentalism - Art. VI oath]]"

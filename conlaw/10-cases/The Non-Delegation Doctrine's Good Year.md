@@ -3,6 +3,7 @@ reading: "The Non-Delegation Doctrine's Good Year"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 70–71 (syllabus cites 5th ed. pp. 60–81)"
 class: conlaw
+session: 3
 topic: "Legislative power — delegation"
 feeds_module: "[[Nondelegation - Art. I § 1 and the intelligible principle]]"
 read_for: null

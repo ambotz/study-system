@@ -4,6 +4,7 @@ citation: "74 U.S. (7 Wall.) 506 (1869)"
 court: U.S.
 year: 1869
 class: conlaw
+session: 15
 topic: "Judicial power — congressional control of appellate jurisdiction"
 feeds_module:
   - "[[Congressional control of the courts - Art. III jurisdiction and court size]]"

@@ -4,6 +4,7 @@ citation: "135 U.S. 1"
 court: U.S.
 year: 1890
 class: conlaw
+session: 27
 topic: "Executive power — implied protective authority and federal supremacy over state criminal process"
 feeds_module:
   - "[[Supremacy and the oath - Art. VI]]"

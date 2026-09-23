@@ -3,6 +3,7 @@ reading: "Declarations of War"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 314–316 (syllabus cites 5th ed. pp. 300–328)"
 class: conlaw
+session: 9
 topic: "War powers — declarations and authorizations of force"
 feeds_module:
   - "[[War powers - Art. I § 8 cl. 11 and the Commander in Chief]]"

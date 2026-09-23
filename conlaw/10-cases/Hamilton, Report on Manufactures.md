@@ -3,6 +3,7 @@ reading: "Hamilton, Report on Manufactures"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 612–614 (syllabus cites 5th ed. pp. 609–629)"
 class: conlaw
+session: 22
 topic: "Federal legislative power — the spending power and the general welfare clause"
 feeds_module:
   - "[[Spending power - Art. I § 8 cl. 1 general welfare and conditional grants]]"

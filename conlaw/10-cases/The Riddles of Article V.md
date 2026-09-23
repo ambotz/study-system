@@ -3,6 +3,7 @@ reading: "The Riddles of Article V"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 804–812 (syllabus cites 5th ed. pp. 805–815)"
 class: conlaw
+session: 26
 topic: "Amendment process — Article V and its unresolved questions"
 feeds_module:
   - "[[Amendment process - Art. V]]"

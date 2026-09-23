@@ -4,6 +4,7 @@ citation: "17 F. Cas. 144 (C.C.D. Md. 1861)"
 court: C.C.D. Md.
 year: 1861
 class: conlaw
+session: 13
 topic: "Executive power — suspension of habeas corpus and judgment supremacy"
 feeds_module:
   - "[[Suspension of habeas corpus - Art. I § 9 cl. 2]]"

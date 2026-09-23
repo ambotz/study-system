@@ -4,6 +4,7 @@ citation: "6 F. Cas. 546 (C.C.E.D. Pa. 1823) (No. 3,230)"
 court: C.C.E.D. Pa.
 year: 1823
 class: conlaw
+session: 25
 topic: "Federalism — the Privileges and Immunities Clause and state discrimination"
 feeds_module:
   - "[[Privileges and immunities - Art. IV § 2 and state discrimination]]"

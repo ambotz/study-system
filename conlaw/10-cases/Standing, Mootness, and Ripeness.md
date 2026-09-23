@@ -3,6 +3,7 @@ reading: "Standing, Mootness, and Ripeness"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 427–429 (syllabus cites 5th ed. pp. 415–428)"
 class: conlaw
+session: 14
 topic: "Judicial power — standing, mootness and ripeness"
 feeds_module: "[[Standing - Art. III § 2 cases and controversies]]"
 read_for: null

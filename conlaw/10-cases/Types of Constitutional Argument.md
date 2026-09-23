@@ -3,6 +3,7 @@ reading: "Types of Constitutional Argument"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 41–42 (syllabus cites 5th ed. pp. 38–40)"
 class: conlaw
+session: 2
 topic: "Constitutional interpretation"
 feeds_module: "[[Modes of constitutional argument]]"
 read_for: null

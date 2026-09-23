@@ -4,6 +4,7 @@ citation: "60 U.S. (19 How.) 393"
 court: U.S.
 year: 1857
 class: conlaw
+session: 12
 topic: "Judicial power — judicial review, citizenship and the Territories Clause"
 feeds_module:
   - "[[Territories and citizenship - Art. IV § 3 and Dred Scott]]"

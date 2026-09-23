@@ -4,6 +4,7 @@ citation: "342 F.2d 167"
 court: 5th Cir. (en banc)
 year: 1965
 class: conlaw
+session: 8
 topic: "Executive power — enforcement discretion and the Take Care Clause"
 feeds_module:
   - "[[Enforcement discretion - Art. II § 3 Take Care]]"

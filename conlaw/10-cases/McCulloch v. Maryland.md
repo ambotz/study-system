@@ -4,6 +4,7 @@ citation: "17 U.S. (4 Wheat.) 316"
 court: U.S.
 year: 1819
 class: conlaw
+session: 17
 topic: "Federalism — implied powers and intergovernmental immunity"
 feeds_module:
   - "[[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]]"

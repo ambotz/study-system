@@ -3,6 +3,7 @@ reading: "Lincoln, Order of Retaliation"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 328–329 (syllabus cites 5th ed. pp. 300–328)"
 class: conlaw
+session: 9
 topic: "War powers — the Commander in Chief and the laws of war"
 feeds_module: "[[War powers - Art. I § 8 cl. 11 and the Commander in Chief]]"
 read_for: null

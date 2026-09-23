@@ -3,6 +3,7 @@ reading: "The Constitution of the United States"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 1–15 (syllabus cites 5th ed. pp. 1–14)"
 class: conlaw
+session: 1
 topic: "Constitutional text"
 feeds_module:
   - "[[Separation of powers - vesting clauses and checks and balances]]"

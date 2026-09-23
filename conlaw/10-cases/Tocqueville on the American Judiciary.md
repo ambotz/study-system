@@ -3,6 +3,7 @@ reading: "Tocqueville on the American Judiciary"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 419–422 (syllabus cites 5th ed. pp. 415–428)"
 class: conlaw
+session: 14
 topic: "Judicial power — judicial review as a by-product of adjudication"
 feeds_module:
   - "[[Judicial review - Art. III and the Supremacy Clause]]"

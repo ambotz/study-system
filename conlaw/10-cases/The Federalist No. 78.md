@@ -3,6 +3,7 @@ reading: "The Federalist No. 78"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 379–381 (syllabus cites 5th ed. pp. 370–396)"
 class: conlaw
+session: 11
 topic: "Judicial power — judicial review"
 feeds_module:
   - "[[Judicial review - Art. III and the Supremacy Clause]]"

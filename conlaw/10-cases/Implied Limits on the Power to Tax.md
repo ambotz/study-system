@@ -3,6 +3,7 @@ reading: "Implied Limits on the Power to Tax"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 603–607 (syllabus cites 5th ed. pp. 596–609)"
 class: conlaw
+session: 21
 topic: "Federal legislative power — regulatory taxes and the tax/penalty line"
 feeds_module:
   - "[[Taxing power - Art. I § 8 cl. 1 and direct taxes]]"

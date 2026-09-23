@@ -3,6 +3,7 @@ reading: "Jefferson Davis, Farewell Address to the Senate"
 kind: document
 source: "Canvas (not in the casebook); built from public sources pending the Canvas version"
 class: conlaw
+session: 24
 topic: "Nature of the Union — state sovereignty and the right of secession"
 feeds_module:
   - "[[Nature of the Union - compact theory, nationalism and secession]]"

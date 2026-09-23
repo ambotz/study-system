@@ -3,6 +3,7 @@ reading: "Buchanan, Address to Congress"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 760–763 (syllabus cites 5th ed. pp. 760–780)"
 class: conlaw
+session: 24
 topic: "Nature of the Union — secession and federal coercion"
 feeds_module:
   - "[[Nature of the Union - compact theory, nationalism and secession]]"

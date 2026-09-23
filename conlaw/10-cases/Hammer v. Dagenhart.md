@@ -4,6 +4,7 @@ citation: "247 U.S. 251"
 court: U.S.
 year: 1918
 class: conlaw
+session: 18
 topic: "Federalism — commerce power and the production/commerce line"
 feeds_module:
   - "[[Commerce power - Art. I § 8 cl. 3]]"

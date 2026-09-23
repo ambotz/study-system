@@ -3,6 +3,7 @@ reading: "Campbell, Four Views on the Nature of the Union"
 kind: document
 source: "Canvas (not in the casebook); built from public sources pending the Canvas version"
 class: conlaw
+session: 16
 topic: "Federalism — the nature of the Union and theories of sovereignty"
 feeds_module:
   - "[[Nature of the Union - compact theory, nationalism and secession]]"

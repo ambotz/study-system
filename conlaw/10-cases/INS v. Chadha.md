@@ -4,6 +4,7 @@ citation: "462 U.S. 919"
 court: U.S.
 year: 1983
 class: conlaw
+session: 4
 topic: "Legislative power — bicameralism and presentment"
 feeds_module:
   - "[[Bicameralism and presentment - Art. I § 7]]"

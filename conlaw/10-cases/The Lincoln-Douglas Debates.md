@@ -3,6 +3,7 @@ reading: "The Lincoln-Douglas Debates"
 kind: document
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 397–402 (syllabus cites 5th ed. pp. 396–415)"
 class: conlaw
+session: 13
 topic: "Judicial power — departmentalism and judicial supremacy"
 feeds_module:
   - "[[Judicial supremacy and departmentalism - Art. VI oath]]"

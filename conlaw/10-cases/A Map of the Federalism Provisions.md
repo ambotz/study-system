@@ -3,6 +3,7 @@ reading: "A Map of the Federalism Provisions"
 kind: note
 source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 461–462 (syllabus cites 5th ed. pp. 461–484)"
 class: conlaw
+session: 16
 topic: "Federalism — structure of the federal system"
 feeds_module:
   - "[[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]]"

@@ -4,6 +4,7 @@ citation: "480 F.2d 1159"
 court: D.C. Cir. (en banc)
 year: 1973
 class: conlaw
+session: 8
 topic: "Executive power — enforcement discretion and the Take Care Clause"
 feeds_module:
   - "[[Enforcement discretion - Art. II § 3 Take Care]]"

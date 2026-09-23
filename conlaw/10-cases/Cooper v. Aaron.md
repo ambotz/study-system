@@ -4,6 +4,7 @@ citation: "358 U.S. 1"
 court: U.S.
 year: 1958
 class: conlaw
+session: 13
 topic: "Judicial power — judicial supremacy and state officials"
 feeds_module:
   - "[[Judicial supremacy and departmentalism - Art. VI oath]]"

@@ -4,6 +4,7 @@ citation: "74 U.S. (7 Wall.) 700"
 court: U.S.
 year: 1869
 class: conlaw
+session: 24
 topic: "Nature of the Union — secession, statehood and Reconstruction"
 feeds_module:
   - "[[Nature of the Union - compact theory, nationalism and secession]]"
