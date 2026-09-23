@@ -30,25 +30,38 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 5 — Modern Charters · Wed 2026-10-07
 
-- [[8 Del. C. 102(a)(3),(b)(1),(c); 109(b); 121; 122(1)-(17); 141(a),(b)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 102(a)(3),(b)(1),(c); 109(b); 121; 122(1)-(17); 141(a),(b)]] — statute · doctrine module
+    - → [[Business judgment rule - scope of protection]]
+    - → [[Director primacy - limits on constraining the board]]
+    - → [[Duty of care - informed decision]]
 - [[NVIDIA Certificate of Incorporation]] — Canvas · document
 - [[Gorman v. Salamone]] — pp. 98–100 · case
 - [[West Palm Beach Firefighters v. Moelis & Co]] — pp. 11–15 · case
-- [[8 Del. C. 122(18)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 122(18)]] — statute · doctrine module
+    - → [[Director primacy - limits on constraining the board]]
+    - → [[Modern charter and bylaws - what each instrument carries]]
 - [[NVIDIA Bylaws]] — Canvas; skim · document
 
 ### Class 6 — Modern Deference · Mon 2026-10-12
 
 - [[Shlensky v. Wrigley]] — pp. 103–106 · case
 - [[Smith v. Van Gorkom]] — pp. 120–134 · case
-- [[8 Del. C. 102(b)(7)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 102(b)(7)]] — statute · doctrine module
+    - → [[Aiding and abetting a fiduciary breach - knowing participation]]
+    - → [[Charter exculpation of director liability]]
+    - → [[Cleansing by stockholder vote - Corwin and the fully informed vote]]
 
 ### Class 7 — Interested Transactions · Tue 2026-10-13
 
-- [[8 Del. C. 144(a) (pre-SB 21)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 144(a) (pre-SB 21)]] — statute · doctrine module
+    - → [[Director self-compensation and stockholder ratification - 141(h)]]
+    - → [[Interested director and officer transactions - 144(a)]]
 - [[Bayer v. Beran]] — pp. 153–157 · case
 - [[In re Investors Bancorp]] — pp. 165–172 · case
-- [[8 Del. C. 144(a),(d)(6),(e)(4),(5),(7),(8),(d)(2),(3) (post-SB 21)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 144(a),(d)(6),(e)(4),(5),(7),(8),(d)(2),(3) (post-SB 21)]] — statute · doctrine module
+    - → [[Director self-compensation and stockholder ratification - 141(h)]]
+    - → [[Interested director and officer transactions - 144(a)]]
+    - → [[Books and records inspection - 220 before and after SB 21]]
 
 ### Class 8 — Good Faith and Oversight · Wed 2026-10-14
 
@@ -64,13 +77,19 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 ### Class 10 — Controlling Stockholders · Mon 2026-10-19
 
 - [[In re Tesla Motors (Tesla 2)]] — pp. 28–45 · case
-- [[8 Del. C. 144(b),(c),(e)(1),(2),(3) (post-SB 21)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 144(b),(c),(e)(1),(2),(3) (post-SB 21)]] — statute · doctrine module
+    - → [[Cleansing by stockholder vote - Corwin and the fully informed vote]]
+    - → [[Controller buyouts - the MFW dual protection structure]]
+    - → [[Controlling stockholder safe harbours - 144(b) and (c)]]
 
 ### Class 11 — Direct and Derivative Claims · Wed 2026-10-21
 
 - [[Tooley v. Donaldson, Lufkin & Jenrette]] — pp. 241–242 · case
 - [[In re Riverstone National]] — pp. 242–249 · case
-- [[Del. Ct. Ch. R. 23.1]] — rule · doctrine module, no reading file
+- [[Del. Ct. Ch. R. 23.1]] — rule · doctrine module
+    - → [[Demand futility - Rule 23.1 and the Zuckerberg test]]
+    - → [[Direct versus derivative claims - the Tooley test]]
+    - → [[Special litigation committees - the Zapata two-step]]
 - [[United Food (Tri-State) Pension Fund v. Zuckerberg]] — pp. 267–284 · case
 
 ### Class 12 — Derivative Procedure · Thu 2026-10-22
@@ -79,9 +98,13 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 13 — Books & Records · Tue 2026-10-27
 
-- [[8 Del. C. 220 (pre-SB 21)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 220 (pre-SB 21)]] — statute · doctrine module
+    - → [[Books and records inspection - 220 before and after SB 21]]
+    - → [[Demand futility - Rule 23.1 and the Zuckerberg test]]
 - [[Amalgamated Bank v. Yahoo!]] — pp. 342–360 · case
-- [[8 Del. C. 220 (post-SB 21)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 220 (post-SB 21)]] — statute · doctrine module
+    - → [[Books and records inspection - 220 before and after SB 21]]
+    - → [[Demand futility - Rule 23.1 and the Zuckerberg test]]
 
 ### Class 14 — Application: Friendly M&A Litigation · Wed 2026-10-28
 
@@ -92,7 +115,10 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 ### Class 15 — Application: Friendly M&A Litigation · Thu 2026-10-29
 
 - [[Kahn v. M&F Worldwide]] — pp. 194–198 · case
-- [[8 Del. C. 144(c) (post-SB 21)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 144(c) (post-SB 21)]] — statute · doctrine module
+    - → [[Aiding and abetting a fiduciary breach - knowing participation]]
+    - → [[Controller buyouts - the MFW dual protection structure]]
+    - → [[Controlling stockholder safe harbours - 144(b) and (c)]]
 - [[Corwin v. KKR Financial Holdings]] — pp. 551–554 · case
 
 ### Class 16 — Aiding and Abetting · Mon 2026-11-02
@@ -107,7 +133,9 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 18 — Takeovers · Thu 2026-11-05
 
-- [[8 Del. C. 151, 157]] — statute · doctrine module, no reading file
+- [[8 Del. C. 151, 157]] — statute · doctrine module
+    - → [[Preferred versus common - the duty to the residual claimants]]
+    - → [[The poison pill - statutory authority and Unocal limits]]
 - [[Moran v. Household International]] — pp. 459–462 · case
 - [[Revlon v. MacAndrews & Forbes|Revlon v. MacAndrews & Forbes (redux)]] — pp. 486–496 · case
 
@@ -119,23 +147,35 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 20 — Voting · Wed 2026-11-11
 
-- [[8 Del. C. 141(d), 212, 216, 218]] — statute · doctrine module, no reading file
+- [[8 Del. C. 141(d), 212, 216, 218]] — statute · doctrine module
+    - → [[Stockholder voting machinery - 212, 216, 141(d) and 228]]
+    - → [[Oversight liability - Caremark and good faith]]
+    - → [[Voting agreements and vote buying - 218 and the Schreiber test]]
 - [[Ringling Brothers v. Ringling]] — pp. 85–91 · case
 - [[Hewlett v. Hewlett-Packard]] — pp. 91–98 · case
 
 ### Class 21 — Voting · Thu 2026-11-12
 
 - [[Schnell v. Chris-Craft Industries]] — pp. 80–82 · case
-- [[8 Del. C. 228(a)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 228(a)]] — statute · doctrine module
+    - → [[Interference with the franchise - Schnell, Blasius and the Coster standard]]
+    - → [[Modern charter and bylaws - what each instrument carries]]
+    - → [[Stockholder voting machinery - 212, 216, 141(d) and 228]]
 - [[Blasius Industries v. Atlas Corp]] — pp. 82–87 · case
 - [[Coster v. UIP Companies]] — pp. 88–95 · case
 
 ### Class 22 — Voting (and Activism) · Mon 2026-11-16
 
-- [[1934 Act 13; SEC Rule 13D]] — statute · doctrine module, no reading file
-- [[1934 Act 14; SEC Rule 14a-19]] — statute · doctrine module, no reading file
+- [[1934 Act 13; SEC Rule 13D]] — statute · doctrine module
+    - → [[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]
+- [[1934 Act 14; SEC Rule 14a-19]] — statute · doctrine module
+    - → [[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]
+    - → [[Preferred versus common - the duty to the residual claimants]]
 - [[The Williams Companies Stockholder Litigation]] — pp. 477–486 · case
-- [[8 Del. C. 144(d)(6)(b) (post-SB 21)]] — statute · doctrine module, no reading file
+- [[8 Del. C. 144(d)(6)(b) (post-SB 21)]] — statute · doctrine module
+    - → [[Aiding and abetting a fiduciary breach - knowing participation]]
+    - → [[Cleansing by stockholder vote - Corwin and the fully informed vote]]
+    - → [[Controller buyouts - the MFW dual protection structure]]
 
 ### Class 23 — VC and PE Problems · Wed 2026-11-18
 
@@ -144,7 +184,10 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 24 — Creditors · Thu 2026-11-19
 
-- [[8 Del. C. 170, 154]] — statute · doctrine module, no reading file
+- [[8 Del. C. 170, 154]] — statute · doctrine module
+    - → [[Controlling stockholder transactions - the self-dealing trigger]]
+    - → [[Dividends and legal capital - 170 and 154]]
+    - → [[Fiduciary duties on insolvency - Gheewalla standing and the Quadrant line]]
 - [[NACEPF v. Gheewalla]] — pp. 719–725 · case
 - [[Quadrant Structured Products v. Vertin]] — pp. 99–111 · case
 
