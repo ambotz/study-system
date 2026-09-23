@@ -4,6 +4,7 @@ citation: 311 A.3d 809
 court: Del. Ch.
 year: 2024
 class: busorg
+session: 5
 topic: Director primacy
 feeds_module: "[[Director primacy - limits on constraining the board]]"
 read_for: 2026-10-07

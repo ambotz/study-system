@@ -4,6 +4,7 @@ citation: 564 A.2d 651
 court: Del. Ch.
 year: 1988
 class: busorg
+session: 21
 topic: Stockholder franchise
 feeds_module: "[[Interference with the franchise - Schnell, Blasius and the Coster standard]]"
 read_for: 2026-11-12

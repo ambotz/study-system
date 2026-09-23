@@ -4,6 +4,7 @@ citation: 280 A.2d 717
 court: Del. Supr.
 year: 1971
 class: busorg
+session: 9
 topic: Controlling stockholders
 feeds_module: "[[Controlling stockholder transactions - the self-dealing trigger]]"
 read_for: 2026-10-15

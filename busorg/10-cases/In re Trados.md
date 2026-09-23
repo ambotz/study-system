@@ -4,6 +4,7 @@ citation: 73 A.3d 17
 court: Del. Ch.
 year: 2013
 class: busorg
+session: 23
 topic: Preferred and common
 feeds_module: "[[Preferred versus common - the duty to the residual claimants]]"
 read_for: 2026-11-18

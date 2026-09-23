@@ -4,6 +4,7 @@ citation: 132 A.3d 752
 court: Del. Ch.
 year: 2016
 class: busorg
+session: 13
 topic: Books and records
 feeds_module: "[[Books and records inspection - 220 before and after SB 21]]"
 read_for: 2026-10-27

@@ -4,6 +4,7 @@ citation: 16 A.3d 48
 court: Del. Ch.
 year: 2011
 class: busorg
+session: 19
 topic: Takeover defences
 feeds_module:
   - "[[The poison pill - statutory authority and Unocal limits]]"

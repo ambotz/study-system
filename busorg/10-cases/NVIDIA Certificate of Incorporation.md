@@ -3,6 +3,7 @@ reading: NVIDIA Certificate of Incorporation
 kind: document
 source: Nvidia Certificate of Incorporation.pdf (Restated Certificate, filed 9 December 2021, SEC EX-3.1)
 class: busorg
+session: 5
 topic: Corporate form
 feeds_module: "[[Modern charter and bylaws - what each instrument carries]]"
 read_for: 2026-10-07

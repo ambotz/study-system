@@ -4,6 +4,7 @@ citation: 300 A.3d 656
 court: Del. Supr.
 year: 2023
 class: busorg
+session: 21
 topic: Stockholder franchise
 feeds_module: "[[Interference with the franchise - Schnell, Blasius and the Coster standard]]"
 read_for: 2026-11-12

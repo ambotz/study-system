@@ -4,6 +4,7 @@ citation: 237 N.E.2d 776
 court: Ill. App. Ct., 1st Dist.
 year: 1968
 class: busorg
+session: 6
 topic: Business judgment rule
 feeds_module: "[[Business judgment rule - scope of protection]]"
 read_for: 2026-10-12

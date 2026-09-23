@@ -3,6 +3,7 @@ reading: An Act to Incorporate the National Insurance Company
 kind: document
 source: National Insurance Company - Charter.pdf (Laws of New-York, 38th Session, ch. CLXXIII, passed 14 April 1815)
 class: busorg
+session: 4
 topic: Corporate form
 feeds_module: "[[Early corporate charters - enumerated powers]]"
 read_for: 2026-10-05

@@ -4,6 +4,7 @@ citation: 129 A.3d 816
 court: Del. Supr.
 year: 2015
 class: busorg
+session: 16
 topic: Aiding and abetting
 feeds_module: "[[Aiding and abetting a fiduciary breach - knowing participation]]"
 read_for: 2026-11-02

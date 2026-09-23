@@ -4,6 +4,7 @@ citation: 223 N.E.2d 6
 court: N.Y. Ct. App.
 year: 1966
 class: busorg
+session: 3
 topic: Limited liability
 feeds_module: "[[Limited liability - piercing the corporate veil]]"
 read_for: 2026-10-01

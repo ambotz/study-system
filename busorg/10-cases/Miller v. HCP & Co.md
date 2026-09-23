@@ -4,6 +4,7 @@ citation: 2018 WL 656378
 court: Del. Ch.
 year: 2018
 class: busorg
+session: 25
 topic: LLCs
 feeds_module: "[[LLCs - freedom of contract, default duties and the implied covenant]]"
 read_for: 2026-11-30

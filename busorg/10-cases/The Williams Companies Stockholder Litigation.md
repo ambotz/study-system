@@ -4,6 +4,7 @@ citation: 2021 WL 754593
 court: Del. Ch.
 year: 2021
 class: busorg
+session: 22
 topic: Takeover defences
 feeds_module:
   - "[[The poison pill - statutory authority and Unocal limits]]"

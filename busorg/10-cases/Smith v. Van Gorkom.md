@@ -4,6 +4,7 @@ citation: 488 A.2d 858
 court: Del. Supr.
 year: 1985
 class: busorg
+session: 6
 topic: Duty of care
 feeds_module: "[[Duty of care - informed decision]]"
 read_for: 2026-10-12

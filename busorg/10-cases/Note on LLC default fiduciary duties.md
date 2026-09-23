@@ -3,6 +3,7 @@ reading: Note on LLC default fiduciary duties
 kind: note
 source: Badawi & Casey, Business Associations (2d ed. 2023), pp. 415-416
 class: busorg
+session: 25
 topic: LLCs
 feeds_module: "[[LLCs - freedom of contract, default duties and the implied covenant]]"
 read_for: 2026-11-30

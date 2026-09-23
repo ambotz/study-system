@@ -4,6 +4,7 @@ citation: 493 A.2d 946
 court: Del. Supr.
 year: 1985
 class: busorg
+session: 17
 topic: Takeover defences
 feeds_module: "[[Takeover defences - Unocal enhanced scrutiny]]"
 read_for: 2026-11-04

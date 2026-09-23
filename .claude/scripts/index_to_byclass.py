@@ -8,7 +8,7 @@ pages in the edition on the shelf, and the syllabus's own page citation.
 Usage:
   index_to_byclass.py --class conlaw
 """
-import argparse, datetime, json, os, sys
+import argparse, datetime, json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 VAULT = os.path.abspath(os.path.join(HERE, "..", ".."))
@@ -21,22 +21,45 @@ def readings_dir(ix):
     return ix.get("readings_dir", "10-cases")
 
 
-def line(ix, r, has_file):
+ACCESS = {"open": "open", "paywalled": "paywalled", "canvas": "Canvas only",
+          "handout": "handout"}
+SPEAKER = {"funder": "funder", "claimholder": "claimholder",
+           "defense_side": "defence side", "practitioner": "practitioner",
+           "academic": "academic", "government": "government", "press": "press"}
+BLOCKED = ("canvas", "handout")
+
+
+def stem(r):
+    """The note's filename: the short form where the index gives one, and never
+    the '(redux)' suffix, which marks a second assignment of one file."""
+    return re.sub(r"\s*\(redux\)$", "", r.get("file") or r["case"])
+
+
+def line(ix, r, style, have):
+    name = stem(r)
+    label = r["case"] if r["case"] != name else None
+    link = f"[[{name}|{label}]]" if label else f"[[{name}]]"
     bits = []
-    src = ix["sources"].get(r.get("source"), {})
     if "start" in r:
         bits.append(f"pp. {r['start']}–{r['end']}")
-    elif r.get("note"):
-        bits.append(r["note"])
     bits.append(KIND.get(r["kind"], r["kind"]))
+    if style == "links":
+        if r.get("speaker"):
+            bits.append(SPEAKER.get(r["speaker"], r["speaker"]))
+        bits.append(ACCESS.get(r.get("access", ""), r.get("access", "")))
+    elif "start" not in r and r.get("note"):
+        bits.insert(0, r["note"])
     if r["kind"] in ("statute", "rule"):
         bits.append("doctrine module, no reading file")
-    elif not has_file:
-        bits.append("**no file**")
-    tail = " · ".join(bits)
-    out = f"- [[{r['case']}]] — {tail}"
+    elif name not in have:
+        bits.append("**no file**" if r.get("access") not in BLOCKED else "not retrievable")
+    out = f"- {link} — " + " · ".join(b for b in bits if b)
+    if r.get("url"):
+        out += f"\n    - {r['url']}"
     if r.get("flag"):
         out += f"\n    - {r['flag']}"
+    elif style == "links" and r.get("note"):
+        out += f"\n    - {r['note']}"
     return out
 
 
@@ -45,11 +68,15 @@ def build(cls):
     with open(p) as f:
         ix = json.load(f)
     rdir = os.path.join(VAULT, cls, readings_dir(ix))
-    have = {n[:-3] for n in os.listdir(rdir) if n.endswith(".md")}
+    have = set()
+    for root, _d, files in os.walk(rdir):
+        have.update(n[:-3] for n in files if n.endswith(".md"))
+    style = ix.get("style", "pages")
 
     L = [f"# {cls} — readings by class", ""]
     ex = ix.get("exam", {})
-    L.append(f"{ix.get('course', '')} · {ix.get('professor', '')} · {ix.get('term', '')}")
+    L.append(" · ".join(x for x in (ix.get("course"), ix.get("professor"),
+                                     ix.get("term")) if x))
     if ix.get("meets"):
         L.append(f"Meets {ix['meets']}. {ex.get('format', '')}")
     L.append("")
@@ -81,7 +108,16 @@ def build(cls):
             L += ["- *no assigned reading*", ""]
             continue
         for r in s["readings"]:
-            L.append(line(ix, r, r["case"] in have))
+            L.append(line(ix, r, style, have))
+        L.append("")
+
+    if ix.get("assignments"):
+        L += ["## Graded deliverables", ""]
+        for a in ix["assignments"]:
+            L.append(f"- **{a['due']} — {a['title']}**"
+                     + (f" ({a['weight']})" if a.get("weight") else ""))
+            if a.get("detail"):
+                L.append(f"    - {a['detail']}")
         L.append("")
 
     out = os.path.join(VAULT, cls, "99-meta", "by-class.md")

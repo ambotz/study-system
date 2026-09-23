@@ -4,6 +4,7 @@ citation: 332 A.3d 349
 court: Del. Supr.
 year: 2024
 class: busorg
+session: 16
 topic: Aiding and abetting
 feeds_module:
   - "[[Aiding and abetting a fiduciary breach - knowing participation]]"

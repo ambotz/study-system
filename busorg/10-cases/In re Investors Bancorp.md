@@ -4,6 +4,7 @@ citation: 177 A.3d 1208
 court: Del. Supr.
 year: 2017
 class: busorg
+session: 7
 topic: Interested transactions
 feeds_module: "[[Director self-compensation and stockholder ratification - 141(h)]]"
 read_for: 2026-10-13

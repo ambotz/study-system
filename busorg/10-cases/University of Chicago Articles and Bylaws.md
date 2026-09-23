@@ -3,6 +3,7 @@ reading: University of Chicago Articles and Bylaws
 kind: document
 source: U Chicago Governance Docs.pdf (Restated Articles filed with the Illinois Secretary of State, Sept. 7, 2010; Bylaws last amended May 26, 2022)
 class: busorg
+session: 26
 topic: Non-stock corporations
 feeds_module: "[[Non-stock corporations - governance without stockholders]]"
 read_for: 2026-12-02

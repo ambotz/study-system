@@ -4,6 +4,7 @@ citation: 125 A.3d 304
 court: Del. Supr.
 year: 2015
 class: busorg
+session: 15
 topic: Standard of review
 feeds_module: "[[Cleansing by stockholder vote - Corwin and the fully informed vote]]"
 read_for: 2026-10-29

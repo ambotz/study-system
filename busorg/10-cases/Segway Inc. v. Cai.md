@@ -4,6 +4,7 @@ citation: 2023 WL 8642149
 court: Del. Ch.
 year: 2023
 class: busorg
+session: 8
 topic: Oversight
 feeds_module: "[[Oversight liability - Caremark and good faith]]"
 read_for: 2026-10-14

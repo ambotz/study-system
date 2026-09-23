@@ -4,6 +4,7 @@ citation: 930 A.2d 92
 court: Del. Supr.
 year: 2007
 class: busorg
+session: 24
 topic: Creditors
 feeds_module: "[[Fiduciary duties on insolvency - Gheewalla standing and the Quadrant line]]"
 read_for: 2026-11-19

@@ -4,6 +4,7 @@ citation: 262 A.3d 1034
 court: Del. Supr.
 year: 2021
 class: busorg
+session: 11
 topic: Derivative litigation
 feeds_module: "[[Demand futility - Rule 23.1 and the Zuckerberg test]]"
 read_for: 2026-10-21

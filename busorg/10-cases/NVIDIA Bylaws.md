@@ -3,6 +3,7 @@ reading: NVIDIA Bylaws
 kind: document
 source: Nvidia Bylaws.pdf (22 pages; syllabus marks this reading {skim})
 class: busorg
+session: 5
 topic: Corporate form
 feeds_module: "[[Modern charter and bylaws - what each instrument carries]]"
 read_for: 2026-10-07

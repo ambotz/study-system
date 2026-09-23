@@ -4,6 +4,7 @@ citation: 818 A.2d 914
 court: Del. Supr.
 year: 2003
 class: busorg
+session: 14
 topic: Deal protection devices
 feeds_module: "[[Deal protection devices - Unocal review of merger lock-ups]]"
 read_for: 2026-10-28

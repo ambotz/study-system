@@ -4,6 +4,7 @@ citation: 845 A.2d 1031
 court: Del. Supr.
 year: 2004
 class: busorg
+session: 11
 topic: Derivative litigation
 feeds_module: "[[Direct versus derivative claims - the Tooley test]]"
 read_for: 2026-10-21

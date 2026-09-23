@@ -4,6 +4,7 @@ citation: 580 F. Supp. 542
 court: E.D. Mich.
 year: 1984
 class: busorg
+session: 2
 topic: Agency
 feeds_module: "[[Agent duty of loyalty - self-dealing]]"
 read_for: 2026-09-30

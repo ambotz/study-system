@@ -4,6 +4,7 @@ citation: 102 A.3d 155
 court: Del. Ch.
 year: 2014
 class: busorg
+session: 24
 topic: Creditors
 feeds_module: "[[Fiduciary duties on insolvency - Gheewalla standing and the Quadrant line]]"
 read_for: 2026-11-19

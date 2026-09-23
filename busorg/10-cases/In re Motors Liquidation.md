@@ -4,6 +4,7 @@ citation: 777 F.3d 100
 court: 2d Cir.
 year: 2015
 class: busorg
+session: 2
 topic: Agency
 feeds_module: "[[Agency - actual authority]]"
 read_for: 2026-09-30

@@ -4,6 +4,7 @@ citation: 285 A.2d 437
 court: Del. Supr.
 year: 1971
 class: busorg
+session: 21
 topic: Stockholder franchise
 feeds_module: "[[Interference with the franchise - Schnell, Blasius and the Coster standard]]"
 read_for: 2026-11-12

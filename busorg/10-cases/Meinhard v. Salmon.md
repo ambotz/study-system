@@ -4,6 +4,7 @@ citation: 249 N.Y. 458
 court: N.Y. Ct. App.
 year: 1928
 class: busorg
+session: 3
 topic: Partnership
 feeds_module: "[[Partnership loyalty - business opportunity]]"
 read_for: 2026-10-01

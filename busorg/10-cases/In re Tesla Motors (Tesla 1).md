@@ -4,6 +4,7 @@ citation: 2018 WL 1560293
 court: Del. Ch.
 year: 2018
 class: busorg
+session: 9
 topic: Controlling stockholders
 feeds_module: "[[Controlling stockholder transactions - the self-dealing trigger]]"
 read_for: 2026-10-15

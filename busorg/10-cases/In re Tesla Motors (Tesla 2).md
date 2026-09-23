@@ -4,6 +4,7 @@ citation: 298 A.3d 667
 court: Del. Ch.
 year: 2022
 class: busorg
+session: 10
 topic: Controlling stockholders
 feeds_module: "[[Controlling stockholder safe harbours - 144(b) and (c)]]"
 read_for: 2026-10-19

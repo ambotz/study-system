@@ -4,6 +4,7 @@ citation: 199 A.2d 548
 court: Del. Supr.
 year: 1964
 class: busorg
+session: 17
 topic: Takeover defences
 feeds_module: "[[Selective repurchases and greenmail - 160(a) and the primary purpose test]]"
 read_for: 2026-11-04

@@ -4,6 +4,7 @@ citation: 727 A.2d 286
 court: Del. Supr.
 year: 1999
 class: busorg
+session: 25
 topic: LLCs
 feeds_module: "[[LLCs - freedom of contract, default duties and the implied covenant]]"
 read_for: 2026-11-30

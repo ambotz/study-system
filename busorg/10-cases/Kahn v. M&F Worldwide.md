@@ -4,6 +4,7 @@ citation: 88 A.3d 635
 court: Del. Supr.
 year: 2014
 class: busorg
+session: 15
 topic: Controlling stockholders
 feeds_module: "[[Controller buyouts - the MFW dual protection structure]]"
 read_for: 2026-10-29

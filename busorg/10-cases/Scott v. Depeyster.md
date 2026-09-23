@@ -4,6 +4,7 @@ citation: 1 Edw. Ch. 513
 court: N.Y. Ch.
 year: 1832
 class: busorg
+session: 4
 topic: Deference to directors
 feeds_module: "[[Director oversight - honest mistake and ordinary diligence]]"
 read_for: 2026-10-05

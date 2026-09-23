@@ -4,6 +4,7 @@ citation: 637 A.2d 34
 court: Del. Supr.
 year: 1994
 class: busorg
+session: 19
 topic: Sale of control
 feeds_module:
   - "[[Sale of control - Revlon and the duty to maximise price]]"

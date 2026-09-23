@@ -4,6 +4,7 @@ citation: 2016 WL 4045411
 court: Del. Ch.
 year: 2016
 class: busorg
+session: 11
 topic: Derivative litigation
 feeds_module: "[[Direct versus derivative claims - the Tooley test]]"
 read_for: 2026-10-21

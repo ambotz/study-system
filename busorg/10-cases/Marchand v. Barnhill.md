@@ -4,6 +4,7 @@ citation: 212 A.3d 805
 court: Del. Supr.
 year: 2019
 class: busorg
+session: 8
 topic: Oversight
 feeds_module: "[[Oversight liability - Caremark and good faith]]"
 read_for: 2026-10-14

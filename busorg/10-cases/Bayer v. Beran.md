@@ -4,6 +4,7 @@ citation: 49 N.Y.S.2d 2
 court: N.Y. Sup. Ct.
 year: 1944
 class: busorg
+session: 7
 topic: Interested transactions
 feeds_module: "[[Interested director and officer transactions - 144(a)]]"
 read_for: 2026-10-13

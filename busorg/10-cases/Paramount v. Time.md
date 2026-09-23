@@ -4,6 +4,7 @@ citation: 571 A.2d 1140
 court: Del. Supr.
 year: 1990
 class: busorg
+session: 19
 topic: Takeover defences
 feeds_module:
   - "[[Takeover defences - Unocal enhanced scrutiny]]"

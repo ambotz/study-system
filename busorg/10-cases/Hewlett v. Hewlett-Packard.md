@@ -4,6 +4,7 @@ citation: 2002 WL 549137
 court: Del. Ch.
 year: 2002
 class: busorg
+session: 20
 topic: Stockholder voting
 feeds_module: "[[Voting agreements and vote buying - 218 and the Schreiber test]]"
 read_for: 2026-11-11

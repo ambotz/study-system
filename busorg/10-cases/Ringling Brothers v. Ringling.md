@@ -4,6 +4,7 @@ citation: 53 A.2d 441
 court: Del. Supr.
 year: 1947
 class: busorg
+session: 20
 topic: Stockholder voting
 feeds_module: "[[Voting agreements and vote buying - 218 and the Schreiber test]]"
 read_for: 2026-11-11

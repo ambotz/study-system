@@ -4,6 +4,7 @@ citation: 824 A.2d 917
 court: Del. Ch.
 year: 2003
 class: busorg
+session: 12
 topic: Derivative litigation
 feeds_module: "[[Special litigation committees - the Zapata two-step]]"
 read_for: 2026-10-22

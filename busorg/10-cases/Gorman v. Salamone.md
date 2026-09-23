@@ -4,6 +4,7 @@ citation: 2015 WL 4719681
 court: Del. Ch.
 year: 2015
 class: busorg
+session: 5
 topic: Director primacy
 feeds_module: "[[Director primacy - limits on constraining the board]]"
 read_for: 2026-10-07

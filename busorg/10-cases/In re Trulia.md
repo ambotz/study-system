@@ -4,6 +4,7 @@ citation: 129 A.3d 884
 court: Del. Ch.
 year: 2016
 class: busorg
+session: 14
 topic: Deal litigation
 feeds_module: "[[Disclosure settlements in deal litigation - the give and the get]]"
 read_for: 2026-10-28
