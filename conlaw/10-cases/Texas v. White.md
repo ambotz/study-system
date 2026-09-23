@@ -15,7 +15,7 @@ read_for: null
 posture_drove_outcome: true
 ---
 
-> [!caution] Source check — The casebook prints only the Chief Justice's opinion and omits the dissents; Justice Grier dissented on all points and Justices Swayne and Miller dissented separately on whether Texas was a State in the Union for jurisdictional purposes, so nothing here is quoted from them. The casebook also omits the posture and the statement of facts, which are taken from the U.S. Reports. The casebook cites the case as 1868 (the December 1868 Term); it was decided April 12, 1869, and is usually cited as 1869. On p. 776 the 4th-ed. text reads "a discretion in the choice of means is necessary allowed," which looks like a typo for "necessarily allowed"; check the 5th ed.
+> [!caution] Source check — Grier's dissent and the Swayne/Miller opinion below are from the 5th ed. (scanned pp. 774–780); the 4th-ed. EPUB prints only the Chief Justice's opinion. The casebook omits the posture and statement of facts, which are taken from the U.S. Reports. The casebook cites the case as 1868 (the December 1868 Term); it was decided April 12, 1869, and is usually cited as 1869.
 
 ## Rule
 
@@ -112,8 +112,19 @@ The United States issued bonds in 1851, payable after 1864, to the State of Texa
 
 ### Dissent / concurrence
 
-- The casebook prints no separate opinion. It should be read knowing that the decision was divided: Justice Grier dissented from the whole of it, arguing that whether Texas was a State of the Union was a political question already answered by Congress, which had refused her representation, and that the Court should not hold Texas to be a State when Congress had decided she was not. Justices Swayne and Miller dissented separately on the same jurisdictional ground while agreeing that the bonds had been unlawfully sold.
-- The dissenting position is the mirror image of Chase's: it takes the suspension of Texas's rights as a member seriously enough to deny her the rights of a State in the Court as well as in Congress, and it treats Reconstruction as a political settlement the judiciary should not second-guess.
+**(Grier, J., dissenting)**
+
+- Jurisdiction turns on a fact, not a doctrine: "Is Texas one of these United States? . . . This is to be decided as a political fact, not as a legal fiction. This court is bound to know and notice the public history of the nation."
+- The public history answers it. Texas has no senators, her voice "has not been heard in the late election of President," and she "is not now held and governed as a conquered province by military force" — the Act of March 2, 1867 declares her a "rebel State" and puts her in the fifth military district, "subject, not to the civil authority, but to the 'military authorities of the United States.'"
+- The comparison that makes the point sting: federal courts sit in Dakota and among the Indian tribes too, and neither is a State. "Wherein does the condition of Texas differ from theirs?"
+- He will not contradict the political branches: "I am not disposed to join in any essay to prove Texas to be a State of the Union, when Congress have decided that she is not. It is a question of fact, I repeat, and of fact only. Politically, Texas is not a State in this Union. Whether rightfully out of it or not is a question not before the court."
+- On the merits, Texas argues out of both sides: "Having relied upon one fiction, namely, that she is a State in the Union, she now relies upon a second one . . . that she was not a State at all during the five years that she was in rebellion. She now sets up the plea of insanity, and asks the court to treat all her acts made during the disease as void."
+- His closing line is worth knowing: "A court of chancery is said to be a court of conscience; and however astute may be the argument introduced to defend this decree, I can only say that neither my reason nor my conscience can give assent to it."
+
+**(Swayne, J., joined by Miller, J.)**
+
+- Agrees with Grier "as to the incapacity of the State of Texas, in her present condition, to maintain an original suit in this court," and says the question is one "in relation to which this court is bound by the action of the legislative department of the government."
+- Agrees with the majority on the merits — so the split is entirely about jurisdiction and who decides Texas's status.
 
 ### Cold-call notes
 

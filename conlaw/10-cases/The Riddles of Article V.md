@@ -12,6 +12,8 @@ feeds_module:
 read_for: null
 ---
 
+> [!caution] Source check — This is the 4th ed.'s Article V chapter, which the 5th ed. replaced. The assigned 5th-ed. pages (805–815) drop the twenty numbered questions and build the chapter around three worked examples instead: [[Dillon v. Gloss]], [[OLC Opinion on the Congressional Pay Amendment|the 1992 OLC opinion]] and [[The Equal Rights Amendment]]. Several of these questions survive as notes to those readings; keep this file as a question bank, not as the assigned text.
+
 ## What it is
 
 The casebook's twenty numbered questions on Article V, pp. 804–812 — the substance of Class 26. There is no case and almost no doctrine: the questions run from the Twenty-seventh Amendment outward to time limits, who judges a ratification's validity, rescission, unratified proposals, entrenchment, the Fourteenth Amendment's adoption, amendment outside Article V, and the convention route.

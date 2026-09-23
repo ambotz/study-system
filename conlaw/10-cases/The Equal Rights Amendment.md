@@ -1,34 +1,36 @@
 ---
 reading: "The Equal Rights Amendment"
 kind: note
-source: "Paulsen, McConnell, Bray & Baude (4th ed. 2021), pp. 806–807 (syllabus cites 5th ed. pp. 805–815)"
+source: "Paulsen, McConnell, Bray & Baude (5th ed. 2022), pp. 813–815 (scan in 00-source)"
 class: conlaw
 session: 26
-topic: "Amendment process — ratification deadlines and rescission"
+topic: "Amendment process — deadlines, rescission and certification"
 feeds_module: "[[Amendment process - Art. V]]"
 read_for: null
 ---
 
-> [!caution] Source check — The 4th ed. covers the ERA only inside Questions 11 and 12 of the Article V riddles (pp. 806–807), not as its own section; the syllabus's separate "Equal Rights Amendment" item suggests the 5th ed. may treat it at greater length. The post-2021 developments below were verified by search and are dated; check them against whatever the 5th ed. and Canvas add.
-
 ## What it is
 
-The casebook's treatment of the Equal Rights Amendment, at Questions 11 and 12 of the Article V riddles (pp. 806–807). The ERA is the live test case for two of the chapter's questions: whether Congress may change a ratification deadline it has already set, and whether a state may rescind a ratification before the three-fourths threshold is crossed.
+"A Note on the Equal Rights Amendment," the last of the chapter's three examples and the only one still open. The ERA was proposed in 1972 to guarantee "Equal rights under the law" from the state and federal governments without regard to "sex." The conventional wisdom is that it was never ratified "and may be dead. But a pending lawsuit filed by several states against the archivist of the United States argues otherwise."
 
 ## What to notice
 
-- **The deadline and the extension.** "Congress initially enacted a seven-year time limit for ratification, as part of the joint resolution proposing the ERA. As the deadline neared without enough states ratifying, Congress voted to extend the deadline by three years and three months. Was this permissible?"
-- **Where the deadline sat matters.** It was in the *proposing resolution*, not in the amendment's text — the distinction Question 2 draws. An argument that Congress may revisit its own resolution is stronger than an argument that it may revisit text the states ratified.
-- **The two scholarly positions the casebook names.** Ruth Bader Ginsburg, *Ratification of the Equal Rights Amendment: A Question of Time*, 57 Tex. L. Rev. 919 (1979), answering yes; Michael Stokes Paulsen, *A General Theory of Article V*, 103 Yale L.J. 677, 726 (1993), concluding "that Congress needed to enact a new amendment proposal and solicit new ratifications."
-- **The count, and the two assumptions inside it.** "[B]y one count it has now received 38 ratifications, if one ignores the deadlines and also ignores states that have tried to rescind." Both conditions have to hold for the count to work, and each is one of the chapter's open questions.
-- **Rescission.** Idaho rescinded while the proposal was pending, and *Idaho v. Freeman*, 529 F. Supp. 1107 (D. Idaho 1981), upheld the rescission before the issue was vacated as moot, *National Organization for Women v. Idaho*, 459 U.S. 809 (1982). The Fourteenth Amendment precedent cuts the other way in practice: Ohio's and New Jersey's rescissions appear not to have been counted.
-- **The executive branch's position.** "In 2020, the Office of Legal Counsel issued an opinion concluding that the ERA was dead; the amendment process would need to begin all over again." *Ratification of the Equal Rights Amendment*, 44 Op. O.L.C. 12, 24 (Jan. 6, 2020). Note the pattern from [[The Congressional Pay Amendment]]: OLC and the Archivist, not a court, decide in the first instance what is in the Constitution.
-- **After the 4th ed.** On January 17, 2025, President Biden issued a statement declaring the ERA "the law of the land" as the Twenty-eighth Amendment. The Archivist of the United States did not certify or publish it, taking the position that the 2020 OLC opinion and the expired deadline controlled. Nothing changed in the certified text of the Constitution, and no court has resolved it. The episode is a clean illustration of Question 5: a presidential statement is not a ratification, and the certifying officer's refusal is what actually determines the published text.
-- **The questions to be able to answer.** Was the extension valid? If yes, does the ERA now have 38 ratifications, or do Idaho's and the other rescissions subtract? If a proposal without a deadline can ripen after 203 years ([[The Congressional Pay Amendment]]), why should one *with* an expired deadline be dead — and does that asymmetry suggest the deadline was always doing the real work?
+- **The arithmetic, and why it is contested.** Congress imposed a seven-year limit. By its expiry 35 states had ratified, but five had attempted to rescind. "Either way, 30 or 35 are both short of the 38 states needed."
+- **The deadline was not in the amendment's text.** "It was set forth in a separate joint resolution." That placement is what makes the extension arguable at all, and it is the distinction Question 2 of the chapter's older question set turned on.
+- **The extension, and its defect.** Congress passed a new resolution extending the deadline to 1982. "This new resolution did not get two-thirds majority in Congress, but it was signed by President Carter." Compare Ginsburg, 57 Tex. L. Rev. 919 (1979) (defending it) with Paulsen, 103 Yale L.J. 677, 726 (1993) (rejecting it) — and note the casebook's aside that the dispute "does not matter, because no new states ratified" before the new deadline lapsed.
+- **The late ratifications.** Nevada in 2017, Illinois in 2018, Virginia in 2020. "That brings the count to 38, if one ignores the time limit, and if one assumes that states cannot rescind their ratification."
+- **The three premises the argument needs**, which is the structure to memorize:
+    - **One: there is no time limit.** Either Congress cannot add requirements not in Article V's "carefully written text," or it cannot do so "in a separate joint resolution, but only in the text of the amendment itself."
+    - **Two: states cannot rescind.** Everyone agrees rescission fails after the three-fourths threshold — "the scale-tipping ratification locks the amendment in place." Before the threshold is the open question: "Is ratification like a light-switch that a state can turn on and then off again?" Ohio and New Jersey tried it with the Fourteenth Amendment and Congress thought they could not, but "it didn't end up mattering and the issue was never resolved." Idaho's ERA rescission produced *Idaho v. Freeman*, 529 F. Supp. 1107 (D. Idaho 1981), vacated as moot, 459 U.S. 809 (1982).
+    - **Three: once three-fourths is reached, the political branches have no power to reject the ratification.** Neither the executive branch nor Congress has recognized the ERA as ratified, and the pending suit seeks to force the Archivist to do so. "Is that something the courts may do, or does the judgment rest in the political branches?"
+- **The scholarly hedge the casebook quotes.** "There is a credible argument that the ERA is already part of the Constitution based on Article V." Pozen & Schmidt, 121 Colum. L. Rev. at 2369. The casebook's own view: "It seems like a stretch," and it points out that unlike the Twenty-seventh Amendment the ERA "is not included in the text of the Constitution on p. 14 of this book."
+- **The closing hypotheticals, which are cold-call bait.** If ratification is a political question and the Archivist changes his mind and accepts the amendment, "[m]ight that be enough? What if Congress also passes a resolution accepting the amendment as ratified? Or what if Congress also extends the deadline again, and Nevada, Illinois, and Virginia re-ratify?"
+- **After the casebook.** On January 17, 2025, President Biden issued a statement calling the ERA "the law of the land" as the Twenty-eighth Amendment. The Archivist did not certify or publish it, relying on the 2020 OLC opinion and the expired deadline, so the certified text of the Constitution did not change and no court has resolved the question. The episode is premise three in action: a presidential statement is not a ratification, and the certifying officer's refusal is what determines the published text.
+- **The asymmetry worth pressing.** The Twenty-seventh Amendment had no deadline and ripened after 203 years; the ERA had a deadline, missed it, and is dead on the conventional view. If Article V contains no time limit — [[OLC Opinion on the Congressional Pay Amendment|the OLC's position]] — then the only thing killing the ERA is a congressional resolution that Article V never authorized.
 
 ## Where it goes
 
 - [[Amendment process - Art. V]] — deadlines, rescission, and who certifies.
-- [[The Riddles of Article V]] — Questions 11 and 12, which this reading is.
-- [[The Congressional Pay Amendment]] — the mirror image: no deadline, two centuries, and acceptance.
+- [[The Congressional Pay Amendment]] — the mirror case: no deadline, two centuries, and acceptance.
+- [[OLC Opinion on the Congressional Pay Amendment]] — the reasoning that, applied here, would revive the ERA.
 - [[Dillon v. Gloss]] — the authority for a deadline in the first place.

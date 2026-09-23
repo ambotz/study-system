@@ -9,6 +9,7 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 - `PMBB4` — Paulsen, McConnell, Bray & Baude, The Constitution of the United States (4th ed. 2021). EPUB with the print edition's page numbers embedded, so printed page = EPUB page.
 - `PMBB5` — Same, 5th ed. 2022 — the edition the syllabus cites. Not held. Its page ranges are kept as syllabus_pp on each reading.
+- `SCAN5` — Paulsen, McConnell, Bray & Baude (5th ed. 2022) — library copy, selected ranges scanned into 00-source
 
 ### Optional background — Optional background (before the quarter)
 
@@ -84,6 +85,8 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 9 — War
 
+- [[A Note on Executive Agreements]] — pp. 300–302 · note
+    - Not named in the syllabus, but inside its page range. The 5th ed. updates the Iran paragraph through 2021.
 - [[Madison's Notes on the War Power]] — pp. 302–305 · document
     - Includes the casebook's framing notes (Starting War; Text; Historical Context), 302–304.
 - [[The Prize Cases]] — pp. 305–314 · case
@@ -222,14 +225,16 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 26 — Article V
 
-- [[The Congressional Pay Amendment]] — pp. 803–804 · note
-    - 4th ed. frames the whole chapter around it ('A Perfect Problem').
+- [[The Congressional Pay Amendment]] — pp. 805–806 · note
+    - Rewritten from the 5th-ed. scan; the 5th ed. rebuilt this chapter around three worked examples.
+- [[Dillon v. Gloss]] — pp. 806–808 · case
+    - Excerpted in the 5th ed. only; the 4th ed. cites it in a note at p. 804.
+- [[OLC Opinion on the Congressional Pay Amendment]] — pp. 808–813 · document
+    - 16 Op. O.L.C. 85 (1992). In the 5th ed. only.
+- [[The Equal Rights Amendment]] — pp. 813–815 · note
+    - 'A Note on the Equal Rights Amendment', a standalone section in the 5th ed.
 - [[The Riddles of Article V]] — pp. 804–812 · note
-    - The 4th ed.'s treatment of Article V, as numbered questions. Dillon is cited at 804; the ERA is discussed at 806–807.
-- [[Dillon v. Gloss]] — case
-    - Not excerpted in the 4th ed. (cited in a note at p. 804). Briefed from the public-domain opinion; confirm against 5th ed. pp. 805-815.
-- [[The Equal Rights Amendment]] — pp. 806–807 · note
-    - PARTIAL: the 4th ed. has questions only, not a section. The 5th ed. likely treats it more fully. Get 5th ed. pp. 805–815.
+    - 4th-ed. material only — the twenty numbered questions the 5th ed. replaced. Keep as a question bank.
 
 ### Class 27 — Article VI
 
