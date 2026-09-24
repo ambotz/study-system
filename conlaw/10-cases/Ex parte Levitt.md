@@ -14,7 +14,7 @@ read_for: null
 posture_drove_outcome: true
 ---
 
-> [!caution] Source check — The casebook's excerpt cuts the disposition line; "the motion failed" paraphrases it.
+> [!caution] Source check — Both editions cut the disposition line (5th ed. p. 420); "the motion failed" paraphrases it.
 
 ## Rule
 

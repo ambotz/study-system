@@ -15,7 +15,7 @@ read_for: null
 posture_drove_outcome: true
 ---
 
-> [!caution] Source check — The casebook text garbles the opinion's last sentence; only the clean fragment is quoted.
+> [!caution] Source check — Both editions garble the opinion's last sentence identically ("to assume a position of authority over plainly we do not possess," 5th ed. p. 425), so only the clean fragment is quoted. The U.S. Reports reads "authority over the governmental acts of another and co-equal department, an authority which plainly we do not possess."
 
 ## Rule
 

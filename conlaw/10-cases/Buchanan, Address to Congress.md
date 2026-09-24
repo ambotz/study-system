@@ -13,7 +13,7 @@ feeds_module:
 read_for: null
 ---
 
-> [!caution] Source check — The extract starts partway down p. 760, so the casebook's Guarantee Clause introduction at p. 759 is missing; only its closing paragraph (on p. 760) is used here. The 4th-ed. text has two apparent typos, "beatings" (for "bearings") and "rounded upon inference" (for "founded"); check both against the 5th ed.
+> [!note] Quotation — "the whole question in all its beatings" (for "bearings") and "altogether rounded upon inference" (for "founded") are printed that way in both editions (5th ed. p. 762 and p. 763). They are the casebook's typos, not extraction errors; quote them as printed or silently correct them. The Guarantee Clause introduction that opens the assignment is the heading "F. The Guarantee Clause: Secession and Representation," the text of Art. IV, § 4, and the paragraph quoted below (5th ed. pp. 760–761).
 
 ## What it is
 

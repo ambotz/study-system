@@ -12,11 +12,9 @@ feeds_module:
 read_for: null
 ---
 
-> [!caution] Source check — The 4th ed. stops in early 2021. The 5th ed. may update this section; the post-2021 events here were added from verified sources.
-
 ## What it is
 
-The casebook's last war-initiation materials (pp. 322–325): the text of the Authorization for Use of Military Force of September 18, 2001 (Pub. L. No. 107–40) with two notes, and a note titled "The War Powers Debate Continues: Syria and Soleimani," covering the Office of Legal Counsel's opinion on the April 2018 Syria airstrikes, the January 2020 Soleimani strike and the vetoed Iran resolution, and President Biden's February 2021 Syria strike. The 4th edition stops in early 2021; the syllabus cites the 5th edition, which may carry this note forward.
+The casebook's last war-initiation materials (pp. 322–325): the text of the Authorization for Use of Military Force of September 18, 2001 (Pub. L. No. 107–40) with two notes, and a note titled "The War Powers Debate Continues: Syria and Soleimani," covering the Office of Legal Counsel's opinion on the April 2018 Syria airstrikes, the January 2020 Soleimani strike and the vetoed Iran resolution, and President Biden's February 2021 Syria strike. The 5th edition (pp. 322–324) reprints the section unchanged, so both editions stop at February 2021.
 
 ## What to notice
 
@@ -57,7 +55,7 @@ The casebook's last war-initiation materials (pp. 322–325): the text of the Au
   - A months-long air campaign: OLC's own reservation that "prolonged and substantial engagements" may require authorization is triggered, and the WPR 60-day clock runs.
   - A ground invasion to remove a government: OLC's reasoning does not reach it; Panama 1989 is the executive's precedent, and it is contested.
 - **The Youngstown frame throughout.** Every episode here is external force, where Jackson gave the President his widest latitude. The limit comes from the Declare War Clause, not from the inward/outward line: outward force is where the President is strongest to command, but the Convention placed the decision to begin in Congress.
-- **After the casebook (verified).** In December 2025 the National Defense Authorization Act for Fiscal Year 2026 repealed the 1991 Gulf War and 2002 Iraq AUMFs, removing the statutory basis claimed for the Soleimani strike. In June 2025 the United States struck Iranian nuclear facilities without congressional authorization, and on June 27, 2025 the Senate rejected a war powers resolution directed at further hostilities with Iran. Check the 5th edition and the syllabus for what Baude assigns.
+- **After the casebook (verified).** In December 2025 the National Defense Authorization Act for Fiscal Year 2026 repealed the 1991 Gulf War and 2002 Iraq AUMFs, removing the statutory basis claimed for the Soleimani strike. In June 2025 the United States struck Iranian nuclear facilities without congressional authorization, and on June 27, 2025 the Senate rejected a war powers resolution directed at further hostilities with Iran. None of these events is in either edition of the casebook.
 
 ## Where it goes
 

@@ -1,0 +1,91 @@
+---
+topic: Separation of powers
+sub_topic: Art. I § 1, Art. II § 1 and Art. III § 1 — the vesting clauses, the asymmetry of "herein granted," and the system of checks
+authority:
+  - U.S. Const. art. I, § 1
+  - U.S. Const. art. I, § 5
+  - U.S. Const. art. I, § 7
+  - U.S. Const. art. I, § 9, cl. 7
+  - U.S. Const. art. II, § 1
+  - U.S. Const. art. II, § 2, cl. 2
+  - U.S. Const. art. II, § 3
+  - U.S. Const. art. II, § 4
+  - U.S. Const. art. III, § 1
+  - U.S. Const. art. III, § 2
+  - U.S. Const. art. I, § 8, cl. 18
+professor_emphasis: 3
+exam_likelihood: high
+confidence: 1
+last_drilled: 
+---
+
+## Rule statement
+
+The Constitution divides the national government by function and vests each function in a different department: Art. I, § 1 gives Congress "[a]ll legislative Powers herein granted," Art. II, § 1 gives the President "[t]he executive Power," and Art. III, § 1 gives the courts "[t]he judicial Power of the United States." A branch may not exercise a power the Constitution vests in another, and because the departments' boundaries are what [[A Map of Article I|Federalist 48]] calls "parchment barriers," the design relies on giving each branch "the necessary constitutional means and personal motives to resist encroachments of the others." The separation is "not absolutely pure": lawmaking is shared through bicameralism and presentment, appointment through nomination and consent, and war through declaration and command. The operative rule in litigation is that an arrangement reallocating a vested power is void even when both political branches agreed to it ([[INS v. Chadha]], [[Clinton v. City of New York]]); the standing contest is between formalism, which classifies the act and asks who holds that power ([[INS v. Chadha]], Black in [[Youngstown Sheet & Tube Co. v. Sawyer]]), and functionalism, which asks whether the arrangement in fact aggrandizes one branch or impedes another (White in [[INS v. Chadha]], Jackson in [[Youngstown Sheet & Tube Co. v. Sawyer]]), with the original-meaning question underneath both being whether Article II's omission of "herein granted" vests a residual executive power.
+
+## Elements
+
+1. **Identify the act by its character and effect, not its label or its author.** Action is legislative when it "alter[s] the legal rights, duties, and relations of persons ... outside the Legislative Branch" ([[INS v. Chadha]]); an agency's label as a "legislative branch" body does not control ([[Buckley v. Valeo]]), and neither does calling a power "quasi legislative" ([[Trump v. Slaughter]]).
+2. **Locate the power in a vesting clause, then in the specific clauses.** Article I is limited to powers "herein granted" and enumerated mostly in § 8; Article III grants "the judicial Power" and then lists the cases and controversies; Article II grants "the executive Power" followed by a seemingly random list, which is why removal, unmentioned anywhere, must come from the Vesting Clause or from nothing ([[Introduction to Article II]]).
+3. **Ask whether the Constitution expressly shares or divides the power.** Bicameralism and presentment for lawmaking (Art. I, § 7); nomination plus Senate consent for principal officers (Art. II, § 2, cl. 2); House impeachment and Senate trial (Art. I, §§ 2–3; Art. II, § 4). A shared power is exercised only through the shared procedure.
+4. **If a single actor is acting alone, ask whether an express exception covers it.** The Constitution names only four occasions on which one House acts alone with the force of law: House impeachment, Senate trial, Senate confirmation, Senate treaty ratification ([[INS v. Chadha]]).
+5. **Ask whether consent cures.** It does not. Congress cannot hand the President a share in § 7 ([[Clinton v. City of New York]]); Congress cannot reserve to itself a veto the President accepted as the price of delegation ([[INS v. Chadha]]); Congress cannot appoint officers even where conflict of interest makes presidential appointment awkward ([[Buckley v. Valeo]]).
+6. **Where the text is silent or the powers may be concurrent, run the relational analysis.** Presidential power "fluctuate[s], depending upon [its] disjunction or conjunction with those of Congress": maximum on authorization, a "zone of twilight" on silence, "lowest ebb" against Congress's expressed will, where the act survives only if the power is "conclusive and preclusive" ([[Youngstown Sheet & Tube Co. v. Sawyer]]).
+7. **Test any argument from practice against Frankfurter's filter.** Practice glosses "executive Power" only if it is "systematic, unbroken," "long pursued to the knowledge of the Congress and never before questioned" ([[Youngstown Sheet & Tube Co. v. Sawyer]]); the majority in [[Trump v. Slaughter]] adds that there is no "practice-makes-perfect theory of congressional power" and that "[n]o branch may rely on adverse possession to claim power that the Constitution vests elsewhere."
+8. **Ask, last, which branch gains.** Checks and balances are "a self-executing safeguard against the encroachment or aggrandizement of one branch at the expense of the other" ([[Buckley v. Valeo]]), and the question to answer on the facts is whether the acting branch has taken something, or merely defended itself.
+
+## Standard of review / burden
+
+There is no tiered scrutiny here: a structural question is answered de novo, and once an act is classified as belonging to another branch the inquiry ends, because "policy arguments supporting even useful 'political inventions' are subject to the demands of the Constitution" and "the Framers ranked other values higher than efficiency" ([[INS v. Chadha]]). The burden sits on whoever claims a power the text does not plainly give: a President acting against Congress's expressed will must show the power is "conclusive and preclusive" ([[Youngstown Sheet & Tube Co. v. Sawyer]]), and Congress invoking the Necessary and Proper Clause cannot use it to do what another clause "by clear implication prohibits" ([[Buckley v. Valeo]]). Much of the field has no judicial standard at all and is filled by politics and practice: impeachment is tried by the Senate and needs two-thirds, which is what separates it from a no-confidence vote ([[The Impeachment of Andrew Johnson]]); the decision not to prosecute "cannot be coerced or reviewed by the courts" and is checked by the electorate ([[United States v. Cox]]); and the courts will not advise the President outside a case at all, both because answering would destroy the Court as a check and because the same question may return "as judges of a court in the last resort" ([[The Correspondence of the Justices]]). Article III itself is the gate: a State or taxpayer complaining that Congress usurped reserved powers raises "abstract questions of political power" rather than a case ([[Massachusetts v. Mellon; Frothingham v. Mellon]]), while the House as an institution may sue when the executive draws money with no appropriation, because that injury belongs to it alone ([[U.S. House of Representatives v. Burwell]]). Where the claim is a genuine separation-of-powers question the political-question route is usually closed: [[INS v. Chadha]] held the challenge justiciable, and [[U.S. House of Representatives v. Burwell]] held that the House's identity as plaintiff "does not turn this suit into a non-justiciable 'political' dispute."
+
+## Exceptions
+
+- **The four express one-House powers.** Impeachment by the House, trial by the Senate, confirmation and treaty ratification by the Senate operate without bicameralism or presentment ([[INS v. Chadha]]).
+- **Each House's internal governance.** Under Art. I, § 5 each house judges its members' elections and qualifications, sets its own rules, and punishes or expels; each may appoint its own officers "to assist in the legislative processes" without offending the Appointments Clause ([[A Map of Article I]], [[Buckley v. Valeo]]).
+- **Bodies exercising no executive power.** A commission that only investigates, holds hearings and reports to Congress may be staffed by Congress ([[Buckley v. Valeo]]), and what survives of [[Humphrey's Executor v. United States]] after [[Trump v. Slaughter]] is only the "observation" that an entity exercising "no part of the executive power" falls outside the removal rule.
+- **The Federal Reserve.** Reserved in Part III-B of [[Trump v. Slaughter]] "to the extent that it follows in the distinct historical tradition of the First and Second Banks of the United States," and upheld the same day in [[Trump v. Cook]], where the Governors' for-cause protection was held "consistent with the Constitution."
+- **Non-Article III judges and purely adjudicatory bodies.** Expressly reserved in [[Trump v. Slaughter]]; the independence rationale is at its height where the officer decides cases.
+- **Executive discretion not to act.** A refusal to sign an indictment is unreviewable ([[United States v. Cox]]); the President's "checks" on Congress and the courts include setting enforcement priorities and controlling which issues reach court ([[An Introduction to the Separation of Powers]]).
+- **Historical gloss.** A long, systematic, unchallenged practice known to Congress can settle a contested allocation, which is how the [[Trump v. Slaughter]] majority uses early practice to "liquidate[] & settle[]" the removal power; Frankfurter's filter in [[Youngstown Sheet & Tube Co. v. Sawyer]] is what keeps this from swallowing the rule.
+- **Not decided: a short, self-terminating emergency seizure.** Frankfurter expressly reserved a seizure that was "short, explicitly temporary" and ended automatically unless Congress approved ([[Youngstown Sheet & Tube Co. v. Sawyer]]).
+- **Not decided: whether Congress may deport or otherwise burden named individuals by statute.** [[INS v. Chadha]] says the result "could have been achieved, if at all, only by legislation," and the "if at all" points to the Bill of Attainder problem of [[United States v. Lovett]] and to Powell's adjudication rationale.
+- **Not decided: how far the Executive can bind itself.** [[United States v. Nixon]] held the Executive bound by its own Special Prosecutor regulation "[s]o long as this regulation remains in force," which sits uneasily with the unitary-executive premise of [[Trump v. Slaughter]].
+
+## Leading case
+
+[[Youngstown Sheet & Tube Co. v. Sawyer]]
+
+- Holds that the President's power "must stem either from an act of Congress or from the Constitution itself," and that seizing steel mills to avert a strike is "a job for the Nation's lawmakers, not for its military authorities."
+- The fact that drove it: Congress had considered emergency seizure in the 1947 Taft-Hartley debates and voted it down, which is why the case is category three rather than the "zone of twilight" — congressional silence and a congressional refusal are not the same thing.
+- Black's opinion for the Court is the formalist pole: the order "directs that a presidential policy be executed in a manner prescribed by the President," which is legislation, and the Take Care Clause "refutes the idea that he is to be a lawmaker."
+- Jackson's concurrence, not Black's opinion, became the law, because it is the only opinion supplying a framework for cases other than this one; it reads the Vesting Clause as an allocation of the powers "thereafter stated" rather than "a grant in bulk of all conceivable executive power," and notes that the Framers would not have listed "several specific items, including some trifling ones" if the first sentence gave everything.
+- Rejects inherent emergency power outright: the Framers "knew what emergencies were" and wrote one emergency provision, the Suspension Clause, which sits in Article I; emergency powers "would tend to kindle emergencies," and Jackson points to Weimar's Article 48.
+- Frankfurter supplies the historical-gloss test and then fails the practice on it, distinguishing three seizures in six months of 1941 from a systematic and unquestioned course of dealing.
+- Douglas runs the structural argument through the Takings Clause: a seizure requires compensation, only Congress can appropriate, so only Congress can authorize the taking — which ties this module to [[The power of the purse - Art. I § 9 cl. 7 appropriations]].
+- The sentence worth quoting: "With all its defects, delays and inconveniences, men have discovered no technique for long preserving free government except that the Executive be under the law, and that the law be made by parliamentary deliberations."
+
+## Best counter-case
+
+[[Trump v. Slaughter]]
+
+- Cuts the other way on the central premise. [[Youngstown Sheet & Tube Co. v. Sawyer]] makes presidential power relational and contingent on what Congress has said; Slaughter holds that a power the Constitution vests in the President is as far outside Congress's control as the pardon or the veto, so a default rule and an indefeasible rule are "one and the same."
+- Holds that the FTC Act's for-cause removal provision "is contrary to the separation of powers," because vesting the executive power in one President "was to establish a hierarchy" and "[t]o remain accountable to the President, those officers must be removable by the President."
+- The distinguishing fact is the kind of power, not the structure of the agency: the FTC makes binding rules, adjudicates in-house and sues for penalties, and "when [an agency] executes a statute against private parties, it exercises executive power — no ifs, ands, or quasis about it." Number of heads is irrelevant.
+- Argue the Slaughter side: Article II's Vesting Clause has no "herein granted"; the [[The Decision of 1789|Decision of 1789]] liquidated the removal power with Madison's view that the legislature "has no right to diminish or modify" it; and independence from the President is not independence from politics but "increased subservience to congressional direction."
+- Argue the Youngstown side: the Framers separated powers "not to promote efficiency but to preclude the exercise of arbitrary power" (Brandeis, quoted by Frankfurter); Congress is entitled to set the terms of offices it creates; and Sotomayor's answer is that there is "no evidence that those who shaped or ratified the Constitution adopted the ... general rule of at-will removal," with Federalist Nos. 39 and 77 contemplating legislative regulation of tenure.
+- The companion case is the sharper counter still: [[Trump v. Cook]] upholds for-cause protection for Federal Reserve Governors on a purely historical rationale, holds that a President may not find cause "for any reason, or no reason," and lets equity keep a removed officer in place pending litigation. Slaughter and Cook together show that the same Court will and will not let Congress condition removal, depending on which early practice it credits.
+- The exam move is to name which method each side is using. Slaughter is formalism with one box; [[Humphrey's Executor v. United States]] was formalism in method with a functionalist fourth box; [[United States v. Nixon]] is formalist on who decides and functionalist on the privilege itself; [[INS v. Chadha]] refuses to balance and [[Clinton v. City of New York]] follows it, while Breyer in Clinton and White in Chadha would balance.
+
+## Professor gloss
+
+## Common trap
+
+- **Citing Black for the Youngstown framework.** Black wrote for the Court, but the three categories are Jackson's concurrence, and it is Jackson that later cases apply. A cold-call answer that says "the Court held that presidential power is at its lowest ebb" has mismatched the opinion to the holding.
+- **Treating congressional silence as a congressional refusal.** Category two and category three are different boxes, and the fact that moves Youngstown from one to the other is the Taft-Hartley rejection of seizure, not the absence of a statute.
+- **Assuming mutual consent saves a structural arrangement.** Both [[INS v. Chadha]] and [[Clinton v. City of New York]] strike down schemes the President and Congress agreed to; White noted that Presidents accepted the legislative veto "as the price for a broad delegation." Consent is everything under Jackson's category one and nothing where the § 7 procedure itself is at stake.
+- **Overstating [[Clinton v. City of New York]].** It did not hold that the President may never decline to spend and did not reach the delegation question; it held that a statutory power to cancel enacted provisions violates the Presentment Clause. Scalia's point that there is "not a dime's worth of difference" between authorizing cancellation and appropriating money at the President's discretion is the argument that the rule turns on drafting.
+- **Overstating [[Buckley v. Valeo]].** It does not say Congress may not create offices or define their powers — that power "is broad indeed" — only that Congress may not appoint the officers. The inferior-officer route never puts Congress on the list of appointers.
+- **Citing [[Humphrey's Executor v. United States]] as current law.** [[Trump v. Slaughter]] overruled everything but the observation that a body exercising no executive power falls outside the rule, and the syllabus's label "v. FEC" is wrong: the case is about the FTC, and the FEC case is [[Buckley v. Valeo]].
+- **Reading [[Trump v. Cook]] as a functional holding that independence is good policy.** The majority's ground is historical (the First and Second Banks) and the actual ground of decision was statutory process — Cook got no notice and no chance to respond, so the removal was "erroneous and void." The Court did not hold that Cook cannot be removed.
+- **Forgetting that most of this unit has no judicial remedy.** Impeachment, refusal to confirm, the purse, investigations, and the vote are the checks ([[The Impeachment of Andrew Johnson]]), and Trumbull's warning is that using impeachment for policy disagreement means "no future President will be safe."
+- **Assuming a court will simply answer the structural question.** [[The Correspondence of the Justices]] refuses to answer outside a case; [[Massachusetts v. Mellon; Frothingham v. Mellon]] refuses a plaintiff whose interest is "shared with millions of others." The fact pattern that flips the result is who is suing, not what the Constitution says.

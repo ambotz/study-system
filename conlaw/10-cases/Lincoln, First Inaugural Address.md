@@ -14,7 +14,7 @@ feeds_module:
 read_for: null
 ---
 
-> [!caution] Source check — The 4th-ed. text of Note 3 garbles Lincoln's July 4, 1861 Message to Congress in three places: "no one of our States, except Texas, ever as a sovereignty" (for "ever was a sovereignty"), "The States have their status In the Union" (stray capital), and "as a merely administrative powers" (for "power"). Note 8 dates [[Texas v. White]] to 1868; the case was argued in 1869 and decided April 12, 1869, and is usually cited as 1869. Check all four against the 5th ed.
+> [!note] Quotation — Note 3's excerpt of Lincoln's July 4, 1861 Message to Congress prints "no one of our States, except Texas, ever as a sovereignty" (for "ever was") and "as a merely administrative powers" (for "power") in both editions (5th ed. p. 771). These are the casebook's typos. "The States have their status IN the Union" is Lincoln's own emphasis, which the 5th ed. prints in capitals and the 4th-ed. EPUB flattens to "In." Note 8 dates [[Texas v. White]] to 1868 in both editions; the case was decided April 12, 1869, and is usually cited as 1869.
 
 ## What it is
 

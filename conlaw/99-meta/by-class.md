@@ -3,7 +3,7 @@
 Constitutional Law I: Government Structure · Baude · Autumn 2026
 Meets Mon, Wed, Thu 1:30-2:35 pm. in-class, closed-book exam, plus participation (cold-calling; email by 11 a.m. to pass)
 
-Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
+Generated 2026-09-24 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
 
 ## Sources
 
@@ -97,7 +97,7 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[Nixon, Veto of the War Powers Resolution]] — pp. 318–322 · document
     - Inside the syllabus's 'The War Powers Resolution' item; split out because a statute gets no note file.
 - [[Modern Applications of the War Power]] — pp. 322–325 · note
-    - 4th ed.: AUMF (322) and 'The War Powers Debate Continues: Syria and Soleimani' (323). The 5th ed. may update this — optional spot-check.
+    - 4th ed.: AUMF (322) and 'The War Powers Debate Continues: Syria and Soleimani' (323). The 5th ed. (pp. 322–324) reprints it unchanged.
 - [[Terminating War]] — pp. 325–326 · note
     - Not named in the syllabus, but inside its page range. Read it.
 - [[The Emancipation Proclamation]] — pp. 326–328 · document
@@ -189,6 +189,7 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[Printz v. United States]] — pp. 582–595 · case
 
 ### Class 21 — Taxing
+*The 5th ed. adds a short Note 6 after Hylton (corpus linguistics, 5th p. 603) that the 4th-ed. print lacks; it is summarized in the Hylton brief, or print that one page from the scan.*
 
 - [[Express Limits on the Power to Tax]] — pp. 596–597 · note
 - [[Hylton v. United States]] — pp. 597–603 · case
@@ -210,6 +211,7 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[NFIB v. Sebelius]] — pp. 628–658 · case
 
 ### Class 24 — Secession
+*Print from the 5th-ed. scan (Con law 1 pp 760_780.pdf), not the 4th ed. — Grier's dissent in Texas v. White is in the 5th ed. only.*
 
 - [[Buchanan, Address to Congress]] — pp. 760–763 · document
 - [[Lincoln, First Inaugural Address]] — pp. 763–774 · document
@@ -224,6 +226,7 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[National Pork Producers Council v. Ross]] — Canvas · case
 
 ### Class 26 — Article V
+*Print from the 5th-ed. scan (Con law 1 pp 805_815.pdf), not the 4th ed. — the 5th ed. rewrote this chapter.*
 
 - [[The Congressional Pay Amendment]] — pp. 805–806 · note
     - Rewritten from the 5th-ed. scan; the 5th ed. rebuilt this chapter around three worked examples.
