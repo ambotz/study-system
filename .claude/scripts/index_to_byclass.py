@@ -97,7 +97,11 @@ def modules_for(r, midx):
 
     A subsection match outranks a match on the section as a whole, and a
     provision cited with subsections never matches on the bare number alone.
+    An explicit "module" key on the index entry overrides the match, for a
+    statute whose name carries no section number.
     """
+    if r.get("module"):
+        return [r["module"]]
     bare, subs, rules = sections(r["case"])
     hits = []
     for name, (mbare, msubs, mrules) in midx.items():

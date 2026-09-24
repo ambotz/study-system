@@ -93,7 +93,8 @@ Generated 2026-09-24 from `99-meta/case-index.json`. Do not edit; regenerate wit
     - Casebook caption: The Brig Amy Warwick (The Prize Cases). Includes 'Practice and Precedent', 305.
 - [[Declarations of War]] — pp. 314–316 · document
     - Declaration of War Against Japan; Gulf of Tonkin Resolution.
-- [[The War Powers Resolution]] — pp. 316–318 · statute · doctrine module, no reading file
+- [[The War Powers Resolution]] — pp. 316–318 · statute · doctrine module
+    - → [[War powers - Art. I § 8 cl. 11 and the Commander in Chief]]
 - [[Nixon, Veto of the War Powers Resolution]] — pp. 318–322 · document
     - Inside the syllabus's 'The War Powers Resolution' item; split out because a statute gets no note file.
 - [[Modern Applications of the War Power]] — pp. 322–325 · note
