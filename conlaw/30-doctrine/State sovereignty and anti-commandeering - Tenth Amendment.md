@@ -1,0 +1,106 @@
+---
+topic: Federalism
+sub_topic: U.S. Const. amend. X — the anti-commandeering rule, the political safeguards, and the spending workaround
+authority:
+  - U.S. Const. amend. X
+  - U.S. Const. amend. XVII
+  - U.S. Const. art. I, § 8, cl. 1
+  - U.S. Const. art. I, § 8, cl. 3
+  - U.S. Const. art. I, § 8, cl. 18
+  - U.S. Const. art. I, § 10
+  - U.S. Const. art. IV, § 3
+  - U.S. Const. art. IV, § 4
+  - U.S. Const. art. VI, cl. 2
+  - U.S. Const. art. VI, cl. 3
+  - 23 U.S.C. § 158
+  - 42 U.S.C. § 1396c
+  - 8 U.S.C. § 1373
+professor_emphasis: 3
+exam_likelihood: high
+confidence: 1
+last_drilled: 
+---
+
+## Rule statement
+
+The Tenth Amendment reserves only what was never granted — it "states but a truism that all is retained which has not been surrendered" ([[United States v. Darby]]) — so it supplies no enclave of subject matter immune from an otherwise valid federal power. What protects the States judicially is structural rather than textual: "The Federal Government may neither issue directives requiring the States to address particular problems, nor command the States' officers, or those of their political subdivisions, to administer or enforce a federal regulatory program" ([[Printz v. United States]]). Outside that rule, a generally applicable federal law that regulates a State alongside private actors is valid, and the States' remedy is political, because "the fundamental limitation that the constitutional scheme imposes on the Commerce Clause to protect the 'States as States' is one of process rather than one of result" ([[Garcia v. San Antonio Metropolitan Transit Authority]]). Congress may nonetheless buy the same cooperation through conditional grants, subject to a coercion ceiling ([[South Dakota v. Dole]]; [[NFIB v. Sebelius]]). The contest is whether the anti-commandeering rule has any grounding in enacted text at all: [[Printz v. United States]] concedes there is "no constitutional text speaking to this precise question" and reasons from history, structure and precedent, while the dissent answers from text — the enumerated powers, the Necessary and Proper Clause, and the Article VI oath that binds state executive officers.
+
+## Elements
+
+1. **Ask first whether the federal law is within an enumerated power, because the Tenth Amendment adds nothing to that inquiry.** The Amendment is "declaratory of the relationship between the national and state governments as it had been established by the Constitution," and it omits the word "expressly" that [[Hammer v. Dagenhart]] silently inserted into it.
+2. **Identify who is regulated, which is the fork in the doctrine.**
+   - Private individuals: no state-sovereignty problem, however large the displacement of state policy; "the Framers explicitly chose a Constitution that confers upon Congress the power to regulate individuals, not States."
+   - A State alongside private actors, as an employer or a market participant: [[Garcia v. San Antonio Metropolitan Transit Authority]] controls and there is no immunity, because the State "faces nothing more than the same minimum-wage and overtime obligations that hundreds of thousands of other employers, public as well as private, have to meet."
+   - The State as a government, told how to govern: [[Printz v. United States]] controls.
+3. **If the State is told how to govern, identify which organ is commanded, because all three forms are barred.** A command to the legislature to enact or take title; a command to executive officers "in their official capacities as state officers" to run a federal program; and a prohibition on state legislation (Murphy v. NCAA: "[t]he basic principle—that Congress cannot issue direct orders to state legislatures—applies in either event").
+4. **Run the "proper" question separately from the "necessary" question.** A law that "violates the principle of state sovereignty" is not a "La[w] . . . proper for carrying into Execution the Commerce Clause"; as Scalia puts it, "[w]hat destroys the dissent's Necessary and Proper Clause argument . . . is not the Tenth Amendment but the Necessary and Proper Clause itself." See [[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]].
+5. **Check the Article II consequence of the command.** Commandeering "effectively transfers" the responsibility to execute federal law "to thousands of CLEOs in the 50 States," who act "without meaningful Presidential control," which shatters the unity of execution; see [[Enforcement discretion - Art. II § 3 Take Care]].
+6. **If Congress used money rather than a command, run the conditional-spending test instead.** General welfare (near-automatic deference); an unambiguous statement enabling States "to exercise their choice knowingly, cognizant of the consequences of their participation"; germaneness to "the federal interest in particular national projects or programs"; no inducement to unconstitutional state action; and no coercion. See [[Spending power - Art. I § 8 cl. 1 general welfare and conditional grants]].
+7. **Apply the coercion ceiling by comparing the stake and the newness of the program.** 5 percent of highway funds, under half of one percent of the State's budget, is "relatively mild encouragement"; the threat to all existing Medicaid funds, over 10 percent of a State's budget, to force acceptance of what is in substance a new program, "is a gun to the head" and "economic dragooning that leaves the States with no real option but to acquiesce."
+8. **If Congress used a tax, ask whether the exaction is a tax or a penalty aimed at a subject reserved to the States.** [[Bailey v. Drexel Furniture Co]]: "To give such magic to the word 'tax' would be to break down all constitutional limitations of the powers of Congress and completely wipe out the sovereignty of the states."
+9. **Run the mirror-image question where a State burdens the federal government.** "[T]he States have no power, by taxation or otherwise, to retard, impede, burden, or in any manner control, the operations of the constitutional laws enacted by Congress" ([[McCulloch v. Maryland]]), because the case is "the action of a part on the whole" rather than "the action of the whole on a part."
+10. **For state-versus-state sovereignty, ask about territory rather than the Tenth Amendment.** [[National Pork Producers Council v. Ross]] declines to police extraterritorial effects through the dormant Commerce Clause and points instead to "original and historical understandings of the Constitution's structure," "principles of 'sovereignty and comity,'" the Due Process Clause and the Full Faith and Credit Clause; see [[Dormant Commerce Clause - Art. I § 8 cl. 3 and state discrimination]].
+
+## Standard of review / burden
+
+- Where the rule applies, it is categorical and there is no standard to calibrate: "It matters not whether policymaking is involved, and no case-by-case weighing of the burdens or benefits is necessary." [[Printz v. United States]] refuses to balance even a duty that was temporary, modest and about to expire, because balancing might be proper for "incidental application to the States of a federal law of general applicability" but not where directing the state executive is "the whole object of the law."
+- Where the rule does not apply, there is effectively no judicial review at all. [[Garcia v. San Antonio Metropolitan Transit Authority]] rejects the "traditional governmental functions" inquiry "as unsound in principle and unworkable in practice," holds that courts have "no license to employ freestanding conceptions of state sovereignty when measuring congressional authority under the Commerce Clause," and leaves the States to the political process: state control of electoral qualifications, the Electoral College, and equal representation in the Senate.
+- Garcia borrows both political-question factors — the absence of judicially manageable standards, and something like a commitment of the question to Congress — but it is not a political-question holding: the Court decides the merits and expressly reserves "what affirmative limits the constitutional structure might impose on federal action affecting the States." Any substantive restraint "must be tailored to compensate for possible failings in the national political process rather than to dictate a 'sacred province of state autonomy'," and Blackmun supplies no criteria for identifying such a failing.
+- Method, not standard, decides the commandeering cases. With "no constitutional text speaking to this precise question," the answer comes from "historical understanding and practice, in the structure of the Constitution, and in the jurisprudence of this Court," taken in that order — which makes the historiography load-bearing and puts the burden on whoever claims an early practice of commanding state executives.
+- On conditional spending the burden is effectively on the State, and it is heavy: a condition is not coercive "simply by reason of its success in achieving the congressional objective," and "to hold that motive or temptation is equivalent to coercion is to plunge the law in endless difficulties." [[NFIB v. Sebelius]] is the first and only case to find the line crossed, and Roberts declines to "fix the outermost line."
+- Gregory v. Ashcroft adds a clear-statement rule for statutes intruding on core state functions, which operates as a canon rather than as a standard of review.
+- For a state law burdening interstate commerce, [[National Pork Producers Council v. Ross]] sets the posture, not the intensity: "'[E]xtreme caution' is warranted before a court deploys this implied authority," and displacing a democratically adopted state law is "a matter of 'extreme delicacy,'" done only "where the infraction is clear."
+
+## Exceptions
+
+- **State courts may be conscripted.** The Supremacy Clause expressly names "the Judges in every State," and courts "applied the law of other sovereigns all the time"; Testa v. Katt requires state courts to hear federal claims, and the early statutes the dissent relies on (naturalization, seaworthiness, fugitive-slave certificates) all ran to state judges.
+- **Conditional spending.** Scalia expressly distinguishes "conditions upon the grant of federal funding," which is why [[South Dakota v. Dole]] can buy a drinking age Congress could not command — and why, if the price can always be met, the anti-commandeering rule is a drafting rule.
+- **Generally applicable laws.** A federal law that regulates States and private parties alike is outside the rule; Reno v. Condon upheld a bar on selling drivers' personal data because it regulated the State as the owner of a database, alongside private resellers, and required no state legislation or enforcement.
+- **Ordinary preemption.** A federal law that regulates private actors and displaces contrary state law is not a direct order to a State, however completely it clears the field.
+- **Consent.** Printz's own history is a history of consent: the 1882 immigration statute authorized contracts with state officers designated by governors, and Wilson implemented the 1917 draft with the consent of every governor. O'Connor's concurrence stresses that Congress may still make participation voluntary or pay for it.
+- **Reserved: information-only and ministerial reporting requirements.** Scalia sets them aside as not "the precise issue before us," and O'Connor flags reporting missing children as undecided; the status of 8 U.S.C. § 1373, which forbids localities to restrict their officers from sharing immigration-status information, turns on this reservation.
+- **Reserved: emergencies.** Stevens's air raid wardens, a draft, mass inoculation and a terrorist threat are left unanswered by the majority, whose only reply is that Congress can ask, pay, or use federal personnel.
+- **Rebellion suspends a State's rights as a member.** [[Texas v. White]] holds that the secession ordinance was "absolutely null" and Texas "continued to be a State, and a State of the Union," but that during the rebellion "the rights of the State as a member, and of her people as citizens of the Union, were suspended," and that restoring those relations is a Guarantee Clause power that "is primarily a legislative power, and resides in Congress." See [[Republican government - Art. IV § 4 Guarantee Clause]].
+- **The Reconstruction Amendments add national power**, and are the one place the federalism map records an addition rather than a reservation.
+- **Not decided: whether Garcia's reserved "affirmative limits" exist at all.** Blackmun names the category and empties it of content.
+- **Not decided: where coercion begins.** [[NFIB v. Sebelius]] relies on both the threat to *existing* funds and its size, and never says which is essential.
+- **Not decided: whether the coercion rule protects private grant recipients.** It is grounded in state sovereignty and anti-commandeering, and nothing in the opinion extends it further.
+
+## Leading case
+
+[[Printz v. United States]]
+
+- Holds that Congress may not "command the States' officers, or those of their political subdivisions, to administer or enforce a federal regulatory program," extending to state executives the rule New York v. United States had applied to state legislatures: "We held in New York that Congress cannot compel the States to enact or enforce a federal regulatory program. Today we hold that Congress cannot circumvent that prohibition by conscripting the State's officers directly."
+- The driving fact is that the Brady Act's interim provisions ran to chief law enforcement officers "in their official capacities as state officers" and required them to "make a reasonable effort" to check each handgun buyer within five business days — a command to execute federal law, not a regulation of private conduct.
+- The second driving fact is the one Scalia declares irrelevant: the duty was temporary, modest, and required no action on an ineligible buyer. Holding that irrelevant is what makes the rule categorical, and it is the holding the dissent cannot answer on its own functionalist terms.
+- The historical argument turns on a single line: the early statutes imposed duties on state *judges*, "insofar as those prescriptions related to matters appropriate for the judicial power," and the absence of executive-commandeering statutes, despite their "attractiveness . . . to Congress," suggests "an assumed absence of such power."
+- The structural argument is dual sovereignty plus accountability: citizens have "two political capacities, one state and one federal," and federal power "would be augmented immeasurably if it were able to impress into its service—and at no cost to itself—the police officers of the 50 States," while voters would blame the sheriff for a federal policy.
+- The Article II argument is the bridge to the separation-of-powers material: unity of execution "would be shattered . . . if Congress could act as effectively without the President as with him."
+- The sentence worth quoting on method is Scalia's aside about "the last, best hope of those who defend ultra vires congressional action, the Necessary and Proper Clause" — the rare case in which the textualist writes the text-less structural opinion.
+
+## Best counter-case
+
+[[Garcia v. San Antonio Metropolitan Transit Authority]]
+
+- Holds that States have no judicially enforced immunity from generally applicable Commerce Clause regulation, overrules National League of Cities v. Usery, and relocates the protection of the States to "procedural safeguards inherent in the structure of the federal system."
+- The distinguishing fact is who bore what: SAMTA was regulated as an employer on the same terms as private employers, and claimed immunity "only as a government." Where the statute's object is to direct how a State governs, Garcia does not authorize it and Printz takes over.
+- The second distinguishing fact is doctrinal wreckage rather than principle: eight years of lower-court results in which airports and highway authorities were immune while mental health facilities and traffic regulation were not, so that "[t]he constitutional distinction between licensing drivers and regulating traffic . . . is elusive at best."
+- Argue the federal side with Blackmun's democratic point: a historical test freezes the States in place, and "the States cannot serve as laboratories for social and economic experiment if they must pay an added price" for taking up functions an earlier day left private. Add Madison in the First Congress: "If the power was not given, Congress could not exercise it; if given, they might exercise it, although it should interfere with the laws, or even the Constitution of the States."
+- Argue the state side with Powell and O'Connor: members of Congress, once elected, "are Members of the Federal Government," so "[t]he States' role in our system of government is a matter of constitutional law, not of legislative grace"; and [[McCulloch v. Maryland]] itself requires means that "consist with the letter and spirit of the constitution," which O'Connor reads through the Tenth Amendment as a requirement "that the States will retain their integrity."
+- The best single wedge is the Seventeenth Amendment, which [[A Map of the Federalism Provisions]] calls the removal of "what the framers had expected would be a check on the exercise of national power." Either the People abandoned the Senate as the States' agent and courts should defer, or removing the safeguard makes judicial enforcement more necessary; Blackmun concedes the change in one sentence and does not choose.
+- The exam point is that Garcia and Printz both survive, so the whole case turns on characterizing the statute: a law that regulates the State like anyone else, or a law whose object is to make the State govern. Stevens's Printz dissent quotes Garcia to argue that the political safeguards answer commandeering too, and cites the Unfunded Mandates Reform Act of 1995 as proof they work.
+
+## Professor gloss
+
+## Common trap
+
+- Arguing from the Tenth Amendment's text as an independent limit, or slipping in the word "expressly." Day did it in [[Hammer v. Dagenhart]] — "the powers not expressly delegated to the national government are reserved" — and the word is not in the Amendment; Marshall made that exact point in [[McCulloch v. Maryland]], and [[United States v. Darby]] made it the law.
+- Saying [[Garcia v. San Antonio Metropolitan Transit Authority]] was overruled. It never was. New York v. United States and [[Printz v. United States]] route around it by distinguishing laws that regulate States alongside private parties from laws that command States to govern.
+- Treating anti-commandeering as an immunity from federal burdens. A State gets no relief from a wage law, a data-sale ban or any other rule that applies to private parties too; the rule is about being ordered to govern, not about being inconvenienced.
+- Reading [[Printz v. United States]] to bar information requirements. Scalia reserved both funding conditions and requirements that States "merely provide information," and O'Connor separately flagged ministerial reporting; a student who says the Brady rule kills 8 U.S.C. § 1373 outright has skipped the reservation.
+- Forgetting that [[South Dakota v. Dole]] makes the rule purchasable. Congress could not order a 21-year-old drinking age, and bought one for 5 percent of highway funds; the anti-commandeering answer to an exam hypothetical is almost never the end of the analysis.
+- Confusing commandeering with preemption. Murphy v. NCAA holds that forbidding States to *authorize* sports betting is still a direct order, because the do/don't-do distinction "is empty" — but a statute that regulates private actors and displaces contrary state law is ordinary preemption.
+- Putting a number on [[NFIB v. Sebelius]]'s coercion line. Roberts relies on both the threat to existing funds and the size of the stake and expressly declines to "fix the outermost line"; germaneness is not what decided it, since expanding Medicaid to more poor adults is germane to Medicaid in any loose sense.
+- Citing "an indestructible Union, composed of indestructible States" as though it conferred a power on the States. [[Texas v. White]] also holds that rebellion suspended Texas's rights as a member and that the Guarantee Clause power belongs to Congress, and its "absolutely null" language was never the workable rule about which rebel-government acts survive.
+- Treating [[Bailey v. Drexel Furniture Co]] as a live federalism limit on the taxing power. It has never been overruled and has never been enforced since, and [[NFIB v. Sebelius]] ran its three factors — size, scienter, enforcing agency — to the opposite result; see [[Taxing power - Art. I § 8 cl. 1 and direct taxes]].
+- Using [[National Pork Producers Council v. Ross]] for a state-sovereignty rule against extraterritorial regulation. The Court held the opposite: there is no "almost per se" rule, "many (maybe most) state laws have the 'practical effect of controlling' extraterritorial behavior," and a market-size argument would mean "voters in States with smaller markets are constitutionally entitled to greater authority to regulate in-state sales than voters in States with larger markets."
