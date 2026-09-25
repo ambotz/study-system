@@ -30,7 +30,7 @@
       "label": "Same, 5th ed. 2022 — the edition the syllabus cites. Not held. Its page ranges are kept as syllabus_pp on each reading."
     },
     "scan5": {
-      "file": "Con law 1 pp 805_815.pdf (and other scanned ranges)",
+      "file": "Con law 1 - Class NN (Title) - pp X-Y.pdf — one file per scanned range; see 00-source",
       "offset": null,
       "label": "Paulsen, McConnell, Bray & Baude (5th ed. 2022) — library copy, selected ranges scanned into 00-source"
     }
@@ -946,7 +946,7 @@
         }
       ],
       "part": "II. Federalism",
-      "note": "Print from the 5th-ed. scan (Con law 1 pp 760_780.pdf), not the 4th ed. — Grier's dissent in Texas v. White is in the 5th ed. only."
+      "note": "Print from the 5th-ed. scan (Con law 1 - Class 24 (Secession) - pp 760-780.pdf), not the 4th ed. — Grier's dissent in Texas v. White is in the 5th ed. only."
     },
     {
       "session": 25,
@@ -1021,7 +1021,7 @@
         }
       ],
       "part": "III. The Rest of the Original Constitution",
-      "note": "Print from the 5th-ed. scan (Con law 1 pp 805_815.pdf), not the 4th ed. — the 5th ed. rewrote this chapter."
+      "note": "Print from the 5th-ed. scan (Con law 1 - Class 26 (Article V) - pp 805-815.pdf), not the 4th ed. — the 5th ed. rewrote this chapter."
     },
     {
       "session": 27,

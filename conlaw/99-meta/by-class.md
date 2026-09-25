@@ -212,7 +212,7 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[NFIB v. Sebelius]] — pp. 628–658 · case
 
 ### Class 24 — Secession
-*Print from the 5th-ed. scan (Con law 1 pp 760_780.pdf), not the 4th ed. — Grier's dissent in Texas v. White is in the 5th ed. only.*
+*Print from the 5th-ed. scan (Con law 1 - Class 24 (Secession) - pp 760-780.pdf), not the 4th ed. — Grier's dissent in Texas v. White is in the 5th ed. only.*
 
 - [[Buchanan, Address to Congress]] — pp. 760–763 · document
 - [[Lincoln, First Inaugural Address]] — pp. 763–774 · document
@@ -227,7 +227,7 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[National Pork Producers Council v. Ross]] — Canvas · case
 
 ### Class 26 — Article V
-*Print from the 5th-ed. scan (Con law 1 pp 805_815.pdf), not the 4th ed. — the 5th ed. rewrote this chapter.*
+*Print from the 5th-ed. scan (Con law 1 - Class 26 (Article V) - pp 805-815.pdf), not the 4th ed. — the 5th ed. rewrote this chapter.*
 
 - [[The Congressional Pay Amendment]] — pp. 805–806 · note
     - Rewritten from the 5th-ed. scan; the 5th ed. rebuilt this chapter around three worked examples.
