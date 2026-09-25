@@ -1,6 +1,15 @@
 # Con Law doctrine modules — status
 
-**Complete.** All 31 modules are built, validated and committed to `conlaw/30-doctrine/`. Last commit `4db3f07`.
+**Complete, and revised 2026-09-25.** All 31 modules are built, validated and committed to `conlaw/30-doctrine/`.
+
+## 2026-09-25 clarity and accuracy pass
+
+- Every module was re-checked against its reading files, the 4th-ed. casebook text and the 5th-ed. print packets. Misquotations, misattributions, overstated holdings and wrong votes were fixed; missing readings, elements and original-meaning critiques were added from the sources.
+- Every module was restructured for absorption: a plain-English first sentence in the Rule statement, bold-question Elements, labelled bullets in Standard of review (Presumption / Burden / Standard / Not reviewed / What fills the gap), a one-sentence **Distinguishing line** at the top of Best counter-case, and Common traps that lead with the tempting wrong answer.
+- An automated check of 1,233 quoted passages across the modules found every one in the casebook, the packets or a reading file (bracket and capitalisation differences aside).
+- Frontmatter untouched except the two topic moves below. `Professor gloss` is still empty in all 31; `confidence` is still `1`.
+- Errors found in the *reading files* were not fixed in place; they are listed in `READING_FIXES.md` for the vault-wide pass.
+
 
 This replaces `MODULE_HANDOFF.md`, which described 15 modules as pending. The build procedure and the schema spec live in `MODULE_GUIDE.md`, which stays — it is what a future module or a rewrite should follow.
 
@@ -32,7 +41,7 @@ Every one of the 31 passes:
 | Separation of powers - vesting clauses and checks and balances | 3 | high |
 | War powers - Art. I § 8 cl. 11 and the Commander in Chief | 3 | high |
 
-**Executive power (7)**
+**Executive power (6)**
 | Module | Emphasis | Exam |
 |---|---|---|
 | Enforcement discretion - Art. II § 3 Take Care | 3 | high |
@@ -41,18 +50,17 @@ Every one of the 31 passes:
 | Removal - Art. II § 1 and the Humphrey's exception | 3 | high |
 | Appointments - Art. II § 2 cl. 2 and the officer line | 2 | medium |
 | Impeachment - Art. II § 4 high crimes and misdemeanors | 2 | medium |
-| Suspension of habeas corpus - Art. I § 9 cl. 2 | 2 | medium |
 
 **Legislative power (5)**
 | Module | Emphasis | Exam |
 |---|---|---|
 | Bicameralism and presentment - Art. I § 7 | 3 | high |
 | Nondelegation - Art. I § 1 and the intelligible principle | 2 | high |
-| Taxing power - Art. I § 8 cl. 1 and direct taxes | 2 | high |
 | The power of the purse - Art. I § 9 cl. 7 appropriations | 2 | high |
+| Suspension of habeas corpus - Art. I § 9 cl. 2 | 2 | medium |
 | Bills of attainder - Art. I § 9 cl. 3 | 1 | low |
 
-**Federalism (7)**
+**Federalism (8)**
 | Module | Emphasis | Exam |
 |---|---|---|
 | Commerce power - Art. I § 8 cl. 3 | 3 | high |
@@ -60,6 +68,7 @@ Every one of the 31 passes:
 | Nature of the Union - compact theory, nationalism and secession | 3 | high |
 | State sovereignty and anti-commandeering - Tenth Amendment | 3 | high |
 | Spending power - Art. I § 8 cl. 1 general welfare and conditional grants | 2 | high |
+| Taxing power - Art. I § 8 cl. 1 and direct taxes | 2 | high |
 | Dormant Commerce Clause - Art. I § 8 cl. 3 and state discrimination | 2 | medium |
 | Supremacy and the oath - Art. VI | 2 | medium |
 
@@ -84,18 +93,11 @@ Every one of the 31 passes:
 
 `professor_emphasis` and `exam_likelihood` are first-pass predictions from syllabus weighting. They are `session-reconcile`'s to revise once you've been in class, not something to trust cold.
 
-## Three things to look at when you read these
+## The three follow-ups from the first build — resolved 2026-09-25
 
-**1. Two topic buckets are inconsistent across the set.** Independent agents built these in parallel, and two boundary calls came out differently than their neighbours:
-
-- *Taxing power* sits under **Legislative power** while *Spending power* sits under **Federalism** — same clause, Art. I § 8 cl. 1, split across two buckets.
-- *Suspension of habeas corpus* (Art. I § 9 cl. 2) sits under **Executive power** — the agent chose the bucket to match its anchor case, Ex parte Merryman — while *Bills of attainder*, the very next clause (Art. I § 9 cl. 3), sits under **Legislative power**.
-
-Both are defensible; neither is consistent. Worth one decision from you, since `topic` is what any cross-module query will group on.
-
-**2. One module has no inbound cross-link.** *Territories and citizenship - Art. IV § 3 and Dred Scott* is linked from no other module, even though Dred Scott feeds the departmentalism and modes-of-argument modules. Not an error, but the cross-link web has a hole there.
-
-**3. Unlinkable authority.** Roughly 60 cases the readings discuss have no file in `10-cases/` — Myers, Morrison, Seila Law, Klein, Yerger, Gibbons, Martin v. Hunter's Lessee, Luther v. Borden and others. The guide forbids wikilinks to nonexistent files, so these are named in plain text throughout. Myers in particular carries real weight in the Removal module and appears unlinked every time. If you want any of them as brief-only stubs, that is its own small job.
+1. **Topic buckets.** *Taxing power* moved to **Federalism**, beside Spending and Commerce (syllabus Part II). *Suspension of habeas corpus* moved to **Legislative power**, beside Bills of attainder (§ 9 limits Congress).
+2. **Territories and citizenship** now has inbound links from Nature of the Union, Judicial review, Judicial supremacy and Modes of constitutional argument.
+3. **Unlinked authority.** Twenty brief-only stub files were added to `10-cases/`, each marked `> [!note] Not assigned` with `read_for: null` and built only from the casebook: Myers, Morrison, Seila Law, Free Enterprise Fund, Heckler v. Chaney, Gibbons, E.C. Knight, Jones & Laughlin, Schechter Poultry, J. W. Hampton, McCray, Kahriger, Butler, Steward Machine, Helvering v. Davis, New York v. United States, Comstock, Luther v. Borden, Coleman v. Miller, Martin v. Hunter's Lessee. The modules now wikilink them. *United States v. Klein* and *Ex parte Yerger* got no stub because neither is in the casebook or packets; the Congressional control module labels them as outside the assigned readings. The 0-byte stray `J. W. Hampton…md` at the repo root was deleted.
 
 ## Still open, unchanged
 
@@ -110,4 +112,4 @@ Both are defensible; neither is consistent. Worth one decision from you, since `
 - **Past exams and prior outlines** — you have them; prior outlines go in `conlaw/_prior/`, not `00-source/`. Now is the natural moment, since the modules are the thing an outline compresses.
 - **Confirm whether a one-page outline is allowed** — the draft syllabus says closed-book.
 - **Project docs** — `claude/legalfinance.md` needs the Classes 8–9 Marra/Certum correction, and there is still no Con Law section.
-- **Repo housekeeping** — `J. W. Hampton, Jr., & Co. v. United States.md` is a 0-byte stray at the repo root, safe to delete; `.obsidian/plugins/xlsx-viewer/` is untracked, commit or gitignore.
+- **Repo housekeeping** — `.obsidian/plugins/xlsx-viewer/` is untracked, commit or gitignore; `Untitled.md` at the root is 0 bytes.

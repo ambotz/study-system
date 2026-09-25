@@ -3,7 +3,7 @@
 Constitutional Law I: Government Structure · Baude · Autumn 2026
 Meets Mon, Wed, Thu 1:30-2:35 pm. in-class, closed-book exam, plus participation (cold-calling; email by 11 a.m. to pass)
 
-Generated 2026-09-24 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
+Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
 
 ## Sources
 
