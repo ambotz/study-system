@@ -1,0 +1,46 @@
+{
+  "_about": "Where each non-paginated reading lives in 00-source, for .claude/scripts/build_print_packets.py. Paginated cases (source bc/cp with start/end) come straight from case-index.json and need no entry here. Keys must match case-index.json reading names exactly. Part types: {file} = whole file; {file, pages} = explicit PDF page range; {section_in: <locator>, sections: [...]} = pages located by section heading; optional from_re / to_re narrow a single section to a subsection run.",
+
+  "course": "Business Organizations",
+  "source_short": {"bc": "B&C", "cp": "CP"},
+
+  "locators": {
+    "dgcl":     {"file": "DCGL 8 Full.pdf",         "head": "^§\\s*{sec}\\s+\\S",           "any": "^§\\s*\\d+[A-Z]?\\s+\\S",           "label": "DGCL § {sec}"},
+    "chancery": {"file": "chancery rules 2026.pdf", "head": "^\\s*Rule\\s+{sec}\\.\\s+\\S", "any": "^\\s*Rule\\s+\\d+(\\.\\d+)?\\.\\s+\\S", "label": "Del. Ch. Ct. R. {sec}"},
+    "sea34":    {"file": "sea1934.pdf",             "head": "^\\s*SEC\\.\\s*{sec}\\.",      "any": "^\\s*SEC\\.\\s*\\d+[A-Z]?\\.",      "label": "Exchange Act § {sec}"}
+  },
+
+  "readings": {
+    "An Act to Incorporate the National Insurance Company": [{"file": "National Insurance Company - Charter.pdf", "label": "Charter (Canvas)"}],
+    "NVIDIA Certificate of Incorporation": [{"file": "Nvidia Certificate of Incorporation.pdf", "label": "Certificate (Canvas)"}],
+    "NVIDIA Bylaws": [{"file": "Nvidia Bylaws.pdf", "label": "Bylaws (Canvas)"}],
+    "University of Chicago Articles and Bylaws": [{"file": "U Chicago Governance Docs.pdf", "label": "Articles and Bylaws (Canvas)"}],
+
+    "8 Del. C. 102(a)(3),(b)(1),(c); 109(b); 121; 122(1)-(17); 141(a),(b)": [{"section_in": "dgcl", "sections": ["102", "109", "121", "122", "141"]}],
+    "8 Del. C. 122(18)": [{"section_in": "dgcl", "sections": ["122"]}],
+    "8 Del. C. 102(b)(7)": [{"section_in": "dgcl", "sections": ["102"]}],
+    "8 Del. C. 151, 157": [{"section_in": "dgcl", "sections": ["151", "157"]}],
+    "8 Del. C. 141(d), 212, 216, 218": [{"section_in": "dgcl", "sections": ["141", "212", "216", "218"]}],
+    "8 Del. C. 228(a)": [{"section_in": "dgcl", "sections": ["228"]}],
+    "8 Del. C. 170, 154": [{"section_in": "dgcl", "sections": ["170", "154"]}],
+
+    "8 Del. C. 144(a) (pre-SB 21)": [{"file": "8 Del. C. 144 (pre-SB 21).pdf", "label": "DGCL § 144 (pre-SB 21)"}],
+    "8 Del. C. 144(a),(d)(6),(e)(4),(5),(7),(8),(d)(2),(3) (post-SB 21)": [{"file": "8 Del. C. 144 post-SB 21).pdf", "label": "DGCL § 144 (post-SB 21)"}],
+    "8 Del. C. 144(b),(c),(e)(1),(2),(3) (post-SB 21)": [{"file": "8 Del. C. 144 post-SB 21).pdf", "label": "DGCL § 144 (post-SB 21)"}],
+    "8 Del. C. 144(c) (post-SB 21)": [{"file": "8 Del. C. 144 post-SB 21).pdf", "label": "DGCL § 144 (post-SB 21)"}],
+    "8 Del. C. 144(d)(6)(b) (post-SB 21)": [{"file": "8 Del. C. 144 post-SB 21).pdf", "label": "DGCL § 144 (post-SB 21)"}],
+    "8 Del. C. 220 (pre-SB 21)": [{"file": "8 Del. C. 220 (pre-SB 21).pdf", "label": "DGCL § 220 (pre-SB 21)"}],
+    "8 Del. C. 220 (post-SB 21)": [{"file": "8 Del. C. 220 (post-SB 21).pdf", "label": "DGCL § 220 (post-SB 21)"}],
+
+    "Del. Ct. Ch. R. 23.1": [{"section_in": "chancery", "sections": ["23.1"]}],
+
+    "1934 Act 13; SEC Rule 13D": [
+      {"section_in": "sea34", "sections": ["13"], "from_re": "^\\s*\\(d\\)\\(1\\)\\s+Any person", "to_re": "^\\s*\\(h\\)\\s+LARGE TRADER", "label": "Exchange Act § 13(d)–(g)"},
+      {"file": "17 CFR § 240.13d-1 - Filing of Schedules 13D and 13G", "label": "SEC Rule 13d-1"}
+    ],
+    "1934 Act 14; SEC Rule 14a-19": [
+      {"section_in": "sea34", "sections": ["14"], "to_re": "^\\s*\\(b\\)\\(1\\)\\s+It shall be unlawful", "label": "Exchange Act § 14(a)"},
+      {"file": "17 CFR § 240.14a-19", "label": "SEC Rule 14a-19"}
+    ]
+  }
+}
