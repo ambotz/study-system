@@ -45,7 +45,7 @@ access: open
   upside when case resolves successfully" (pp. 3–4).
 - **Sell the portfolio.** Matters can be combined "in a cross-collateralized portfolio
   (which can include both plaintiff and defense matters)" (p. 3), and portfolios are said
-  to be "58% of Portfolios represent three out of five of Burford's new commitments." The
+  to represent "three out of five of Burford's new commitments" (58%). The
   portfolio pitch is budget predictability across a litigation book, not access to a single
   case.
 - **Price by risk, in four shapes.** Variable (percentage of recovery, "comparable to

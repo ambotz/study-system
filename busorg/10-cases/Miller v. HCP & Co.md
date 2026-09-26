@@ -147,8 +147,8 @@ the sale must not be to an insider."
 **The comparison the opinion invites is to [[In re Trados]]**, and it is the cleanest
 entity-choice illustration in the course. "[I]f the parties had chosen to employ the **corporate
 form** here, with its common-law fiduciary duties, this matter would be subject to **entire fairness
-review**." The facts are nearly identical to Trados — a private equity controller, a waterfall that
-pays the controller first, a board it dominates, a quick sale that leaves the junior classes with
+review**." The facts are nearly identical to Trados — financial investors in control, a waterfall that
+pays them first, a board they dominate, a quick sale that leaves the junior classes with
 nothing — and the outcome is opposite. Trados got a trial on entire fairness; Miller got dismissed on
 the pleadings. The only difference is the entity and the waiver.
 
@@ -233,7 +233,7 @@ million. The HCP-allied managers declined to run an open sales process and gave 
 managers little time to find alternatives. Trumpet nonetheless managed an abbreviated process and
 pressed MTS up to $41 million and then $43 million.
 
-The process was contentious. When another party, FFL, indicated interest, the non-HCP members
+The process was contentious. When another party, FFL, indicated interest, the HCP managers
 insisted MTS be told; MTS threatened to revoke its offer and later threatened to sue over a purported
 exclusivity provision the plaintiffs say did not exist, and falsely accused Miller of contacting FFL
 — threats the plaintiffs trace to unauthorised calls Shafer and Signoret had made to MTS. When Fritts

@@ -29,8 +29,7 @@ Once Congress acts in a way that is "legislative in its character and effect," i
 
 ## Court Ruling
 
-**Held** (7–2; Burger, C.J., for the Court; Powell, J., concurring in the judgment; White, J.,
-and Rehnquist, J., dissenting)
+**Held** (7–2; Burger, C.J., for the Court; Powell, J., concurring in the judgment; White, J., and Rehnquist, J., dissenting)
 
 - The Court has jurisdiction; § 244(c)(2) is severable from the rest of the Act; and the case is not a nonjusticiable political question.
 - Whether an action of either House is subject to Article I, § 7 "depends not on their form but upon 'whether they contain matter which is properly to be regarded as legislative in its character and effect.'"

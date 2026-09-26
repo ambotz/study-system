@@ -178,8 +178,8 @@ organisations reviewed them. Nobody noticed.
   private understanding drops out.
 - The evidentiary weight falls on circulation and silence. Drafts went to a
   JPMorgan Managing Director who had signed the Term Loan documents; drafts went
-  to JPMorgan's own counsel; counsel's only comment was a stylistic edit to a
-  signature block; counsel then approved and signed the Escrow Agreement.
+  to JPMorgan's own counsel; counsel's only comment was a stylistic edit to how
+  JPMorgan was named; counsel then approved and signed the Escrow Agreement.
 - "Nothing more is needed" is the holding's operative phrase. The court sets a low
   bar for manifestation precisely because the UCC filing system depends on third
   parties being able to rely on what the record says.

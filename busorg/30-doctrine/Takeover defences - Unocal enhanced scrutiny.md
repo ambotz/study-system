@@ -119,7 +119,7 @@ Post-Unitrin, prong two runs in **two steps, in this order**:
    **disjunctive** — either quality alone is draconian and impermissible, and the
    analysis stops.
    - **Coercive**: "aimed at 'cramming down' on its shareholders a management-sponsored
-     alternative to a hostile offer."
+     alternative."
    - **Preclusive**: it "deprives stockholders of the right to receive all tender offers
      or precludes a bidder from seeking control by fundamentally restricting proxy
      contests or otherwise" — it makes gaining board control "realistically
@@ -229,7 +229,7 @@ which is what lets a board defend against its own stockholder. And the passivity
 rejected outright: "that clearly is not the law of Delaware."
 
 Note that the **device** is obsolete even though the doctrine is not. The SEC's all-holders
-rule, Rule 14d-10, now requires a self-tender to be open to all holders of the class, so a
+rule for issuer tender offers, Rule 13e-4(f)(8), now requires a self-tender to be open to all holders of the class, so a
 Mesa-style exclusion could not be structured today.
 
 ## Best counter-case

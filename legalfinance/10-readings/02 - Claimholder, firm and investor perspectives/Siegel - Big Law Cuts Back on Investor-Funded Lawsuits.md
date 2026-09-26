@@ -32,8 +32,8 @@ access: paywalled
 
 ## Who is speaking
 
-Emily Siegel is the Bloomberg Law correspondent covering this beat, and she appears four
-times on this syllabus — the closest thing the course has to a running chronicle of the
+Emily Siegel is the Bloomberg Law correspondent covering this beat, and she appears five
+times on this syllabus (four bylined there, plus the unbylined Class 7 Burford piece) — the closest thing the course has to a running chronicle of the
 industry. Bloomberg Law is trade press: fast, well-sourced, and reliant on named market
 participants who talk to it for reasons of their own. The only source named in the visible
 portion is **Charles Agee of Westfleet Advisors**, whose data is the report in
@@ -47,7 +47,7 @@ part most likely to rest on unnamed sources.
 ## Seminar hooks
 
 - The retreat and the growth are happening at once. Commitments rose and AUM rose, but the
-  largest firms' share nearly halved — so the capital moved to smaller firms and boutiques.
+  largest firms' share fell by about a third — so the capital moved to smaller firms and boutiques.
   Ask what that does to the quality of screening, and whether a market where the most
   sophisticated repeat players are stepping back is one where pricing is getting better or
   worse.

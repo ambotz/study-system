@@ -152,7 +152,7 @@ pattern can fail on either.
 5. **Forgetting the pleading posture.** Tesla 1 finds nothing; it holds control "reasonably
    conceivable." The consequence is entire fairness plus discovery, which is where these cases
    settle — so surviving dismissal is most of the game.
-6. **Missing the vote-exclusion problem.** Tesla excluded three people and left in four
+6. **Missing the vote-exclusion problem.** Tesla's merger agreement excluded three people from the vote and left in four
    interested directors and every other SolarCity-owning holder. Post-SB 21 § 144(e)(5) now
    defines a **disinterested stockholder** for exactly this purpose.
 7. **Applying the common-law test to a post-March 2025 transaction.** § 144(e)(2) supplies a

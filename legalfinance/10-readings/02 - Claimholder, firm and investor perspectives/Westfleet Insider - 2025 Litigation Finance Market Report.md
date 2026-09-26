@@ -99,7 +99,7 @@ real discipline, and it is not the same as independence.
 
 - **39 funders, 12 to 15 doing most of the deals, $16.1bn under management.** Put that next
   to the rhetoric in Class 1. Swiss Re describes a force reshaping American liability law;
-  the market doing it is smaller than a single mid-size private equity fund and is
+  the market doing it is smaller than a single flagship private equity fund and is
   concentrated in about a dozen firms. Whatever is driving nuclear verdicts, the commercial
   funding industry is not large enough to be the whole story.
 - **Patent litigation is 32% of commitments.** A third of the commercial market is in one

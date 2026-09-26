@@ -17,7 +17,7 @@ An **internal governance arrangement** that does not appear in the charter and
 deprives the board of a significant portion of its authority violates § 141(a).
 Under the *Abercrombie* test, restrictions fail when they "have the effect of
 removing from directors in a very substantial way their duty to use their own best
-judgment on management matters" or "tend to limit in a substantial way the freedom
+judgment on management matters" or "tend[ ] to limit in a substantial way the freedom
 of director decisions on matters of management policy."
 
 ## Facts
@@ -204,7 +204,7 @@ The plaintiff, a stockholder, challenged the provisions as facially invalid unde
   significant portion of its authority contravene § 141(a).
 - *Abercrombie* test: restrictions fail where they remove from directors "in a very
   substantial way their duty to use their own best judgment on management matters,"
-  or "tend to limit in a substantial way the freedom of director decisions on matters
+  or "tend[ ] to limit in a substantial way the freedom of director decisions on matters
   of management policy."
 - The presence of a controlling stockholder does not alter the board-centric
   framework.
@@ -228,8 +228,9 @@ The plaintiff, a stockholder, challenged the provisions as facially invalid unde
   establish that director primacy is not a policy preference the court is free to
   balance away.
 - The soritical paradox is answered by prototype reasoning rather than by a test. The
-  housecat and the lion both have paws; a bobcat is a close case and courts handle
-  close cases routinely. The Stockholder Agreement is not a close case — it "look[s]
+  housecat and the lion both have paws, yet one is a pet and the other a predator;
+  a love seat (couch or chair?) is a close case, and courts handle close cases
+  routinely. The Stockholder Agreement is not a close case — it "look[s]
   like something a law professor dreamed up for students to use as a prototypical
   Section 141(a) violation."
 - The markers of internality are applied one by one: parties limited to the Company

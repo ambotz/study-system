@@ -50,9 +50,10 @@ decision actually at issue** — suing someone is not the same as voting against
   "[I]t is inferable that there was no expectation of reporting to the board of any kind."
 - When the crisis broke in February 2015, the board still was not told. It met on 19
   February — after positive Texas tests on the 13th — with **no listeria discussion**.
-- After the first recall, the board's recorded response was a resolution **"express[ing]
-  support for Blue Bell's CEO, management, and employees."** *Instead of emergency
-  meetings, "Blue Bell's board left the company's response to management."*
+- After the first recall, *instead of emergency meetings, "Blue Bell's board left the
+  company's response to management."* After the second recall in March, the board's
+  recorded response was a resolution **"express[ing] support for Blue Bell's CEO,
+  management, and employees."**
 - Consequences: total product recall, three plants shut, **over a third of the workforce**
   laid off, a liquidity crisis forcing a **dilutive private equity investment**, and eight
   people sickened — **three of the five Kansas victims died**.
@@ -163,17 +164,18 @@ From 2009 onward inspectors kept finding the same category of problem: condensat
 onto or near product, standing water, equipment and ceilings in disrepair, open tanks,
 unprotected utensils, inconsistent hygiene. Some findings were reported directly to CEO Paul
 Kruse. In 2013 the company's own tests returned five positives for listeria; in 2014, ten,
-including consecutive positives on the same samples showing remediation was not working.
+including repeated positives on consecutive samples showing remediation was not working.
 
-None of it reached the board. The minutes record briefly discussed plant operations and a
-good report from an environmental agency. In early 2015 listeria moved from the plants into
+None of it reached the board. The minutes record only a brief discussion of plant operations
+and a good report from an environmental agency. In early 2015 listeria moved from the plants into
 the products. Texas health authorities, alerted by South Carolina, confirmed positives in
 Blue Bell samples on 13 February; the board met on the 19th and did not discuss it. A limited
 recall followed on the 23rd. The board met two days later and was told the FDA was working
 with Texas inspectors and more would be known "within the next days or weeks."
 
-In March the CDC connected Kansas infections to Blue Bell's Texas plant. The board's recorded
-action was a resolution of support for management. By 20 April the company recalled
+In early March health authorities linked Kansas infections to Blue Bell's Texas plant, and a
+second recall followed on 23 March. The board's recorded action, two days later, was a
+resolution of support for management. By 20 April the company recalled
 everything it made. Five adults in Kansas and three in Texas were sickened; three of the
 Kansas five died.
 
@@ -253,9 +255,9 @@ Kansas five died.
 - **Lead with "monoline."** The word does the work. A diversified manufacturer with a
   comparable record might come out differently, because food safety would be one risk among
   many rather than the business itself.
-- **The board's resolution of support is the most quotable fact.** Two days after learning
-  life-threatening bacteria was in its products, the board's recorded action was to encourage
-  management. If asked what a good faith board would have done, start there.
+- **The board's resolution of support is the most quotable fact.** A month after first
+  hearing that life-threatening bacteria was in its products, and two days after a second
+  recall, the board's recorded action was to encourage management. If asked what a good faith board would have done, start there.
 - **Have the independence holding separately.** It is fifty percent of the case and easy to
   skip. Key move: independence is measured against *the decision at issue*, and a governance
   disagreement does not show willingness to sue a benefactor.

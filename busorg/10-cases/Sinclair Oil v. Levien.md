@@ -134,7 +134,7 @@ board, which was drawn almost entirely from the Sinclair complex.
 
 Between 1960 and 1966 Sinven paid out $108 million in dividends — $38 million more than it
 earned in the period — at a time when Sinclair itself needed cash. The plaintiff conceded the
-payments complied with § 170's surplus and net profits requirements, and attacked them
+payments complied with § 170, which authorizes dividends out of surplus or net profits, and attacked them
 instead as motivated by the parent's needs and as starving Sinven of capital to grow.
 
 Over the same years Sinclair expanded aggressively, buying and developing oil properties in

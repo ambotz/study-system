@@ -48,8 +48,8 @@ The sequence, which is what matters:
   with them. Burford objects that the settlements undervalue the claims.
 - **Arbitration.** Burford commences arbitration in the **London Court of International
   Arbitration**. The tribunal issues a **preliminary injunction** restraining Sysco from
-  executing the settlements, reasoning that Burford bore direct economic risk and that
-  parties may "contract that right away," and that "whatever remains of champerty does not
+  executing the settlements, reasoning that Burford bore direct economic risk, that parties
+  may "contract that right away" (the claimant's right to settle on its own), and that "whatever remains of champerty does not
   appear to pose [] a barrier."
 - **March 2023.** Sysco petitions to vacate in the **Northern District of Illinois**, arguing
   the tribunal's interpretation "violated public policy by allowing the litigation funder to

@@ -31,14 +31,14 @@ access: paywalled
 
 ## Who is speaking
 
-Emily Siegel's fourth appearance on this syllabus, and the second in Class 6's orbit. Trade
+Emily Siegel's third of five appearances on this syllabus, and her only one in Class 6. Trade
 press, well sourced, reliant on named market participants who talk for reasons of their own —
 here brokers (**Aon**, **CAC Specialty**, **Willis Towers Watson**, **Marsh**), MGAs
 (**Atlantic Global Risk**, **DUAL North America**) and funders (**Burford**, **Omni
 Bridgeway**, **Woodsford**, **D.E. Shaw**, **Delta Capital**, **Corbin Capital**, **TRGP**).
 
 Note that the quoted voice is a **broker**, who is paid when insurance is placed. "Funders
-have ceded that ground to us" is a claim about market share made by the party gaining it.
+have started to kind of cede that ground to us" is a claim about market share made by the party gaining it.
 
 ## Seminar hooks
 

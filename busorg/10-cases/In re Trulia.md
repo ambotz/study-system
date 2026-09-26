@@ -40,7 +40,7 @@ already fair summary is not consideration for a release.
   being litigated.
 - The settlement was struck on November 19, 2014 — five days after the injunction
   brief and two days after the definitive proxy — and the stockholders then
-  approved the merger on December 18 with 99.15% of voting shares in favour.
+  approved the merger on December 18 with 99.15% of shares voted in favour.
 - No stockholder objected and the defendants filed nothing before the fairness
   hearing. The proceeding had no adversary in it, which is the structural problem
   the opinion is written to address.
@@ -115,8 +115,8 @@ already fair summary is not consideration for a release.
 
 Trulia is the procedural bookend to [[Omnicare v. NCS Healthcare]], assigned the
 same day. Omnicare shows deal litigation working: a real claim, litigated on an
-expedited basis, producing an injunction that moved more than a billion dollars of
-consideration. Trulia shows the same machinery running empty — the same expedited
+expedited basis, producing an injunction that cleared the way for a cash bid worth more
+than twice the Genesis consideration. Trulia shows the same machinery running empty — the same expedited
 posture, the same threat of injunction, and a settlement that transfers nothing to
 anyone except plaintiffs' counsel. Reading the two together is the point of the
 session.
@@ -144,8 +144,8 @@ pages immediately preceding this opinion.
 
 What happened next is worth knowing. Disclosure settlements largely left Delaware
 after Trulia, and the Seventh Circuit adopted the same reasoning within months in
-the Walgreen litigation. The practice migrated to **mootness fee** applications and
-to federal court under § 14(a), which is precisely the second channel Bouchard
+the Walgreen litigation. The practice migrated to federal court under § 14(a) and to
+**mootness fee** applications, the latter being precisely the second channel Bouchard
 identified as adversarial and therefore acceptable. The doctrine did not eliminate
 the claims; the doctrine relocated them to a forum where somebody argues the other
 side.

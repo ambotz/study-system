@@ -25,7 +25,7 @@ Congress may give the executive broad discretion in carrying out a statute, but 
 
 1. **Does the statute, properly construed, delegate as much as the challenger says?**
    - Read the delegating text with its context, purpose and history, and adopt the narrower reading if one is available.
-   - In Gundy, "specify the applicability" of SORNA to pre-Act offenders was read to mean *how* to apply the statute during the transition, not *whether* to apply it, so the Attorney General had to register them "as soon as feasible."
+   - In Gundy, "specify the applicability" of SORNA to pre-Act offenders was read to mean *how* to apply the statute during the transition, not *whether* to apply it, so the Attorney General had to apply the registration requirements to pre-Act offenders "as soon as feasible."
    - Once the statute is read that way, "the constitutional question all but answers itself": the delegation was "distinctly small-bore."
 2. **Is the delegated power legislative at all?**
    - Gorsuch's definition of legislative power is the power to adopt "generally applicable rules of conduct governing future actions by private persons."

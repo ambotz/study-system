@@ -46,7 +46,7 @@ Congress may reorganize the inferior federal courts and transfer a pending cause
 
 Stuart was the case "that looked like it would be the big confrontation." The casebook's Background to Marbury frames the stakes: the Jeffersonians repealed the Judiciary Act of 1801, abolished sixteen life-tenured circuit judgeships, reimposed circuit riding, cancelled the Court's 1802 session and began impeaching Federalist judges; the casebook calls both the abolition and the reimposition "acts of dubious constitutionality." One week after [[Marbury v. Madison]], the Court upheld the Repeal Act. Marbury asserted judicial review in a case where it cost the political branches nothing; Stuart declined to use it where it would have.
 
-The opinion's method is the argument from practice. It belongs with [[The Decision of 1789]], [[The Post Roads Debate]] and Hamilton's courts that "liquidate and fix" meaning in [[The Federalist No. 78]]; with Frankfurter's historical-gloss argument in [[Youngstown Sheet & Tube Co. v. Sawyer]]; and with the modern historical-practice cases, [[NLRB v. Noel Canning]] and [[Zivotofsky v. Kerry]]. See [[Types of Constitutional Argument]].
+The opinion's method is the argument from practice. It belongs with [[The Decision of 1789]], [[The Post Roads Debate]] and, more loosely, Hamilton's courts that "liquidate and fix" the meaning of clashing statutes in [[The Federalist No. 78]]; with Frankfurter's historical-gloss argument in [[Youngstown Sheet & Tube Co. v. Sawyer]]; and with the modern historical-practice cases, [[NLRB v. Noel Canning]] and [[Zivotofsky v. Kerry]]. See [[Types of Constitutional Argument]].
 
 On congressional control of the courts, Stuart is the first data point in the line the course follows through [[Ex parte McCardle]] and the [[Senate Report on Court Packing]] (Class 15): Congress may create, abolish, restructure and redistribute the business of the inferior courts. The question the Court avoided, whether Congress may abolish a court to remove its judges, has never been squarely decided. On the appointments point, the Court later held that Congress may assign an officer additional duties germane to his office without a new appointment ([[Shoemaker v. United States]] (1893); [[Weiss v. United States]] (1994)), which gives Stuart's result a doctrinal footing its reasoning does not supply.
 
@@ -59,7 +59,7 @@ On congressional control of the courts, Stuart is the first data point in the li
 ### Posture
 
 - Review in the Supreme Court of a judgment entered in December 1802 by the circuit court for the fifth circuit, Virginia district, on a forthcoming bond given by Stuart and Charles L. Carter. Counsel assigned two reasons for reversal.
-- The Court, decided one week after Marbury, rejected both.
+- The Court, deciding the case one week after Marbury, rejected both.
 
 ### Facts
 

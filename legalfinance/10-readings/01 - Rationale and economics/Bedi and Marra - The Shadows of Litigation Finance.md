@@ -85,7 +85,7 @@ own logic. It does mean the piece is not disinterested scholarship in a student-
 review; it is a well-built argument for a conclusion that is worth money to one author's
 employer. Marra appears again on this syllabus in Class 9, writing on litigation funding
 for Bloomberg Law — by then at **Certum Group**, another litigation risk and funding company.
-Validity, then Certum: a career inside the industry, arguing across a decade that policymakers
+Validity, then Certum: a career inside the industry, arguing from 2021 to 2024 that policymakers
 should encourage it, with the affiliation disclosed in footnotes.
 
 ## Where it goes

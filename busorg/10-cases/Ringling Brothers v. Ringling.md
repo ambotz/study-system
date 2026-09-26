@@ -43,10 +43,10 @@ parties**, not a power in one to vote the other's shares.
 - Loos directed each woman to cast 882 for herself, 882 for her nominee, and **441 for
   Dunn** — the shared fifth candidate. Mrs. Ringling complied; Mr. Haley instead cast
   1,103 and 1,102 for the Haleys and **nothing for Dunn**.
-- The stock had been in a **voting trust** from 1938 until 1947, so the parties knew the
+- The stock had been deposited in a **voting trust** in 1938, due to terminate in 1947, so the parties knew the
   statutory form and chose a different one. *Background, but it defeats any suggestion
   that the pooling agreement was an unwitting evasion.*
-- The agreement ran **ten years** and recited the object of "assuring for the respective
+- The agreement ran **ten years** and directed that arbitration be exercised to the end of "assuring for the respective
   corporations good management and such participation therein by the members of the
   Ringling family as the experience, capacity and ability of each may warrant."
 - North was **not a party** to the agreement. That fact shapes the remedy: his votes
@@ -264,7 +264,7 @@ competing slates of officers.
 
 - A shareholder may exercise wide liberality of judgment in voting, for personal profit or
   from whim or caprice, so long as he violates no duty owed his fellow shareholders, and
-  owns no duty to vote at all.
+  owes no duty to vote at all.
 - Shareholders may vote their respective shares so as to obtain the advantages of concerted
   action, and may lawfully contract to vote in the future as they or a majority of their
   group determine.
@@ -345,5 +345,5 @@ that outcome needed an irrevocable proxy in the document, not a better argument 
   specific performance. Note that North, a non-party, keeps his votes, and that the
   correction left a vacancy the court would not fill.
 - **Numbers worth holding.** 1,000 shares; 315 / 315 / 370; seven seats; 2,205 and 2,590
-  votes; 882 and 441 as directed; 1,103 and 1,102 as cast; a ten-year agreement; a voting
-  trust running 1938 to 1947.
+  votes; 882 and 441 as directed; 1,103 and 1,102 as cast; a ten-year agreement; a 1938 voting
+  trust due to terminate in 1947.

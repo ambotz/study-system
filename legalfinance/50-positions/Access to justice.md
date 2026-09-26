@@ -24,7 +24,7 @@ the claimants who gain access are the ones the access argument is about.
   downside risk to a party that can diversify it. A claimant who could technically afford
   the case but cannot afford to lose it is just as constrained as one with no money.
   [[Burford - Legal Finance 101]]; [[Non-recourse capital]].
-- **Better counsel, not just any counsel.** Steinitz lists this first among the benefits:
+- **Better counsel, not just any counsel.** Steinitz lists this among the benefits, right after access itself:
   funding lets a plaintiff hire lawyers the defendant already has.
 - **The pre-claim shadow.** [[Bedi and Marra - The Shadows of Litigation Finance]] argues
   the access gain is larger than the litigated cases show, because a credible prospect of
@@ -60,7 +60,8 @@ the claimants who gain access are the ones the access argument is about.
   stops being a category error; if it does not, the gap is permanent.
   [[Can AI price legal claims]].
 - **Where it does reach individuals, the price is the problem.** Consumer advances of
-  $1,000–$10,000 at 15% to 18% of the amount funded applied every six months are access on
+  $1,000–$10,000, at rates starting at 15% of the amount funded or 18% applied every six
+  months, are access on
   terms that consume the recovery. [[Consumer funding and the price of money]].
 - **The cost reaches people who never contracted.** Swiss Re's framing: an "opaque,
   bottom-up wealth transfer from consumers to sophisticated investors and law firms,"

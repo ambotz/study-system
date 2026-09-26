@@ -4,7 +4,7 @@ sub_topic: Unocal enhanced scrutiny of merger lock-ups — § 251(c) force-the-v
 authority:
   - common law (Unocal; Unitrin; Paramount v. Time; Omnicare)
   - 8 Del. C. § 251(c) (force-the-vote, as cited in Omnicare)
-  - 8 Del. C. § 146 (2018 relocation of the force-the-vote authority)
+  - 8 Del. C. § 146 (2003 relocation of the force-the-vote authority)
   - 8 Del. C. § 144(d)(6)(b) (post-SB 21, savings clause for change-of-control devices)
 professor_emphasis: 3
 exam_likelihood: high
@@ -130,7 +130,7 @@ outcome of the vote is already a foregone conclusion. In that configuration an
   no-shop with a fiduciary out, and matching rights are standard and proportionate.
   Omnicare condemns a **complete** lock-up, not deal protection as a category.
 - **Force-the-vote is statutorily authorised.** Section 251(c) at the time of
-  Omnicare, and 8 Del. C. § 146 since 2018, permit a board to submit a merger to
+  Omnicare, and 8 Del. C. § 146 since 2003 (74 Del. Laws, c. 84), permit a board to submit a merger to
   stockholders notwithstanding a later withdrawal of its recommendation. The
   provision is lawful; the combination in Omnicare was not.
 - **Post-closing, a fully informed and uncoerced vote cleanses.** See

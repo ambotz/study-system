@@ -179,7 +179,8 @@ Unocal for the burden and the balance; read Unitrin through Omnicare for the mod
 mechanics.
 
 The exclusion at the heart of the case has since been legislated away in practice.
-The SEC's all-holders rule under Rule 14d-10 now requires a self-tender to be open to
+The SEC's all-holders rule for issuer tender offers, Rule 13e-4(f)(8) (the
+counterpart of Rule 14d-10 for third-party bids), now requires a self-tender to be open to
 all holders of the class, so a Mesa-style exclusion could not be structured today.
 The doctrine outlived the device, which is the ordinary pattern in this part of the
 course — [[Moran v. Household International]], decided months later, gave boards the
@@ -360,7 +361,7 @@ look thin in a duty of care case decided the same year. There was no agenda and 
 written materials before a nine-and-a-half hour meeting; the financial presentation
 was designed to convey the scope of the analyses rather than the numbers; and the
 $72 figure was chosen from a range at a two-hour follow-up meeting.
-[[Smith v. Van Gorkom]], decided three months earlier, found gross negligence on a
+[[Smith v. Van Gorkom]], decided earlier the same year, found gross negligence on a
 comparable absence of materials. The distinction the court never articulates is that Van Gorkom
 concerned a decision to sell the company while Unocal concerned a decision to defend
 it — but that distinction is doing a lot of unspoken work.
@@ -383,7 +384,7 @@ it — but that distinction is doing a lot of unspoken work.
   "could not, by definition, fit within the class of shareholders being protected from
   its own coercive and inadequate tender offer."
 - **Do not say a discriminatory self-tender is available today.** The SEC's all-holders
-  rule, Rule 14d-10, requires a self-tender to be open to all holders of the class.
+  rule for issuer tender offers, Rule 13e-4(f)(8), requires a self-tender to be open to all holders of the class.
   The doctrine survives; the device does not.
 - **Have the independent-majority point ready.** Proof of good faith and reasonable
   investigation is "materially enhanced" by approval from a board with a majority of

@@ -18,7 +18,7 @@ Four functions, in descending order of how well AI performs them:
 | Function | What it does | Maturity |
 |---|---|---|
 | **Sourcing** | Mines dockets to surface cases matching investment criteria, by court, judge and case type; identifies specialised lawyers; automates first outreach | **In production.** Legalist's "truffle sniffer," Qanlex's "Case Miner," Burford's web-scraping project |
-| **Screening out** | Rejects clearly unfundable matters | **In production**, and the most honest use — Apex uses predictive tools "primarily to reject unsuitable cases" |
+| **Screening out** | Rejects clearly unfundable matters | **In production**, and the most honest use — Apex uses predictive tools mainly to reject unsuitable cases |
 | **Early assessment** | Issue-spotting and identifying elements of the cause of action | Partial. Perla: "most effective in early-stage issue-spotting" |
 | **Pricing and the investment decision** | Valuing the claim and setting terms | **Not achieved.** Perla: AI "is not yet capable of making investment decisions"; Shang: "It does not do things that an underwriter would normally do" |
 

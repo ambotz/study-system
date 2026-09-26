@@ -32,7 +32,8 @@ others."
 - The Company paid **service and licence fees to ASIA**, an entity owned by EBF, alleged to
   **exceed market rates**. Same structure, same analysis.
 - **The risk-on strategy conferred no direct or specific benefit.** Amending the Operating
-  Guidelines to permit riskier investments "affected the value of the entity as a whole." *Argued
+  Guidelines to permit riskier investments was a business decision that "generally affect[s] the
+  value of the entity as a whole." *Argued
   and rejected as a basis for entire fairness.*
 - **Insolvency was adequately pleaded on the balance sheet test.** The Company started with $100
   million of equity capital, borrowed six times that in long-term debt, and leveraged its equity
@@ -47,7 +48,8 @@ others."
   with "no realistic prospect of returning to solvency."
 - **Three of five directors could not invoke § 102(b)(7)** because the complaint pleaded that they
   were not independent of EBF — Vertin an EBF partner whose compensation was tied to EBF's
-  investments in credit derivative product companies, and Sullivan an EBF employee.
+  investments in credit derivative product companies, Sullivan an EBF employee, and Gonzalez the
+  chief executive who depended on EBF for his position and primary source of income.
 - The charters of both entities **required the businesses to be conducted in compliance with the
   Operating Guidelines**, which the ratings agencies had required. *Background — the amendment of
   those Guidelines is the challenged strategy.*
@@ -83,7 +85,7 @@ others."
   down Athilon's business and manage towards a near-term dissolution for the benefit of creditors."
   Even when insolvent, "directors are free to pursue value maximizing strategies," and a board
   acting "with due diligence and good faith... does not become a guarantor of that strategy's
-  success" — it "**are protected by the business judgment rule**."
+  success" — "the directors **are protected by the business judgment rule**."
 - **Efficient liquidation is equally protected.** "[T]he efficient liquidation of an insolvent firm
   might well be the method by which the firm's value is enhanced," and "[h]ere too the business
   judgment rule would protect a board's decision to pursue an efficient liquidation."
@@ -345,7 +347,7 @@ where the harm is diffuse by design.
 - **Explain the solvent/insolvent asymmetry in one sentence.** A transfer to a 100% stockholder of a
   **solvent** company harms nobody, because he owned the value already; the same transfer from an
   **insolvent** company takes value that now belongs beneficially to the creditors.
-- **Have the inaction point ready.** Not deferring interest was treated as a decision. "[I]naction' and
+- **Have the inaction point ready.** Not deferring interest was treated as a decision. "'[I]naction' and
   'action' may be substantive equivalents, different only in form."
 - **Say that the trust fund doctrine is not the law.** Directors may keep taking risk, may operate at a
   loss, and may choose efficient liquidation — all protected. They "do not become a guarantor" of a

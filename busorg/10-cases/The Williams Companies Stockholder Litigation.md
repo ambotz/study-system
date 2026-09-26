@@ -44,7 +44,7 @@ holding almost a quarter.
 
 The board had lived through activism before. In late 2011 Soroban (Mandelblatt) and
 Corvex (Meister) each took slightly under five per cent and, by a February 2014
-standstill, joined the board. They pressed for the Energy Transfer merger, and when it
+agreement with Williams, joined the board. They pressed for the Energy Transfer merger, and when it
 died they and four other directors tried to remove chief executive Armstrong; when that
 failed the six resigned and Meister threatened a full-slate proxy fight, standing down
 only when Williams added three new independent directors. Only two of the Director
@@ -86,8 +86,8 @@ protecting an NOL; it acted "pre-emptively to interdict hypothetical future thre
   board's articulated rationale is a question of fact.**
 - **Prong one, process.** Defendants satisfied the good-faith-reasonable-investigation
   half: nearly all independent outside directors, two meetings, outside legal and
-  financial advisors on hand, genuine deliberation. The court notes the second meeting
-  had "the impression of window dressing" and that "aspects of the process were less
+  financial advisors on hand, genuine deliberation. The court notes that aspects of the
+  record "create the impression that the second Board meeting was window dressing" and that "aspects of the process were less
   than perfect," but "nothing about the process jumps out as unreasonable." **Process
   was not the problem.**
 - **Prong one, threat 1 — activism generally.** Rejected outright. Activism reaches the

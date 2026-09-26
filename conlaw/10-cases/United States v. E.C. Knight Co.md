@@ -25,7 +25,7 @@ Manufacturing is not "commerce," so the Sherman Act could not reach a monopoly o
 
 ## Court Ruling
 
-**Held** (Fuller, C.J., for a 5–4 Court)
+**Held** (Fuller, C.J., for an 8–1 Court; Harlan, J., dissenting; the casebook's "5–4" is an error)
 
 - Manufacturing is not within the meaning of "commerce": "Commerce succeeds to manufacture and is not a part of it."
 - A monopoly of manufacture may bring "the operation of commerce into play," but the monopoly "does not control it, and affects it only incidentally and indirectly."

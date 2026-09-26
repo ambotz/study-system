@@ -27,8 +27,10 @@ leading academic opposes a **uniform rule** while favouring intervention.
   including for conflicts and recusal. Steinitz lists "potential violations of due process
   rights when funders are undisclosed" among harms to defendants.
 - **Judicial conflicts are unmanageable otherwise.** A judge cannot recuse from an interest
-  they cannot see. This is the argument that carried in
-  [[In re Nimitz Technologies]] (Class 8).
+  they cannot see. It is the stated purpose of the six circuit rules Steinitz surveys — "to
+  assist judges with evaluating possible issues of recusal and disqualification" (p. 1080).
+  [[In re Nimitz Technologies]] (Class 8) rested on different concerns: real parties in
+  interest, compliance with court orders, and fraud on the court.
 - **Settlement cannot be evaluated blind.** If funder approval is required for settlement, a
   defendant negotiating in good faith is negotiating with someone who is not in the room.
   [[Funder control over the case]].
@@ -47,17 +49,16 @@ leading academic opposes a **uniform rule** while favouring intervention.
   **veto settlements**, direct replacement of counsel, require plaintiffs to pay penalties and
   sanctions, and **mandate sharing of discovery documents with the funder**. "Zombie
   litigation" is their name for cases that continue because a hidden funder holds the veto.
-- **Courts are already doing it without waiting.** [[In re Nimitz Technologies]] upheld a
-  district judge's authority to investigate ownership, funding and real parties in interest —
-  concerns "related to potential legal issues in the case" — against a mandamus petition
-  seeking to shut the inquiry down.
+- **Courts are already doing it without waiting.** [[In re Nimitz Technologies]] denied a
+  mandamus petition seeking to shut down a district judge's inquiry into ownership, funding and
+  real parties in interest — concerns "related to potential legal issues in the case."
 - **It already works in two districts.** N.D. Cal. and D.N.J. have operated disclosure rules
   since 2018 and 2021 without the market collapsing.
 
 ## The case against
 
 - **Commercial finance is not ordinarily discoverable.** Burford's framing: courts have
-  implicitly recognised that "commercial legal finance arrangements are like any other type
+  implicitly recognised that commercial legal finance "arrangements are like any other type
   of corporate finance," and a defendant does not get to see how a plaintiff financed its
   operations.
 - **Work product.** Burford argues that diligence materials are protected, and that the

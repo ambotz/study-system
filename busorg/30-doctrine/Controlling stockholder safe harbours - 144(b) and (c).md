@@ -66,16 +66,16 @@ stockholders."
 ### § 144(c) — going private transactions
 
 Only two routes, and the first requires **both** protections: approval "in accordance with
-paragraph (b)(1) **and** approved in accordance with paragraph (b)(2)"; or fairness under
+paragraph (b)(1) of this section **and** approved in accordance with paragraph (b)(2) of this section"; or fairness under
 (c)(2).
 
 **This is MFW, codified — and confined to going private.** Delaware kept the two-prong
 requirement exactly where the squeeze-out risk is greatest and relaxed it everywhere else.
 
-**§ 144(e)(6) — what counts as going private.** For a company with equity registered under
+**§ 144(e)(6) — what counts as going private.** For a company with equity securities subject to
 § 12(g) or § 15(d) of the Exchange Act or listed on a national exchange, a **Rule 13e-3
 transaction**. For any other corporation, any controller transaction under which
-"substantially all of the shares of the corporation's capital stock held by the
+"all or substantially all of the shares of the corporation's capital stock held by the
 disinterested stockholders (but not those of the controlling stockholder or control group)
 are cancelled, converted, purchased, or otherwise acquired or cease to be outstanding."
 
@@ -114,8 +114,8 @@ are cancelled, converted, purchased, or otherwise acquired or cease to be outsta
   bylaws, or with a governmental order; **injunctive review of anti-takeover devices**
   "designed or intended to deter, delay, or preclude a change of control"; or claims that a
   person "knowingly **aided and abetted** a breach of fiduciary duty."
-- **The definitional gateway.** § 144(e)(2) requires majority voting power, a contractual
-  right to elect a board majority, or **at least one-third** of voting power **plus**
+- **The definitional gateway.** § 144(e)(2) requires majority voting power, a right, "by contract
+  or otherwise," to elect a board majority, or **at least one-third** of voting power **plus**
   managerial authority. A blockholder below that floor is not a controller, so none of this
   applies — see
   [[Controlling stockholder transactions - the self-dealing trigger]].
@@ -128,7 +128,7 @@ are cancelled, converted, purchased, or otherwise acquired or cease to be outsta
 demonstration of what the new subsections are for. The board conditioned the acquisition on
 majority-of-the-disinterested approval but formed **no special committee**. Under MFW that
 combination could not restore business judgment review, so Musk had to prove entire fairness
-at trial and won on price. Under § 144(b) the vote alone would now suffice, and there would
+at trial, and won. Under § 144(b) the vote alone would now suffice, and there would
 have been no trial.
 
 Slights says as much himself: they "likely could have avoided this expensive and
@@ -163,8 +163,7 @@ many protections are needed.
    in effect at the time it is submitted to stockholders" — looser than MFW's *ab initio*
    requirement, and a likely point of comparison.
 5. **Counting the wrong stockholders.** Majority of **votes cast** by **disinterested**
-   stockholders, as defined in § 144(e)(5). [[In re Tesla Motors (Tesla 1)]] excluded three
-   people and left four interested directors in the tally.
+   stockholders, as defined in § 144(e)(5). In [[In re Tesla Motors (Tesla 1)]] the merger agreement excluded three people and left four interested directors in the tally.
 6. **Treating the safe harbour as total immunity.** § 144(d)(6) preserves procedural
    challenges, injunctive review of takeover defences, and aiding-and-abetting claims — which
    is why session 16 still has work to do.

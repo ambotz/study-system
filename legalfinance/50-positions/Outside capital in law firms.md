@@ -9,7 +9,8 @@ sessions: [2, 7]
 ## The question
 
 ABA Model Rule 5.4 bars nonlawyer ownership of law firms and fee sharing with nonlawyers in
-every US jurisdiction except Arizona and, in limited form, Utah. Model Rule 5.6 bars
+nearly every US jurisdiction; Arizona permits it, and Utah, Puerto Rico and Washington, D.C.
+have loosened the rule. Model Rule 5.6 bars
 restraints on a departing lawyer's practice.
 
 Together they mean a law firm cannot raise permanent capital and cannot stop its owners

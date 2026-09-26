@@ -29,8 +29,7 @@ Congress cannot do through the purse what the Bill of Attainder Clause forbids i
 
 ## Court Ruling
 
-**Held** (Black for the Court; Frankfurter, joined by Reed, concurring in the judgment; Jackson
-took no part)
+**Held** (Black for the Court; Frankfurter, joined by Reed, concurring in the judgment; Jackson took no part)
 
 - **§ 304 is not a mere appropriation measure.** Its purpose "was not merely to cut off respondents' compensation through regular disbursing channels but permanently to bar them from government service."
 - **The challenge is justiciable.** Otherwise "congressional action, aimed at three named individuals, which stigmatized their reputation and seriously impaired their chance to earn a living, could never be challenged in any court."
@@ -64,8 +63,7 @@ took no part)
 
 ### Posture
 
-- Suits in the Court of Claims by three federal employees for salary earned after November 15,
-  1943. The Court of Claims entered judgment for them, the judges splitting on why: some read § 304 as a stoppage of disbursement only, others held it unconstitutional.
+- Suits in the Court of Claims by three federal employees for salary earned after November 15, 1943. The Court of Claims entered judgment for them, the judges splitting on why: some read § 304 as a stoppage of disbursement only, others held it unconstitutional.
 - The Supreme Court granted certiorari "because of the manifest importance of the questions involved" and affirmed. The Solicitor General argued for the respondents on removal and attainder; special counsel defended § 304 for Congress.
 
 ### Facts

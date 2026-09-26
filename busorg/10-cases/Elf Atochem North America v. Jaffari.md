@@ -126,7 +126,7 @@ the members who are the real parties in interest. The LLC is simply their joint 
 That framing is why LLC law leans contractual where corporate law leans fiduciary.
 
 **What Elf Atochem does not settle is default fiduciary duties**, and that question ran on for
-another fifteen years. The [[Note on LLC default fiduciary duties]], assigned the same day, tells the
+another fourteen years. The [[Note on LLC default fiduciary duties]], assigned the same day, tells the
 story: Chancery held for years that the defaults matched corporate duties, the Supreme Court in Gatz
 Properties chastised the Chancellor for reaching the issue at all and declared his pronouncements
 "dictum without any precedential value," and the General Assembly settled it in 2013 by amending
@@ -274,7 +274,7 @@ actions as manager, so that only a California court or arbitrator could decide t
 
 - Unanimous.
 
-The opinion leaves open how far the reasoning reaches. Saying that the LLC is bound because "the
+The opinion leaves open how far the reasoning reaches. Saying that the LLC is bound because "[i]t is the
 members who are the real parties in interest" works cleanly for a two-member joint venture, where
 every member signed. It works less obviously for an LLC with later-admitted members, creditors, or
 managers who are not members — and the court's own mandatory/default test, keyed to the protection of

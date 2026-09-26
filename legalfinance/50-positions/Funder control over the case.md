@@ -33,7 +33,7 @@ control rights*, and *funders cannot take control rights*.
   when third-party funders block settlements." GAO records the same phenomenon from the
   other direction: plaintiffs "may be inclined to reject a fair settlement offer."
 - **The New Jersey rule assumes it happens.** D.N.J. L. Civ. R. 7.1.1 requires a statement
-  describing "whether the funder's approval is needed for litigation or settlement
+  of "[w]hether the funder's approval is necessary for litigation decisions or settlement
   decisions" — a disclosure requirement drafted around the possibility that the answer is
   yes. [[New Jersey Local Civil Rule 7.1.1]].
 - **Portfolio structures spread the pressure.** Where matters are cross-collateralised, a

@@ -121,12 +121,12 @@ not merely that the fiduciary was breaching.
   turns on knowing participation, which splits into knowledge and participation.
 - **On participation: substantial assistance is required, and active conduct is
   required.** Delaware corporate-governance cases have found liability "only where
-  there has been overt participation such as active attempts to create or exploit
-  conflicts of interest in the board or an overt conspiracy or agreement," and
-  "passive awareness... does not constitute substantial assistance." No party cited
-  any Delaware case imposing liability on a third-party bidder, and the court
-  declines to hold that a failure to act, without some active role, is substantial
-  assistance.
+  there has been overt participation such as active 'attempts to create or exploit
+  conflicts of interest in the board' or an overt conspiracy or agreement," and
+  Vista's inaction, absent a duty to Mindbody's stockholders to act, "does not
+  constitute substantial assistance." The parties cited no authority holding that a
+  failure to act, without some active role, is substantial assistance, and the
+  court declines to so hold.
 - **Where the defendant is an arm's-length acquiror, participation "should be the
   most difficult to prove."** Delaware law protects arm's-length negotiation, and "a
   bidder's attempts to reduce the sale price through arm's-length negotiations
@@ -242,8 +242,8 @@ time. That is a more useful formulation than anything in Corwin itself.
 ### Posture
 
 - Appeal from a post-trial judgment of the Court of Chancery (Laster, C.) after a
-  trial on 1,865 exhibits, eighteen fact and six expert witnesses, twenty-four
-  deposition transcripts and 123 stipulations.
+  trial on 1,865 exhibits, eighteen fact and six expert witnesses, deposition
+  testimony from twenty-four fact witnesses and 123 stipulations.
 - **Appellants challenged none of the trial court's fact-findings** — only the
   conclusions drawn from them. Legal conclusions are reviewed de novo, factual
   findings for clear error, and damages for abuse of discretion.
@@ -282,7 +282,7 @@ within minutes; Saroya replied in seven. Chang's internal note read: "Met with h
 today and he immediately talked about how he is tired of being public and wanted me
 to re-connect him w[ith] Vista and Thoma. Probably a 2019 deal is my guess." Chang
 waited a week before connecting Stollmeyer to Thoma Bravo and Hellman & Friedman,
-whom he did not meet until mid-October and early November.
+whom Stollmeyer did not meet until mid-October and early November.
 
 Stollmeyer met Saroya and Nicolas Stahl on September 4. Stahl's contemporaneous
 note recorded that Stollmeyer "would like to find a good home for his company," was
@@ -406,8 +406,9 @@ Klomhaus not to "tell them about process."
   already knows contributes nothing.
 - The contract analysis separates the two claims the plaintiffs could have brought.
   Vista's failure to notify exposed it to a **breach of contract** claim Mindbody
-  never brought; converting that into secondary fiduciary liability to stockholders
-  "would be diluted by implying that contractual rights and obligations... create an
+  never brought; if that claim were converted into secondary fiduciary liability to
+  stockholders, the exacting aiding and abetting requirements "would be diluted by
+  implying that contractual rights and obligations... create an
   independent duty of disclosure."
 - The policy passage supplies the reason the line is drawn there rather than
   elsewhere: a buyer forced to police the target's disclosure would owe conflicting

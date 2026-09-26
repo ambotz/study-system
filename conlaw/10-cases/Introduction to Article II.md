@@ -19,7 +19,7 @@ The casebook's opening to Part II (Article II: The Executive Power), pp. 166–1
 
 ## What to notice
 
-- **Two failures on either side of the framers.** George III was the model of executive tyranny; the post-1776 state constitutions "hobbled and constrained their executives" and "[p]redictably . . . run headlong into legislative tyranny." The Articles of Confederation had no separate executive at all. Article II is written against both failures, which is why "energy" and "safety" run together in [[The Federalist No. 70]].
+- **Two failures on either side of the framers.** George III was the model of executive tyranny; the post-1776 state constitutions "hobbled and constrained their executives" and "[p]redictably . . . had run headlong into legislative tyranny." The Articles of Confederation had no separate executive at all. Article II is written against both failures, which is why "energy" and "safety" run together in [[The Federalist No. 70]].
 - **The Vesting Clause asymmetry.** Article I gives Congress only the legislative powers "herein granted"; Article III gives "the judicial Power" and then lists the cases and controversies. Article II gives "the executive Power" followed by "a seemingly random assortment" of specific powers. The editors' questions are the ones the whole unit answers:
   - If the listed powers are all the President has, why not say "herein granted"?
   - If there are more, what are they, and why did some need to be stated?

@@ -33,7 +33,7 @@ though the doctrinal question remains open.
   underwritten against cases already screened by a contingency-fee lawyer who has taken the
   case on its merits. The realised loss rate on a book of such advances is not the loss rate
   the pricing implies — which is the empirical heart of
-  [[Skiba and Xiao - Consumer Litigation Funding as Payday Lending]].
+  [[Avraham and Sebok - Empirical Investigation of Third Party Consumer Litigant Funding]].
 - **The comparison is the argument.** Swiss Re: consumer contracts "should clearly disclose
   an annual percentage rate of interest, similar to credit cards and payday loans." If the
   product functions as short-term high-cost credit to distressed consumers, the regime
@@ -131,8 +131,8 @@ though the doctrinal question remains open.
     enforcement with forfeiture of principal and charges plus $5,000 per violation.
   - **New York is now a natural experiment.** It enacted both of Skiba and Xiao's
     recommendations — a plain repayment amount and date, and attorney acknowledgment — *and*
-    the characteristic restriction they said would "hurt low-income borrowers and be easily
-    evaded." Avraham and Sebok's decade of data is the pre-period baseline. Whether supply
+    a characteristic restriction of the kind they said would "hurt low-income borrowers and
+    are easily evaded." Avraham and Sebok's decade of data is the pre-period baseline. Whether supply
     contracts after mid-2026 is observable.
 - **Common law:** where champerty survives, it reaches consumer advances directly.
   [[Maslowski v. Prospect Funding Partners]] (Minn. 2020) abolished the doctrine in

@@ -75,7 +75,7 @@ access: open
   scholarship for a congressional audience, with the argumentative shape that implies. It
   carries no new data and does not claim to.
 - The empirical claim it does make is a **negative** one, and it is the same finding GAO
-  reached independently a year earlier: the data does not exist. Two sources with opposite
+  reached independently a year earlier: the data does not exist. Two sources with different
   institutional positions agreeing on that is the most reliable fact available in Class 1.
 - The **Arizona** analogy is the only concrete regulatory precedent she offers, and it is
   about nonlawyer **ownership** of firms rather than case funding. Class 7 takes up whether
@@ -117,7 +117,7 @@ proposal in [[Steinitz - Follow the Money]].
 ## Seminar hooks
 
 - She is the only person on this week's list who refuses the frame of the question put to
-  her. The committee wanted foreign sovereign wealth funding American lawsuits; she called
+  her. The committee wanted testimony on foreign sovereign wealth funding American lawsuits; she called
   it hypothetical and redirected to predatory consumer pricing and attorney–client
   interference. Ask what a witness gains and loses by doing that.
 - Her position and Swiss Re's **both** rest on the absence of data, and they draw opposite

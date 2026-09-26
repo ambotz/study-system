@@ -33,14 +33,14 @@ onto categories that have all since migrated elsewhere:
   "until the first day of May one thousand eight hundred and thirty-five" — a
   **fixed twenty-year life**, not perpetual existence.
 - **Capital, fixed by statute.** § II sets shares at $100, caps the number at five
-  thousand, and caps total capital at $500,000.
+  thousand, and caps the stock, estate and property it may hold at $500,000.
 - **Management, fixed by statute.** § III places "the stock, property, affairs and
   concerns" under **nineteen directors** elected annually on the second Monday in
   January, with public notice in at least two newspapers, one vote per share, and
   election inspected by three non-director stockholders.
-- **Enumerated business powers.** § VIII authorises insurance on inland
-  transportation, marine, and life, tontine, bottomry and respondentia lending —
-  and nothing else.
+- **Enumerated business powers.** § VIII authorises insurance on the inland
+  transportation of goods, marine insurance, and insurance on lives "by way of tontine or
+  otherwise," plus lending on bottomry and respondentia — and nothing else.
 - **Restrictions on what it may not do.** § XI forbids dealing or trading in goods
   or in stock created by Congress or any state, except to invest or secure capital,
   pay debts, reinvest, or realise on pledged collateral.
@@ -50,7 +50,7 @@ onto categories that have all since migrated elsewhere:
   immediate accommodation or taken in satisfaction of debts, and requires disposal
   within five years on pain of forfeiture to the state.
 - **Bylaw power, granted expressly and narrowly.** § VII lets the president and
-  directors make by-laws "not repugnant to the constitution and laws."
+  directors make by-laws that "shall not be repugnant to the constitution and laws of this state or of the United States."
 - **No limited liability by default.** § XIV makes the stockholders "responsible in
   their individual and private capacity to the extent of their respective shares"
   for debts contracted before the charter's expiry, and closes by making the

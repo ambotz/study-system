@@ -18,7 +18,7 @@ conduct that at least borders on fraud, illegality, or conflict of interest, the
 directors' judgment is accepted as final and carries a presumption that it was
 formed in good faith to promote the corporation's best interests.
 
-What is the scope of the protection? Process failure that borders f, i, or COI. 
+What is the scope of the protection? Process failure that borders on fraud, illegality, or conflict of interest. 
 
 ## Facts
 

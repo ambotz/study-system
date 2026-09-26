@@ -56,7 +56,7 @@ the ratification defence is unavailable and the directors must prove entire fair
 
 **Held**
 
-- **Ratification is available in three situations**: where stockholders approved the
+- **Courts have recognised ratification in three situations**: where stockholders approved the
   specific awards; where the plan is **self-executing**, making awards over time on
   fixed criteria with amounts and terms already approved; and where directors exercise
   discretion after approval. "The first two scenarios present no real problems."
@@ -200,7 +200,7 @@ awards ran into four-figure percentages above median.
 *(Seitz, J.)*
 
 - The opinion frames the problem as a balance between "utility of the ratification
-  defence and the need for judicial scrutiny of certain self-interested discretionary
+  defense and the need for judicial scrutiny of certain self-interested discretionary
   acts," and resolves it "by focusing on the **specificity** of the acts submitted to
   the stockholders for approval." That word is the holding.
 - The candid premise: "Human nature being what it is, self-interested discretionary

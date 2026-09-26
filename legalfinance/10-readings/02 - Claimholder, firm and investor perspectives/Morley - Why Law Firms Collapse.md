@@ -57,7 +57,7 @@ access: open
   Having no collateral "makes liquidation less attractive, not more," because creditors do
   better if the firm keeps operating.
 - **The natural experiment.** **Slater & Gordon**, an investor-owned Australian firm, hit
-  insolvency and did not shatter. As owner-partners left it "continued to pay its lawyers
+  insolvency and did not shatter. Through the insolvency it "continued to pay its lawyers
   and other employees their regular salaries and bonuses, just as other insolvent
   investor-owned businesses do." Salaried lawyers have no distribution to watch shrink, so
   they have no run incentive.

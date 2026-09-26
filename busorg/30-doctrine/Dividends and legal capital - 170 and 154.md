@@ -17,7 +17,7 @@ last_drilled:
 Directors "**subject to any restrictions contained in its certificate of incorporation**, may declare
 and pay dividends upon the shares of its capital stock either:
 
-**(1) Out of its surplus**, as defined in and computed in accordance with §§ 154 and 244; **or
+**(1) Out of its surplus**, as defined in and computed in accordance with §§ 154 and 244 of this title; **or
 (2) In case there shall be no such surplus, out of its net profits** for the fiscal year in which the
 dividend is declared and/or the preceding fiscal year."
 

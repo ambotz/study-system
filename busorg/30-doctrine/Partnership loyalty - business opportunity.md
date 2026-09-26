@@ -30,7 +30,7 @@ parties' agreement, whatever the agreement calls the arrangement.
 **2. A managing role, which raises the weight of the duty.**
 
 The duty is not uniform across the venturers. In [[Meinhard v. Salmon]] both were
-coadventurers, but "the heavier weight of duty rested upon Salmon" because he held
+coadventurers, but "[t]he heavier weight of duty rested, however, upon Salmon" because he held
 sole power to manage, lease, underlet and operate. Exclusive control generates the
 disclosure obligation, "since only through disclosure could opportunity be
 equalized."

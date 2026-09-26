@@ -125,8 +125,8 @@ insurance industry sells.
   Funded cases last longer — but funders select for cases that are large, contested and
   slow. Separating selection from treatment is the whole empirical problem in this field,
   and this report does not attempt it.
-- Two of the four recommendations expand markets that insurers serve. Legal expense
-  insurance is sold by insurers; legal aid shifts the cost to taxpayers. Ask what a
+- Two of the four recommendations replace the funder with someone else's balance sheet.
+  Legal expense insurance is sold by insurers; legal aid shifts the cost to taxpayers. Ask what a
   funder's report would recommend if it had the same evidentiary base — and then notice
   that Burford's own guide is on the same week's reading list.
 

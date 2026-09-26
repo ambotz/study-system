@@ -38,7 +38,7 @@ access: paywalled
 
 ## Who is speaking
 
-Emily Siegel's sixth and last appearance on this syllabus. Trade press, well sourced, built on
+Emily Siegel's fifth and last appearance on this syllabus. Trade press, well sourced, built on
 named market participants who talk for their own reasons — here the funders themselves, who
 have an interest in appearing technologically sophisticated to their own investors while not
 overclaiming to a reporter.
@@ -57,8 +57,8 @@ independent firms is the more credible half.
   [[Avraham and Sebok - Empirical Investigation of Third Party Consumer Litigant Funding]]
   measured at a 48% approval rate. AI is being pointed at the screening function the economics
   already required.
-- **Qanlex invests $100,000 to $3 million per case.** That is an order of magnitude below
-  Burford's $3m floor, and it is happening in Latin America and Europe. If Marra is right that
+- **Qanlex invests $100,000 to $3 million per case.** The bottom of that range is more than an
+  order of magnitude below Burford's $3m floor, and it is happening in Latin America and Europe. If Marra is right that
   AI relaxes the diligence-cost constraint, the evidence for it will show up as **smaller
   cheques**, and here is a funder already writing them.
 - **The missing variable is the whole problem.** Confidential settlements mean the outcome

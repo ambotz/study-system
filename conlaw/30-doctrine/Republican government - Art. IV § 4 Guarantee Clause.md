@@ -85,7 +85,7 @@ The United States must guarantee every State a republican government, protect it
 - **Argue for Buchanan:** no clause authorizes war on a State as such, and a duty owed to the States is an odd source of power over them. His prudential point has constitutional weight: "our Union rests upon public opinion, and can never be cemented by the blood of its citizens shed in civil war."
 - **Argue against Buchanan:** he treats every federal response as war on a State, when the Constitution's route is enforcement against individuals, backed by Art. I, § 8, cl. 15 and by the domestic-violence branch of Art. IV, § 4. His error was refusing to use the power over individuals that the Constitution does give.
 - **Hypothetical:** if South Carolina seizes the Charleston customs house, collecting duties is executing federal law against individuals, not coercing a State, so even on Buchanan's theory the President could act.
-- **Contemporary verdict:** Republicans mocked the message as saying "no state could secede—unless it wants to—and that the president has a duty to enforce the laws—unless somebody opposes him."
+- **Contemporary verdict:** in the casebook's words, Republicans ridiculed the message as saying, "in effect, that no state could secede—unless it wants to—and that the president has a duty to enforce the laws—unless somebody opposes him."
 
 ## Professor gloss
 

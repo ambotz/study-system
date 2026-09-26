@@ -25,7 +25,7 @@ Rigorous scrutiny is not a verdict. A conflicted transaction can survive it.
 
 - Celanese needed to expand advertising and the directors chose a radio programme of
   fine music, the "Celanese Hour." The choice of medium, the budget, and the
-  programme format are all *conceded to be ordinary business judgment*.
+  programme format are all *held to be ordinary business judgment*.
 - **Dr. Camille Dreyfus was president and a dominant director. His wife of twelve
   years, professionally Jean Tennyson, was a singer who took a paid part in the
   programme.** *This single fact is why the case is not disposed of summarily.*

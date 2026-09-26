@@ -31,7 +31,7 @@ Demand is excused if half or more of the demand board answer yes to any of the t
 
 **1. Rule 23.1's pleading standard.** The complaint must "state with particularity" any effort
 to obtain the action from the entity and the reasons for not obtaining it or not making the
-effort, and allege facts supporting a reasonable inference that demand would be futile.
+effort, and "allege facts supporting a reasonable inference that the derivative plaintiff has standing to sue derivatively under the law governing the entity" — which in Delaware is where futility is pleaded.
 
 **2. Prong one — material personal benefit.** A benefit from the misconduct itself, not from
 being a director generally.
@@ -98,8 +98,7 @@ futility test" while drawing on Aronson-like principles at the director level. P
 ## Leading case
 
 [[United Food (Tri-State) Pension Fund v. Zuckerberg]] — the three-part test adopted, on facts
-where a nine-member demand board included two directors who were not present for the challenged
-vote at all.
+where a nine-member demand board included two directors who had not yet joined the board when it approved the challenged reclassification.
 
 ## Best counter-case
 

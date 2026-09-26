@@ -194,8 +194,9 @@ contested election and are worth naming in any proxy-fight problem — see
 [[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]:
 
 - **Rule 13d-1** requires anyone crossing **5%** of a registered class with a control
-  purpose to file **Schedule 13D within five business days**, and freezes their voting
-  and buying until the tenth day after filing.
+  purpose to file **Schedule 13D within five business days**. A holder that had been
+  filing the short-form Schedule 13G and then acquires a control purpose must switch to
+  13D, and its voting and buying are frozen until the tenth day after that filing.
 - **Rule 14a-19**, the **universal proxy**, puts every nominee from both sides on every
   card, so a holder voting by proxy can split a ticket. It applies only where someone
   solicits for non-registrant nominees, and it **does not reach consent solicitations** —

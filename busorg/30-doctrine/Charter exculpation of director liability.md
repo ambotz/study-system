@@ -38,6 +38,8 @@ pursuant to a provision of the certificate of incorporation in accordance with
 § 141(a) of this title, exercise or perform any of the powers or duties otherwise
 conferred or imposed upon the board of directors."
 
+The current text also reaches **officers**, but carries a fifth carve-out for them: no exculpation of an officer "in any action by or in the right of the corporation."
+
 **3. For monetary damages only.**
 
 Section 102(b)(7) addresses director liability for monetary damages and therefore

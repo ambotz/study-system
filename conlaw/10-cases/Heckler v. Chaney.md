@@ -20,7 +20,7 @@ Under the Administrative Procedure Act, an agency's refusal to bring enforcement
 ## Facts
 
 - **The FDA did not bring enforcement actions against possibly illegal uses of drugs in lethal-injection executions, and the D.C. Circuit ordered it to do so.** *The Supreme Court reversed.*
-- **The challenge was to a refusal to act, not to an enforcement action.** *A refusal "generally does not exercise its coercive power over an individual's liberty or property rights," and leaves no action to serve as "a focus for judicial review."*
+- **The challenge was to a refusal to act, not to an enforcement action.** *An agency that refuses to act "generally does not exercise its coercive power over an individual's liberty or property rights," and leaves no action to serve as "a focus for judicial review."*
 - **The claim arose under the APA, whose § 701(a)(2) excepts action "committed to agency discretion" from review.** *The holding is a reading of that exception, not a ruling that Article II makes non-enforcement unreviewable; the Take Care Clause is one supporting reason among several.*
 - **The FDA's refusal did not rest solely on a belief that it lacked jurisdiction.** *Footnote 4 reserves a refusal of that kind.*
 - **Nothing suggested that the FDA had "consciously and expressly adopted a general policy" amounting to "an abdication of its statutory responsibilities."** *Footnote 4 reserves that situation too, citing [[Adams v. Richardson]].*

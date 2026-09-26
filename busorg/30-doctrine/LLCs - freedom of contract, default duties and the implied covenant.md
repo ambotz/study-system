@@ -169,7 +169,7 @@ fall**."
   differences... operate at the **basal level of their statutes and constitutive documents**."
 - **Intentional wrongdoing.** Rich holds that Delaware "generally prohibits contractual provisions that
   purport to exculpate a party for tort liability resulting from **intentional or reckless harm**,"
-  extended in corporate law to recklessness but never to intent. The LLC Act's analogous limit is
+  though corporate law extends the power to exculpate to recklessness, never to intent. The LLC Act's analogous limit is
   § 18-1101(c) — the implied covenant — and § 18-1101(e), which bars limiting liability for a **bad
   faith violation of the implied covenant**.
 - **Mandatory provisions protecting third parties** bind regardless of the agreement.
@@ -227,7 +227,7 @@ Defendants of a **negotiated-for benefit**."
 1. **Saying LLC managers owe no default fiduciary duties.** They do, since the 2013 amendment to
    § 18-1104. What is true is that the duties are **waivable**, and the waiver must be **explicit**.
 2. **Saying the implied covenant is a general fairness backstop.** "Fair" is "something of a misnomer,"
-   good faith means faithfulness to the contract's scope purpose and terms, and the doctrine is "rarely
+   good faith means faithfulness to the contract's scope, purpose and terms, and the doctrine is "rarely
    invoked successfully."
 3. **Skipping the gap question.** It is step one and usually dispositive. If the contract addresses the
    subject, existing terms control and the analysis ends.

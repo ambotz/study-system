@@ -34,9 +34,9 @@ have influenced" the committee.
   SLC members; defendant **Lucas** was a Stanford donor; and **Ellison was considering an
   enormous donation to Stanford at the very time the two professors were being courted for
   the Oracle board**.
-- *Each connection, taken alone, might have been survivable.* "Taken in isolation, the facts
-  about Ellison might well not be enough to compromise the SLC's independence. But that is not
-  the relevant inquiry."
+- *The Ellison connection, taken alone, might have been survivable; the Boskin and Lucas ties
+  alone were not.* "Taken in isolation, the facts about Ellison might well not be enough to
+  compromise the SLC's independence. But that is not the relevant inquiry."
 
 ## Court Ruling
 
@@ -66,8 +66,10 @@ have influenced" the committee.
 - *The SLC members had no financial interest in the defendants, no business dealings with
   them, and were accomplished academics of unquestioned integrity.* All accepted, and none
   answers the question. Independence is about situation, not character.
-- *Each Stanford connection is individually too attenuated to matter.* The court agrees as to
-  each and holds the inquiry is cumulative.
+- *Each Stanford connection is individually too attenuated to matter.* The court disagrees:
+  the Boskin and Lucas ties alone would defeat independence, and the Ellison facts, which
+  might not suffice in isolation, "merely reinforce" that conclusion because the inquiry is
+  cumulative.
 
 ## Context
 
@@ -123,8 +125,9 @@ himself a Stanford professor who had taught one of them, and Lucas, a Stanford d
 Ellison — the company's founder, CEO and largest stockholder — was at that time weighing a very
 large gift to Stanford.
 
-None of this involved payments to the SLC members, business dealings with the defendants, or
-anything resembling a financial stake. It was a dense set of institutional and social
+None of this involved payments by the defendants to the SLC members or business dealings
+with them; the nearest thing to a financial tie was a $50,000 Lucas gift to Stanford Law
+School, about half of it allocated to Grundfest's research. It was a dense set of institutional and social
 affiliations running through a single university.
 
 ### Issue
@@ -159,8 +162,9 @@ affiliations running through a single university.
 
 *(Strine, V.C.)*
 
-- The opinion's method is to refuse atomisation. Each tie is conceded to be weak; the holding
-  is that the question was never about any single tie.
+- The opinion's method is to refuse atomisation. Only the Ellison tie is conceded to be
+  possibly insufficient on its own; the holding is that the question was never about any
+  single tie.
 - The reasoning rests on a candid account of how people actually behave — that "persons of
   integrity and reputation can be compromised in their ability to act without bias when they
   must make a decision adverse to others with whom they share material affiliations."

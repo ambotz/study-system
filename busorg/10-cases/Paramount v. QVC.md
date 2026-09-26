@@ -30,7 +30,7 @@ lose forever the leverage to demand another control premium.
   Paramount. That shift is the trigger.
 - Redstone controlled roughly **85.2% of Viacom's voting Class A stock** through
   National Amusements, and Paramount holders would receive mostly **non-voting Class B**
-  stock — a minority equity position with no votes, behind a controlling holder.
+  stock — a minority equity position with few votes, behind a controlling holder.
 - The **Stock Option Agreement** gave Viacom an option on about **19.9% (23,699,000
   shares) at $69.14**, triggered by the same events as the termination fee, and was
   **not capped**. Two unusual features: Viacom could pay with "a senior subordinated
@@ -116,7 +116,7 @@ lose forever the leverage to demand another control premium.
 - **Contractual provisions cannot limit fiduciary duties.** The No-Shop and similar
   provisions, "whether or not they are presumptively valid in the abstract, may not
   validly define or limit the directors' fiduciary duties under Delaware law or prevent
-  the Paramount directors from carrying out their fiduciary duties. To the extent such
+  the Paramount directors from carrying out their fiduciary duties under Delaware law. To the extent such
   provisions are inconsistent with those duties, they are **invalid and
   unenforceable**."
 - **The breaches.** The board "clearly gave insufficient attention to the potential
@@ -416,8 +416,8 @@ question every merger agreement since has had to answer by drafting.
   October 24 and spent it entirely on price. Enhanced scrutiny is a continuing obligation,
   and the defensive provisions were the thing suppressing the higher bid.
 - **Know why "excessively conditional" failed as a reason.** The board never asked QVC
-  about the conditions, believing the No-Shop forbade it, and QVC confirmed financing and
-  antitrust clearance three days after the hearing. A condition you never test is not a
+  about the conditions, believing the No-Shop forbade it, and QVC confirmed financing
+  commitments and no antitrust obstacle three days after the hearing. A condition you never test is not a
   finding.
 - **Be precise about why the option was draconian.** It was **uncapped**, so it grew with
   the competing bid — $200 million at QVC's $80, nearly $500 million at $90 — plus the

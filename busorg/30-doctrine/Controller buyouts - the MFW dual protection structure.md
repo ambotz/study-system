@@ -131,8 +131,8 @@ banker, negotiated the price up, and the minority approved. Summary judgment for
 the defendants, affirmed.
 
 The appellants' objections and the court's answers are worth carrying. On the
-claim that independent directors may be inept or timid: such directors "are likely
-to be exceptional," and Delaware's jurisprudence does not embrace so sceptical a
+claim that independent directors may be inept or timid: directors who disregard their duties that way "are likely
+to be exceptional" — that is, rare — and Delaware's jurisprudence does not embrace so sceptical a
 view. On the claim that arbitrageurs approve any premium: that is "an editorial
 about the motives of investors" and does not show the vote was involuntary. The
 appellants also conceded below that the dual structure "is the optimal one for
@@ -164,7 +164,7 @@ trial. That contrast is the cleanest way to show what SB 21 changed.
    and one of three routes.
 2. **Dropping element (iii).** The committee must be able to select its own
    advisors **and to say no definitively**. Negotiating authority alone is not
-   enough, and it is the element Tesla 2 turns on.
+   enough. Tesla 2 failed more basically, with no special committee at all.
 3. **Confusing burden-shifting with standard-shifting.** One protection shifts the
    burden inside entire fairness. Both change the standard to business judgment.
 4. **Ignoring ab initio.** A majority-of-the-minority condition added late buys

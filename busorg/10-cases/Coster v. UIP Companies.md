@@ -149,7 +149,7 @@ and ends**." **Lee Enterprises** applies the same enhanced scrutiny to an advanc
 
 What Coster keeps from Blasius is more important than what it discards. The **burden stays on
 the board**. The threat must be **real and not pretextual**. Motivations must be **proper and
-not selfish**. And the "we know better" defence is still no defence — quoted from Blasius, in
+not selfish**. And the "we know better" defence is still no defence — restated from Blasius, in
 2023, as live law. What goes is the phrase "compelling justification" as an independent gate,
 because in practice it decided cases before they were analysed.
 
@@ -307,7 +307,7 @@ mooted the custodian action. She sued to cancel it.
 - Unocal is chosen because it already does both jobs. It "subsume[s] the question of loyalty...
   whether the directors have acted for proper reasons," which is Schnell's concern, and it can be
   applied with the sensitivity Blasius brings to the franchise.
-- Blasius's substance is preserved deliberately and quoted directly — the burden, the
+- Blasius's substance is preserved deliberately — the burden, the
   non-pretextual threat, the proper motivation, and the unavailability of "we know better." What is
   discarded is a label, not a protection.
 - On the facts, **mixed motives** are handled by asking whether the legitimate ones are genuine

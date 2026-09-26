@@ -116,8 +116,8 @@ it "did not... craft a **lower** standard" ([[Segway Inc. v. Cai]]).
 ## Leading case
 
 [[In re Caremark International Inc. Derivative Litigation|Caremark]] for the standard;
-[[Marchand v. Barnhill]] for what clears it. Blue Bell had two years of regulatory
-findings and fifteen positive listeria tests reaching management, and a board whose
+[[Marchand v. Barnhill]] for what clears it. Blue Bell had years of regulatory
+findings and fifteen positive listeria tests over 2013–14 reaching management, and a board whose
 recorded response to a product recall was a resolution supporting management.
 
 ## Best counter-case

@@ -27,8 +27,8 @@ office.
   market. The deception is the fact that converts a blockholder into a perceived
   threat, and the court lists it first among the nine grounds supporting the
   board's belief.
-- Maremont told Cheff he thought Holland's distribution model "wasn't modern" and
-  that "furnaces could be sold as he sold mufflers, through half a dozen salesmen
+- Maremont told Cheff that he "didn't think [Holland's distribution model] was
+  modern" and that "furnaces could be sold as he sold mufflers, through half a dozen salesmen
   in a wholesale way." Holland **directly employed its retail salesmen** — a
   practice unique in the furnace business that management considered vital to the
   company's success, and which supported roughly 8,500 employees across 400 branch

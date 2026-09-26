@@ -63,8 +63,8 @@ is doing political work regardless of whether the underlying concern is real.
   domestic manager and a Delaware vehicle is not obviously "foreign-funded," and drafting to
   catch it reaches ordinary institutional capital — including the pension money already exposed
   by the excise tax proposal.
-- **The coalition is the tell.** The same four senators sponsor the disclosure bill and the
-  **40.8% excise tax**. Both instruments burden the same industry, and only one of them is about
+- **The coalition is the tell.** Tillis co-sponsors the disclosure bill and sponsors the
+  **40.8% excise tax**, and both come from the same tort-reform bloc. Both instruments burden the same industry, and only one of them is about
   foreign states.
 - **Access to justice runs the other way.** Foreign claimants with meritorious claims against US
   defendants need funding more than domestic ones, not less.

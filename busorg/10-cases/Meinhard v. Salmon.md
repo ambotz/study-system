@@ -23,7 +23,7 @@ where the venture was about to end and even absent any intent to defraud.
 - Salmon leased the Hotel Bristol for twenty years and funded the conversion to
   shops and offices with Meinhard's money — Meinhard paying half the cost, taking
   40% of net profits for five years and 50% after, and bearing half of any losses.
-- **Salmon alone held the sole power to "manage, lease, underlet and operate."**
+- **Salmon held the sole power to "manage, lease, underlet and operate."**
   *This asymmetry is the case. Meinhard put in money; Salmon put in money, labour,
   and control.*
 - The lease ran in Salmon's own name. **To an observer Salmon held it as owner in
@@ -205,8 +205,9 @@ Meinhard heard about it in February.
 *(Andrews, J., with Kellogg and O'Brien, JJ.)*
 
 - Concedes the result would likely be right in a **general partnership**, where
-  trust, confidence and goodwill are at stake and a managing partner can rarely
-  take a renewal even after dissolution.
+  trust, confidence and goodwill are at stake and one partner can rarely, without
+  the other's knowledge, take a renewal of a firm lease even where the new lease
+  begins after dissolution.
 - Holds a joint venture is governed by "less drastic principles," and that the
   written contract defines the parties' rights and duties.
 - Reads that contract as creating a **limited object ending at a limited time** —

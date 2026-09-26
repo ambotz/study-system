@@ -24,7 +24,7 @@ and growing industry, and the market's actual size and depth is what that assump
   preservation, adverse judgment and portfolio cover, and **insurers are hiring from funders**.
   An insurer entering means someone believes the risk is actuarially priceable — a costly
   signal, not an opinion. [[Litigation risk insurance]].
-- **Returns are real and uncorrelated.** Reported IRRs of 24–35% by segment against long-run
+- **Returns are real and uncorrelated.** Reported IRRs of roughly 21–35% by segment (Swiss Re, 2019–2021F) against long-run
   benchmarks of 13% private equity and 10% S&P 500, with outcomes driven by judicial process
   rather than markets — an uncorrelated return stream, which is what allocators are short of.
 - **Portfolios work.** Cross-collateralisation converts binary case outcomes into something

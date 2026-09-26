@@ -70,7 +70,8 @@ privileged. The whole dispute is about the document in the middle.
   a document about the merits of a pending case, underwritten after diligence.
   [[Litigation risk insurance]].
 - **Treating this as settled anywhere.** Steinitz notes the split and declines to resolve it
-  (p. 1082 n.38); the Advisory Committee subcommittee is still gathering information.
+  (p. 1082 n.38); as of her 2019 essay the Advisory Committee subcommittee was still gathering
+  information.
 
 ## Where it shows up
 

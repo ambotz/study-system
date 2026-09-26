@@ -16,7 +16,7 @@ notice periods, officer roles, share transfer, indemnification. The syllabus mar
 **{skim}**, and it means it: the great majority is administrative and will never be
 tested.
 
-Fifteen articles. Article II (stockholder meetings, with the long advance-notice and
+Fifteen articles. Article III (stockholder meetings, with the long advance-notice and
 proxy-access provisions) runs to roughly half the document; Articles IV–XIII are
 short and routine.
 
@@ -35,9 +35,9 @@ Five provisions do real work for this course. The rest is machinery.
   sentence, easy to skim past, and a genuine weapon in a contested solicitation under
   universal proxy.
 - **Section 48 — amendment, and the asymmetry.** The board "is expressly empowered to
-  adopt, amend or repeal" the bylaws; stockholders may too, but only by **66⅔%**. The
-  existence of both powers is the § 109(a) default; the gap between them is the
-  governance fact.
+  adopt, amend or repeal" the bylaws; stockholders may too, but only by **66⅔%**. Under
+  § 109(a) the stockholders hold the power by default and the board holds it only
+  because the charter confers it; the gap between them is the governance fact.
 - **Section 49 — Delaware forum.** The Court of Chancery is the "sole and exclusive
   forum" for derivative actions, fiduciary duty claims against directors, officers or
   employees, claims under the DGCL or the constitutive documents, and internal-affairs

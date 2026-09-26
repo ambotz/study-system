@@ -108,7 +108,7 @@ burden-shifting inside entire fairness.
 
 ## Context
 
-The problem MFW solves is an incentive problem, and Strine's analogy below is the
+The problem MFW solves is an incentive problem, and Strine's analogy in the Chancery opinion is the
 cleanest statement of it. A controller that knew one protection bought a burden
 shift, and did not know whether a second bought anything at all, behaved like a
 teenager told she may go to the movies if she finishes her math **or** her
@@ -293,7 +293,8 @@ correctly separates the motive behind a vote from the voluntariness of it.
 - **Recite all six elements, in order.** The holding is expressly "if and only
   if," and the opinion lists them as a closed set. Dropping element (iii) — the
   power to select advisors and to say no definitively — is the most common
-  omission, and it is the element Tesla 2 turns on.
+  omission. Tesla 2 fails earlier, at element (i), because no special committee
+  was formed at all.
 - **Ab initio is the element most likely to be tested.** Be ready to say why:
   a condition imposed at the start constrains the controller through the whole
   negotiation, while one offered late is spent as a closing concession rather than

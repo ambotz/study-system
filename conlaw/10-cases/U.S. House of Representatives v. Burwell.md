@@ -88,9 +88,7 @@ Article I requires both authorization and appropriation before public money is s
 
 - The House as an institution has standing to sue when the executive draws money from the Treasury without a valid appropriation.
 - Standing requires a violation of a specific constitutional command; a claim that the executive exceeded or misread a statute does not qualify, even when framed under Art. I, §§ 1 and 7.
-- Suits between the branches get an "especially rigorous" standing analysis
- 
-([[Arizona State Legislature v. Arizona Independent Redistricting Commission|Arizona State Legislature]]).
+- Suits between the branches get an "especially rigorous" standing analysis ([[Arizona State Legislature v. Arizona Independent Redistricting Commission|Arizona State Legislature]]).
 - The political-question analysis follows [[Powell v. McCormack]].
 
 ### Reasoning
@@ -118,7 +116,7 @@ Article I requires both authorization and appropriation before public money is s
 - **Vary the plaintiff.** An individual member suing: [[Raines v. Byrd|Raines]] says no. Both Houses suing together: stronger. An insurer denied § 1402 payments: a classic private injury, and insurers later sued for the unpaid amounts. A taxpayer: a generalized grievance.
 - **Vary the defendant's conduct.** The executive refuses to spend money Congress appropriated (impoundment). Is the House injured in the same way? The clause says money shall not be drawn without an appropriation; it does not say appropriated money must be drawn. The symmetry is imperfect, and the Take Care question of Class 8 is the better frame.
 - **How does Burwell fit Youngstown?** If the President claimed a constitutional power to spend despite Congress's refusal, it would be category three, and a power to spend is the least plausible candidate for "conclusive and preclusive" authority given the Appropriations Clause. The executive in Burwell did not claim that power; it claimed statutory authorization, which is a category one argument.
-- **Burwell and the signing statement.** Obama's § 2262 statement proposed paying advisers despite a funding bar on constitutional grounds. If the executive had spent money on those positions, would the House have standing under Burwell? On Burwell's logic, yes: no-money- without-appropriation is the specific command, and the executive's constitutional defense goes to the merits.
+- **Burwell and the signing statement.** Obama's § 2262 statement proposed paying advisers despite a funding bar on constitutional grounds. If the executive had spent money on those positions, would the House have standing under Burwell? On Burwell's logic, yes: no-money-without-appropriation is the specific command, and the executive's constitutional defense goes to the merits.
 - **Know the aftermath.** Merits for the House (May 2016); appeal held in abeyance (December 2016); the Trump administration stopped the payments (October 2017) and settled (December 2017), with the appeal dismissed. The D.C. Circuit later accepted House standing on the Appropriations Clause in [[U.S. House of Representatives v. Mnuchin|Mnuchin]] (2020). No Supreme Court ruling.
 - **Formalism or functionalism?** The court's line is formal: a specific constitutional command yields standing, a general structural claim does not. Its justification is functional: without a suit the check would be empty. Be ready to argue the tension.
 - **Memorable lines.** "Article I is not a talisman." "[A]pparently oblivious to the irony." "The argument proves too much." "[T]here will never be a history of litigation until the first lawsuit is filed." "Congress's power of the purse is the ultimate check on the otherwise unbounded power of the Executive."

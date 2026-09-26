@@ -15,7 +15,7 @@ read_for: null
 
 ## What it is
 
-The passage on the spending power from Alexander Hamilton's Report on Manufactures, transmitted to the House on December 5, 1791 — written shortly after the Report on Public Credit that produced the assumption plan, and in the same season as his opinion on the Bank. The casebook prints it (4th ed., pp. 612–614) as the direct answer to [[Madison, Veto Message on the Bonus Bill|Madison]]: the "general Welfare" clause is a distinct power to appropriate, limited only by the three express tax limitations and by a requirement that the object be general rather than local. It is the reading the Court adopted in [[United States v. Butler]] and has applied ever since.
+The passage on the spending power from Alexander Hamilton's Report on Manufactures, transmitted to the House on December 5, 1791 — written shortly after the Report on Public Credit that produced the assumption plan, and in the same year as his opinion on the Bank. The casebook prints it (4th ed., pp. 612–614) as the direct answer to [[Madison, Veto Message on the Bonus Bill|Madison]]: the "general Welfare" clause is a distinct power to appropriate, limited only by the three express tax limitations and by a requirement that the object be general rather than local. It is the reading the Court adopted in [[United States v. Butler]] and has applied ever since.
 
 ## What to notice
 

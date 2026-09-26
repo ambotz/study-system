@@ -29,8 +29,7 @@ The decision whether to prosecute belongs to the executive, and courts may not c
 
 ## Court Ruling
 
-**Held** (en banc court of seven; Jones for the court; 4–3 on the signature question, with
-Tuttle, Jones, Brown and Wisdom in the majority; Brown and Wisdom each concurring specially; Rives, Gewin and Bell concurring in part and dissenting in part)
+**Held** (en banc court of seven; Jones for the court; 4–3 on the signature question, with Tuttle, Jones, Brown and Wisdom in the majority; Brown and Wisdom each concurring specially; Rives, Gewin and Bell concurring in part and dissenting in part)
 
 - The Attorney General is "the hand of the President in taking care that the laws of the United States in legal proceedings and in the prosecution of offenses, be faithfully executed."
 - The discretion whether to prosecute "may well depend upon matters of policy wholly apart from any question of probable cause," and the prosecutor exercises it as "an officer of the executive department."

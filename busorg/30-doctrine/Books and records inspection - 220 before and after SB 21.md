@@ -133,8 +133,8 @@ related to the stockholder's purpose."
 - **Exculpation does not cut off a proper purpose.** A § 102(b)(7) provision is not
   an impediment, because stockholders may use the information for things other than
   a lawsuit — seeking an audience with the board, a stockholder resolution, or a
-  proxy fight. And § 102(b)(7) "does not authorize exculpation for **officers**,"
-  so a potential officer claim survives it. See
+  proxy fight. And when Yahoo! was decided, § 102(b)(7) "does not authorize exculpation for **officers**,"
+  so a potential officer claim survived it. The current text allows officer exculpation but never "in any action by or in the right of the corporation," so a potential derivative claim against an officer still survives. See
   [[Charter exculpation of director liability]].
 - **Electronic records count.** Section 224 recognises records kept in "any
   information storage device," and limiting books and records to paper "could cause
@@ -235,7 +235,7 @@ equivalents, at the friendlier standard. Bad record-keeping widens the inspectio
    three years from the date of the demand.
 6. **Treating exculpation as a bar.** A § 102(b)(7) provision does not defeat a
    proper purpose, both because information has uses other than litigation and
-   because exculpation does not reach officers.
+   because exculpation does not reach officers in a derivative action.
 7. **Ignoring the burden flip.** For the stock ledger and stockholder list the
    corporation must prove an improper purpose; for everything else the stockholder
    must prove a proper one. Identify which record is being sought before allocating

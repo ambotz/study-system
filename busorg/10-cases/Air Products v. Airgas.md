@@ -31,7 +31,7 @@ realistically attainable.
   than 100%. "[I]f there were an antonym in the dictionary for 'structural coercion,'
   Air Products' offer might be it."
 - The offer had been public for **sixteen months** and the $70 "best and final" for
-  just over two, so the Airgas board had more time "than any litigated poison pill in
+  just over two months, so the Airgas board had more time "than any litigated poison pill in
   Delaware history."
 - **Air Products' own three nominees were elected to the Airgas board** at the
   September 15, 2010 annual meeting, on an express platform of taking a fresh look —
@@ -41,7 +41,7 @@ realistically attainable.
   board to retain a **third independent financial advisor (Credit Suisse)**, using a
   public letter that an evidentiary hearing revealed was "meant as leverage" — "It's
   like playing poker. We put our chips up on the table, everything we had."
-- The board was **nine of ten directors independent**, advised by **three** outside
+- **Nine of the ten directors were independent**, and the board was advised by **three** outside
   financial advisors and two law firms. Prong one on process was "undeniable."
 - The board believed in good faith that Airgas was worth **at least $78** in a sale;
   Air Products' best and final was **$70**, up $10 from its opening public bid.
@@ -129,9 +129,11 @@ realistically attainable.
   The only threat the board itself discussed was inadequate price. "In the end, it
   really is 'All About Value'."
 - *An inadequate all-cash, all-shares offer with an equal back end is a continuing
-  threat.* The court agrees with Justice Berger's contrary view and says it has "a hard
+  threat.* The court agrees with Justice Berger that such an offer is difficult to see as
+  "a continuing threat under Unocal," and says it has "a hard
   time believing that inadequate price alone... poses any 'threat'," especially given
-  the information available — but "under existing Delaware law, it apparently does."
+  the information available — but "under existing Delaware law, it apparently does." The
+  argument fails as structural coercion and survives only as substantive coercion.
 - *The combination of a staggered board and a pill is preclusive, because no bidder has
   ever waged two successful proxy contests to remove one.* Selectica forecloses the
   argument. The court records the practical reality in a footnote and defers anyway.
@@ -246,7 +248,7 @@ ranged from $41.64 to $71.28.
 Air Products moved up in stages — a $60 all-stock proposal, a $62 cash-and-stock
 proposal, a public $60 all-cash proposal, and then a $60 all-cash tender offer for all
 shares, non-coercive, non-discriminatory and backed by secured financing. Airgas rejected
-each, filing that the offer "grossly undervalues Airgas" and that the timing was
+each, stating in a filing that the offer "grossly undervalues Airgas" and that the timing was
 "extremely opportunistic... in light of the depressed value of the Airgas Common shares,"
 supported by inadequacy opinions from Goldman Sachs and Bank of America Merrill Lynch.
 
@@ -273,7 +275,7 @@ Suisse as a third independent financial advisor for the full board, and the new 
 retained Skadden as their own counsel at the company's expense. By December 21 the Air
 Products Nominees fully supported the view that Airgas was worth at least $78.
 
-Air Products then made its $70 "best and final" offer. It was unanimously rejected, and
+Air Products had made its $70 "best and final" offer on December 9. It was unanimously rejected, and
 the Air Products Nominees were among the most vocal opponents: Clancey concluded the
 offer "was not adequate," that even an increase well below $78 "was not going to 'move
 the needle'," and told the board, "We have to protect the pill." On December 22 Airgas

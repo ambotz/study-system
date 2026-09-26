@@ -121,7 +121,7 @@ revenue and eighty employees when Ninebot acquired it in 2015. Under Ninebot it 
 governance and financial systems while progressively becoming a distributor of Ninebot's
 products rather than a manufacturer of its own.
 
-Judy Cai rose from VP of Finance to President over five years while never really leaving the
+Judy Cai rose from VP of Finance to President over three years while never really leaving the
 finance function: she continued as in-house accountant, retained complete responsibility for
 tax, and stayed involved in compiling and reviewing financial information for Ninebot's
 management. By 2018 the whole finance department was five or six people including her.

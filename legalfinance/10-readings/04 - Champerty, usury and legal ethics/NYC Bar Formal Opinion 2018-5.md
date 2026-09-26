@@ -90,7 +90,8 @@ a problem it thinks belongs to policy.
 - [[Funders and legal fees]] — **against**, and the leading authority for that side.
 - [[Outside capital in law firms]] — **against**, on the same rationale that keeps nonlawyer
   ownership out; Class 7's MSO structures are the next attempt to route around it.
-- [[The law firm as a capital structure]] — this opinion is one of the two rules (with 5.6)
+- [[The law firm as a capital structure]] — Rule 5.4, as this opinion reads it, is one of the
+  two rules (with 5.6)
   that make a US firm unable to hold outside permanent capital.
 
 ## Seminar hooks

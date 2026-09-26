@@ -36,7 +36,7 @@ access: paywalled
 
 ## Who is speaking
 
-Emily Siegel again — the fifth Siegel piece on this syllabus. The substantive content is a
+Emily Siegel again — the fourth of five Siegel pieces on this syllabus. The substantive content is a
 Burford executive describing Burford's strategy, so the claims about patience, permanence and
 pipeline are the company's own positioning, unverified.
 

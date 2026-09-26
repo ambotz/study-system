@@ -27,7 +27,7 @@ the term. Same two-instrument architecture; entirely different allocation of pow
 
 ### The three provisions that change everything
 
-- **"The corporation shall have no members."** Four words in Article 3, and they are the whole
+- **"The corporation shall have no members."** Six words in Article 3, and they are the whole
   reading. Delaware's non-stock provisions contemplate members who function roughly as stockholders
   do — § 228(b), for instance, lets members act by written consent. This corporation has none, which
   makes the board answerable to no internal constituency at all.
@@ -93,15 +93,15 @@ by ordinary action, and the non-stock analogue of an entrenched charter term.
 ### Meeting and voting mechanics, and where they differ from the DGCL defaults
 
 - **Three regular meetings a year**, the last of which is the Annual Meeting.
-- **Quorum is one-third of the Board** — the same floor 8 Del. C. § 216 sets for *stockholder*
-  quorums, here applied to directors, and far below the majority a Delaware board needs under
-  § 141(b).
+- **Quorum is one-third of the Board** — the lowest board quorum 8 Del. C. § 141(b) allows a
+  Delaware bylaw to set (the statutory default is a majority), and the same floor § 216 sets for
+  *stockholder* quorums.
 - **The act of a majority of those present at a quorum is the act of the Board**, except that four
   matters require **the affirmative vote of a majority of all Trustees**: amending the Articles;
   electing Trustees and elected officers; final action on the annual budget; and designating
   committees to exercise Board authority in management.
-- **Notice** of five days for regular meetings, two for special. Special meetings may be called by
-  the Chair, a Vice Chair, **any three Trustees**, or the President.
+- **Notice** of five days for regular meetings, two for special. Special meetings are called by the
+  Secretary at the request of the Chair, a Vice Chair, **any three Trustees**, or the President.
 
 ### Amendment — the absence of any external check
 
@@ -126,7 +126,8 @@ by law, as the Bylaws require a majority vote of all Trustees, or as the Board o
 A committee of the whole board's power, in a board that meets three times a year. Compare the
 delegation limits in 8 Del. C. § 141(c).
 
-Note also that designating such a committee is one of the four supermajority matters, that each
+Note also that designating such a committee is one of the four matters requiring a majority of all
+Trustees, that each
 committee must adopt a **charter** reviewed and approved by the Board, and that "[i]n the event of a
 conflict between these Bylaws and any Charter, these Bylaws shall control."
 

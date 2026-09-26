@@ -13,7 +13,7 @@ last_drilled:
 
 ## Rule statement
 
-Directors "must strive in good faith and on an informed basis to **maximize the value of the
+Directors must "strive in good faith and on an informed basis to **maximize the value of the
 corporation for the benefit of its residual claimants**, the ultimate beneficiaries of the firm's
 value, **not for the benefit of its contractual claimants**."
 

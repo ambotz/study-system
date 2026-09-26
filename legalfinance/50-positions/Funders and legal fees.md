@@ -81,14 +81,14 @@ structuring around the answer.
 - **Follow the capital after 2018 to see what the rule actually did.** If firms cannot pledge
   fees in identified matters, money reaches them through recourse debt, revenue facilities, or
   the MSO structures in Class 7 — where a nonlawyer-owned management company charges for
-  services instead of taking a share of legal fees. Texas Ethics Opinion 706 is the next
-  regulator to look at whether that survives the rule.
+  services instead of taking a share of legal fees. Texas Ethics Opinion 706 is the first
+  ethics opinion to look squarely at whether that survives the rule.
 
 ## Where the law is now
 
 - **ABA Model Rule 5.4(a)** and its state analogues bar fee sharing with nonlawyers; Rule
-  5.4(d) bars nonlawyer ownership. In force in every US jurisdiction except Arizona and, in
-  limited form, Utah.
+  5.4(d) bars nonlawyer ownership. In force in nearly every US jurisdiction; Arizona has
+  abolished it, and Utah, Puerto Rico and Washington, D.C. have loosened it.
 - **NYC Bar Formal Op. 2018-5** (2018): a funder's contingent interest in a lawyer's fees in
   specified matters violates 5.4(a). Client-side funding does not. Recourse loans at fixed
   rates are permitted. No rule change recommended.

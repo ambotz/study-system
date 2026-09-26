@@ -114,8 +114,9 @@ treat it as a serious essay rather than a fully worked empirical study.
 - [[Non-meritorious claims and claim aggregation]] — **for**, and the leading statement.
 - [[Funder control over the case]] — **for**, with Boling and Sysco as the evidence, against
   Burford's passive-investor account.
-- [[Disclosure of funding agreements]] — **for**, and note his reform list is Steinitz's
-  list plus claims-marshalling regulation.
+- [[Disclosure of funding agreements]] — **for**, and note his reform list overlaps
+  Steinitz's on disclosure and fiduciary duties, though she would leave disclosure to a
+  case-by-case balancing test.
 
 ## Seminar hooks
 
@@ -130,8 +131,8 @@ treat it as a serious essay rather than a fully worked empirical study.
   claim**. Parikh describes lending against a **firm**, where the lender is repaid from the
   book and no single claim needs to be good. That distinction reconciles all three papers
   and nobody in the readings draws it.
-- His reform list converges almost exactly on Steinitz's — disclosure, fiduciary duties —
-  from the opposite starting point. Two authors with different concerns arriving at the same
+- His reform list converges with Steinitz's on its two largest items — disclosure, fiduciary
+  duties — from a different starting point. Two authors with different concerns arriving at the same
   instrument is the strongest signal on the syllabus that fiduciary duties are the live
   reform, and it is not the one Congress is debating.
 

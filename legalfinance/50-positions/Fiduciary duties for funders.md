@@ -26,9 +26,9 @@ Congress is debating.
   fiduciary duties on funders "to act in the best interests of the funded client," analogised
   to Arizona's application of professional conduct rules to nonlawyers with economic interests
   in law firms.
-- **Parikh arrives at the same instrument from the opposite direction.** His concern is the
-  claimant, not the defendant, and his reform list ends with fiduciary obligations on
-  financiers. **Two authors with different worries converging on one remedy** is the strongest
+- **Parikh arrives at the same instrument from a different starting point.** His concern is
+  mass tort claimants harmed by opaque capital, and his reform list ends with fiduciary
+  obligations on financiers. **Two authors with different worries converging on one remedy** is the strongest
   signal on this syllabus that it is the live reform.
 - **The harms are documented, not hypothetical.** Steinitz reports interference with the
   attorney–client relationship, loss of settlement autonomy, and funder–client conflicts.
@@ -86,8 +86,8 @@ Congress is debating.
   **sophisticated commercial** parties and reach contract. Steinitz and Parikh are concerned
   with **consumers and mass tort claimants** and reach fiduciary duties. Both may be right; a
   general theory of the litigation-investment agreement that ignores who is on the other side
-  is not really general. Notice that Sebok and Wendel concede their frame suits parties who
-  negotiate.
+  is not really general. Notice that Sebok and Wendel's frame is built for parties who
+  negotiate, and the paper does not really address the consumer market.
 - **Control rights do exist in the market**, whatever the marketing says. The Sysco CPA's
   amendment — Sysco "shall not accept a settlement offer without [Burford's] prior written
   consent, which shall not be unreasonably withheld" — is documented, and an LCIA tribunal

@@ -84,15 +84,15 @@ cost of activism substantially, and it did so in 2022, the year after
    who merely arrive at the same view without an agreement are not a group, which is what
    leaves **wolf packs** outside the regime.
 4. **Control purpose is the switch, and it is about purpose or *effect*.** Rule
-   13d-1(b)(1)(i) and (c)(1) both exempt only a person who holds "**not with the purpose
+   13d-1(b)(1)(i) (and, in nearly identical words, (c)(1)) exempts only a person who holds "**not with the purpose
    nor with the effect of changing or influencing the control of the issuer**, nor in
    connection with or as a participant in any transaction having such purpose or effect."
    The same phrase appears in § 13(d)(5). One phrase, used four times — learn it.
 5. **The teeth are in the cooling-off, not the filing.** Rule 13d-1(e)(2): from the moment
    a 13G filer acquires or holds with a control purpose until the tenth day after the 13D
    is filed, that person "shall not (i) Vote or direct the voting of the securities...
-   or (ii) Acquire an additional beneficial ownership interest." Rule 13d-1(f)(2) imposes
-   the same freeze on anyone crossing **twenty per cent**. A late filer is therefore
+   or (ii) Acquire an additional beneficial ownership interest..." Rule 13d-1(f)(2) imposes
+   the same freeze on a passive 13d-1(c) filer crossing **twenty per cent**. A late filer is therefore
    disenfranchised and frozen out of the market for the duration, which matters far more
    in a live contest than the filing itself.
 

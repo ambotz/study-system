@@ -136,7 +136,7 @@ about what those facts add up to.
   closely — the savings clause is written around director breaches. See
   [[Controlling stockholder safe harbours - 144(b) and (c)]].
 - **Advisors are not gatekeepers.** The Supreme Court in RBC expressly declined to
-  adopt the trial court's gatekeeper language, even as dictum: an advisor's role "is
+  adopt the trial court's gatekeeper language, which it noted was dictum but addressed anyway: an advisor's role "is
   primarily contractual in nature, is typically negotiated between sophisticated
   parties, and can vary."
 

@@ -74,7 +74,7 @@ themselves, state a claim against the shareholder.
   not become either illicit or fraudulent merely because it consists of many such
   corporations."
 - *Undercapitalisation plus intermingled assets is enough.* Those allegations were
-  made and were still "barren of any sufficiently particularized statements" that
+  made and were still "barren of any 'sufficiently particular[ized] statements'" that
   Carlton did business personally.
 - *A holding for Carlton lets a known abuse continue.* A contrary rule "would apply
   equally to the thousands of cabs which are owned by their individual drivers who

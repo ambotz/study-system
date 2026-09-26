@@ -66,7 +66,7 @@ The case was decided on May 27, 1935, the same day as [[A.L.A. Schechter Poultry
 
 ### Posture
 
-- Humphrey's executor sued in the Court of Claims for the salary due from the attempted removal on October 8, 1933, until Humphrey's death on February 14, 1934.
+- Humphrey's executor sued in the Court of Claims for salary from October 8, 1933, "when the President undertook to remove him from office," until Humphrey's death on February 14, 1934.
 - The Court of Claims certified two questions to the Supreme Court: whether the FTC Act limits removal to the listed causes, and, if so, whether the limit is constitutional.
 
 ### Facts
@@ -81,7 +81,7 @@ William E. Humphrey was nominated by President Hoover in 1931 to succeed himself
 ### Holding
 
 - Yes. The intent of the Act is to limit removal to the enumerated causes, and none was claimed.
-- Yes, the limit is valid. Myers reaches only purely executive officers; the FTC is a quasi- legislative and quasi-judicial body outside the executive department, and Congress may fix its members' terms and forbid removal except for cause. Both certified questions are answered in the estate's favor.
+- Yes, the limit is valid. Myers reaches only purely executive officers; the FTC is a quasi-legislative and quasi-judicial body outside the executive department, and Congress may fix its members' terms and forbid removal except for cause. Both certified questions are answered in the estate's favor.
 
 ### Rule
 

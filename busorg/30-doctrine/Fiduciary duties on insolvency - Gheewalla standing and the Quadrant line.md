@@ -35,7 +35,7 @@ terms**."
 |---|---|---|
 | **Direct** creditor fiduciary claim | No | No |
 | **Derivative** creditor standing | No — the company is solvent, stockholders enforce | **Yes** |
-| Whose interests directors serve | Unchanged: the corporation and its **shareholders** | The corporation, for its **residual claimants**, which now includes creditors |
+| Whose interests directors serve | Unchanged: the corporation and its **shareholders** | The corporation, for its **residual claimants**, who now include creditors |
 
 "When a solvent corporation is navigating in the zone of insolvency, **the focus for Delaware
 directors does not change**."
@@ -159,7 +159,7 @@ affiliated with a particular type of institution."
 | Entire fairness trigger | Actual conflicts such that the deciding directors were not a disinterested and independent majority — in practice, a **specific transfer to the controller** |
 | Burden, entire fairness | On the **defendants** |
 | Standing | Creditors, **derivatively**, on pleading insolvency by the balance sheet or cash flow test |
-| **§ 102(b)(7)** | **Applies.** "When creditors assert derivative claims..., they are seeking to impose **personal liability on directors**, so Section 102(b)(7) potentially applies" |
+| **§ 102(b)(7)** | **Applies.** "When creditors assert derivative claims..., they are seeking to impose **personal liability on directors** of the corporation, so Section 102(b)(7) potentially applies" |
 | Defeating exculpation | Plead that directors "**depend on an interested controller for their income or employment**" |
 | Rebutting BJR the traditional way | Facts supporting an inference "that **no rational person** would take on additional risk" — a hard road |
 
@@ -189,7 +189,7 @@ also strip the exculpation defence, which is why the pleading effort concentrate
 
 [[NACEPF v. Gheewalla]]. A creditor holding FCC spectrum licences sued three Clearwire directors who
 served "at the behest of Goldman Sachs" and allegedly controlled the company because Goldman was its
-only source of funding. Crucially, NACEPF **waived any derivative theory** and asserted only direct
+only source of funding. Crucially, NACEPF **did not plead any derivative claim** and asserted only direct
 claims.
 
 Held: no direct claim in the zone of insolvency, and none in actual insolvency either. Derivative
@@ -226,8 +226,8 @@ pleaded dual-fiduciary status.
 
 Insolvency was pleaded here on the balance sheet test — $100 million of equity capital, six times that
 in long-term debt, another 500x leverage writing swaps, $48 million and then $320 million paid to unwind
-two swaps, and $600 million of bond debt against $426 million of assets, a figure the defendants' own
-brief put at $747 million of liabilities.
+two swaps, and $600 million of bond debt against $426 million of assets — a debt figure the defendants' own
+reply brief put even higher, at $747 million of liabilities.
 
 ## Professor gloss
 

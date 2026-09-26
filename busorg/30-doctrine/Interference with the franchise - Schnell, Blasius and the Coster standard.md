@@ -58,7 +58,7 @@ honestly and competently."
 
 - "The board, as a general matter, is **under no fiduciary obligation to suspend its active
   management** of the firm while the consent solicitation process goes forward."
-- Action "taken **completely independently** of the consent solicitation, which merely had an
+- Action taken "**completely independently** of the consent solicitation, which merely had an
   **incidental** impact," is "very unlikely" to be nullified.
 - [[Coster v. UIP Companies]] restates it: "[i]f the Atlas board had acted **on a clear day** to
   establish new seats and to fill the vacancies, the circumstances would have been different. But
@@ -82,7 +82,7 @@ The same line separates lawful advocacy from vote buying in
 | **Blasius** (1988) | Good faith is not enough. Primary purpose to thwart a vote → **compelling justification**, burden on the board; no per se rule |
 | **Stroud v. Grace** | A proxy fight plus a tender offer "necessarily invoked **both** Unocal and Blasius"; the two "are not mutually exclusive" |
 | **Chesapeake v. Shore** | Proposed merging them — apply Unocal "with a **gimlet eye** out for inequitably motivated electoral manipulation" |
-| **MM Cos. v. Liquid Audio** | Formally placed Blasius "**within Unocal**": compelling justification is "a condition precedent to any judicial consideration of reasonableness and proportionality" |
+| **MM Cos. v. Liquid Audio** | Formally placed Blasius "**within Unocal**": compelling justification is "a condition precedent to any judicial consideration of reasonableness and proportionately [sic]" |
 | **Mercier v. Inter-Tel** | Dropped the label; modified Unocal in three parts — legitimate corporate objective, proper and non-selfish motives, response reasonable and neither preclusive nor coercive |
 | **Pell v. Kill** | Kept "compelling," explained it: "the shift from 'reasonable' to 'compelling' requires that the directors establish a **closer fit between means and ends**" |
 | **Lee Enterprises** | Same enhanced scrutiny for an advance notice bylaw, "whether labeled as Unocal or Blasius" |
@@ -120,7 +120,7 @@ strategies either to frustrate or completely disenfranchise a shareholder vote."
 | Burden | On the **board**, on both questions |
 | Question one | Real, non-pretextual threat to an important corporate interest; proper, non-selfish motivations |
 | Question two | Reasonable in relation to the threat; **not preclusive or coercive**; tailored to only what is necessary |
-| Never sufficient | "The board knows better than the shareholders" |
+| Never sufficient | "[T]he board knows better than do the shareholders" |
 | Never sufficient | Strict compliance with the DGCL and the bylaws |
 | Never sufficient | A finding of **entire fairness** |
 | Independence | "[S]ituationally specific and... **independent of other standards of review**" |

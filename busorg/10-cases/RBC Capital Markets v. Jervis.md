@@ -141,8 +141,9 @@ Rural/Metro is the case [[In re Trulia]] holds up as the cautionary example. The
 Court of Chancery there called it a "very close call" to reject a disclosure
 settlement whose release would have extinguished these claims, which later produced
 **over $100 million** for stockholders, most of it from this post-trial judgment
-after new counsel took over. Read the two together and the point is that the
-release Trulia refused to approve was a release of this case.
+after new counsel took over. Read the two together and the point is that the kind
+of disclosure-settlement release Trulia refused to approve nearly extinguished
+this case.
 
 The structural lesson is about **where liability comes to rest after exculpation**.
 The directors breached the duty of care and paid nothing, because Rural had a
@@ -167,7 +168,8 @@ Supreme Court affirms the result while refusing the gatekeeper theory that produ
 it. Bankers are not gatekeepers with duties running to stockholders; they are
 counterparties under negotiated engagement letters, with one asymmetry the law
 polices — they alone know their own conflicts, so disclosure and consent are what
-"evens the field."
+"evens the field," in the words of the Bratton and Wachter article the footnote
+quotes.
 
 The predicate breach here is a [[Sale of control - Revlon and the duty to maximise price|Revlon]]
 breach: the board failed to obtain the best value reasonably available because RBC

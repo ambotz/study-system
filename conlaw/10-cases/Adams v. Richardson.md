@@ -20,7 +20,7 @@ An agency's non-enforcement is reviewable when the agency has "consciously and e
 
 ## Facts
 
-- **Title VI directs enforcement and specifies how.** Each funding agency "is authorized and directed to effectuate" § 2000d, by fund termination after a hearing or "by any other means authorized by law." *The court finds "law to apply," defeating the committed-to-discretion exception; a bare authorization would look like [[Powell v. Katzenbach]].*
+- **Title VI directs enforcement and specifies how.** Each funding agency "is authorized and directed to effectuate" § 2000d, by fund termination after a hearing or "by any other means authorized by law." *The court finds that Title VI is not a statute with "no law to apply," defeating the committed-to-discretion exception; a bare authorization would look like [[Powell v. Katzenbach]].*
 - **The challenge was to a general policy, not to individual decisions.** Plaintiffs alleged "a general policy which is in effect an abdication of its statutory duty." *The court introduces this ground with "More significantly"; passing over a few districts in a working program would fall under Cox.*
 - **HEW kept funding segregated institutions.** It was "actively supplying segregated institutions with federal funds, contrary to the expressed purposes of Congress." *Non-enforcement here was continued payment, which Note 3 reads as a purse case.*
 - **HEW relied on voluntary compliance with no end point.** *A request not followed by compliance "within a reasonable time" leaves the duty to use the statutory means; a time-limited voluntary effort would have been lawful.*
@@ -79,7 +79,7 @@ Title VI of the Civil Rights Act of 1964 bars discrimination in programs receivi
 ### Rule
 
 - Agency action is presumptively reviewable under the APA; the committed-to-discretion exception applies only where "there is no law to apply."
-- A statute that "authorized and directed" enforcement and prescribes its means supplies law to apply.
+- A statute under which the agency is "authorized and directed" to enforce, and which prescribes the means, supplies law to apply.
 - A general policy that "is in effect an abdication of its statutory duty" is reviewable, unlike individual enforcement choices within a functioning program.
 
 ### Reasoning
@@ -98,7 +98,7 @@ Title VI of the Civil Rights Act of 1964 bars discrimination in programs receivi
 
 ### Cold-call notes
 
-- **How does Adams distinguish Cox?** Note 2. Three grounds, in the court's order of weight: (1) Title VI directs enforcement and sets procedures; (2) the challenge is to a general policy of abdication, not to a few decisions in a working program; (3) HEW is paying the violators. The court introduces the second with "More significantly." Ask which ground is doing the work by removing each in turn.
+- **How does Adams distinguish Cox?** Note 2. Three grounds, in the court's order: (1) Title VI directs enforcement and sets procedures; (2) the challenge is to a general policy of abdication, not to a few decisions in a working program; (3) HEW is paying the violators. The court introduces the second with "More significantly." Ask which ground is doing the work by removing each in turn.
 - **Hypothetical: HEW terminates funds for some districts and negotiates with others.** Now HEW is making individual decisions in a generally effective program. Under ground (2) the case moves toward Cox and [[Heckler v. Chaney]], even with the mandatory statute. The line is general policy versus case-by-case judgment, the same line [[The Thompson Memo]] draws in its fourth principle.
 - **Hypothetical: Title VI said only that agencies "may" terminate funds.** Ground (1) disappears; the case looks like [[Powell v. Katzenbach]]. But grounds (2) and (3) remain, and the funding point would still press: Congress's substantive prohibition in § 2000d does not become optional because the remedy is permissive.
 - **Is Adams really a purse case?** Note 3. On the funding ground, yes: the executive is spending in a way Congress forbade, which is the Appropriations Clause problem in [[U.S. House of Representatives v. Burwell]] turned around. If the reasoning is limited to funding, Adams says little about criminal non-enforcement, and the Cox line is untouched. If it is not limited, Adams is a general duty to enforce mandatory statutes.

@@ -109,8 +109,8 @@ fetching; the same two-part piece is carried by Legal Funding Journal, recorded 
 
 ## Seminar hooks
 
-- **This piece silently settles a Class 1 dispute.** Swiss Re quotes funder **IRRs** of
-  24.6–35.3%; GAO reports funders self-reporting **93% ROIC since inception**. Truant
+- **This piece silently settles a Class 1 dispute.** Swiss Re quotes personal injury funder
+  **IRRs** of 24.6–35.3%; GAO reports one funder self-reporting **93% ROIC since inception**. Truant
   explains why those cannot be compared: early resolutions produce high IRR and low multiple,
   long ones the reverse. **A funder can choose which number flatters it by choosing which
   cases it talks about.** Nobody in Class 1 had the vocabulary to say that.

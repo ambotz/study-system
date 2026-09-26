@@ -28,7 +28,7 @@ reasonable the board's process was.
   value-creating option available.
 - Genesis had previously lost a last-minute bidding war to Omnicare, and its
   bitterness over that loss drove its insistence on exclusivity and a
-  "bulletproof" lock-up. The board was told as much: Genesis "wanted to have a
+  "bulletproof" lock-up. The Independent Committee was told as much: Genesis "wanted to have a
   pretty much bulletproof deal or they were not going to go forward."
 - The merger agreement contained a § 251(c) force-the-vote provision requiring
   NCS to submit the agreement to stockholders **even if the board withdrew its
@@ -137,9 +137,9 @@ is that Unocal scrutinises the **overall response** as a unitary whole where the
 measures are inextricably related.
 
 Statutory update worth noting. The force-the-vote authority Omnicare calls
-§ 251(c) now lives in **8 Del. C. § 146**, added in 2018, which lets a board
+§ 251(c) now lives in **8 Del. C. § 146**, added in 2003, which lets a board
 submit a matter to stockholders notwithstanding a later withdrawal of its
-recommendation. Nothing in the 2018 amendment disturbs the holding, but a current
+recommendation. Nothing in the 2003 amendment disturbs the holding, but a current
 answer should cite § 146 rather than § 251(c).
 
 The relationship to [[Revlon v. MacAndrews & Forbes]] is the structural point.
@@ -228,7 +228,7 @@ draft merger agreement attached. The board later withdrew its recommendation and
 told stockholders to reject the Genesis deal, but the devices had already made the
 outcome certain.
 
-The merger agreement also carried a $6 million termination fee plus up to $5
+The merger agreement also carried a $6 million termination fee and/or up to $5
 million of documented expenses, and provided that a breach of the voting
 agreements would let Genesis terminate and collect the fee — a breach that was
 impossible, since the voting agreements were specifically enforceable.
@@ -383,5 +383,5 @@ dissenters' real complaint lives.
   force-the-vote authority now sits in § 146.
 - **Numbers worth holding.** Four directors, two of whom held majority voting
   power; 80% public float; less than 24 hours to sign; $6 million termination fee
-  plus $5 million of expenses; an Omnicare bid worth more than twice the Genesis
+  and/or up to $5 million of expenses; an Omnicare bid worth more than twice the Genesis
   consideration; a 3–2 decision.

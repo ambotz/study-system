@@ -105,7 +105,7 @@ The Sex Offender Registration and Notification Act of 2006 requires a sex offend
 **(Gorsuch, J., with Roberts, C.J., and Thomas, J., dissenting)**
 
 - The legislative power is the power to adopt "generally applicable rules of conduct governing future actions by private persons." The people vested it in Congress alone, and "not even Congress" can alter that.
-- Delegation defeats the purposes of bicameralism and presentment: laws would be fewer, slower, more consensual, more stable and more accountable if Congress had to make them. It invites "finger-pointing."
+- Delegation defeats the purposes of bicameralism and presentment: laws "simply declared by a single person" would not be "few in number, the product of widespread social consensus, likely to protect minority interests, or apt to provide stability and fair notice." Accountability suffers too, because delegation invites "finger-pointing."
 - The permissible categories are details, fact-finding and non-legislative or overlapping executive powers. SORNA fits none of them: it lets the Attorney General choose all, some or none of the requirements for half a million people.
 - The intelligible principle test was "plucked" from J. W. Hampton, where it meant something narrower, and has become a "misadventure" under which "many 'less discerning readers [have been able only to] find gibberish.'"
 - The Court still polices delegation through major questions and vagueness. It should do so openly.

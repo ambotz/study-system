@@ -129,7 +129,7 @@ did not.
   not describe it either, because neither is in that business.
 - Four of twelve funders provided data. Ask what a mandatory-disclosure regime would
   actually produce that voluntary cooperation did not — and notice that of GAO's six
-  options, only two run through courts. The disclosure fight in Class 8 assumes the courts
+  options, only one runs through the court system (two, if arbitration institutions count). The disclosure fight in Class 8 assumes the courts
   are the right collection point, and GAO does not.
 
 ## Citable detail

@@ -64,7 +64,7 @@ Aftermath: Congress tried a tax on child-labor profits, struck down 8–1 in [[B
 
 ### Facts
 
-In 1916, as Progressive Era regulation gained momentum, Congress passed a child-labor act barring from interstate or foreign commerce the products of any mine or factory that, within thirty days before the goods were removed, had employed children under fourteen, or children fourteen to sixteen for more than eight hours a day, six days a week, or at night. The casebook frames the law's "obvious purpose" as banning child labor nationwide. A father whose two sons, one under fourteen and one between fourteen and sixteen, worked in a Charlotte cotton mill sued to stop enforcement, attacking the Act under the Commerce Clause, the Tenth Amendment and the Fifth Amendment. North Carolina's own law set the minimum working age at twelve.
+In 1916, as Progressive Era regulation gained momentum, Congress passed a child-labor act barring from interstate or foreign commerce the products of any mine or factory that, within thirty days before the goods were removed, had employed children under fourteen, or children fourteen to sixteen for more than eight hours a day or six days a week, or at night. The casebook frames the law's "obvious purpose" as banning child labor nationwide. A father whose two sons, one under fourteen and one between fourteen and sixteen, worked in a Charlotte cotton mill sued to stop enforcement, attacking the Act under the Commerce Clause, the Tenth Amendment and the Fifth Amendment. North Carolina's own law set the minimum working age at twelve.
 
 ### Issue
 
@@ -90,7 +90,7 @@ In 1916, as Progressive Era regulation gained momentum, Congress passed a child-
 - Reads Gibbons's "prescribe the rule" as a power to govern commerce, which is "directly the contrary of the assumed right to forbid commerce from moving and thus destroying it as to particular commodities."
 - Distinguishes the prohibition precedents ([[Champion v. Ames]], [[Caminetti v. United States]] and similar cases) by their harmful subject matter. There, "the authority to prohibit is as to them but the exertion of the power to regulate."
 - Looks through form to effect: "The act in its effect does not regulate transportation among the states, but aims to standardize the ages at which children may be employed in mining and manufacturing within the states."
-- The thirty-day window shows the target is production: the goods "may be freely shipped after thirty days."
+- The thirty-day window shows the target is production: the Act "permits them to be freely shipped after thirty days from the time of their removal from the factory."
 - Follows [[United States v. E.C. Knight Co|E.C. Knight]]: once production is local, federal control of it would bring "all manufacture intended for interstate shipment" under federal control "to the practical exclusion of the authority of the states."
 - Rejects the race-to-the-bottom rationale: "The commerce clause was not intended to give to Congress a general authority to equalize such conditions."
 - Invokes enumerated powers and the Tenth Amendment: "the nation is made up of states to which are entrusted the powers of local government. And to them and to the people the powers not expressly delegated to the national government are reserved." (The word "expressly" is not in the Tenth Amendment; Marshall made that point against the Articles in [[McCulloch v. Maryland]].)

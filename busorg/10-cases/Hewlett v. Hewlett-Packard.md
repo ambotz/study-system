@@ -44,8 +44,8 @@ the franchise.
 - HP had **1,941,391,000 shares** outstanding and eligible to vote, and management
   reported approval "by an extremely thin margin." If the margin was under 1% of shares
   voted, the 17 million switched votes "could have determined the outcome."
-- The Hewlett Parties and their allies held about **18%** of HP's voting shares and had
-  waged a full proxy contest since November 2001.
+- The Hewlett Parties and their allies held about **18%** of HP's voting shares, had
+  opposed the merger publicly since November 2001, and waged a full proxy contest.
 - HP's stock fell **18.7%** on announcement, from $23.21 to $18.87 — about $8.5 billion of
   stockholder value — and was down 27.2% by early November, against a 9.9% gain in an
   index of comparable companies.
@@ -161,7 +161,7 @@ electorate and exercising power for the primary purpose of **foreclosing** effec
 shareholder action."
 
 Two features of the posture limit how much the opinion settles. It is a **motion to
-dismiss**, so every allegation is assumed true, and the court says twice that the plaintiffs
+dismiss**, so every allegation is assumed true, and the court stresses that the plaintiffs
 face a significant evidentiary burden at trial. And the inspector had not certified the
 result, so nobody yet knew the margin. The case is therefore best used for its **standard**
 rather than for its outcome.
@@ -304,7 +304,7 @@ preliminary results and was not expected to certify until late April.
 The standard the court applies is easier to state than to run. Schreiber's intrinsic
 fairness test asks whether a vote-buying arrangement was fair, but fairness to whom, measured
 how, is left open — and Chandler's own formulation shifts between "deleterious effect on the
-corporate franchise" and "materially adverse effect on the franchise of the other
+corporate franchise" and "materially adverse effect on the franchise of the other HP
 shareholders." On these alleged facts the answer is clear enough, because corporate money was
 spent to defeat the holders who were paying for it. On softer facts, where management offers
 an accommodation with a genuine business rationale, the test gives little guidance, and the
@@ -340,5 +340,5 @@ of it.
   routes to the same principle — informing the electorate is legitimate, foreclosing or
   purchasing its decision is not.
 - **Numbers worth holding.** 1,941,391,000 shares outstanding; 25 million voted against, 17
-  million switched; the Hewlett bloc at about 18%; a margin reported as under 1%; an 18.7%
+  million switched; the Hewlett bloc at about 18%; a margin alleged to be under 1%; an 18.7%
   price drop worth roughly $8.5 billion; four days between the credit facility and the vote.

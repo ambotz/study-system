@@ -26,14 +26,13 @@ Congress cannot authorize the President to cancel, that is, to deprive of "legal
 - **The cancellation came after enactment.** Each item "had been signed into law pursuant to Article I, § 7 ... before it was canceled." *Stevens's first distinction; Scalia says presentment "ha[s] been fully complied with."*
 - **The cancellation reached only part of each statute.** The President canceled one provision of the Balanced Budget Act and two of the Taxpayer Relief Act. *Stevens's second distinction: the constitutional return "is of the entire bill."*
 - **The Act made cancellation prevent the item "from having legal force or effect."** *The majority rests on these words; Scalia says a power to "decline to spend" would be valid beyond "the slightest doubt."*
-- **The Act set standards, and "the President meticulously followed these procedures."** *The standards likely satisfy the intelligible principle test, so the Court did not decide on delegation.*
+- **The Act set standards, and "the President meticulously followed these procedures."** *The standards likely satisfy the intelligible principle test; having found a § 7 violation, the Court did not reach delegation.*
 - **Congress could restore an item only by a "disapproval bill," which the President could veto.** *Restoration thus took two-thirds of each House, the root of Kennedy's leverage concern.*
 - **The items were spending and limited tax benefits.** *Scalia's appropriations analogy fits spending better, so Breyer adds the tariff-suspension precedents.*
 
 ## Court Ruling
 
-**Held** (6–3; Stevens, J., for the Court; Kennedy, J., concurring; Scalia, J., joined by
-O'Connor, J., and by Breyer, J., as to Part III, concurring in part and dissenting in part; Breyer, J., joined by O'Connor, J., and by Scalia, J., as to Part III, dissenting)
+**Held** (6–3; Stevens, J., for the Court; Kennedy, J., concurring; Scalia, J., joined by O'Connor, J., and by Breyer, J., as to Part III, concurring in part and dissenting in part; Breyer, J., joined by O'Connor, J., and by Scalia, J., as to Part III, dissenting)
 
 - The appellees have standing (summarized by the editors).
 - A cancellation under the Act is, "[i]n both legal and practical effect," a repeal of part of a statute, and "[r]epeal of statutes, no less than enactment, must conform with Art. I" (quoting [[INS v. Chadha|Chadha]]).
@@ -150,7 +149,7 @@ The Line Item Veto Act took effect on January 1, 1997. It let the President "can
 - **Why do the words "legal force or effect" matter?** Because the majority's violation lies in the statute's description of what cancellation does. Change the words to "decline to spend" and the same practical power survives. Press whether a constitutional rule should turn on drafting.
 - **The tax benefit.** Declining to spend has a long pedigree. Declining to give effect to a tax exemption does not, except for the tariff-suspension cases such as [[Field v. Clark]]. If the Act had covered only spending items, Scalia's historical argument would be at its strongest.
 - **Share of GDP (Note 1).** The first budget "read like" a lump-sum delegation. Does the same delegation mean more when federal spending is nearly 25% of GDP rather than 1–2%? Scalia's history is from the small-government era; Breyer's argument from scale cuts the other way. The question is whether the nondelegation limit is one of kind or of degree.
-- **Kennedy's leverage point (Note 2).** A President with a cancellation power can threaten a member's local project in exchange for a vote on something else. Is that the real shift of power the majority fears? The disapproval-bill design makes it sharper: restoring an item takes two- thirds if the President vetoes the disapproval.
+- **Kennedy's leverage point (Note 2).** A President with a cancellation power can threaten a member's local project in exchange for a vote on something else. Is that the real shift of power the majority fears? The disapproval-bill design makes it sharper: restoring an item takes two-thirds if the President vetoes the disapproval.
 - **Whose liberty? Kennedy versus Breyer.** Breyer: the branches are only adjusting power between themselves, so no individual's liberty is at stake. Kennedy: structural liberty belongs to citizens, and one Congress cannot give away the powers of later ones. The same dispute runs through Gorsuch's Gundy dissent on accountability and finger-pointing.
 - **Congressional consent.** Chadha and Clinton both strike down schemes that the President and Congress agreed to. In Chadha, White noted that Presidents accepted the veto "as the price for a broad delegation." In Clinton, Congress gave the President the power. Consent saves neither. Contrast [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]], where congressional consent would have been everything.
 - **Scalia's augmentation point.** If Congress can authorize the executive to add to the law by rulemaking, why not to subtract from it by cancellation? Be ready with the majority's implicit answer: rules are made under the statute and leave its text intact; a cancellation removes text. Then ask whether that difference is anything more than form.

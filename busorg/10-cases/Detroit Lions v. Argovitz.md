@@ -38,9 +38,10 @@ the resulting deal is no defence.
 - Argovitz stood to collect the $100,000 balance of his agent's fee out of a
   $500,000 loan embedded in the Gamblers' own offer.
 - In the Kelly contract, negotiated by an independent agent who did shop the offer,
-  the Gamblers gave an untested rookie quarterback terms including a top-three-pay
-  guarantee. Sims — a Heisman winner and proven NFL star — got $60,000 less and no
-  comparable clauses. *Argovitz never asked for them.*
+  the Gamblers paid Kelly, an untested rookie quarterback, $60,000 less than Sims —
+  a Heisman winner and proven NFL star — but gave Kelly terms including a
+  top-three-pay guarantee. Sims got no comparable clauses. *Argovitz never asked for
+  them.*
 - Five months later Argovitz had Sims sign a **waiver** of claims arising from the
   conflict, without independent advice and without telling Sims's new agent.
 - The Gamblers' deal was arguably a good one — five years, $3.5 million, three
@@ -137,7 +138,7 @@ flow, and personal exposure on 29% of a $1.5 million letter of credit.
 Through June the Lions and Argovitz closed to within $500,000, with the Lions'
 negotiator working on an annuity structure while resisting skill and injury
 guarantees. Argovitz told Sims those talks were going nowhere. Then he arranged
-for his own partner to make Sims an offer, and flew Sims and his wife to Houston
+for his own partner to make Sims an offer, and Sims and his wife went to Houston
 on June 29 to hear it — from a team Argovitz partly owned.
 
 The Gamblers offered $3.5 million over five years with three years of guarantees
@@ -197,7 +198,7 @@ overlooked." Among them was a waiver of Sims's claims against Argovitz.
   the wedge every agent dreams of, because using it would have cost him the player
   for a team he owned.
 - The Kelly comparison supplies the measure of damage without requiring a valuation
-  — an independent agent extracted better terms for a lesser player from the same
+  — an independent agent extracted more favourable clauses for a lesser player from the same
   club in the same window.
 - On the waiver, the court treats the circumstances as themselves evidence of the
   breach's continuation rather than its resolution.
@@ -206,8 +207,8 @@ overlooked." Among them was a waiver of Sims's claims against Argovitz.
 
 - None; single-judge bench trial.
 - The argument available to Argovitz, and worth having ready: Sims knew his agent
-  owned a USFL team, was independently advised by Lerner that he could retain other
-  counsel, declined, and received guarantees the Lions had refused for three years.
+  owned a USFL team, was advised by Lerner that he could retain other counsel,
+  declined, and received three years of guarantees the Lions had refused.
   On that framing the rule punishes an agent for a deal that made the principal
   better off. The court's answer is the *Burleson* passage — the inquiry stops at
   whether the interest existed, because any other rule requires courts to price

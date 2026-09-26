@@ -42,8 +42,8 @@ the range of fairness cannot rescue a process that was "beyond unfair."
   offer before the board was; and publicly demonstrated an **inoperable Solar Roof** before
   the vote. His recusal was "fluid," and when present he "simply could not help but to
   'voice [his] opinion, obviously.'" **Kimbal was never recused.**
-- **Process strengths.** Independent top-tier advisors (Wachtell and Evercore), selected
-  without Musk or Gracias; favourable timing, with solar stocks at historic lows, after the
+- **Process strengths.** Independent top-tier advisors (Wachtell and Evercore), with
+  Evercore selected without Musk or Gracias; favourable timing, with solar stocks at historic lows, after the
   Model X rollout and before the Model 3; the Gigafactory's strategic fit; and "an
   indisputably independent director leading the way."
 - **Price evidence.** Tesla has realised roughly **$1 billion** in nominal cash flows from
@@ -148,12 +148,12 @@ deal a bailout "steeped in conflicts." A vote that cannot cleanse can still be e
 
 ### Facts
 
-Tesla acquired SolarCity in 2016 in an all-stock deal. Musk chaired and led both companies
-and was the largest stockholder of each; six of seven Tesla directors had ties to SolarCity
+Tesla acquired SolarCity in 2016 in an all-stock deal. Musk chaired both companies, was
+Tesla's CEO, and was the largest stockholder of each; six of seven Tesla directors had ties to SolarCity
 or to Musk. By 2016 SolarCity faced serious liquidity pressure, and the plaintiffs' theory
 was that Tesla, under Musk's direction, bailed out a company he could not afford to let fail
 — the "pyramid" of Tesla, SolarCity and SpaceX that he had publicly warned must not become
-"a house of cards."
+a "house of cards."
 
 The board took one of the two standard protections and not the other. It conditioned the
 deal on approval by a majority of disinterested stockholders. It formed no special committee,
@@ -163,8 +163,8 @@ with analysis before presenting, helping choose deal counsel, reviewing the offe
 talking price with the banker, publishing a manifesto mid-negotiation, and demonstrating a
 Solar Roof that did not work.
 
-Against that, the board retained Wachtell and Evercore without Musk's or Gracias's
-involvement, timed the deal when solar equities were depressed and Tesla was between vehicle
+Against that, the board retained Wachtell and Evercore, choosing Evercore without Musk's or
+Gracias's involvement, timed the deal when solar equities were depressed and Tesla was between vehicle
 launches, and had an indisputably independent director leading. SolarCity has since produced
 about $1 billion of cash flow for Tesla with $2 billion more expected.
 

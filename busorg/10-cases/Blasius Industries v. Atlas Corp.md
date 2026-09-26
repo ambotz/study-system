@@ -173,7 +173,7 @@ a response reasonable in relation to the threat and neither preclusive nor coerc
 **What survives is the substance rather than the name.** Coster preserves Blasius's core
 holdings inside the new test: the board bears the burden; the threat cannot be pretextual; and
 "the threat **cannot be justified on the grounds that the board knows what is in the best
-interests of the stockholders**." That last sentence is Blasius, quoted in 2023 as still good
+interests of the stockholders**." That last sentence is Blasius, restated in 2023 as still good
 law. Coster also confines the heightened inquiry to its proper domain, echoing Mercier's view
 that a more muscular Unocal analysis should not apply outside election interference and control
 contests, where "more traditional tools are available."

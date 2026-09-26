@@ -107,6 +107,6 @@ one that supplies only silence is this problem.
 4. **Forgetting the burden shifts.** Writing that the plaintiff must prove unfair
    dealing inverts the rule. Once the adverse interest is shown, the fiduciary
    carries the burden.
-5. **Missing the second breach.** In Argovitz the failure to seek terms the agent
-   had given another client was an independent breach, separate from the conflict
+5. **Missing the second breach.** In Argovitz the failure to seek terms the agent's
+   club had given another player (Jim Kelly, represented by an independent agent) was an independent breach, separate from the conflict
    itself.

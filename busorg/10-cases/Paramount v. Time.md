@@ -15,7 +15,7 @@ posture_drove_outcome: true
 
 ## Rule
 
-Revlon duties arise only where the board initiates an active bidding process seeking
+Revlon duties generally arise where the board initiates an active bidding process seeking
 to sell itself or to effect a clear break-up, or where, in response to a bidder, it
 abandons its long-term strategy for an alternative involving a break-up — and
 **inadequate value is not the only cognisable threat** under Unocal, because
@@ -30,7 +30,7 @@ a strategic plan.
   was chosen from a field including Paramount, Columbia, M.C.A., Fox, MGM, Disney and
   Orion. The length of the process is what makes the original merger a business
   judgment case rather than a defensive one.
-- Time's board was **sixteen directors, twelve of them outside**, and the outside
+- Time's board had **sixteen directors, twelve of them outside**, and the outside
   directors were the ones driving the corporate-governance demands.
 - Time **conceded the economics to protect governance**. It wanted an all-cash or
   cash-and-securities acquisition; Warner insisted on a stock swap; talks collapsed
@@ -41,8 +41,9 @@ a strategic plan.
   anything over .400 was fair and anything over .450 was "one hell of a deal." Time
   paid a premium in stock to buy control of the board.
 - **Control did not pass to anyone.** Time would be owned by a fluid aggregation of
-  unaffiliated stockholders both before and after. This is the fact that defeats the
-  Revlon claim.
+  unaffiliated stockholders both before and after. This is the fact the Chancellor
+  relied on to defeat the Revlon claim; the Supreme Court rested instead on the absence
+  of any inevitable break-up, and QVC later adopted the Chancellor's ground.
 - The March 3 agreement carried an **automatic share exchange** (Time taking 9.4% of
   Warner, Warner 11.1% of Time), **"confidence" letters** from Time's banks promising
   not to finance a third-party acquisition of Time, and a **no-shop** insisted on by
@@ -53,7 +54,7 @@ a strategic plan.
 - The special committee of outside directors created to oversee the merger concluded
   **it need not retain independent advisors or even meet**. *A bad fact the opinion
   records without comment.*
-- On **June 7, 1989, sixteen days after Time mailed its proxy statement** and sixteen
+- On **June 7, 1989, fourteen days after Time mailed its proxy statement** and sixteen
   days before the scheduled stockholder vote, Paramount announced an all-cash
   all-shares offer at **$175**, later raised to **$200**. Time's stock jumped from
   $126 to $170 the next day. The timing is what the board characterised as designed
@@ -137,9 +138,11 @@ a strategic plan.
 **Rejected**
 
 - *The .465 exchange ratio, leaving Warner holders with 62% of the combined company,
-  worked a change of control that put Time up for sale.* Control passed to no one.
-  Time would be held by a fluid aggregation of unaffiliated stockholders both before
-  and after, so no control premium was extinguished and no Revlon duty arose.
+  worked a change of control that put Time up for sale.* The court finds no substantial
+  evidence that the board made a break-up inevitable, notwithstanding the unequal share
+  exchange. The Chancellor's ground was that control passed to no one: Time would be
+  held by a fluid aggregation of unaffiliated stockholders both before and after, so no
+  control premium was extinguished and no Revlon duty arose.
 - *The directors' own statements that the market might perceive the merger as putting
   Time up for sale show that it did.* Subjective intent of that kind is entirely
   insufficient, and the court declines to extend Revlon to transactions merely because
@@ -314,7 +317,7 @@ threaten Time's survival or its culture.
 ### Holding
 
 - **On Revlon: not triggered.** No substantial evidence that the board made a break-up
-  inevitable; no change of control, since Time remained held by a fluid aggregation of
+  inevitable; no change of control, as the Chancellor found, since Time remained held by a fluid aggregation of
   unaffiliated stockholders; subjective concerns about perception are insufficient;
   and structural safety devices alone do not trigger Revlon.
 - **On the original merger: business judgment.** Six years of deliberation and an

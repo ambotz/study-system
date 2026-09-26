@@ -18,7 +18,7 @@ A board may adopt a shareholder rights plan under **8 Del. C. §§ 157 and 151**
 reinforced by its inherent **§ 141(a)** authority, and may do so **before any threat
 exists** — pre-planning earns the business judgment rule rather than forfeiting it.
 
-But the plan is **not self-executing**. "When the [b]oard of [d]irectors is faced with a
+But the plan is **not self-executing**. "When the Household Board of Directors is faced with a
 tender offer and a request to redeem the Rights, they will not be able to arbitrarily
 reject the offer. They will be held to the same fiduciary standards any other board of
 directors would be held to in deciding to adopt a defensive mechanism" — which is to

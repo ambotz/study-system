@@ -183,12 +183,12 @@ The **MIP is the mechanism worth studying**, because it does not look like self-
 face. Incentive plans of this kind are standard in VC portfolio companies; what made this one
 evidence of unfair dealing was the **cutback feature**, which stripped management of any reason
 to push for a price at which the common would see value. The board never asked how to allocate
-"incremental dollars above the liquidation preference," so above the preference the common paid
-100% and the preferred 10%.
+"incremental dollars above the liquidation preference," so at $60 million the common funded the
+MIP with 100% of their ex-MIP proceeds and the preferred with only 10% of theirs.
 
 **What saved the defendants is the counterfactual, not the process.** Entire fairness is a
-unitary test, and Laster finds fair dealing decisively against the defendants and price
-decisively for them. That is only possible because the common stock was worth nothing anyway —
+unitary test, and Laster finds fair dealing decisively against the defendants and price —
+on evidence he calls "mixed" — ultimately for them. That is only possible because the common stock was worth nothing anyway —
 "the substantial equivalent in value of what he had before" was zero. The practical lesson runs
 the other way: a board that skips a special committee and a fairness opinion buys itself the
 burden of proving fairness at trial, and here that meant years of litigation and a trial record
@@ -333,7 +333,7 @@ case went to trial.
   the inference against them, computing percentages off the estimates the witnesses supplied.
 - On the MIP the reasoning is arithmetic rather than moral. The court works out who funds each
   incremental dollar above the preference, finds the common funding 100% against the preferred's
-  10%, identifies a break-even of $66.5 million, and shows that even far above it the common
+  10%, identifies a break-even of $66.5 million, and shows that even above it, at $70 million, the common
   surrender 75% of their proceeds while the preferred "would not lose a dime."
 - The cutback feature is the hinge. Without the MIP, management's options and common stock would
   have aligned them with the common and given them "strong reasons to evaluate critically" a
@@ -373,8 +373,8 @@ willing the court was to disregard the contemporaneous record in both directions
   common's option value. That is the structural insight of the whole session.
 - **Know why the MIP was evidence of unfair dealing, and be specific.** The **cutback feature**
   reduced MIP payouts by any equity consideration, so management had no reason to fight for a
-  price above the preference. Then give the arithmetic: at $60 million the common fund 100% of the
-  MIP and the preferred 10%; break-even is $66.5 million.
+  price above the preference. Then give the arithmetic: at $60 million the common fund the MIP with
+  100% of their ex-MIP proceeds and the preferred with 10% of theirs; break-even is $66.5 million.
 - **Do not say the VCs were wrong to vote their own shares.** They were entitled to, "limited only
   by any fiduciary duty owed to other stockholders." What was wrong was the **directors'** conduct.
 - **Be ready for "so what should they have done?"** Form a special committee of directors aligned

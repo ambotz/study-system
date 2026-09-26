@@ -21,7 +21,7 @@ A casebook note on the two 1935 cases in which the Supreme Court held a delegati
 - **The two readings the casebook offers.** A landmark for civil liberties and limited government, or a Court "run amok" whose doctrine would destroy the administrative state. Both are live in Gundy.
 - **What followed.** Congress rewrote the second wave of New Deal statutes to survive the test, and built the administrative agencies on broad standards: working conditions, financial transactions, consumer products, the environment. Agencies write binding regulations that Congress never votes on, supervised by the White House and by courts under the Administrative Procedure Act.
 - **The casebook's open question.** "It is not clear that these agencies or this system of administrative law could survive the rigorous application of Schechter Poultry."
-- **The dates matter.** 1935 is the year before the Court's switch in 1937. Schechter was unanimous, including Brandeis and Cardozo, so it cannot be dismissed as the work of the conservative bloc alone.
+- **The dates matter.** 1935 is two years before the Court's switch in 1937. Schechter was unanimous, including Brandeis and Cardozo, so it cannot be dismissed as the work of the conservative bloc alone.
 
 ## Where it goes
 

@@ -23,7 +23,7 @@ A state may not treat citizens of other states worse than its own citizens in th
    - The clause protects "[t]he Citizens of each State," so a corporation or trade association is outside it (*Paul v. Virginia*) and must sue under [[Dormant Commerce Clause - Art. I § 8 cl. 3 and state discrimination|the dormant Commerce Clause]].
    - The citizenship question once did real work. The casebook reads Taney's holding in [[Dred Scott v. Sandford]] as driven by his refusal to let free Black citizens claim Article IV privileges in other states; see [[Territories and citizenship - Art. IV § 3 and Dred Scott]].
 2. **Does the law draw its line by state citizenship or residence?**
-   - A prohibition on "[n]o person residing in, or out of this state" raises no claim. In [[Corfield v. Coryell|Corfield]] only the sixth section of New Jersey's act, keyed to "actual inhabitant and resident," was even arguable.
+   - A prohibition addressed to "[n]o person residing in, or out of this state" raises no claim. In [[Corfield v. Coryell|Corfield]] only the sixth section of New Jersey's act, keyed to "actual inhabitant and resident," was even arguable.
    - A city's residency preference counts: *United Building & Construction Trades Council v. Mayor and Council of Camden* (1984) applied the clause to a municipal hiring ordinance.
    - Discrimination against a state's own new residents by length of residence routes to the right to travel: *Saenz v. Roe* (1999) relied partly on Article IV and partly on the Fourteenth Amendment.
 3. **Is the interest a protected civil privilege?**

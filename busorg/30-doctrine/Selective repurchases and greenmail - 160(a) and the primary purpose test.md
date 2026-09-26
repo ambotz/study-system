@@ -18,7 +18,7 @@ otherwise acquire, own and hold, sell, lend, exchange, transfer or otherwise dis
 pledge, use and otherwise deal in and with its own shares," and it may **deal
 selectively** with its stockholders in doing so.
 
-The limit is purpose. If the directors acted "on a sincere belief that the buying out of
+The limit is purpose. If the directors were "motivated by a sincere belief that the buying out of
 the dissident stockholder was necessary to maintain what the board believed to be proper
 business practices," they are not liable "even though hindsight indicates the decision
 was not the wisest course." If they "acted **solely or primarily** because of the desire
@@ -110,7 +110,7 @@ Cuts both ways, which is what exposed the Vice Chancellor's error.
 - **Unocal added a second prong.** A selective repurchase today must also be "reasonable
   in relation to the threat posed," and post-Unitrin must survive the preclusive-or-
   coercive screen. Cheff's test standing alone is incomplete as modern law.
-- **The all-holders rule ended the device in its Unocal form.** SEC Rule 14d-10 requires a
+- **The all-holders rule ended the device in its Unocal form.** SEC Rule 13e-4(f)(8) requires a
   self-tender to be open to all holders of the class, so an issuer tender offer excluding
   the bidder — the Unocal exchange offer — could not be structured today.
 - **Greenmail is taxed.** A federal excise tax on greenmail gains, combined with the rise
@@ -181,5 +181,5 @@ payment of 'greenmail'."
    purchases "ostensibly for use in a stock option plan," and the plan "has never been
    implemented." Under a sole-or-primary-purpose test that is the best evidence of pretext
    available, and the court passes over it.
-7. **Assuming a Unocal-style exclusionary self-tender is still available.** Rule 14d-10's
+7. **Assuming a Unocal-style exclusionary self-tender is still available.** Rule 13e-4(f)(8)'s
    all-holders requirement forecloses it.

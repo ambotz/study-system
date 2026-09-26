@@ -21,8 +21,9 @@ raises money and how it fails.
 - **Capital cannot be locked in.** ABA Model Rule 5.6 bars restrictions on a departing
   lawyer's right to practise, so non-competes and meaningful capital retention are
   unavailable. Departing partners must be repaid.
-- **No outside equity.** Model Rule 5.4 bars nonlawyer ownership and fee sharing in every US
-  jurisdiction but Arizona and, in limited form, Utah. So the only permanent capital is
+- **No outside equity.** Model Rule 5.4 bars nonlawyer ownership and fee sharing in nearly
+  every US jurisdiction; Arizona permits it, and Utah, Puerto Rico and Washington, D.C. have
+  loosened the rule. So the only permanent capital is
   partner capital, which is the capital that can walk.
 - **No hard assets.** Nothing to pledge, nothing to liquidate, and — Morley's point —
   that makes liquidation *less* attractive to creditors, not more.

@@ -34,7 +34,7 @@ defence, which currently cannot reach small claims, ever becomes true.
   portfolio management. These are in production, not pilots.
 - **Screening out is the easy half and it is the half that matters.** A non-recourse funder's
   core discipline is rejecting bad cases, not valuing good ones perfectly. Apex uses predictive
-  tools "primarily to reject unsuitable cases" — pointing AI at exactly the function
+  tools mainly to reject unsuitable cases — pointing AI at exactly the function
   [[Antill and Grenadier - Financing the Litigation Arms Race]] says the economics require.
 - **Latent claims.** Marra argues AI can surface disputes nobody has identified, which expands
   the market rather than redistributing it.

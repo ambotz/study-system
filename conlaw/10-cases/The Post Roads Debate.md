@@ -13,7 +13,7 @@ read_for: null
 
 The House of Representatives' debate of December 6–8, 1791 (3 Annals of Congress 229–41) on the bill establishing the Post Office. Representative Sedgwick moved to strike the list of roads in the bill and substitute "by such route as the President of the United States shall, from time to time, cause to be established." The motion failed.
 
-The casebook sets it next to [[Gundy v. United States]] as the founding-era case study on delegation. Every modern argument about the nondelegation doctrine appears in it, made by members of the First and Second Congresses with no precedent to rely on.
+The casebook sets it next to [[Gundy v. United States]] as the founding-era case study on delegation. Every modern argument about the nondelegation doctrine appears in it, made by members of the Second Congress with no precedent to rely on.
 
 ## What to notice
 

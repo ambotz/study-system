@@ -76,8 +76,8 @@ From the assigned documents:
 
 ### Voting mechanics, and where they differ from the DGCL
 
-- **Quorum is one-third of the Board** — the floor 8 Del. C. § 216 sets for *stockholder* quorums, here
-  applied to directors, and far below the majority a Delaware board needs under § 141(b).
+- **Quorum is one-third of the Board** — the floor 8 Del. C. § 216 sets for *stockholder* quorums, and
+  the lowest a Delaware board may go, by bylaw, below the majority default in § 141(b).
 - The act of a **majority of those present** is the act of the Board, **except** four matters requiring
   the affirmative vote of a **majority of all Trustees**: amending the Articles; electing Trustees and
   elected officers; final action on the annual budget; and designating committees to exercise Board

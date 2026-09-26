@@ -19,7 +19,7 @@ about one are routinely answered with evidence about the other.
 | Who receives it | Corporate claimants and law firms | Individual plaintiffs, mostly personal injury |
 | What it pays for | Legal fees and expenses, or cash against a pending claim | The plaintiff's **living expenses** while the claim is pending |
 | Typical size | $2.3m single-case, $4.5m portfolio (GAO); Burford floor of $3m against ~$30m expected damages | **$1,000 to $10,000** (GAO) |
-| Pricing | Multiple, percentage of recovery, or hybrid, behind a waterfall | Percentage of the amount funded, applied at intervals — 15% to 18% per six months |
+| Pricing | Multiple, percentage of recovery, or hybrid, behind a waterfall | Percentage of the amount funded — one funder's rates "starting at 15 percent," another's 18% "applied every 6 months" (GAO) |
 | Counterparty sophistication | General counsel with outside advisers | An injured individual, usually unrepresented as to the funding deal |
 | Existing regulation | Essentially none | State statutes: Arkansas 17% interest cap, Tennessee 10% annual fee cap, registration and contract disclosure in Maine and Nebraska |
 

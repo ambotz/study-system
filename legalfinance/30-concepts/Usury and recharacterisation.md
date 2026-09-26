@@ -62,7 +62,7 @@ to run and the most destructive to the funder.
 - **"Sale and Repurchase Agreement"** — the label in
   [[Maslowski v. Prospect Funding Partners]]; a purchase of proceeds rather than a loan.
 - **Statutory rate caps for consumer funding**, which sidestep characterisation entirely by
-  legislating a ceiling on this product by name — Arkansas 17%, Tennessee 10% of the advance,
+  legislating a ceiling on this product by name — Arkansas 17%, Tennessee 10% of the advance a year,
   West Virginia 18%, and New York's dual cap.
 - **Outcome caps rather than rate caps** — New York's 25% of gross proceeds, which regulates
   the share rather than the rate and so does not depend on the loan question at all.
@@ -89,7 +89,7 @@ to run and the most destructive to the funder.
   advance compounding 30% every six months to a cap of $25,245.
 - [[Skiba and Xiao - Consumer Litigation Funding as Payday Lending]] — why non-recourse is a
   difference in kind, and why an APR may be the wrong measure for a contingent instrument.
-- [[GAO - Third-Party Litigation Financing market characteristics]] — consumer rates of 15% to
-  18% of the amount funded applied every six months, and the state caps.
+- [[GAO - Third-Party Litigation Financing market characteristics]] — consumer rates starting at
+  15% of the amount funded, or 18% applied every six months, and the state caps.
 - [[Non-recourse capital]] — the structure the doctrine is testing.
 - [[Policing funding agreements]] — the contested choice of instrument.

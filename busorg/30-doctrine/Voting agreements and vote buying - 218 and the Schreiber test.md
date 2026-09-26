@@ -36,7 +36,7 @@ transaction subject to a test for intrinsic fairness**."
   determined by such agreement."
 - A **copy of the agreement is delivered to the registered office** or principal place of
   business, "open to the inspection of any stockholder... or any beneficiary of the trust
-  daily during business hours."
+  under the agreement daily during business hours."
 - **New certificates or uncertificated stock issue to the trustee**, stating that they are
   issued pursuant to the agreement, and the fact is also stated in the **stock ledger**.
 - The trustee votes the stock during the specified period, in person or by proxy, and "shall
@@ -161,8 +161,8 @@ nothing in it empowered the arbitrator to vote the shares or either party to vot
 "[E]ach party promised the other to exercise **her own** voting rights in accordance with the
 arbitrator's decision."
 
-So Mrs. Haley breached by casting 1,103 and 1,102 for herself and her husband instead of the
-directed 882/882/441, and partial compliance was no defence: the direction was "part of a single
+So Mrs. Haley breached when her shares were cast (by Mr. Haley) 1,103 and 1,102 for herself and
+her husband instead of the directed 882/882/441, and partial compliance was no defence: the direction was "part of a single
 plan or course of action... calculated to utilize an advantage of joint action," and voting for
 two of the three candidates "frustrates that plan" rather than partly performing it. The remedy
 was rejection of her votes, a six-member board, and one seat left vacant.

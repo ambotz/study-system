@@ -63,8 +63,9 @@ answers the mismatch between how long litigation takes and how long investors wi
 - **Adverse selection by arithmetic.** Winners resolve first, so any seasoned pool is worse
   than the portfolio it came from. No bad faith required. This poisons secondaries and any
   securitisation of a seasoned book alike.
-- **Marks are not prices.** A manager's valuation "is simply a point-in-time estimate of value
-  by the new, prospective owner that makes a series of assumptions."
+- **Marks are not prices.** The original manager's mark is no comfort; valuation "is simply a
+  point-in-time estimate of value by the new, prospective owner that makes a series of
+  assumptions."
 - **Manufactured track records.** A manager raising a follow-on fund has a reason to create
   arm's-length transactions that resemble exits, and nobody outside can audit it because the
   underlying is confidential.

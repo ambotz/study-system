@@ -43,8 +43,9 @@ When does BJR apply? When an informed decision is made.
 - The 90-day "market test" barred Trans Union from **soliciting** competing
   offers and from sharing non-public information. The October 10 amendments then
   required a signed, more favorable definitive agreement before Trans Union could
-  withdraw, and compressed the proxy timetable. The board approved those
-  amendments **sight unseen**.
+  withdraw, and compressed the proxy timetable. The board had approved the
+  amendments **sight unseen** on October 8, and Van Gorkom countersigned the
+  October 10 documents without checking them against that authority.
 - The price carried a real premium: 62% over the 1980 average trading price, 48%
   over the last close, and 39% over the six-year high. *Argued and rejected — but
   a board holding both a premium and a valuation is a different case.*
@@ -68,8 +69,9 @@ When does BJR apply? When an informed decision is made.
 - The board also breached the duty to disclose all material information a
   reasonable stockholder would consider important in deciding whether to approve
   the offer.
-- The October 8 and October 10 board actions "exhibited the same deficiencies"
-  and cured nothing. A defective decision can in principle be cured by later
+- The directors' October 8 conduct "exhibited the same deficiencies" as their
+  September 20 conduct, and neither October 8 nor the October 10 amendments cured
+  anything. A defective decision can in principle be cured by later
   informed action, but not by repeating the original defect.
 - Reversed. Remanded to the Court of Chancery to determine the fair value of the
   plaintiffs' shares based on the intrinsic value of Trans Union on September 20,
@@ -305,7 +307,7 @@ approved the merger, 69.9% of outstanding shares in favor, 7.25% against, and
   is damages. The process holding survives intact and still governs injunctive
   relief and still shapes how boards run sale processes.
 - **Have the timeline ready.** August 27 management meeting, September 5 the $55
-  figure surfaces, September 13 the Pritzker dinner, September 20 the board
+  figure surfaces, September 13 the meeting at Pritzker's home, September 20 the board
   meeting and signing at the opera, October 8 amendments approved sight unseen,
   October 10 amendments executed, February 10 stockholder approval. Buccola can
   ask where in that sequence the breach crystallizes, and the answer is

@@ -46,9 +46,9 @@ The division of labour between the two instruments:
 - **Supermajority amendment thresholds**, entrenching the provisions above.
 
 **2. What the bylaws carry.** Under § 109(a) the power to adopt, amend or repeal
-bylaws sits with the stockholders once the corporation has been paid for stock,
+bylaws sits with the stockholders once the corporation has received any payment for its stock,
 **but** a corporation may by its certificate confer that power on directors — and
-doing so "shall not divest the stockholders of the power." Hence the standard
+doing so "shall not divest the stockholders ... of the power." Hence the standard
 pattern: both hold the power, with a supermajority imposed on the stockholders.
 
 Bylaws in practice carry meeting mechanics, quorum, advance-notice and proxy-access

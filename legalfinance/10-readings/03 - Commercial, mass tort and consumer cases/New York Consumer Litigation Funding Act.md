@@ -55,7 +55,7 @@ after enactment; does not apply to agreements made before the effective date.**
   the drafting actually does**. Three provisions repay close reading:
   - **The two-part cap.** 25% of gross proceeds is an *outcome* cap; the § 987(b) military
     APR ceiling is a *rate* cap. They bind in different cases — the outcome cap bites on a
-    large recovery, the rate cap on a long one. Work out which binds first on a given fact
+    small recovery, the rate cap on a long one. Work out which binds first on a given fact
     pattern before saying what the statute costs a funder.
   - **"Gross proceeds," attested.** The cap is measured against gross recovery, not net of
     attorney fees, and it depends on an attestation. Who attests and what happens if the
@@ -102,8 +102,10 @@ consumer-protection regulation, not litigation regulation.
   supply contracts in New York after mid-2026 is now an observable natural experiment, and
   Avraham and Sebok's data gives a pre-period baseline.
 - Run the **cap against the actual numbers**. Avraham and Sebok found a median embedded rate
-  of 115% over the funding period but a median *realised* return of 50%. A 25%-of-gross cap
-  sits well below both. If the realised return was already only half the contracted one
+  of 115% over the funding period but a median *realised* return of 50%. The 25%-of-gross cap
+  is measured against the recovery, not the advance, so it cannot be set directly against
+  either figure; the comparable number is the § 987(b) ceiling of 36% APR, which sits below
+  even the roughly 43% annualised realised return. If the realised return was already only half the contracted one
   because of haircuts, a binding cap on the contract may change the price much less than it
   appears — or it may remove the cushion that funded the haircuts in the first place.
 - The statute makes the **plaintiff's lawyer the gatekeeper**, and voids the contract

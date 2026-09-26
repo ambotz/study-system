@@ -63,7 +63,7 @@ an internal arrangement, all present in Moelis:
 
 **4. If internal, apply the *Abercrombie* test.** Restrictions violate § 141(a) where
 they "have the effect of removing from directors in a very substantial way their
-duty to use their own best judgment on management matters," or "tend to limit in a
+duty to use their own best judgment on management matters," or "tend[ ] to limit in a
 substantial way the freedom of director decisions on matters of management policy."
 
 **5. Distinguish compelling a board decision from enabling a stockholder act.** This

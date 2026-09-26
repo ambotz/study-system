@@ -49,8 +49,9 @@ pursued in other companies by prudent men careful of their own concerns."
 - Stockholders received semi-annual dividends of six per cent or more, on
   statements disclosing bills receivable, and the complainant **bought more shares
   year after year**. *This acquiescence disposes of the ultra vires claim.*
-- No fraud or wilful disregard of duty was alleged against the directors by the
-  time of decision; the complainant conceded the evidence failed on that.
+- No fraud or wilful disregard of duty was pressed against the directors by the
+  time of decision; the bill had alleged it, but the complainant conceded the
+  evidence failed on that.
 
 ## Court Ruling
 
@@ -63,8 +64,8 @@ pursued in other companies by prudent men careful of their own concerns."
   capital employed in banking (following *People v. Utica Insurance Co.*).
 - **On liability for that excess: none.** The error was honest, on a question of
   nice construction. "No man who takes upon himself an office of trust or confidence
-  ... contracts for any thing more than a diligent attention to its concerns and a
-  faithful and honest discharge of the duty." Holding men liable for good-faith
+  ... contracts for any thing more than a diligent attention to its concerns ... and
+  a faithful and honest discharge of the duty which it imposes." Holding men liable for good-faith
   error "would put an end to all offices of trust — since no one who is capable or
   worthy could be found to accept of them."
 - **On acquiescence**: the stockholders knew and participated, so directors and
@@ -97,7 +98,7 @@ pursued in other companies by prudent men careful of their own concerns."
   prevent the commission of crime or the devices of a fraudulent secretary."
 - *Kane was known to gamble and was otherwise of exceptionable character.* Denied
   on the answers and unproven. The director most instrumental in his election
-  testified he would have personally signed a surety bond had one been customary.
+  declared he would have personally signed a surety bond had one been customary.
 
 ## Context
 
@@ -226,8 +227,7 @@ company's capital.
 - On oversight the court substitutes an external benchmark for its own judgment,
   citing *Manhattan Bank v. Lydig*, and is candid that this benchmark produces an
   uncomfortable result here.
-- The industry-usage evidence cuts both ways and the court accepts it in both
-  directions: usage excused the absence of a surety bond, the absence of by-laws,
+- The court leans on industry-usage evidence throughout: usage excused the absence of a surety bond, the absence of by-laws,
   and the form of the examinations.
 
 ### Dissent / concurrence

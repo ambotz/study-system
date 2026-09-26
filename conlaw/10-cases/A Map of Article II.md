@@ -21,7 +21,7 @@ A two-page casebook note (pp. 168–169) that walks through Article II's four se
 - **The four sections.**
   - § 1 vests "the executive Power" in one "President of the United States" and covers selection, term and oath.
   - § 2 "specifies, describes, and limits" particular powers, several of them English prerogatives: command, pardon, treaties, appointments.
-  - § 3 lists five duties or powers: the State of the Union, recommending legislation, receiving ambassadors, taking care that the laws are faithfully executed, and commissioning "all officers of the United States."
+  - § 3 lists five duties or powers: the State of the Union, recommending legislation, receiving ambassadors, taking care that the laws are faithfully executed, and commissioning all officers of the United States.
   - § 4 makes the President and Vice President, "unlike the king, . . . subject to impeachment."
 - **The editors' sorting questions.** For each prerogative on the list in [[Introduction to Article II]]: is it given to the President, given to Congress in Article I, given to the courts in Article III, shared, denied, or left unmentioned? And "what about the Constitution's silence"? A working sort, useful on the exam:
   - To Congress: tax, spend, borrow, declare war, raise armies, regulate foreign commerce, grant patents.

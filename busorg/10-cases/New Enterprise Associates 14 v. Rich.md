@@ -80,7 +80,7 @@ claims "would be a non-starter."
   corporations into LLCs."
 - **Manti Holdings supports rather than defeats the covenant.** There a majority of the Supreme
   Court upheld a drag-along **appraisal waiver**, "stressing the contractual freedom that Delaware
-  corporate law provides," though "they also emphasized that they were not upholding all waivers
+  corporate law provides," though "the justices also emphasized that they were not upholding all waivers
   ... and they admonished that Delaware law might not permit a stockholder to waive other rights."
 - **The Manti factors govern enforcement as applied**: "(i) the presence of a written contract,
   (ii) the clarity of the waiver, (iii) the stockholder's understanding of the waiver's
@@ -159,7 +159,8 @@ everywhere else, which is exactly how it treats restrictive covenants.
 
 Note the relationship to the rest of the course. The permissiveness here sits beside the rigidity
 of [[West Palm Beach Firefighters v. Moelis & Co]] and [[Gorman v. Salamone]], which hold that
-stockholders cannot use the charter or bylaws to take over the board's § 141(a) authority. The
+neither a company-level stockholder agreement outside the charter (Moelis) nor a stockholder-adopted
+bylaw (Gorman) can take over the board's § 141(a) authority. The
 reconciliation is the same level distinction: **you may constrain how you exercise your own
 rights; you may not rearrange the board's**. See
 [[Director primacy - limits on constraining the board]]. It also anticipates
@@ -256,7 +257,7 @@ fiduciary claims. The defendants moved to dismiss on the strength of the covenan
 
 *(Laster, V.C.)*
 
-- The opinion is built as a **debate**, stating the argument for facial invalidity in three
+- The opinion is built as a **debate**, stating the argument for facial invalidity in four
   sentences and then unspooling the answer at length, which is itself a signal about where the
   intuitions lie and how much work is needed to overcome them.
 - The decisive conceptual distinction is between **eliminating** and **tailoring**. Once loyalty is
@@ -303,8 +304,8 @@ which in a case like this means the care and process claims that would otherwise
   specific conduct can be **authorised** in advance. That is the move that answers the facial
   invalidity argument.
 - **Then give the level distinction.** Stockholder-level agreement, stockholder-level rights, binds
-  only signatories, underlying rights intact. Contrast the charter and bylaws, which bind everyone
-  and cannot rearrange § 141(a) authority — Moelis and Gorman.
+  only signatories, underlying rights intact. Contrast a company-level stockholder agreement
+  outside the charter (Moelis) and a bylaw (Gorman), which cannot rearrange § 141(a) authority.
 - **Know the three stated limits, because they are the holding's real content.** A broad waiver is a
   non-starter; a tailored one is likely unreasonable against retail stockholders; and no covenant
   reaches intentional wrongdoing.

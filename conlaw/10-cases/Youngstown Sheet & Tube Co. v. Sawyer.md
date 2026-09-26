@@ -117,7 +117,7 @@ The steel industry's collective bargaining agreements expired at the end of 1951
 - Written from experience as Attorney General under FDR, and he says so.
 - Sets out the three categories and places the seizure in category three by process of elimination: no authorization, and Congress has "covered" the field with three inconsistent statutory policies.
 - Reads each Article II clause and refuses each one. The Vesting Clause is an allocation of the powers "thereafter stated." The Commander in Chief is not "Commander in Chief of the country, its industries and its inhabitants." The Take Care Clause is matched by the Due Process Clause.
-- Rejects inherent emergency power, citing Weimar's Article 48 and its more than 250 invocations.
+- Rejects inherent emergency power, citing the Weimar Constitution's emergency clause, under which rights were suspended on more than 250 occasions in 13 years.
 - "With all its defects, delays and inconveniences, men have discovered no technique for long preserving free government except that the Executive be under the law, and that the law be made by parliamentary deliberations."
 
 **(Clark, J., concurring in the judgment)**

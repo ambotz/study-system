@@ -103,7 +103,7 @@ with that right." The reading invites you to ask what justifies this formalist a
 why directors keep enormous discretion over business decisions and almost none over the
 mechanics of an election.
 
-The answer supplied the following year, in [[Blasius Industries v. Atlas Corp]], is
+The answer supplied seventeen years later, in [[Blasius Industries v. Atlas Corp]] (1988), is
 legitimacy: "[t]he shareholder franchise is the ideological underpinning upon which the
 legitimacy of directorial power rests." Blasius also does the work Schnell leaves undone. As
 [[Coster v. UIP Companies]] explains, Schnell handles the case where the board acts within

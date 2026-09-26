@@ -30,7 +30,7 @@ standards.
   predates any specific threat and supports the informed-adoption finding.
 - Two triggers: announcement of a **tender offer for 30%** of Household's shares, and
   **acquisition of 20%** by any single entity or group.
-- On the **30% trigger** the rights issue, become immediately exercisable to buy
+- On the **30% trigger** the rights issue and become immediately exercisable to buy
   1/100 of a share of new preferred for $100, and remain **redeemable by the board
   for $.50 per right**. Redeemability is what keeps the pill a bargaining device
   rather than a bar.
@@ -147,8 +147,8 @@ Quickturn. The principle is that a bidder must retain some avenue to the stockho
 and the stockholders some mechanism to reverse the defence by electing new directors.
 That is what makes "just say never" unlawful even though "just say no for now" is not.
 
-Moran's pill is also the one blessed in [[Revlon v. MacAndrews & Forbes]] the
-following year. Revlon upholds the Note Purchase Rights Plan precisely because it
+The pill Moran validated is blessed again, in a different form, in
+[[Revlon v. MacAndrews & Forbes]] the following year. Revlon upholds the Note Purchase Rights Plan precisely because it
 worked as Moran contemplated — it drove Pantry Pride's bidding from $42 to $58 and
 was then redeemed. The pill is not the problem in Revlon; the lock-up granted after
 the company was already for sale is.
@@ -193,9 +193,9 @@ holder may exercise each right to purchase $200 of the common stock of the tende
 offeror for $100 — the flip-over provision the court identifies as "at the heart of
 this controversy."
 
-Appellants, joined by the Securities and Exchange Commission, argued that the board
-lacked authority to adopt the plan at all: that no DGCL provision authorises such
-rights, that the board cannot usurp the stockholders' right to receive hostile tender
+Appellants, joined on the second and third points by the Securities and Exchange
+Commission, argued that the board lacked authority to adopt the plan at all: that no
+DGCL provision authorises such rights, that the board cannot usurp the stockholders' right to receive hostile tender
 offers, and that the board cannot fundamentally restrict the right to conduct a proxy
 contest. Household answered that § 157 authorises the rights and § 151(g) the
 underlying preferred.
@@ -277,8 +277,8 @@ share, create adverse tax consequences, or affect the market price of Household 
 
 ### Dissent / concurrence
 
-- The opinion notes the vote below and the SEC's participation as amicus, but the
-  Supreme Court panel was unanimous.
+- The opinion notes the board's fourteen-to-two vote and the SEC's participation as
+  amicus, but the Supreme Court panel was unanimous.
 
 The real objection is not to the result but to the empirical premise. Moran upholds
 the pill on the express ground that stockholders retain avenues around it. Within a

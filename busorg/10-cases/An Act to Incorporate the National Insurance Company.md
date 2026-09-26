@@ -50,8 +50,8 @@ into the DGCL as a default the charter may vary.
   "not repugnant to the constitution and laws." Compare § 109(b), which grants the
   power generally and imposes the same consistency limit.
 - **§ VIII — enumerated business powers.** Insurance on inland transportation of
-  goods, marine insurance, insurance on lives, tontine, and lending on bottomry and
-  respondentia. **Nothing else.** This list is what the court in
+  goods, marine insurance, insurance on lives (by tontine or otherwise), and lending
+  on bottomry and respondentia. **Nothing else.** This list is what the court in
   [[Scott v. Depeyster]] reads as an implied prohibition on discounting notes.
 - **§ IX — mandatory capital maintenance.** Dividends semi-annually, out of profits
   only, and **no dividend after a loss diminishes the capital until the capital is
@@ -65,15 +65,21 @@ into the DGCL as a default the charter may vary.
   restriction the directors actually breached.
 - **§ XIII — "declared to be a public act."** To be construed "benignly and favorably,
   for every beneficial purpose herein intended."
-- **§ XIV — no limited liability.** For debts contracted before the charter's expiry,
-  "the persons composing the said corporation, shall be responsible **in their
-  individual and private capacity to the extent of their respective shares**." The
-  same section closes by making the president and directors "responsible in their
-  individual and private capacities for any loss or losses which may be sustained by
-  any person or persons, by reason of such negligence."
+- **§ XIV — personal liability up to the amount of the shares.** For debts contracted
+  before the charter's expiry, "the persons composing the said corporation at the
+  time of its dissolution, shall be responsible **in their individual and private
+  capacity to the extent of their respective shares, and no further**." The same
+  section requires the subscribed capital to be paid in and securely invested in
+  public stocks, New York bank stock, or mortgage-secured loans before the company
+  assumes any risk, and closes by making the president and directors, if they
+  neglect that investment, "responsible in their individual and private capacities
+  for any loss or losses which may be sustained by any person or persons, by reason
+  of such negligence."
 
 **The single most important thing here** is § XIV. Limited liability was not a
-feature of incorporation in 1815; it had to be granted, and this charter withheld it.
+feature of incorporation in 1815; it had to be granted, and this charter granted
+only a partial version — stockholders stayed personally liable up to the amount of
+their shares.
 That makes [[Limited liability - piercing the corporate veil]] a question about the
 terms of a statutory privilege rather than about a natural attribute of the form.
 

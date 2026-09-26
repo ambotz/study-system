@@ -62,8 +62,9 @@ beneficiaries of any increase in value."
   directors does not change**: directors must continue to discharge their fiduciary duties to the
   corporation and its shareholders by exercising their business judgment in the best interests of
   the corporation for the benefit of its shareholder owners."
-- Adopting Chancery's reasoning, recognising such claims would be "using the law of fiduciary duty
-  to **fill gaps that do not exist**," the benefit "appears minimal, at best, and significantly
+- Quoting Production Resources, recognising such claims may involve "using the law of fiduciary
+  duty to **fill gaps that do not exist**." Adopting the Court of Chancery's reasoning in this case,
+  the benefit "appears minimal, at best, and significantly
   outweighed by the costs to economic efficiency," and "an otherwise solvent corporation operating
   in the zone of insolvency is one **in most need of effective and proactive leadership**—as well
   as the ability to negotiate in good faith with its creditors."
@@ -120,7 +121,7 @@ beacons and brightly lined channel markers." Having held that the zone changes n
 never has to define it — which is why the opinion twice declines to.
 
 The doctrinal architecture is the **residual claimant** framework that [[In re Trados]] states
-directly and that [[Quadrant Structured Products v. Vertin]] applies the following day. Directors
+directly and that [[Quadrant Structured Products v. Vertin]], assigned the same day, applies. Directors
 maximise firm value for the residual claimants. In a solvent company that is the stockholders; on
 insolvency creditors "join the class of residual claimants" and get standing to enforce the same
 duties. The duties themselves never change, which is exactly what makes the rule administrable.
@@ -135,7 +136,7 @@ Gheewalla for declining to recognize" direct duties.
 
 Three practical limits follow from the holding and are worth carrying.
 
-**Section 102(b)(7) still applies.** A creditor suing derivatively "seek[s] to impose personal
+**Section 102(b)(7) still applies.** A creditor suing derivatively is "seeking to impose personal
 liability on directors," so an exculpatory charter reaches the claim — which means creditor
 derivative suits must be pleaded as **loyalty or bad faith**, exactly like stockholder suits.
 
@@ -162,7 +163,7 @@ contract was always the natural place to look.
 - Affirmed.
 - The posture is decisive and self-inflicted. NACEPF **waived** any derivative theory both below and
   on appeal, so the only question was whether a **direct** creditor claim exists. A derivative
-  complaint on the same facts would have survived Gheewalla's own holding.
+  complaint on the same facts would not have been barred by Gheewalla's own holding.
 
 ### Facts
 
@@ -279,7 +280,7 @@ challenged.
   standing** for creditors.
 - **Know the two tests for insolvency.** Balance sheet — assets below liabilities with no reasonable
   prospect of continuing; or cash flow — inability to meet maturing obligations as they fall due.
-  Quadrant applies the balance sheet test the next day.
+  Quadrant, assigned the same day, applies the balance sheet test.
 - **Have the list of existing creditor protections ready.** Contract, fraudulent conveyance, the
   implied covenant, bankruptcy, general commercial law. It is the court's central answer, and it is
   why the direct claim is called a gap-filler for a gap that does not exist.

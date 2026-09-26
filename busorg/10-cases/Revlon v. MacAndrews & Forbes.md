@@ -226,7 +226,7 @@ its own exchange offer, swapping for each share tendered a $47.50 Senior
 Subordinated Note at 11.75% due 1995 plus a tenth of a share of $9.00 cumulative
 convertible preferred valued at $100. Stockholders tendered 87% of the
 outstanding shares and Revlon took 10 million pro rata. The Notes carried the
-covenants that later become the centre of the case.
+covenants that later became the centre of the case.
 
 With the Rights and the Note covenants both in the way, Pantry Pride bid $42 on
 September 16 conditioned on 90%, indicating willingness to pay more for less if
@@ -336,7 +336,7 @@ enjoined the lock-up, no-shop and cancellation fee eight days later.
   duties attached. The answer is the moment the break-up became inevitable, which
   the court locates at the $50 and $53 bids and confirms by the September 24
   authorisation to negotiate with third parties. Do not answer "when the board
-  signed with Forstmann" — by then the duty had been in force for weeks.
+  signed with Forstmann" — by then the duty had already attached.
 - **Do not say Revlon requires an auction.** The court says the directors became
   auctioneers on these facts, where an auction already existed and the lock-up
   killed it. The obligation is to obtain the best value reasonably available, and

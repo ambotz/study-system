@@ -30,7 +30,8 @@ lack of good faith that is a necessary condition to liability.
   some of whom referred patients — lawful on their face, but "obviously raised a
   possibility of unlawful 'kickbacks.'"
 - **The law was genuinely unclear.** Few decisions construed the ARPL; HHS safe-harbour
-  regulations in 1991 were "narrowly drawn" and left many agreements outside them.
+  regulations in 1991 were, Caremark contended, "narrowly drawn" and left many
+  agreements outside them.
   Caremark publicly disclosed the uncertainty, and inside and outside counsel advised
   the contracts were lawful.
 - **The board did a great deal.** A "Guide to Contractual Relationships" reviewed
@@ -116,7 +117,7 @@ routes to director damages that exculpation cannot close.
 That is also why plaintiffs plead oversight so often and win so rarely. The casebook's
 demand-futility note makes the mechanics explicit: with no interested transaction, a
 plaintiff must show with particularity a **substantial likelihood of liability** to
-excuse demand, and the substantive standard is "possibly the most difficult theory in
+excuse demand, and the substantive standard is, in Allen's words, "possibly the most difficult theory in
 corporation law upon which a plaintiff might hope to win a judgment."
 
 Allen's two-context framing maps the whole course. The decision branch is
@@ -146,13 +147,13 @@ determines the standard, the exculpation analysis, and the pleading burden.
 Caremark was spun off from Baxter International in 1992 and listed on the NYSE; the
 practices that caused the problem predated the spin-off. It provided alternative-site
 health care — infusion therapy, growth hormone therapy, HIV/AIDS treatment, hemophilia
-therapy — with most revenue coming from third-party payers including Medicare and
+therapy — with a substantial part of revenue coming from third-party payers including Medicare and
 Medicaid.
 
 The legal risk was structural rather than hidden. Caremark paid physicians under
 consulting agreements and research grants; some of those physicians referred patients.
 The ARPL prohibited remuneration to induce referrals, but almost no case law construed
-it, and the 1991 HHS safe harbours were narrow enough that most of Caremark's
+it, and the 1991 HHS safe harbours were narrow enough that many of Caremark's
 arrangements sat outside them without clearly violating anything. Counsel said the
 contracts were lawful. The company told its shareholders in the 1992 annual report that
 no assurance could be given its interpretation would prevail.

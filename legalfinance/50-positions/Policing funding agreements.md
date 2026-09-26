@@ -49,8 +49,8 @@ This is the organising question of Class 4 and it recurs through Classes 5 and 8
   litigation, by a claimant who by hypothesis lacked bargaining power and money. A doctrine
   that voids the agreement outright needs no such contest.
 - **Maslowski itself shows the cost.** Pamela Maslowski took $6,000 and faced an obligation
-  rising **30% every six months** to a cap of **$25,245**. She won on champerty below and
-  lost that ground on appeal — and was sent back to litigate fairness against a funder, years
+  rising **30% every six months** to a cap of **$25,245**. She won on champerty in both
+  lower courts and lost that ground in the Minnesota Supreme Court — and was sent back to litigate fairness against a funder, years
   in.
 - **Usury reaches what fairness review misses.** It asks a structural question with a clean
   answer, and it caught something real in Fast Trak: diversification across ~18 matters made
@@ -58,8 +58,8 @@ This is the organising question of Class 4 and it recurs through Classes 5 and 8
   appeared to.
 - **Contract is not neutral between the parties.** If the agreement governs and there is no
   background duty, the protections must be negotiated — which assumes a claimant able to
-  negotiate. [[Sebok and Wendel - Duty in the Litigation-Investment Agreement]] concede their
-  frame suits **sophisticated** parties.
+  negotiate. [[Sebok and Wendel - Duty in the Litigation-Investment Agreement]] build their
+  frame on **sophisticated** parties and do not really address the consumer market.
 - **Control is where every court draws a line anyway.** Minnesota: it is "difficult to
   conceive of any stipulation more against public policy" than requiring a financier's
   permission to settle. If a residual public-policy limit is needed, the doctrines were doing

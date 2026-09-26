@@ -29,8 +29,8 @@ access: open
   and fiduciary obligations. A categorical ban adds nothing but cost.
 - Independent judgment can be protected by **contract, fiduciary duty, incentive design and
   share-class structure** rather than by prohibition.
-- The benefits "are far outweighed" the other way round — the concerns "are far outweighed by
-  the substantial benefits."
+- On balance, the concerns about nonlawyer investment "are far outweighed by the substantial
+  benefits."
 
 ## Argument
 

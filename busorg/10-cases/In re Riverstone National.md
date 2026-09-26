@@ -207,8 +207,8 @@ disappearance of a claim against them.
 - **Have the four pleading requirements.** Claim existed; would have survived dismissal;
   threatened and known to the board; material to the directors. Without those the argument
   proves too much.
-- **The timing is the memorable fact.** The § 220 action and the merger agreement were signed
-  the same day, and the majority stockholder had consented the day before.
+- **The timing is the memorable fact.** The § 220 action was filed and the merger agreement
+  signed on the same day, and the majority stockholder had consented the day before.
 - **Be precise on classification.** The usurpation claim is derivative and is gone. The unfair
   price claim is direct and survives. Saying the plaintiffs are "still bringing the derivative
   claim" is the most likely wrong answer.

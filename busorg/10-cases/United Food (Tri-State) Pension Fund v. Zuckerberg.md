@@ -41,9 +41,9 @@ substantial likelihood of liability.
 - **Two of the nine demand-board directors, Chenault and Zients, were not even on the board
   when the reclassification was approved in 2016.** *Board turnover is one of the reasons the
   court reworks the test.*
-- The complaint's independence allegations against **Bowles** were that Zuckerberg had waived
-  a policy to let him stay on the board and that he had ties to the deal's financial
-  advisors. *Rejected.* The complaint did not allege he "was expected to do anything in
+- The complaint's independence allegations against **Bowles** were that the board had waived
+  its mandatory retirement age to let him stand for reelection and that he had ties to the
+  deal's financial advisors. *Rejected.* The complaint did not allege he "was expected to do anything in
   exchange for the waiver, or that remaining a director was financially or personally
   material" to him.
 - Bowles had privately told Zuckerberg he was "proud to be a small part of [his] life."
@@ -78,8 +78,8 @@ substantial likelihood of liability.
   as Aronson's second prong provided.* That equivalence held in 1984 and does not hold now.
   Exculpation severed the link between losing business judgment deference and facing personal
   exposure.
-- *Bowles was beholden to Zuckerberg because Zuckerberg waived a policy to keep him on the
-  board.* No allegation that anything was expected in return, or that the seat was materially
+- *Bowles was beholden to Zuckerberg and the board because the board waived its mandatory
+  retirement age to keep him on the board.* No allegation that anything was expected in return, or that the seat was materially
   important to him.
 - *Bowles's expression of personal warmth toward Zuckerberg shows he could not be impartial.*
   A collegial relationship is not enough, and the existence of a "personal friendship" is
@@ -115,12 +115,13 @@ is the recurring exam task.
 
 ### Posture
 
-- Derivative action by Tri-State challenging Facebook's proposed stock reclassification,
-  dismissed by the Court of Chancery under Rule 23.1 for failure to make demand or plead
-  futility.
+- Derivative action by Tri-State seeking to recoup what Facebook spent defending and settling
+  the class action over its proposed stock reclassification, dismissed by the Court of
+  Chancery under Rule 23.1 for failure to make demand or plead futility.
 - **Posture matters in an unusual way**: the reclassification was abandoned before
-  implementation, so the underlying transaction never happened. What survived was the fight
-  over who may sue about it.
+  implementation, so the underlying transaction never happened. What survived was a claim for
+  the roughly $90 million Facebook spent on the class action ($21.8 million in defence costs
+  and a $68.7 million fee award), and the fight over who may sue about it.
 - Affirmed, with the Supreme Court taking the occasion to adopt the Chancery test.
 
 ### Facts

@@ -25,8 +25,8 @@ in any derivative complaint the stockholder later files.
 - Mayer withheld de Castro's **name, position and qualifications** from the
   Compensation Committee while seeking approval for a package the Committee's own
   consultant, George Paulin, called "generally more than the data supported for a
-  number two executive in peer companies." The Committee authorised negotiations
-  three separate times before learning who the candidate was.
+  number two executive in peer companies." The Committee authorised continued
+  negotiations twice before learning who the candidate was.
 - At the October 13 meeting Mayer **described the previously approved terms
   inaccurately**, telling the Committee that concessions de Castro was seeking were
   already in the agreement, and the Committee approved a change on that basis.

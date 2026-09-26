@@ -20,7 +20,7 @@ A court will not strike down a tax that is otherwise within the taxing power bec
 ## Facts
 
 - Congress laid an excise tax on oleomargarine, a butter substitute made from other fats and oils.
-- The oleomargarine tax was "almost certainly enacted to benefit butter producers." *The Court refused to treat that motive as a ground of invalidity.*
+- The oleomargarine tax was, in the casebook editors' words, "almost certainly enacted to benefit butter producers." *The Court refused to treat that motive as a ground of invalidity.*
 - The challengers did not deny that Congress could tax oleomargarine; they argued that a lawful power had been used for an unlawful purpose. *The Court held that argument asks the judiciary to review motive, which is not its function.*
 
 ## Court Ruling

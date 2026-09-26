@@ -122,7 +122,7 @@ produced a money judgment after trial.
 
 1. **Arguing the merits.** Any answer explaining why the board's decision was
    commercially wrong has already conceded the case. The court in
-   [[Shlensky v. Wrigley]] says twice that the correctness of the decision is
+   [[Shlensky v. Wrigley]] says expressly that the correctness of the decision is
    beyond its jurisdiction and ability. Argue what a court may examine, not what
    the board should have done.
 2. **Treating control as conflict.** Wrigley held 80% and won. Control becomes a

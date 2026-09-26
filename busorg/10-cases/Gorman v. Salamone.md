@@ -48,7 +48,8 @@ intrude on board authority.
   board's responsibility "entails the duty to establish or approve the long-term
   strategic, financial and organizational goals of the corporation; to approve
   formal or informal plans for the achievement of these goals; to monitor corporate
-  performance; and to act."
+  performance; and to act, when in the good faith, informed judgment of the board
+  it is appropriate to act."
 - Stockholders "may not directly manage the business and affairs of the
   corporation, at least without specific authorization in either the statute or the
   certificate of incorporation."
@@ -182,7 +183,7 @@ past the board and operate the company directly.
 
 - None.
 - The pressure point, in short: Delaware invalidates a governance arrangement that
-  a unanimous, fully informed set of stockholders actually wanted, on the basis of
+  the holder of a voting majority actually adopted, on the basis of
   a default rule in § 141(a) that the charter itself is allowed to displace. The
   answer is formal — put it in the charter — which makes the rule look like one
   about **instrument choice** rather than about substance. Moelis confronts the same

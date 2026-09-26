@@ -25,7 +25,7 @@ the board or committee with respect to the challenged transaction.
 
 ## Facts
 
-- **Musk held 22.1%** of Tesla's common stock — "relatively low," reflecting "a small
+- **Musk held 22.1%** of Tesla's common stock — "relatively low," reflecting a "small
   block." He was Chairman since 2004, CEO since 2008, Chief Product Architect, and led the
   pre-IPO funding rounds.
 - He held **21.9% of SolarCity**, chaired its board since 2006, and the acquisition
@@ -53,8 +53,8 @@ the board or committee with respect to the challenged transaction.
 - SolarCity was in a **liquidity crisis** revealed by due diligence. The deal valued it at
   about **$2.6 billion** ($25.37 per share) and **nearly doubled Tesla's debt**.
 - **The stockholder vote excluded Musk, Gracias and Straubel — but not Kimbal, Jurvetson,
-  Ehrenpreis, Buss, or other Tesla holders who owned SolarCity stock.** *This is why
-  cleansing failed.*
+  Ehrenpreis, Buss, or other Tesla holders who owned SolarCity stock.** *Pleaded, but the
+  court never reached it; the controller finding alone defeated cleansing.*
 
 ## Court Ruling
 
@@ -96,9 +96,10 @@ the board or committee with respect to the challenged transaction.
   alone, even if true, would not be enough." **"But there is more."** The holding rests on
   accumulation, not on any single fact.
 - *A fully informed, uncoerced vote of disinterested stockholders mandates business judgment
-  review.* Cleansing does not reach a conflicted-controller transaction, and in any event the
-  exclusion list omitted four directors and every other Tesla holder who owned SolarCity
-  stock.
+  review.* Cleansing does not reach a conflicted-controller transaction, so the court
+  "begin[s] and end[s]" its analysis with controller status. The exclusion list, which
+  omitted four directors and every other Tesla holder who owned SolarCity stock, is never
+  reached.
 
 ## Context
 
@@ -114,8 +115,8 @@ exercise managerial authority over the business and affairs." That floor replace
 open-ended, factor-driven inquiry this opinion applies, and it is worth asking directly
 whether Musk at 22.1% would qualify under the statute at all.
 
-The cleansing point runs forward too. The vote here failed partly because the exclusion list
-was drawn too narrowly, and post-SB 21 § 144(e)(5) now defines a **disinterested stockholder**
+The cleansing point runs forward too. The complaint also attacked the vote because the
+exclusion list was drawn too narrowly (a point the court did not reach), and post-SB 21 § 144(e)(5) now defines a **disinterested stockholder**
 as one without a material interest in the transaction or a material relationship with the
 controller — a statutory answer to exactly the question of who should have been excluded.
 
@@ -154,7 +155,8 @@ the acquisition as a bailout benefiting six of seven Tesla directors or their fa
 businesses or partners. Tesla's debt nearly doubled at closing.
 
 The board was not required to put the deal to a stockholder vote but did. The merger
-agreement excluded Musk, Gracias and Straubel from the tally — and no one else.
+agreement excluded Tesla holders who were SolarCity directors or officers, including Musk,
+Gracias and Straubel, from the tally — but not other Tesla holders of SolarCity stock.
 
 ### Issue
 
@@ -170,8 +172,8 @@ agreement excluded Musk, Gracias and Straubel from the tally — and no one else
   own filings, a demonstrated willingness to remove a founder-CEO, an interested board
   majority, and Musk's own statements — supports the inference.
 - **On cleansing: unavailable.** The conflicted-controller framing takes the transaction
-  outside business judgment review regardless of the vote, and the exclusion list was in any
-  event incomplete.
+  outside business judgment review regardless of the vote; the court did not separately
+  reach the pleaded defects in the exclusion list.
 - **Disposition:** motion to dismiss denied; entire fairness review applies.
 
 ### Rule
@@ -205,9 +207,9 @@ agreement excluded Musk, Gracias and Straubel from the tally — and no one else
 - The personal-tie evidence is treated as bearing on the board's capacity to resist rather
   than on venality. Gifts of the second Roadster, the first Model S and the second Model X
   are facts about relationships.
-- On the vote, the reasoning is structural: cleansing doctrines presuppose that the
-  decision-makers and voters were free of the conflict, and here neither the board nor the
-  excluded-share list satisfied that premise.
+- On the vote, the reasoning is structural: once a conflicted controller is reasonably
+  conceivable, entire fairness applies to the claims against all defendants, and the court
+  "begin[s] and end[s]" its analysis there without weighing the vote.
 
 ### Dissent / concurrence
 
@@ -232,7 +234,8 @@ agreement excluded Musk, Gracias and Straubel from the tally — and no one else
 - **Keep the two routes distinct.** General control of the corporation, or transaction-specific
   control of the board or committee. The court finds the latter, which is the narrower and
   more commonly available theory.
-- **Be ready on the vote.** The exclusion list is the memorable failure: Musk, Gracias and
+- **Be ready on the vote.** The exclusion list is the memorable pleaded failure, though the court
+  never reached it: Musk, Gracias and
   Straubel out; Kimbal, Buss, Jurvetson, Ehrenpreis and every other SolarCity-owning Tesla
   holder in. Post-SB 21 § 144(e)(5) now defines who should have been excluded.
 - **Anticipate the SB 21 question**, because it is coming in session 10: under § 144(e)(2) a

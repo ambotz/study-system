@@ -117,7 +117,7 @@ the bill's current odds.
   a **champerty statute** — the objection is to sharing in the fruits of someone else's
   lawsuit. That is exactly what the medieval doctrine was about, per
   [[Neuberger - From Barretry Maintenance and Champerty to Litigation Funding]], and exactly
-  what [[Maslowski v. Prospect Funding Partners]] abolished. Six hundred years later, through
-  the Internal Revenue Code.
+  what [[Maslowski v. Prospect Funding Partners]] abolished. Seven and a half centuries after
+  the Statute of Westminster, through the Internal Revenue Code.
 
 ## In seminar

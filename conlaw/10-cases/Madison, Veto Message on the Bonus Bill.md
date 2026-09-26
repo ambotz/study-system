@@ -38,11 +38,11 @@ President Madison's veto message of March 3, 1817 — the last day of his presid
 ## Where it goes
 
 - [[Spending power - Art. I § 8 cl. 1 general welfare and conditional grants]] — the narrow pole of the founding-era debate, and the source of the argument that "general Welfare" is not justiciable.
-- [[Hamilton, Report on Manufactures]] — the opposing reading, written twenty-six years earlier and vindicated in [[United States v. Butler]].
+- [[Hamilton, Report on Manufactures]] — the opposing reading, written twenty-five years earlier and vindicated in [[United States v. Butler]].
 - [[The Savannah Fire Debate]] — the two views applied to a concrete appropriation, by a Congress in which both men's allies sat.
 - [[South Dakota v. Dole]] — where Madison's justiciability worry became doctrine: deference on general welfare, and all the real work done by germaneness and coercion.
 - [[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]] — the redundancy canon and the claim that the enumeration is what preserves state authority.
-- [[The Bank Debate]] — the same Madison, the same interpretive method, one year earlier in his career.
+- [[The Bank Debate]] — the same Madison, the same interpretive method, twenty-six years earlier in his career.
 - [[McCulloch v. Maryland]] — the answer to Madison on implied means, and the standard the germaneness question in [[South Dakota v. Dole|Dole]] is measured against.
 - [[Jackson, Veto Message on the Bank]] — the other great executive veto grounded on a reading of Congress's enumerated powers; compare who Madison and Jackson each thought was the final judge.
 - [[A Map of Article I]] — where clause 1 sits relative to the rest of § 8.
