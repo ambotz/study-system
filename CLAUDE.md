@@ -27,7 +27,7 @@ touches has done nothing useful.
 <class>/
   00-source/      syllabus, readings, slides — read-only inputs, never edited
   10-cases/       one file per assigned READING — cases and documents alike
-  20-sessions/    one file per class meeting, raw capture, date-named
+  20-sessions/    one file per class meeting, raw capture, class-numbered
   30-doctrine/    rule modules — the master DB
   40-professor/   instructor profile, past exams, hypo bank
   50-outline/     master -> attack -> one-pager/scaffold (generated)
@@ -256,7 +256,7 @@ frontmatter and the day's readings as wikilinks and **never overwrites** an
 existing file.
 
 ```yaml
-class:        # busorg | conlaw
+class:        # busorg | conlaw  (Legal Finance: see legalfinance/CLAUDE.md § 2)
 session:      # integer, the syllabus class number
 title:
 date:         # YYYY-MM-DD, or blank where the index has no date
