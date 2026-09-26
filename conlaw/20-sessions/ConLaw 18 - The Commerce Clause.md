@@ -1,17 +1,19 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 18
+title: "The Commerce Clause"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 18 — The Commerce Clause
 
 ## Readings
 
-- 
+- [[Hammer v. Dagenhart]]
+- [[United States v. Darby]]
+- [[Wickard v. Filburn]]
 
 ## Notes
 

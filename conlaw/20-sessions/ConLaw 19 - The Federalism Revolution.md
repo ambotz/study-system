@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 19
+title: "The Federalism Revolution?"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 19 — The Federalism Revolution?
 
 ## Readings
 
-- 
+- [[United States v. Lopez]]
+- [[Gonzales v. Raich]]
 
 ## Notes
 

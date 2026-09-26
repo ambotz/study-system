@@ -1,17 +1,20 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 24
+title: "Secession"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 24 — Secession
 
 ## Readings
 
-- 
+- [[Buchanan, Address to Congress]]
+- [[Lincoln, First Inaugural Address]]
+- [[Texas v. White]]
+- [[Jefferson Davis, Farewell Address to the Senate]]
 
 ## Notes
 

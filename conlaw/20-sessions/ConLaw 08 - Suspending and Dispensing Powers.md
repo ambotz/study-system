@@ -1,17 +1,19 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 8
+title: "Suspending and Dispensing Powers?"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 8 — Suspending and Dispensing Powers?
 
 ## Readings
 
-- 
+- [[United States v. Cox]]
+- [[Adams v. Richardson]]
+- [[The Thompson Memo]]
 
 ## Notes
 

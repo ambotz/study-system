@@ -1,17 +1,20 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 3
+title: "Specificity and Delegation"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 3 — Specificity and Delegation
 
 ## Readings
 
-- 
+- [[A Map of Article I]]
+- [[The Post Roads Debate]]
+- [[The Non-Delegation Doctrine's Good Year]]
+- [[Gundy v. United States]]
 
 ## Notes
 

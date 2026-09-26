@@ -1,17 +1,17 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 1
+title: "What is a Firm?"
+date: 2026-09-28
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 1 — What is a Firm?
 
 ## Readings
 
-- 
+- *no assigned reading*
 
 ## Notes
 

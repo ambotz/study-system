@@ -1,17 +1,20 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 21
+title: "Taxing"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 21 — Taxing
 
 ## Readings
 
-- 
+- [[Express Limits on the Power to Tax]]
+- [[Hylton v. United States]]
+- [[Implied Limits on the Power to Tax]]
+- [[Bailey v. Drexel Furniture Co]]
 
 ## Notes
 

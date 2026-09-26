@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 17
+title: "Takeovers"
+date: 2026-11-04
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 17 — Takeovers
 
 ## Readings
 
-- 
+- [[Cheff v. Mathes]]
+- [[Unocal v. Mesa Petroleum]]
 
 ## Notes
 

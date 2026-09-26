@@ -1,17 +1,19 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 2
+title: "Introduction"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 2 — Introduction
 
 ## Readings
 
-- 
+- [[Types of Constitutional Argument]]
+- [[An Introduction to the Separation of Powers]]
+- [[Youngstown Sheet & Tube Co. v. Sawyer]]
 
 ## Notes
 

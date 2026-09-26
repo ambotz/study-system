@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 9
+title: "Controlling Stockholders"
+date: 2026-10-15
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 9 — Controlling Stockholders
 
 ## Readings
 
-- 
+- [[Sinclair Oil v. Levien]]
+- [[In re Tesla Motors (Tesla 1)]]
 
 ## Notes
 

@@ -1,17 +1,20 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 13
+title: "Judicial Supremacy"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 13 — Judicial Supremacy
 
 ## Readings
 
-- 
+- [[The Lincoln-Douglas Debates]]
+- [[Cooper v. Aaron]]
+- [[Ex parte Merryman]]
+- [[Bates, Opinion on the Suspension of Habeas Corpus]]
 
 ## Notes
 

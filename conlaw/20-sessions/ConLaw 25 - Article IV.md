@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 25
+title: "Article IV"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 25 — Article IV
 
 ## Readings
 
-- 
+- [[Corfield v. Coryell]]
+- [[National Pork Producers Council v. Ross]]
 
 ## Notes
 

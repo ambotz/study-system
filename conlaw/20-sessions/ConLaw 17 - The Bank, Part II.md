@@ -1,17 +1,20 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 17
+title: "The Bank, Part II"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 17 — The Bank, Part II
 
 ## Readings
 
-- 
+- [[McCulloch v. Maryland]]
+- [[Madison, Letter to Lafayette]]
+- [[Jackson, Veto Message on the Bank]]
+- [[The Death of the Second Bank]]
 
 ## Notes
 

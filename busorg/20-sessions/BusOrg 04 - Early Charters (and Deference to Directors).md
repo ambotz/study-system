@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 4
+title: "Early Charters (and Deference to Directors)"
+date: 2026-10-05
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 4 — Early Charters (and Deference to Directors)
 
 ## Readings
 
-- 
+- [[An Act to Incorporate the National Insurance Company]]
+- [[Scott v. Depeyster]]
 
 ## Notes
 

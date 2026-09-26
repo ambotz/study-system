@@ -1,17 +1,17 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 27
+title: "Overflow"
+date: 2026-12-03
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 27 — Overflow
 
 ## Readings
 
-- 
+- *no assigned reading*
 
 ## Notes
 

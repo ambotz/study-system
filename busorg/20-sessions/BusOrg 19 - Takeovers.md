@@ -1,17 +1,19 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 19
+title: "Takeovers"
+date: 2026-11-09
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 19 — Takeovers
 
 ## Readings
 
-- 
+- [[Paramount v. Time]]
+- [[Paramount v. QVC]]
+- [[Air Products v. Airgas]]
 
 ## Notes
 

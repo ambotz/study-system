@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 16
+title: "Aiding and Abetting"
+date: 2026-11-02
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 16 — Aiding and Abetting
 
 ## Readings
 
-- 
+- [[RBC Capital Markets v. Jervis]]
+- [[In re Mindbody, Inc., Stockholder Litigation]]
 
 ## Notes
 

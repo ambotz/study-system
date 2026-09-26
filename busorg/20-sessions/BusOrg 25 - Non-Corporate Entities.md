@@ -1,17 +1,19 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 25
+title: "Non-Corporate Entities"
+date: 2026-11-30
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 25 — Non-Corporate Entities
 
 ## Readings
 
-- 
+- [[Elf Atochem North America v. Jaffari]]
+- [[Note on LLC default fiduciary duties]]
+- [[Miller v. HCP & Co]]
 
 ## Notes
 

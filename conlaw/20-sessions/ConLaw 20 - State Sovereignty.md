@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 20
+title: "State Sovereignty"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 20 — State Sovereignty
 
 ## Readings
 
-- 
+- [[Garcia v. San Antonio Metropolitan Transit Authority]]
+- [[Printz v. United States]]
 
 ## Notes
 

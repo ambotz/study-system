@@ -1,17 +1,17 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 12
+title: "The Dred Scott Case"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 12 — The Dred Scott Case
 
 ## Readings
 
-- 
+- [[Dred Scott v. Sandford]]
 
 ## Notes
 

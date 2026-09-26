@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 27
+title: "Article VI"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 27 — Article VI
 
 ## Readings
 
-- 
+- [[In re Neagle]]
+- [[Article VI - other materials]]
 
 ## Notes
 

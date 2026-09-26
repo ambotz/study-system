@@ -1,17 +1,20 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 22
+title: "Spending"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 22 — Spending
 
 ## Readings
 
-- 
+- [[Madison, Veto Message on the Bonus Bill]]
+- [[Hamilton, Report on Manufactures]]
+- [[The Savannah Fire Debate]]
+- [[South Dakota v. Dole]]
 
 ## Notes
 

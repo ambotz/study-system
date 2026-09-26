@@ -1,17 +1,19 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 8
+title: "Good Faith and Oversight"
+date: 2026-10-14
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 8 — Good Faith and Oversight
 
 ## Readings
 
-- 
+- [[In re Caremark International Inc. Derivative Litigation]]
+- [[Marchand v. Barnhill]]
+- [[Segway Inc. v. Cai]]
 
 ## Notes
 

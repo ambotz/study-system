@@ -1,17 +1,21 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 11
+title: "Judicial Review"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 11 — Judicial Review
 
 ## Readings
 
-- 
+- [[A Map of Article III]]
+- [[Brutus No. 11]]
+- [[The Federalist No. 78]]
+- [[Marbury v. Madison]]
+- [[Stuart v. Laird]]
 
 ## Notes
 

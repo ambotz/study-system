@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 7
+title: "Removal & Control"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 7 — Removal & Control
 
 ## Readings
 
-- 
+- [[Trump v. Slaughter]]
+- [[Trump v. Cook]]
 
 ## Notes
 

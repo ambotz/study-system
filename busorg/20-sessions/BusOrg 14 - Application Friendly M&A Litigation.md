@@ -1,17 +1,19 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 14
+title: "Application: Friendly M&A Litigation"
+date: 2026-10-28
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 14 — Application: Friendly M&A Litigation
 
 ## Readings
 
-- 
+- [[Revlon v. MacAndrews & Forbes]]
+- [[Omnicare v. NCS Healthcare]]
+- [[In re Trulia]]
 
 ## Notes
 

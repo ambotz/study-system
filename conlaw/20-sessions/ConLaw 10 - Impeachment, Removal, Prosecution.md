@@ -1,17 +1,19 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 10
+title: "Impeachment, Removal, Prosecution"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 10 — Impeachment, Removal, Prosecution
 
 ## Readings
 
-- 
+- [[The Impeachment of Andrew Johnson]]
+- [[United States v. Nixon]]
+- [[Trump v. United States]]
 
 ## Notes
 

@@ -1,17 +1,17 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 1
+title: "An Introduction to the Constitutional Text"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 1 — An Introduction to the Constitutional Text
 
 ## Readings
 
-- 
+- [[The Constitution of the United States]]
 
 ## Notes
 

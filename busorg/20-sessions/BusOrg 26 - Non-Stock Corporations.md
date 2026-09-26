@@ -1,17 +1,17 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 26
+title: "Non-Stock Corporations"
+date: 2026-12-02
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 26 — Non-Stock Corporations
 
 ## Readings
 
-- 
+- [[University of Chicago Articles and Bylaws]]
 
 ## Notes
 

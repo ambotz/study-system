@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 4
+title: "Bicameralism and Presentment"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 4 — Bicameralism and Presentment
 
 ## Readings
 
-- 
+- [[INS v. Chadha]]
+- [[Clinton v. City of New York]]
 
 ## Notes
 

@@ -1,17 +1,17 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 12
+title: "Derivative Procedure"
+date: 2026-10-22
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 12 — Derivative Procedure
 
 ## Readings
 
-- 
+- [[In re Oracle Corp. Derivative Litigation]]
 
 ## Notes
 

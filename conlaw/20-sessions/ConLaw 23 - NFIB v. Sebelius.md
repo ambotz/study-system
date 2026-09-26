@@ -1,17 +1,17 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 23
+title: "NFIB v. Sebelius"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 23 — NFIB v. Sebelius
 
 ## Readings
 
-- 
+- [[NFIB v. Sebelius]]
 
 ## Notes
 

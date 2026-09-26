@@ -1,17 +1,18 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: busorg
+session: 3
+title: "Incidents of Partnership and Incorporation"
+date: 2026-10-01
+professor: Buccola
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# BusOrg 3 — Incidents of Partnership and Incorporation
 
 ## Readings
 
-- 
+- [[Meinhard v. Salmon]]
+- [[Walkovzky v. Carlton]]
 
 ## Notes
 

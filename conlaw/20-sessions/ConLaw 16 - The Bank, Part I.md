@@ -1,17 +1,20 @@
 ---
-class:
-session:
-title:
-date:
-professor:
+class: conlaw
+session: 16
+title: "The Bank, Part I"
+date: 
+professor: Baude
 reconciled: false
 ---
 
-# <Class> <N> — <Title>
+# ConLaw 16 — The Bank, Part I
 
 ## Readings
 
-- 
+- [[Campbell, Four Views on the Nature of the Union]]
+- [[A Map of the Federalism Provisions]]
+- [[The Federalist No. 10]]
+- [[The Bank Debate]]
 
 ## Notes
 
