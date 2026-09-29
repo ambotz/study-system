@@ -150,8 +150,11 @@ Repeated from `CLAUDE.md` because violating these is the most common failure.
   words, each one sentence of fact plus at most one short italic line on why it is pivotal.
   Class layer: one paragraph, roughly 100–150 words. A memorable figure or date that decides
   nothing belongs in Cold-call notes, not Facts.
-- **Do not hard-wrap prose in output files.** Each paragraph and each bullet is a single line;
-  only new bullets and nested bullets start new lines. Hard wraps render as mid-sentence breaks.
+- **Wrapping is per course.** Con Law reading files are not hard-wrapped: each paragraph and
+  each bullet is a single line, and only new or nested bullets start new lines. BusOrg case
+  briefs are hard-wrapped at 110 columns, with continuation lines indented to the bullet's
+  text, because those files are printed and annotated in the right margin. Match the course
+  you are writing for; `.claude/scripts/rewrap.py` converts either way and is lossless.
 - **Never let a wikilink wrap across a line break.** Obsidian will not resolve a
   link containing a newline, and the failure is silent.
 
