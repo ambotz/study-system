@@ -18,6 +18,12 @@ Each packet is:
 
 Also writes "00 - Contents.pdf": every packet, its date, pages and sheets.
 
+A class whose whole assignment was scanned as one PDF can declare it in
+print-map.json under "packet_source": {"<session>": {"file": ..., "runs":
+[[first,last,offset], ...]}}. The packet body is then those page runs in order,
+and the cover lists the readings without per-reading packet pages, since the
+scan is already the assignment in syllabus order.
+
 Printed page -> PDF page uses the source's fixed "offset" in case-index.json
 (the same one extract_case.py relies on). EPUB sources are refused: an EPUB has
 no pages to cut, and Con Law's packets were built from the EPUB separately.
@@ -301,7 +307,30 @@ def main():
         seen_pages = {}       # (path, page) -> reading that printed it in this packet
         cursor = 2 + (1 if a.duplex else 0)   # packet page where the next reading starts
 
-        for r in s["readings"]:
+        whole = (pmap.get("packet_source") or {}).get(str(n))
+        if whole:
+            path = os.path.join(srcdir, whole["file"])
+            if not os.path.exists(path):
+                problems.append(f"Class {n}: missing scan {whole['file']}")
+                continue
+            runs = whole.get("runs") or [[1, page_count(path), 0]]
+            label = whole.get("label", "5th ed. scan")
+            span = "; ".join(dash(f + o, l + o) for f, l, o in runs)
+            for r in s["readings"]:
+                if r.get("source"):
+                    rows.append({"name": r["case"], "src": f"{label} {span}", "pp": "in this packet"})
+                else:
+                    rows.append({"name": r["case"], "src": "NOT PRINTED", "pp": "—"})
+                    notes.append(f"{r['case']}: not in the scan (Canvas material).")
+            for f, l, o in runs:
+                pieces.append((path, f, l))
+                for pg in range(f, l + 1):
+                    labels.append(f"{label} · p. {pg + o}")
+                cursor += l - f + 1
+            notes.append(f"This packet is the 5th-edition scan of the whole assignment ({span}), "
+                         f"so the readings run in syllabus order without separate page cuts.")
+
+        for r in (s["readings"] if not whole else []):
             name = r["case"]
             parts, why = resolve(ix, pmap, srcdir, r)
             srcdesc = "; ".join(p["label"] for p in parts) if parts else "—"
