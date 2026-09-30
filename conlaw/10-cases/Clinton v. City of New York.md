@@ -15,7 +15,7 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — The casebook never identifies the two cancelled items; the class-layer description of them comes from the full opinion.
+> [!note] Source — Checked against the 5th-edition scan (pp. 119–128): the extract is materially identical to the 4th ed., and neither edition describes what the two cancelled provisions did. Both name the parties and classify the items — the New York case an "item of new direct spending," the Snake River case a "limited tax benefit" — and stop there, so the class-layer description of the provisions comes from the full opinion and is not in the casebook. The President made three cancellations (one in the Balanced Budget Act, two in the Taxpayer Relief Act) but only two were challenged; the second Taxpayer Relief Act item stayed cancelled and was never before the Court.
 
 ## Rule
 

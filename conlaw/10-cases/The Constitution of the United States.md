@@ -21,10 +21,12 @@ The exam is closed-book and there are no devices in class, so the text has to be
 
 - **Preamble.** "We the People of the United States . . . do ordain and establish this Constitution." The source of authority, and Gorsuch's starting point in [[Gundy v. United States|Gundy]] (Class 3).
 - **Art. I, § 1: legislative vesting.** "All legislative Powers **herein granted** shall be vested in a Congress." Enumeration and nondelegation (Class 3).
+	- Herein granted = limited powers enumerated below...
 - **Art. I, § 7: bicameralism and presentment.** Revenue bills originate in the House; every bill passes both houses and is presented to the President; veto and two-thirds override (Class 4).
 - **Art. I, § 8: enumerated powers.** Among them: tax and spend "to pay the Debts and provide for the common Defence and general Welfare" (Classes 21–23); regulate commerce "among the several States" (Classes 18–20); "establish Post Offices and post Roads" (Class 3); "declare War," "raise and support Armies," "provide and maintain a Navy" (Class 9); and the Necessary and Proper Clause (Classes 16–17).
 - **Art. I, § 9: limits on Congress.** The Suspension Clause (Class 13); the Bill of Attainder Clause (Class 5); and the Appropriations Clause: "No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law" (Class 5).
 - **Art. II, § 1: executive vesting.** "The executive Power shall be vested in a President." No "herein granted." Youngstown (Class 2) and removal (Classes 6–7).
+	- No "herein granted" = general powers
 - **Art. II, § 2: the specific powers.** Commander in Chief (Classes 2 and 9); pardons; treaties with two-thirds of the Senate; the Appointments Clause, with principal officers by advice and consent and "inferior Officers" by law in the President alone, the courts of law, or the heads of departments (Class 6); and the Recess Appointments Clause.
 - **Art. II, § 3: Take Care.** "[H]e shall take Care that the Laws be faithfully executed." Suspending and dispensing (Class 8).
 - **Art. II, § 4: impeachment.** "Treason, Bribery, or other high Crimes and Misdemeanors" (Classes 10 and 15).

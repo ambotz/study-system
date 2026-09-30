@@ -14,7 +14,7 @@ read_for: null
 posture_drove_outcome: true
 ---
 
-> [!caution] Source check — The casebook excerpts the 2015 standing opinion (130 F. Supp. 3d 53), not the 2016 merits opinion; the merits ruling appears only in the casebook's notes.
+> [!note] Source — Confirmed against the 5th-edition scan, which prints the same case head, "130 F.Supp.3d 53 (D.D.C. 2015)." Both editions excerpt the 2015 standing opinion, not the 2016 merits opinion; the merits ruling appears only in the casebook's notes.
 
 ## Rule
 
