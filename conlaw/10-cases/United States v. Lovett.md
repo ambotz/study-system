@@ -28,7 +28,7 @@ Congress cut off the salaries of three named federal employees it had decided we
 
 Congress cannot do through the purse what the Bill of Attainder Clause forbids it to do directly. A statute that cuts off the pay of named individuals, if its purpose and effect are to bar them permanently from government service for their supposed disloyalty, is "punishment without a judicial trial," and calling it an appropriation neither saves it nor puts it beyond judicial review.
 
-- "A bill of attainder is a legislative act which inflicts punishment without a judicial trial" ([[Cummings v. Missouri|Cummings]]).
+- "A bill of attainder is a legislative act which inflicts punishment without a judicial trial" (*Cummings*).
 - The prohibition reaches acts "no matter what their form" that apply to "named individuals or to easily ascertainable members of a group" and "inflict punishment on them without a judicial trial."
 - Permanent exclusion from a vocation, including government service, is punishment.
 - Congress's control of appropriations does not make a pay cutoff unreviewable when its purpose is to punish.
@@ -57,7 +57,7 @@ Congress cannot do through the purse what the Bill of Attainder Clause forbids i
 
 - Reads § 304 against "the circumstances leading to its passage" — the Dies speech, the inquest, the findings of guilt. A narrower reading "would completely frustrate the purpose of all who sponsored Section 304."
 - Form is irrelevant: punishment "through the instrumentality of an Act specifically cutting off the pay" is "no less galling or effective than if it had been done by an Act which designated the conduct as criminal."
-- [[Cummings v. Missouri|Cummings]] and [[Ex parte Garland|Garland]] struck loyalty oaths excluding people from professions and have never been overruled. § 304 "operates as a legislative decree of perpetual exclusion" from a vocation — a sanction otherwise reserved for crimes like treason.
+- *Cummings* and *Garland* struck loyalty oaths excluding people from professions and have never been overruled. § 304 "operates as a legislative decree of perpetual exclusion" from a vocation — a sanction otherwise reserved for crimes like treason.
 
 **Frankfurter, concurring in the judgment (joined by Reed)**
 

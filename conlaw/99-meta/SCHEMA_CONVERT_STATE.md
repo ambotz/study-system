@@ -18,14 +18,41 @@ Everything here is set up. **Do not rebuild any of it.**
 - `_inbox/schema-v2/out/A..H/ASSIGN.md` — the 36 cases split 8 ways (A–D are 5 cases, E–H are 4).
 - `_inbox/schema-v2/converted/` — converted files awaiting validation and commit.
 
-## Converted so far
+## Converted so far — 16 of 36
 
-| Case | Status |
+Lovett, Humphrey's Executor, Stuart v. Laird, Ex parte Levitt, Adams v. Richardson,
+Buckley v. Valeo, Texas v. White, Ex parte Merryman, Wickard v. Filburn,
+Massachusetts v. Mellon, United States v. Darby, Cooper v. Aaron, Corfield v. Coryell,
+Ex parte McCardle, Bailey v. Drexel Furniture Co, Dillon v. Gloss.
+
+All committed and validated. **20 remain**, listed by weight of their casebook extract
+(the extract is what makes a case expensive to convert):
+
+| Case | Extract |
 |---|---|
-| United States v. Lovett | done, is the worked example |
-| Humphrey's Executor v. United States | **converted but 2,620 words — needs trimming to band before commit.** Schema, links and gloss all check out. |
+| NFIB v. Sebelius | 123 KB |
+| Dred Scott v. Sandford | 121 KB |
+| McCulloch v. Maryland | 81 KB |
+| Marbury v. Madison | 65 KB |
+| United States v. Lopez | 64 KB |
+| Printz v. United States | 59 KB |
+| Garcia v. San Antonio Metropolitan Transit Authority | 56 KB |
+| Gonzales v. Raich | 52 KB |
+| South Dakota v. Dole | 46 KB |
+| The Prize Cases | 46 KB |
+| Hammer v. Dagenhart | 42 KB |
+| United States v. Cox | 42 KB |
+| U.S. House of Representatives v. Burwell | 38 KB |
+| Hylton v. United States | 34 KB |
+| Trump v. Slaughter | none |
+| Trump v. Cook | none |
+| United States v. Nixon | none |
+| Trump v. United States | none |
+| National Pork Producers Council v. Ross | none |
+| In re Neagle | none |
 
-34 remain.
+Give the four largest an agent each. The six with no extract are the cheapest —
+pure restructuring, and they take the no-notes flag line.
 
 ## Nine cases have no casebook extract
 
