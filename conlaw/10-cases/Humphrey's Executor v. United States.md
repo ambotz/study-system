@@ -15,106 +15,79 @@ posture_drove_outcome: false
 
 > [!caution] Source check — Now overruled by Trump v. Slaughter (June 29, 2026), which is after the casebook; see that brief.
 
+## Snapshot
+
+Roosevelt removed a Federal Trade Commissioner over policy disagreement, citing no statutory cause. The commissioner refused to go, died in office, and his executor sued in the Court of Claims for the unpaid salary. The Court held that the FTC Act limits removal to three enumerated causes and that the limit is constitutional, because the illimitable removal power recognized in *Myers v. United States* reaches only purely executive officers. Article II's Vesting and Take Care Clauses are in play against Congress's power to structure agencies.
+
+## Issue
+
+- Does the Federal Trade Commission Act limit the President's power to remove a commissioner to the three causes it enumerates — inefficiency, neglect of duty, malfeasance in office?
+- If it does, is that limit a constitutional restriction on the President's power of removal, or does Article II's executive power override it?
+
 ## Rule
 
-[[Myers v. United States|Myers]]'s illimitable removal power "is confined to purely executive officers," so Congress may protect members of a "quasi legislative" and "quasi judicial" body like the FTC against removal except for cause. No longer good law: [[Seila Law LLC v. Consumer Financial Protection Bureau|Seila Law]] (2020) confined it, and [[Trump v. Slaughter]] (2026) overruled what remained.
+Whether a congressional limit on removal is valid "will depend upon the character of the office." *Myers*'s unrestrictable removal power is confined to purely executive officers — those charged with no duty related to the legislative or judicial power. Where Congress creates a quasi-legislative or quasi-judicial body and requires it to act independently of executive control, it may fix the members' terms and forbid removal except for cause. No longer good law: *Seila Law* (2020) confined it to the FTC of 1935; [[Trump v. Slaughter]] (2026) overruled the rest.
 
-## Facts
+- Removal of "purely executive officers" is subject to "the exclusive and illimitable power of removal by the Chief Executive."
+- The FTC "cannot in any proper sense be characterized as an arm or an eye of the executive"; its duties "must be free from executive control."
+- Congress's power to require that independence "includes, as an appropriate incident, power to fix the period during which they shall continue, and to forbid their removal except for cause."
 
-- **Roosevelt removed Humphrey for disagreeing with his policies, citing no statutory cause.** *So the case squarely presents at-will removal; a charge of neglect of duty would have raised the meaning of "cause," the question in [[Trump v. Cook]].*
-- **The FTC Act allowed removal "for: (1) inefficiency, (2) neglect of duty, or (3) malfeasance in office."** *Reading the list as exclusive forces the constitutional question; read as illustrative, the Government wins without one.*
-- **The Court characterized the FTC as filling in the "unfair methods of competition" standard, reporting to Congress, and acting as a master in chancery.** *The holding turns on this; [[Seila Law LLC v. Consumer Financial Protection Bureau|Seila Law]] confined it to the FTC of 1935, and [[Trump v. Slaughter]] rejected it for today's FTC.*
-- **Myers involved a first-class postmaster.** *The distinguishing fact: a postmaster is "restricted to the performance of executive functions."*
-- **Myers's statute required Senate consent to removal; the FTC Act required only cause.** *Sutherland does not rest on this, but [[Morrison v. Olson|Morrison]] later treats it as significant; the [[The Decision of 1789|Decision of 1789]] had rejected a Senate role in removal.*
+## Operative facts
 
-## Court Ruling
+- **Section 1 of the FTC Act provided that "any commissioner may be removed by the President for: (1) inefficiency, (2) neglect of duty, or (3) malfeasance in office."** *Read as exclusive, the list forces the constitutional question; read as illustrative, the Government wins without one.*
+- **The Act gave the Commission three kinds of work: administering the "unfair methods of competition" standard, investigating and reporting for Congress under § 6, and acting as a master in chancery under § 7.** *The holding turns entirely on this characterization, not on anything Humphrey did.*
+- **In 1926 Myers held that the President could remove a first-class postmaster without the Senate's consent.** *The office is the distinguishing fact; the postmaster's statute also gave the Senate a role in removal, unlike the FTC Act.*
+- **December 10, 1931: Hoover renominated Humphrey, and the Senate confirmed him for a seven-year term expiring September 25, 1938.** *A fixed term is half the protection the Court upholds; without one the for-cause clause has nothing to run against.*
+- **July 25, 1933: Roosevelt asked for his resignation because the Administration's purposes "can be carried out most effectively with personnel of my own selection," disclaiming any reflection on Humphrey or his services.** *The disclaimer put on the record that no enumerated cause existed.*
+- **August 31, 1933: Roosevelt wrote again — "I do not feel that your mind and my mind go along together on either the policies or the administering of the Federal Trade Commission."** *Policy disagreement is the asserted ground, so the case presents at-will removal; a charge of neglect of duty would instead raise what "cause" means, the question in [[Trump v. Cook]].*
+- **October 7, 1933: "Effective as of this date you are hereby removed from the office of Commissioner of the Federal Trade Commission."** *No cause stated and none claimed in litigation — "the existence of none of which is claimed here" closes the statutory question.*
+- **Humphrey never acquiesced, insisted he was still a member entitled to compensation at $10,000 a year, and died February 14, 1934.** *Non-acquiescence preserves the salary claim; the suit is for money, not reinstatement, which a dead man cannot get.*
+- **The executor sued in the Court of Claims for salary from October 8, 1933 to Humphrey's death, and that court certified two questions.** *Certification is why the opinion answers two questions and nothing else.*
 
-**Held** (9–0; Sutherland for the Court; McReynolds concurring in the result)
+## Holding and reasoning
 
-- The FTC Act limits removal to the enumerated causes, "the existence of none of which is claimed here."
-- Myers decided only "that the President had power to remove a postmaster of the first class, without the advice and consent of the Senate." Its broader "expressions" are dicta, and "[i]n so far as they are out of harmony with the views here set forth, these expressions are disapproved."
-- The FTC "cannot in any proper sense be characterized as an arm or an eye of the executive." It acts "in part quasi legislatively and in part quasi judicially," and any executive function it performs is exercised "in the discharge and effectuation of its quasi legislative or quasi judicial powers."
-- Congress may require such agencies to act "independently of executive control," and that authority includes power "to fix the period during which they shall continue, and to forbid their removal except for cause in the meantime."
-- Whether removal power prevails over a congressional limit "will depend upon the character of the office."
-- Cases between Myers and this decision are left "for future consideration and determination as they may arise."
+**Held** (unanimous; Sutherland for the Court; McReynolds agreeing in the result and referring to his separate opinion in *Myers*)
 
-**Rejected**
+- **Statutory question: yes.** "[T]he intent of the act is to limit the executive power of removal to the causes enumerated, the existence of none of which is claimed here."
+- **Constitutional question: yes, the limit is valid.** No removal may be made during the prescribed term except for a cause named in the statute. Both certified questions are answered for the estate.
 
-- *Myers held, after 243 pages canvassing the history, that the executive power includes an illimitable power to remove the officers the President appoints, because he cannot take care that the laws be executed through officers he cannot control; an FTC commissioner is appointed by the President and enforces a federal statute, so Myers governs.* Sutherland: Myers's "narrow point actually decided" concerned a postmaster; everything beyond it is dicta, and a commissioner "occupies no place in the executive department and . . . exercises no part of the executive power vested by the Constitution in the President."
-- *The [[The Decision of 1789|Decision of 1789]] settled that the President may remove the officers who execute the laws.* Sutherland: the office then debated "was not only purely executive, but the officer one who was responsible to the President, and to him alone"; the debates did not consider "other than executive officers"; and Madison thought the Comptroller of the Treasury, whose duties "partook of the judiciary quality," might be treated differently.
-- *(Implicitly) Independence from the President is not a reason the Constitution recognizes.* Sutherland makes independence the point: "one who holds his office only during the pleasure of another cannot be depended upon to maintain an attitude of independence against the latter's will."
+**Sutherland, for the Court**
 
-## Context
+- *Myers* is confined to what it decided. Its opinions "occupy 243 pages," but "the narrow point actually decided was only that the President had power to remove a postmaster of the first class, without the advice and consent of the Senate as required by act of Congress." Expressions tending to support the Government are "beyond the point involved" and, "[i]n so far as they are out of harmony with the views here set forth, these expressions are disapproved."
+- "The office of a postmaster is so essentially unlike the office now involved" that *Myers* cannot control. A postmaster "is charged with no duty at all related to either the legislative or judicial power" and is "merely one of the units in the executive department."
+- The FTC is "an administrative body created by Congress to carry into effect legislative policies embodied in the statute in accordance with the legislative standard therein prescribed, and to perform other specified duties as a legislative or as a judicial aid." In administering "unfair methods of competition" it "acts in part quasi legislatively and in part quasi judicially"; under § 6 "it acts as a legislative agency"; under § 7 "it acts as an agency of the judiciary."
+- Any executive function it performs — "as distinguished from executive power in the constitutional sense" — is exercised "in the discharge and effectuation of its quasi legislative or quasi judicial powers, or as an agency of the legislative or judicial departments."
+- The removal power claimed "threatens the independence of a commission, which is not only wholly disconnected from the executive department," but was created "as a means of carrying into operation legislative and judicial powers."
+- Between *Myers* and this decision "there shall remain a field of doubt," left "for future consideration."
 
-Humphrey's Executor is the charter of the **independent agency**. The casebook's doctrinal history summarizes its effect: after 1935, Congress conferred independence on the Federal Reserve Board and the SEC and created others, such as the NLRB. It sits between [[Myers v. United States|Myers]] (1926), which constitutionalized the Madison-Ames reading of the [[The Decision of 1789|Decision of 1789]], and [[Morrison v. Olson|Morrison]] (1988), which upheld for-cause protection of an independent counsel who did exercise executive power. Sutherland joined Taft's majority in Myers; Humphrey's is the same author confining the earlier opinion. White's concurrence in [[Buckley v. Valeo]] lists Humphrey's among the attacks the independent agency has survived.
+## Arguments rejected
 
-The case was decided on May 27, 1935, the same day as [[A.L.A. Schechter Poultry Corp. v. United States|Schechter Poultry]], one of the two cases in [[The Non-Delegation Doctrine's Good Year]]. The same Court that struck down the NIRA's delegation called the FTC's work "quasi legislative" and protected it from the President. The tension is sharp: if the FTC exercises legislative power, the delegation is a problem; if it exercises executive power, the removal limit is. The word "quasi" is doing the work of avoiding both.
+- *Myers held that the executive power includes an illimitable power to remove the officers the President appoints; a commissioner is appointed by the President and enforces a federal statute.* Sutherland: *Myers*'s "narrow point actually decided" concerned a postmaster; the rest is dicta, and a commissioner "occupies no place in the executive department and . . . exercises no part of the executive power vested by the Constitution in the President."
+- *The [[The Decision of 1789|Decision of 1789]] settled that the President may remove the officers who execute the laws.* Sutherland: that debate concerned a Department of Foreign Affairs, whose officer "was responsible to the President, and to him alone"; the debates "show[] that the President's illimitable power of removal was not considered in respect of other than executive officers," and Madison later thought the Comptroller's "judiciary quality" duties might warrant "a different rule."
+- *(Implicitly) Independence from the President is not a value the Constitution recognizes.* Sutherland makes independence the point: "one who holds his office only during the pleasure of another cannot be depended upon to maintain an attitude of independence against the latter's will."
 
-**What happened after the casebook's cases.**
+## Where it sits
 
-- [[Seila Law LLC v. Consumer Financial Protection Bureau|Seila Law]] (2020; 5–4, Roberts), the last case in the casebook's sequence, held the for-cause protection of the CFPB's single Director unconstitutional. It read Humphrey's as an exception for multimember expert bodies that do not wield substantial executive power, as the 1935 Court understood the FTC, and read Morrison as an exception for inferior officers with limited duties. It declined to extend either exception to a single director with substantial executive power.
-- *Collins v. Yellen* (2021; Alito) applied Seila Law to the single Director of the Federal Housing Finance Agency, holding the for-cause protection unconstitutional by a 7–2 vote on that question (Sotomayor and Breyer dissenting on it). The Court treated the agency's structure, not the size of its powers, as decisive.
-- [[Trump v. Slaughter]] (argued December 8, 2025; decided June 29, 2026; 6–3, Roberts) held that the FTC Act's for-cause removal provision violates the separation of powers. The Court treated what remained of Humphrey's as at most a rule for bodies that exercise no executive power, and expressly overruled anything more. Thomas joined all but Part III-B; Gorsuch concurred; Sotomayor dissented, joined by Kagan and Jackson. The opinion reserved the Federal Reserve, which it tied to the distinct historical tradition of the First and Second Banks of the United States.
-- [[Trump v. Cook]] (decided the same day on an interim application; 5–4, Roberts) left Federal Reserve Governor Lisa Cook in office while her challenge to her removal proceeds.
-- Both Slaughter and Cook are Class 7 Canvas readings. The live questions after Slaughter are the Federal Reserve, purely adjudicatory bodies, and what "cause" means where a protection survives.
+**The charter of the independent agency.** After 1935 Congress built the SEC and the NLRB on the same model. The case sits between *Myers* (1926), which constitutionalized the Madison-Ames reading of the [[The Decision of 1789|Decision of 1789]], and *Morrison v. Olson* (1988), which upheld for-cause protection of an independent counsel exercising executive power.
+
+**"Quasi" doing two jobs at once.** Decided the same day as *A.L.A. Schechter Poultry*, in [[The Non-Delegation Doctrine's Good Year]]. If the FTC legislates, the delegation is the problem; if it executes, the removal limit is. On [[Gundy v. United States|Gundy]]'s intelligible-principle account, filling in a standard is executing the law.
+
+**The unraveling.** *Seila Law* (2020) held the CFPB single Director's for-cause protection invalid, reading Humphrey's as an exception for multimember expert bodies not wielding substantial executive power; *Collins v. Yellen* (2021) extended that to the FHFA. [[Trump v. Slaughter]] (June 29, 2026) overruled what remained, reserving the Federal Reserve on the Banks' distinct historical tradition.
+
+**Accountability against independence.** [[The Federalist No. 70]]'s objection to plurality — it "tends to conceal faults and destroy responsibility" — lands hard on a five-member commission answerable to no one elected. Sutherland's only answer is that the Commission does not exercise "the executive Power"; when Slaughter rejected that characterization, the Federalist 70 argument won by default.
 
 ## Professor gloss
 
----
+## Cold-call notes
 
-## Class layer
+The casebook notes for this reading were not available; these questions are drawn from the opinion.
 
-### Posture
-
-- Humphrey's executor sued in the Court of Claims for salary from October 8, 1933, "when the President undertook to remove him from office," until Humphrey's death on February 14, 1934.
-- The Court of Claims certified two questions to the Supreme Court: whether the FTC Act limits removal to the listed causes, and, if so, whether the limit is constitutional.
-
-### Facts
-
-William E. Humphrey was nominated by President Hoover in 1931 to succeed himself on the Federal Trade Commission, confirmed, and commissioned for a seven-year term. In July 1933 President Roosevelt asked for his resignation so that the Commission's work could be "carried out most effectively with personnel of my own selection," disclaiming any criticism of Humphrey personally. When Humphrey asked for time, Roosevelt wrote again: "I do not feel that your mind and my mind go along together on either the policies or the administering of the Federal Trade Commission." Humphrey declined to resign, and on October 7, 1933, Roosevelt removed him. Humphrey never acquiesced, insisted he remained a commissioner entitled to his salary, and died the following February. The casebook omits the Court's statutory discussion and summarizes its conclusion that the list of causes is exclusive.
-
-### Issue
-
-- Does the FTC Act limit the President's power to remove a commissioner to the three enumerated causes?
-- If so, is that limit a constitutional restriction on the President's power of removal?
-
-### Holding
-
-- Yes. The intent of the Act is to limit removal to the enumerated causes, and none was claimed.
-- Yes, the limit is valid. Myers reaches only purely executive officers; the FTC is a quasi-legislative and quasi-judicial body outside the executive department, and Congress may fix its members' terms and forbid removal except for cause. Both certified questions are answered in the estate's favor.
-
-### Rule
-
-- The President's power to remove "purely executive officers" is "unrestrictable" (Myers, as confined here).
-- Congress may condition removal of officers of "quasi legislative or quasi judicial agencies" by "fixing a definite term and precluding a removal except for cause."
-- Which rule applies "will depend upon the character of the office."
-- Statements in an opinion "beyond the point involved" are dicta that "do not come within the rule of stare decisis."
-
-### Reasoning
-
-**(Sutherland, J., for the Court)**
-
-- Myers is confined to its facts. Its opinions "occupy 243 pages," but "the narrow point actually decided" concerned a postmaster and the Senate's consent. The broader expressions are dicta and, where inconsistent, "disapproved."
-- A postmaster is "merely one of the units in the executive department." The "necessary reach" of Myers includes "all purely executive officers. It goes no farther."
-- The FTC is "an administrative body created by Congress to carry into effect legislative policies embodied in the statute in accordance with the legislative standard therein prescribed." It is not "an arm or an eye of the executive," and its duties "must be free from executive control."
-- Three functions, each non-executive: filling in the "unfair methods of competition" standard (quasi-legislative); investigations and reports for Congress under § 6 ("a legislative agency"); and serving as master in chancery under § 7 ("an agency of the judiciary").
-- To the extent it performs "any executive function, as distinguished from executive power in the constitutional sense," it does so only in carrying out its quasi-legislative or quasi-judicial powers.
-- Independence requires tenure: "one who holds his office only during the pleasure of another cannot be depended upon to maintain an attitude of independence against the latter's will."
-- The Decision of 1789 concerned "a bill proposed by Mr. Madison to establish an executive Department of Foreign Affairs" and did not consider non-executive officers. Madison's view of the Comptroller suggests he would have drawn the same distinction.
-
-### Dissent / concurrence
-
-- Unanimous. McReynolds, who dissented in Myers, agreed with the answers to the certified questions and referred to his Myers opinion for his views on the removal power.
-
-### Cold-call notes
-
-- **What is the distinguishing fact between Myers and Humphrey's?** The character of the office. A postmaster performs only executive functions; an FTC commissioner, on the Court's account, performs quasi-legislative and quasi-judicial ones. A second, less-emphasized difference: the Myers statute gave the Senate a role in removal, while the FTC Act only limited the President's grounds.
-- **What does "quasi legislative" mean, and can it survive scrutiny?** It means filling in a broad statutory standard by rule and case. The problem is that filling in the details of a statute is what the executive does whenever a statute delegates. On the intelligible-principle account in [[Gundy v. United States|Gundy]], an agency filling in a standard is executing the law, not legislating; if it were legislating, the delegation would be invalid. Either way, "quasi" is a label, not a category of constitutional power.
-- **Is the Court's treatment of Myers fair?** Taft's opinion rested on the Vesting and Take Care Clauses, not on the particular features of a postmaster. Calling the rationale dicta and keeping only the result is a strong use of the holding/dicta line. Be ready to argue that the "necessary reach" of Myers's reasoning covers any officer who executes a statute, which is the view Seila Law and Slaughter took.
-- **Federalist 70 against Humphrey's.** Hamilton's objection to plurality is that it "tends to conceal faults and destroy responsibility." A five-member commission independent of the President is plural and unaccountable to anyone elected. The best reply is Sutherland's: the commission is not exercising "the executive Power" at all, so the Vesting Clause's unity principle does not reach it. That reply depends entirely on the quasi-legislative characterization; once the Court rejected it, the unity argument won.
-- **How did Seila Law narrow Humphrey's?** By reading it through its facts as the 1935 Court understood them: a multimember, expert body that did not wield substantial executive power. Seila Law did not overrule Humphrey's; it declined to extend it to a single Director. Collins extended Seila Law to another single-director agency without asking how much power it had. Slaughter then held that today's FTC does wield executive power and overruled what remained.
-- **Vary the agency.** A single director removable only for cause: invalid under Seila Law and Collins. A multimember commission with rulemaking and enforcement power: valid under Humphrey's, invalid under Slaughter. An inferior officer with limited duties and a for-cause protection: [[Morrison v. Olson|Morrison]] governs, and Slaughter does not purport to decide it. The Federal Reserve: reserved in Slaughter; Cook leaves the governor in place pending litigation. A purely adjudicatory body such as an Article I court: the category Humphrey's is strongest for, since the independence rationale is at its height when the officer decides cases.
-- **Original meaning versus doctrine.** The Decision of 1789 is the main originalist evidence. On the constitutional-recognition reading, Humphrey's was wrong from the start; on the legislative-grant reading, Humphrey's is closer to the founding than Myers; on the limited-to-its-subject reading, the First Congress simply did not decide it. Baude's syllabus asks both what the Court has said and what the Constitution requires; whether the two answers diverged from 1935 until Slaughter depends on which reading of 1789 is right.
-- **Formalism and functionalism.** Humphrey's is formalist in method (it sorts powers into three boxes) but functionalist in result (it creates a fourth, the "quasi" box, to protect independence). Morrison abandoned the boxes and asked whether a removal limit impedes the President's constitutional duties. Seila Law and Slaughter returned to formalism with a single box: executive power belongs to the President.
-- **The syllabus mislabels this case "v. FEC."** The case is Humphrey's Executor v. United States, about the Federal Trade Commission. Do not confuse it with [[Buckley v. Valeo]], the FEC case.
-- **Memorable lines.** "[A]n arm or an eye of the executive"; "one who holds his office only during the pleasure of another cannot be depended upon to maintain an attitude of independence against the latter's will"; "a field of doubt."
+- **What is the distinguishing fact between Myers and Humphrey's?** The character of the office. A postmaster performs only executive functions and is "merely one of the units in the executive department"; an FTC commissioner, on the Court's account, performs quasi-legislative and quasi-judicial ones. Sutherland does not rest on it, but the *Myers* statute also gave the Senate a role in removal, while the FTC Act limited only the President's grounds.
+- **What does "quasi legislative" mean, and can it survive scrutiny?** Filling in a broad statutory standard by rule and case. The difficulty is that filling in the details of a statute is what the executive does whenever a statute delegates. If the FTC were really legislating, the delegation would be invalid; if it is not, the Vesting Clause reaches it. "Quasi" is a label, not a category of constitutional power.
+- **Is the Court's treatment of Myers fair?** Taft's opinion rested on the Vesting and Take Care Clauses, not on anything peculiar to postmasters. Calling that rationale dicta and keeping only the result is an aggressive use of the holding/dicta line. The "necessary reach" of *Myers*'s reasoning covers any officer who executes a statute — the view *Seila Law* and Slaughter took.
+- **Why does tenure have to follow from independence?** Because "one who holds his office only during the pleasure of another cannot be depended upon to maintain an attitude of independence." The Court is defending a functional goal, so the argument stands or falls on whether independence is a constitutionally cognizable end.
+- **What is the "field of doubt," and who had to resolve it?** Sutherland expressly left the space between a postmaster and a commissioner for later cases. That invitation is what *Morrison*, *Seila Law*, *Collins* and Slaughter spent ninety years filling.
+- **Vary the agency.** A single director removable only for cause: invalid under *Seila Law* and *Collins*. A multimember commission with rulemaking and enforcement power: valid under Humphrey's, invalid under Slaughter. The Federal Reserve: reserved in Slaughter, with [[Trump v. Cook]] holding the line. A purely adjudicatory body: Humphrey's strongest case.
+- **Original meaning versus doctrine.** The [[The Decision of 1789|Decision of 1789]] is the main originalist evidence, and which reading of it is right decides whether Humphrey's was wrong from the start, closer to the founding than *Myers*, or simply unaddressed by the First Congress.
+- **Watch the caption.** This is Humphrey's Executor v. United States, about the Federal Trade Commission — not the FEC, and not [[Buckley v. Valeo]].
+- **Memorable lines.** "[A]n arm or an eye of the executive"; "quasi legislatively and in part quasi judicially"; "a field of doubt."

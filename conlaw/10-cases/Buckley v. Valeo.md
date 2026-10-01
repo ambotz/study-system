@@ -13,104 +13,99 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+## Snapshot
+
+Congress created the Federal Election Commission to regulate campaign money, gave it rulemaking and enforcement powers, and kept four of its six commissioners for itself, with both Houses confirming all six. Candidates and political organizations challenged the Act; the Court of Appeals upheld most of it. The Court held, without dissent on this point, that anyone exercising significant authority under federal law is an "Officer of the United States" who must be appointed under Art. II, § 2, cl. 2.
+
+## Issue
+
+The casebook asks whether "executive nomination with senatorial confirmation" is "an ingenious solution to the appointments dilemma—or a recipe for gridlock and dysfunction." This case answers who may appoint.
+
+- Who is an "Officer of the United States" under Art. II, § 2, cl. 2, and are the commissioners officers?
+- May Congress vest such appointments in itself or its own officers under the Necessary and Proper Clause?
+
 ## Rule
 
-"[A]ny appointee exercising significant authority pursuant to the laws of the United States is an 'Officer of the United States,'" and must be appointed as Art. II, § 2, cl. 2 prescribes. Congress may create an office and define its powers, but it may not appoint the officer itself or give the appointment to its own officers, and the Necessary and Proper Clause does not change that.
+Any appointee exercising significant authority pursuant to the laws of the United States is an Officer of the United States and must be appointed as Art. II, § 2, cl. 2 prescribes; that method is exclusive. Congress may create an office and define its powers, but may not fill it itself, and the Necessary and Proper Clause does not change that.
 
-## Facts
+- "[A]ny appointee exercising significant authority pursuant to the laws of the United States is an 'Officer of the United States,'" a term "intended to have substantive meaning," not one "dealing with etiquette or protocol."
+- Officers go to the President with Senate consent or, if inferior, to "the President alone, in the Courts of Law, or in the Heads of Departments" — neither the Speaker nor the President pro tempore "comes within this language."
+- Congress may create offices and define their duties, but no case supports its appointing an officer of the United States (White).
 
-- **Congress chose four of the six voting commissioners.** Two were appointed by the President pro tempore of the Senate and two by the Speaker of the House. *Neither is on the Clause's list of appointers; presidential appointment with Senate consent, as the 1976 amendments provided, cures the defect.*
-- **Even the President's two nominees needed confirmation by both Houses.** *The Clause gives advice and consent to the Senate alone, so House confirmation is an independent defect.*
-- **The Commission had rulemaking and enforcement powers, including "primary responsibility for conducting civil litigation in the courts of the United States for vindicating public rights."** *These powers make the commissioners officers; a purely investigative and informational body could be staffed by Congress.*
-- **The statute described the Commission as part of the legislative branch.** *The label is explained away: the test looks at authority exercised "pursuant to the laws."*
-- **The FEC did not deny that its members were "officers of the United States."** (White) *The concession removes any argument that the commissioners were mere employees.*
+## Operative facts
 
-## Court Ruling
+- **August 6, 1787: the Committee of Detail's draft gave the Senate power "to appoint Ambassadors, and Judges of the Supreme Court" and the President the appointment of all other officers.** *The only point in the drafting at which a chamber of Congress held an appointment power.*
+- **Weeks later the Committee of Eleven replaced that with presidential nomination subject to Senate confirmation, shearing the Senate of its appointment power.** *"[A] fair surmise that a compromise had been made," but "no change was made in the concept of the term 'Officers of the United States'" — the Court reads it as "a deliberate change . . . with the intent to deny Congress any authority itself to appoint" officers.*
+- **The 1974 amendments to the Federal Election Campaign Act created the Commission with "wide-ranging rulemaking and enforcement powers," including "primary responsibility for conducting civil litigation . . . for vindicating public rights."** *These powers make the commissioners officers; a body confined to investigating and reporting could be staffed by Congress.*
+- **The statute placed the Commission in the legislative branch.** *The label is explained away: the test looks to authority exercised "pursuant to the laws," not to Congress's assignment.*
+- **Two commissioners were appointed by the President pro tempore of the Senate and two by the Speaker of the House.** *Neither appointer is on the Clause's list; the 1976 amendments cured the defect with presidential appointment and Senate consent.*
+- **All six nominations, the President's two included, required confirmation by a majority of both Houses.** *Advice and consent belongs to the Senate alone, so House confirmation is an independent defect.*
+- **Candidates, contributors and political organizations sued, arguing the Clause is "the exclusive method by which those charged with executing the laws of the United States may be chosen" and that Congress "cannot have it both ways."** *Either the commissioners are appointed under it or they may not exercise the Act's powers.*
+- **The Court of Appeals upheld most of the Act, its majority accepting the Commission's Necessary and Proper Clause defense.** *That argument, not the officer question, draws the per curiam's structural reasoning.*
+- **The Commission never denied that its members were "officers of the United States," arguing only that Congress could appoint a majority anyway.** *(White.) The concession leaves only the appointer question.*
 
-**Held** (unanimous on the appointments question; per curiam; White concurring in part)
+## Holding and reasoning
 
-- "Officers of the United States" is "a term intended to have substantive meaning," not "etiquette or protocol." It includes "any appointee exercising significant authority pursuant to the laws of the United States."
-- The Appointments Clause is the exclusive method for appointing such officers. "[T]here is no provision of the Constitution remotely providing any alternative means for the selection of the members of the Commission or for anybody like them."
-- The Speaker and the President pro tempore are not "Courts of Law" or "Heads of Departments."
-- The Convention's revision of the draft, which stripped the Senate of its power to appoint ambassadors and Supreme Court Justices, was "a deliberate change made by the Framers with the intent to deny Congress any authority itself to appoint those who were 'Officers of the United States.'"
-- The provisions vesting the Commission with "primary responsibility for conducting civil litigation in the courts of the United States for vindicating public rights" violate Art. II, § 2, cl. 2. "Such functions may be discharged only by persons who are 'Officers of the United States.'"
+**Held** (per curiam; unanimous on the appointments question; White concurring in part and dissenting in part on other portions)
 
-**Rejected**
+- **Officers.** The term is "intended to have substantive meaning," and its "fair import is that any appointee exercising significant authority pursuant to the laws of the United States" is one. Commissioners with primary responsibility for civil litigation to vindicate public rights exercise that authority.
+- **No congressional appointment.** The provisions vesting that litigation responsibility in the Commission as constituted "violate Art. II, § 2, cl. 2": "[s]uch functions may be discharged only by persons who are 'Officers of the United States.'"
 
-- *Congress's power to create offices under the Necessary and Proper Clause is broad, and a commission regulating Congress's own elections is a reasonable place for Congress to choose the regulators. Placing appointment in the President's hands would let an incumbent President pick the officials who police his own campaign and his party's opponents.* The Court: the question is not Congress's power "to create an office or a commission, which is broad indeed," but its power to specify that its own officers make the appointments. Congress could not use the Necessary and Proper Clause to pass a bill of attainder or an ex post facto law in the teeth of § 9; "[n]o more may it vest in itself, or in its officers, the authority to appoint officers of the United States when the Appointments Clause by clear implication prohibits it."
-- *"Officers of the United States" is a term of rank and courtesy, and the Clause governs only the formalities of commissioning.* The Court: the drafters "had a less frivolous purpose in mind."
-- *Independent agencies have survived delegation, adjudication and removal challenges, so the strain of the modern administrative state should also relax the Appointments Clause.* White, who accepts the first three accommodations, will not accept this one: until now "it has not been insisted that the commands of the Appointments Clause must also yield to permit congressional appointments of members of a major agency."
+**Per curiam**
 
-## Context
+- Separation of powers "was not simply an abstract generalization in the minds of the Framers: it was woven into the document," and checks and balances are "a self-executing safeguard against the encroachment or aggrandizement of one branch."
+- Text: the Clause supplies the method for every officer whose appointment is not "otherwise provided for," and "there is no provision of the Constitution remotely providing any alternative means for the selection of the members of the Commission."
+- History: the late shift from Senate appointment to presidential nomination was deliberate, meant to deny Congress any appointment power.
+- Structure: the inquiry is "not the authority of Congress to create an office or a commission, which is broad indeed, but rather its authority to [specify] that its own officers may make appointments." Like § 9's prohibitions, the Clause is a limit the Necessary and Proper Clause cannot evade.
 
-Buckley is the modern foundation of the Appointments Clause. Its "significant authority" test is the officer/employee line, and the Court has kept applying it, including in *Lucia v. SEC* (2018), which held SEC administrative law judges to be officers. The executive branch adopted the test in a 2007 Office of Legal Counsel opinion, reading it to require a "continuing" position with "a portion of the sovereign powers of the federal government." Jennifer Mascott's originalist account argues the founding meaning of "officer" was far broader: "any government official with responsibility for an ongoing governmental duty," which would reach tax collectors and administrative judges.
+**White, concurring in part and dissenting in part**
 
-The appointments holding is a small part of a very long per curiam; most of the opinion concerns the First Amendment and campaign finance, which the casebook omits. Beyond the excerpt, the Court allowed the Commission, as constituted, to keep its investigative and informational functions, treated its past acts as valid, and stayed its judgment so Congress could reconstitute the agency. Congress did so in 1976, giving the President the appointment of all six voting commissioners with Senate consent.
+- Law enforcement "was not to be lodged in elected legislative officials subject to political pressures," and "[n]either was the Legislative Branch to have the power to appoint those who were to enforce and administer the law."
+- Congress may create offices and define their duties (*Myers v. United States*), but no case supports its appointing an officer.
+- The administrative agency "has placed severe strain on the separation-of-powers principle in its pristine formulation," and "[a]ny notion that the Constitution bans any admixture of powers . . . has had to give way": the independent agency has survived attacks for invalidly delegated legislative power, for judicial power, and for being too executive to escape presidential control ([[Humphrey's Executor v. United States|Humphrey's Executor]]).
+- "Until now, however, it has not been insisted that the commands of the Appointments Clause must also yield to permit congressional appointments of members of a major agency."
 
-Buckley is the appointments half of the pair of limits on congressional control of officers. The removal half is *Bowsher v. Synar* (1986), which held that Congress may not keep for itself the power to remove an officer who executes the laws. Read together: Congress creates the office and sets its terms, but it may neither fill it nor fire its holder. What Congress may do is limit the President's own removal power, which is the question in [[Humphrey's Executor v. United States|Humphrey's Executor]]. White cites Humphrey's here as one of the accommodations the independent agency has won; Buckley shows where the accommodation stops. An agency may be independent of the President, but the President still appoints its members.
+## Arguments rejected
 
-Buckley is the formalist moment in a Court that was not otherwise formalist about separation of powers. White, the Court's leading functionalist and later the principal dissenter in [[INS v. Chadha]], joined it. The unanimity reflects the text: the Clause names who may appoint, and Congress is not on the list. Compare the harder inferior-officer questions in [[Morrison v. Olson]], where the Court upheld appointment of an independent counsel by a court. The recess alternative to Senate consent is *NLRB v. Noel Canning*.
+- *A commission regulating Congress's own elections is a sensible place for Congress to pick the regulators; presidential appointment lets an incumbent choose the officials who police his own campaign.* The question is not the power "to create an office or a commission, which is broad indeed," but the power to specify that its own officers fill it. Congress could not invoke the Clause to pass a bill of attainder or an ex post facto law in the teeth of § 9; "[n]o more may it vest in itself, or in its officers, the authority to appoint officers of the United States when the Appointments Clause by clear implication prohibits it."
+- *"Officers of the United States" is a term of rank and courtesy, so the Clause governs only the formalities of commissioning.* The Clause "could . . . be read as merely dealing with etiquette or protocol," but "the drafters had a less frivolous purpose in mind."
+- *Independent agencies have survived delegation, adjudication and removal challenges, so the administrative state's strain should relax this Clause too.* White, who accepts the first three accommodations, refuses a "broad exception" to this one.
+
+## Where it sits
+
+**The officer line.** "Significant authority" is the officer/employee test, still applied — to SEC administrative law judges in *Lucia v. SEC* (2018). The executive branch adopted it in a 2007 Office of Legal Counsel opinion; Jennifer Mascott's originalist account would read "officer" far more broadly, reaching tax collectors and administrative judges.
+
+**Appointment and removal.** Congress may neither fill an office that executes the laws nor fire its holder — the removal half is *Bowsher v. Synar* (1986). It may limit the President's own removal power: [[Humphrey's Executor v. United States|Humphrey's Executor]], cited here as an accommodation the independent agency won, and now [[Trump v. Slaughter]].
+
+**The formalist moment.** Text, the list of appointers, Convention history — joined by White, the Court's leading functionalist and later the principal dissenter in [[INS v. Chadha]]. The bargain enforced is Hamilton's in [[The Federalist No. 76]]; inferior-officer questions come in *Morrison v. Olson*, the recess alternative in *NLRB v. Noel Canning*.
+
+**The rest of the case.** Appointments is a small part of a per curiam otherwise about campaign finance. The Court left the Commission its investigative functions, treated its past acts as valid, and stayed its judgment; Congress reconstituted the agency in 1976.
 
 ## Professor gloss
 
----
+## Cold-call notes
 
-## Class layer
+**Note 1. "The Court was unanimous in rejecting the appointments scheme in Buckley, but the bill was passed by Congress and signed by the president . . . . What could they have been thinking? What are the best arguments in favor of the constitutionality of the statute?"**
 
-### Posture
+- Conflict of interest: a commission policing federal elections must investigate the sitting President's campaign, so presidential appointment hands one candidate his referee.
+- Congress has a textual claim to the field — Art. I, § 4 over the manner of federal elections, § 5 over judging its members' elections.
+- A structural rule does not bend for good reasons; the 1976 fix is bipartisan balance with presidential appointment.
 
-- Suit by candidates, contributors and political organizations challenging the Federal Election Campaign Act of 1971, as amended in 1974, on First Amendment and separation-of-powers grounds. The Court of Appeals (whose majority, the per curiam notes, accepted the FEC's Necessary and Proper Clause argument) upheld most of the Act.
-- On appeal the Supreme Court decided the appointments question with no dissent on that point; the Justices divided on the campaign-finance questions, which the casebook omits.
+**Note 2. "One key question . . . is whether a given person is an 'Officer of the United States,' which in Buckley the Court defines as 'any appointee exercising significant authority pursuant to the laws of the United States.' . . . What does it mean? Is there a better one?"**
 
-### Facts
+- Three parts: an appointee, exercising significant authority, pursuant to federal law rather than a House's own rules.
+- "Significant" does the work and the Court never defined it, which is why OLC and Mascott each supply a sharper line.
+- OLC's is narrower and administrable — a continuing position whose powers "primarily involve binding the government or third parties for the benefit of the public" — tracking Buckley's own line between informing Congress and binding the public.
+- Mascott's is better supported as original meaning but would make thousands of employees officers. Faithful reading or practical accommodation?
 
-The 1974 amendments to the Federal Election Campaign Act created the Federal Election Commission to regulate and publicize contributions to campaigns for federal office. The challengers argued that Art. II, § 2, cl. 2 is "the exclusive method by which those charged with executing the laws of the United States may be chosen," and that "Congress . . . cannot have it both ways": if the commissioners exercise their powers they must be appointed under the Clause, and if Congress appoints them they may not exercise those powers. The per curiam traced the Clause through the Convention: the Committee of Detail's draft gave the Senate the appointment of ambassadors and Supreme Court judges, and the Committee of Eleven replaced that with presidential nomination subject to Senate confirmation. The Court calls this "a fair surmise that a compromise had been made," but the concept of "Officers of the United States" did not change.
+**Note 3. "The Appointments Clause also refers to 'inferior Officers,' which are further discussed and defined in *Morrison v. Olson* . . . . Would it have made any difference in Buckley if the FEC commissioners had been 'inferior Officers'?"**
 
-### Issue
+- No. The inferior-officer alternative lets Congress choose among "the President alone, in the Courts of Law, or in the Heads of Departments"; Congress and its officers are on neither list.
+- The principal/inferior line decides only whether Senate consent may be dispensed with, never who may appoint. House confirmation would remain a defect regardless.
 
-- Who is an "Officer of the United States" within Art. II, § 2, cl. 2, and are the FEC's commissioners officers?
-- May Congress, through the Necessary and Proper Clause, vest the appointment of such officers in itself or in its own officers (the Speaker and the President pro tempore)?
+### Further drilling
 
-### Holding
-
-- An officer is any appointee exercising significant authority pursuant to the laws of the United States. Commissioners holding primary responsibility for civil litigation to vindicate public rights exercise that authority and are officers.
-- No. The Appointments Clause is exclusive, its list of appointing authorities does not include Congress or its officers, and the Necessary and Proper Clause cannot authorize what the Appointments Clause "by clear implication prohibits." The provisions vesting litigation authority in the Commission as constituted are unconstitutional.
-
-### Rule
-
-- "Officers of the United States" include "all persons who can be said to hold an office under the government" (*United States v. Germaine*) and, more precisely, "any appointee exercising significant authority pursuant to the laws of the United States."
-- Officers must be appointed by the President with Senate consent or, if inferior, by the President alone, the courts of law, or the heads of departments.
-- Congress may create offices but may not appoint officers, save those each House appoints under Article I "to assist in the legislative processes" (White).
-- The Necessary and Proper Clause does not override the structural limits of the Constitution any more than it overrides § 9's prohibitions.
-
-### Reasoning
-
-**(Per Curiam)**
-
-- The separation of powers "was not simply an abstract generalization in the minds of the Framers: it was woven into the document." Checks and balances are "a self-executing safeguard against the encroachment or aggrandizement of one branch at the expense of the other."
-- Text: the Clause provides the method for all officers whose appointment is not "otherwise provided for," and nothing else in the Constitution provides for these.
-- History: the late shift from Senate appointment to presidential nomination was deliberate and meant to deny Congress any power to appoint officers.
-- Structure: the Necessary and Proper Clause concerns Congress's power to create offices, not a power to name who fills them; like § 9, the Appointments Clause is a limit the Necessary and Proper Clause cannot evade.
-
-**(White, J., concurring in part and dissenting in part)**
-
-- The FEC concedes its members are officers; its only argument is that Congress may nonetheless appoint a majority of them.
-- "The decision to give the President the exclusive power to initiate appointments was thoughtful and deliberate." Law enforcement "was not to be lodged in elected legislative officials subject to political pressures."
-- "Congress clearly has the power to create federal offices and to define the powers and duties of those offices" ([[Myers v. United States|Myers]]), but no case "even remotely supports the power of Congress to appoint an officer of the United States" beyond each House's own legislative officers.
-- The administrative state has strained "the separation-of-powers principle in its pristine formulation," and "[a]ny notion that the Constitution bans any admixture of powers . . . has had to give way." That strain does not justify "a broad exception" to the Appointments Clause.
-
-### Dissent / concurrence
-
-- No Justice dissented on the appointments question. White's partial dissent concerns other parts of the case; on the Appointments Clause he agrees with the Court and adds the functional reasons above.
-
-### Cold-call notes
-
-- **State the officer test.** "[A]ny appointee exercising significant authority pursuant to the laws of the United States." Know its three parts: an appointee (a continuing position), significant authority (not ministerial), exercised under federal law (not under Congress's internal rules). Note 2 asks what "significant" means; the Court has never said much more than this sentence, which is why OLC and Mascott each offer a sharper definition.
-- **Why couldn't Congress appoint the FEC commissioners?** Three independent defects, in rising order of strength: House confirmation of the President's nominees (the Clause names only the Senate); appointment by the Speaker and President pro tempore (not on the Clause's list); and the general principle that Congress may not fill offices executing the laws (Hamilton's "Give us the man" bargain in [[The Federalist No. 76]]).
-- **Would it have mattered if the commissioners were "inferior Officers"?** Note 3. No. The inferior-officer alternative lets Congress choose among "the President alone, . . . the Courts of Law, or . . . the Heads of Departments." Congress and its officers are not on the list for any officer. The inferior/principal line matters only for whether Senate consent can be dispensed with; it never lets Congress appoint.
-- **Vary the powers.** If the Commission could only investigate, hold hearings and report to Congress, Congress could appoint its members, because those are powers Congress could exercise through its own committees; the members would not be exercising significant authority under the laws. Add rulemaking or civil enforcement and the members become officers. The line is between informing Congress and binding the public, which is roughly OLC's "binding the government or third parties."
-- **Vary the appointer.** The President appoints all six with Senate consent, but Congress keeps a power to remove them by joint resolution: valid appointment, invalid removal (*Bowsher v. Synar*). The President appoints all six and may remove them only for cause: that is [[Humphrey's Executor v. United States|Humphrey's Executor]], and after [[Trump v. Slaughter]] (2026) the answer is different again.
-- **Note 1: what were Congress and President Ford thinking?** The best argument for the statute is conflict of interest. A commission regulating federal elections will investigate the incumbent President's campaign, so presidential appointment gives one candidate control over his referee. Congress also regulates its own members' elections under Article I, § 4 and judges their elections under § 5. The Court's answer is that the structural rule does not bend for good reasons; the practical answer, adopted in 1976, is bipartisan balance with presidential appointment.
-- **Labels do not control.** Congress called the FEC a legislative-branch body. The Court looked to the powers exercised. Compare [[Humphrey's Executor v. United States|Humphrey's Executor]], where the Court accepted Congress's description of the FTC as a "legislative or as a judicial aid" and let that description decide the removal question. Be ready to say whether the two cases are consistent in method.
-- **Formalism or functionalism?** The per curiam is formalist: text, the list of appointers, convention history. White's concurrence adds the functional reason: enforcement should not be in "elected legislative officials subject to political pressures." Buckley is the rare separation-of-powers case where both methods point the same way, which is why it was unanimous.
-- **Original meaning versus doctrine.** Mascott's argument that "officer" meant any official with "an ongoing governmental duty" would make thousands of current employees officers who must be appointed by the President, a court, or a department head. Buckley's "significant authority" test is narrower than that reading. Be ready to say whether the narrower test is a faithful reading or a practical accommodation.
+- **Vary the powers.** Confined to investigating, holding hearings and reporting, the Commission could be staffed by congressional appointees — powers Congress exercises through its committees. Rulemaking or enforcement makes the members officers.
+- **Vary the appointer.** Senate-confirmed appointment but removal by joint resolution: valid appointment, invalid removal (*Bowsher*). Removal only for cause: [[Humphrey's Executor v. United States|Humphrey's Executor]], and after [[Trump v. Slaughter]] different again.
+- **Labels do not control.** Congress called the FEC legislative and the Court looked to its powers; [[Humphrey's Executor v. United States|Humphrey's Executor]] let Congress's description of the FTC as a "legislative or as a judicial aid" decide removal.
+- **Formalism or functionalism?** The per curiam is formalist; White adds that enforcement should not sit with "elected legislative officials subject to political pressures." Both point one way, hence unanimity.

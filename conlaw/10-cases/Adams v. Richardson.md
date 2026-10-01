@@ -14,95 +14,92 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+## Snapshot
+
+Black students, citizens and taxpayers sued HEW for dereliction in enforcing Title VI against segregated schools still receiving federal money. The District Court ordered seven enforcement measures; HEW appealed: Title VI enforcement is committed to agency discretion and unreviewable. The en banc D.C. Circuit modified the higher-education provisions and otherwise affirmed: § 602 "authorized and directed" enforcement and prescribed the means, so there is law to apply, and a general policy of abdication is reviewable. Litigated under the APA, with Take Care behind it.
+
+## Issue
+
+The casebook sets this up through Cox's Note 5: "[d]oes its logic extend to cases where Congress has expressly instructed the president to enforce?" Adams answers it.
+
+- Is HEW's enforcement of Title VI committed to agency discretion, so that a failure to enforce is unreviewable?
+- Does Title VI leave HEW free to rely indefinitely on voluntary compliance while continuing to fund noncompliant institutions?
+
 ## Rule
 
-An agency's non-enforcement is reviewable when the agency has "consciously and expressly adopted a general policy which is in effect an abdication of its statutory duty," at least where the statute directs enforcement and prescribes the means. The prosecutorial-discretion cases do not cover a wholesale refusal to carry out a specific congressional enforcement mandate.
+Agency action is presumptively reviewable under the APA; the committed-to-discretion exception reaches only statutes drawn so broadly that there is "no law to apply." A statute under which an agency is "authorized and directed" to enforce, and which prescribes the enforcement measures, supplies that law. Non-enforcement is reviewable where the agency has "consciously and expressly adopted a general policy which is in effect an abdication of its statutory duty" — the more so where it is affirmatively funding the violators.
 
-## Facts
+- The exception "is a narrow one, and is only 'applicable in those rare instances where "statutes are drawn in such broad terms that in a given case there is no law to apply"'" (*Overton Park*).
+- "A consistent failure to do so is a dereliction of duty reviewable in the courts."
 
-- **Title VI directs enforcement and specifies how.** Each funding agency "is authorized and directed to effectuate" § 2000d, by fund termination after a hearing or "by any other means authorized by law." *The court finds that Title VI is not a statute with "no law to apply," defeating the committed-to-discretion exception; a bare authorization would look like Powell v. Katzenbach.*
-- **The challenge was to a general policy, not to individual decisions.** Plaintiffs alleged "a general policy which is in effect an abdication of its statutory duty." *The court introduces this ground with "More significantly"; passing over a few districts in a working program would fall under Cox.*
-- **HEW kept funding segregated institutions.** It was "actively supplying segregated institutions with federal funds, contrary to the expressed purposes of Congress." *Non-enforcement here was continued payment, which Note 3 reads as a purse case.*
-- **HEW relied on voluntary compliance with no end point.** *A request not followed by compliance "within a reasonable time" leaves the duty to use the statutory means; a time-limited voluntary effort would have been lawful.*
+## Operative facts
 
-## Court Ruling
+- **Title VI of the Civil Rights Act of 1964 bars discrimination in federally assisted programs, and § 602 provides that each funding agency "is authorized and directed to effectuate" § 2000d, compliance to be effected by termination of assistance after "opportunity for hearing," "or (2) by any other means authorized by law."** *Two mandatory words and two prescribed means — why Title VI is not a statute with "no law to apply"; a bare authorization would look like Powell v. Katzenbach. Case law supplied the criteria for noncompliance: standards from the courts, remedies from the statute.*
+- **A proviso bars either course until the agency has notified the recipient and "determined that compliance cannot be secured by voluntary means."** *HEW's hook, and the court's answer: a precondition to the formal means, not an alternative.*
+- **HEW sought voluntary compliance "in most cases," with no time limit, while "actively supplying segregated institutions with federal funds, contrary to the expressed purposes of Congress."** *The operative conduct: non-enforcement as continued payment, which pulls the purse into the case.*
+- **Black students, citizens and taxpayers sued the Secretary of HEW and the Director of its Office of Civil Rights, alleging that HEW had "consciously and expressly adopted a general policy which is in effect an abdication of its statutory duty."** *The pleading choice is dispositive. A complaint about a few districts inside a working program would have fallen under [[United States v. Cox|Cox]]; the court marks the difference with "More significantly."*
+- **The District Court found HEW's performance "to fall below that required of them under Title VI" and ordered seven specific enforcement measures against primary and secondary schools and state higher-education systems.** *A mandatory injunction running to a department's whole enforcement program, which is what makes the discretion question urgent.*
+- **HEW appealed, relying "almost entirely" on cases declining to disturb the prosecutorial discretion of the Attorney General and United States Attorneys.** *It never argued Title VI permitted segregation, only that no court could make it act: the case is about reviewability alone.*
+- **Nine judges sat en banc and decided per curiam, modifying the injunction as to higher education and affirming the rest "in all but one minor respect."** *No recorded dissent — part of why the abdication formula travelled.*
 
-**Held** (per curiam, D.C. Circuit en banc; injunction affirmed as modified)
+## Holding and reasoning
 
-- The APA's committed-to-agency-discretion exception is "a narrow one," applicable only where there is "no law to apply" (*Overton Park*). Title VI supplies law: a body of case law gives criteria for noncompliance and the statute indicates "with precision" the enforcement measures.
-- Voluntary compliance is a precondition, not a substitute. If it fails within a reasonable time, the agency must use one of the two statutory means. "A consistent failure to do so is a dereliction of duty reviewable in the courts."
-- The District Court's order is affirmed, with a modification to the higher-education provisions.
+**Held** (per curiam, en banc; Bazelon, C.J., and Wright, McGowan, Tamm, Leventhal, Robinson, MacKinnon, Robb and Wilkey, JJ.; the casebook reproduces no separate opinion; the injunction concerning higher education modified and the remainder affirmed)
 
-**Rejected**
+- **Reviewable.** "The terms of Title VI are not so broad as to preclude judicial review." The APA's agency-discretion exception is "a narrow one," confined to the rare case where there is "no law to apply."
+- **Voluntary compliance is not a substitute.** A request for voluntary compliance "if not followed by responsive action on the part of the institution within a reasonable time, does not relieve the agency of the responsibility to enforce Title VI by one of the two alternative means contemplated by the statute. A consistent failure to do so is a dereliction of duty reviewable in the courts."
 
-- *Enforcement of Title VI, like the prosecution of crimes, is committed to agency discretion, and the prosecutorial-discretion cases make that discretion absolute.* Those cases "do not support a claim to absolute discretion," and are distinguishable on three grounds: Title VI mandates enforcement and sets its procedures; the challenge is to a general policy of abdication rather than to particular decisions; and HEW is affirmatively funding the violators.
-- *Limited resources make it impossible to act against every violator.* The court accepts the premise for a prosecutor ("It is one thing to say the Justice Department lacks the resources necessary to locate and prosecute every civil rights violator") and refuses to extend it to funding: "it is quite another to say HEW may affirmatively continue to channel federal funds to defaulting schools."
-- *Even if enforcement is mandatory, the choice of means is absolutely discretionary, and HEW has chosen voluntary compliance.* "This position is untenable in light of the plain language of the statute," which makes voluntary compliance a preliminary step to one of the two formal means.
+**Per curiam**
 
-## Context
+- **Text.** The statute does not merely permit: it "not only requires the agency to enforce the Act, but also sets forth specific enforcement procedures." Congress's "clear statement of an affirmative enforcement duty should not be discounted."
+- **Precedent.** The prosecutorial-discretion cases "do not support a claim to absolute discretion and are, in any event, distinguishable." The absence of specific legislation requiring particular action by the Attorney General "was one factor upon which this court relied in *Powell v. Katzenbach*."
+- **Scope of the challenge.** "[T]his suit is not brought to challenge HEW's decisions with regard to a few school districts in the course of a generally effective enforcement program." The allegation is a conscious and express general policy of abdication, and "[w]e are asked to interpret the statute and determine whether HEW has correctly construed its enforcement obligations" — a legal question, not a managerial one.
+- **The funding relationship.** "It is one thing to say the Justice Department lacks the resources necessary to locate and prosecute every civil rights violator; it is quite another to say HEW may affirmatively continue to channel federal funds to defaulting schools." The "anomaly" of that position is itself a reason to take the duty at face value.
+- **Structure of the statute.** The proviso exists "[i]n order to avoid unnecessary invocation of formal enforcement procedures." The Act "sets forth two alternative courses of action by which enforcement may be effected"; it fixes no time limit, but a request unanswered within a reasonable time leaves the duty in place.
 
-Adams is the second episode and the counterweight to [[United States v. Cox]]. Cox is category two in Jackson's [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] scheme; Adams is category three: Congress "authorized and directed" enforcement and prescribed the means, and the agency adopted a policy of not using them. Cox's Note 5 asks whether Cox's logic survives an express instruction to enforce. Adams answers no, at least for an agency funding program.
+## Arguments rejected
 
-The case was litigated under the APA, not the Constitution. Note 1 draws the constitutional implication: the D.C. Circuit "at least implicitly" concluded that Article II does not let the executive ignore a specific congressional enforcement mandate. That is the Take Care Clause read as a duty, and the English ban on the suspending power is its historical root: a general policy of not enforcing a statute is what a suspension looks like in practice.
+- *Enforcement of Title VI, like the prosecution of crimes, is committed to agency discretion, and the prosecutorial-discretion cases make it absolute.* Those cases "do not support a claim to absolute discretion," and are distinguishable on three grounds: Title VI mandates enforcement and sets its procedures; the challenge is to a general policy of abdication, not particular decisions; and HEW is affirmatively funding the violators.
+- *Limited resources make it impossible to proceed against every violator, so the agency must be left to choose its targets.* The court accepts the premise for a prosecutor and refuses to extend it: "[i]t is one thing to say the Justice Department lacks the resources . . . to locate and prosecute every civil rights violator; it is quite another to say HEW may affirmatively continue to channel federal funds to defaulting schools."
+- *Even if enforcement is mandatory, the choice of means is discretionary, and HEW has chosen voluntary compliance.* "This position is untenable in light of the plain language of the statute," making voluntary compliance a preliminary step towards the two formal means, not a third.
 
-The purse connection runs back to Class 5. Congress controls spending under the Appropriations Clause; an executive that keeps paying recipients Congress has disqualified is spending contrary to the conditions of the grant. Compare [[U.S. House of Representatives v. Burwell]] (spending without an appropriation) and [[Obama, Statement on H.R. 1473]] (a President announcing how he will treat funding conditions he considers unconstitutional).
+## Where it sits
 
-[[Heckler v. Chaney]] (1985) set the general rule the other way: an agency's decision not to enforce is "generally committed to an agency's absolute discretion." But its footnote 4 reserved Adams by name: a general policy "so extreme as to amount to an abdication of its statutory responsibilities" might not be "committed to agency discretion." That footnote is how Adams survives. [[The Thompson Memo]] adopts it as its third limiting principle.
+**The counterweight to Cox.** [[United States v. Cox]] is Category 2 in Jackson's [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] scheme; Adams is Category 3 — Congress "authorized and directed" enforcement and prescribed the means, and the agency adopted a policy of not using them. The executive wins there only on a conclusive and preclusive power, and nobody claims one here.
 
-After the casebook, *United States v. Texas (2023)* repeated the Heckler footnote. Kavanaugh's opinion for the Court said "the standing calculus might change if the Executive Branch wholly abandoned its statutory responsibilities to make arrests or bring prosecutions," quoting the abdication language, but noted that the states had not made a Heckler-style abdication argument. The Adams exception is still reserved, not adopted, at the Supreme Court.
+**The constitutional implication.** Note 1 reads the court as concluding "at least implicitly" that Article II does not let the executive ignore a specific congressional enforcement mandate — the Take Care Clause as duty, with the English ban on the suspending power behind it: a general policy of not enforcing is a suspension in practice.
+
+**The purse.** An executive that keeps paying recipients Congress has disqualified spends contrary to the grant's conditions. Compare [[U.S. House of Representatives v. Burwell]] (spending without an appropriation) and [[Obama, Statement on H.R. 1473]].
+
+**Reserved, never adopted.** *Heckler v. Chaney* (1985) set the general rule the other way, but its footnote 4 reserved Adams by name — how Adams survives; [[The Thompson Memo]] adopts it as its third limiting principle. *United States v. Texas* (2023) repeated the reservation, Kavanaugh noting that "the standing calculus might change if the Executive Branch wholly abandoned its statutory responsibilities."
 
 ## Professor gloss
 
----
+## Cold-call notes
 
-## Class layer
+**Note 1. "Adams was litigated as a statutory case . . . but it has constitutional implications . . . What are the best arguments for such a power? What are the best arguments against?"**
 
-### Posture
+- For: the Take Care Clause commits execution to the President, faithful execution "does not necessarily entail act[ing] against each technical violation," resources and priorities are "peculiarly within" the agency's expertise.
+- Against: the duty is to execute the laws Congress passed, a conscious general policy of non-enforcement is a suspension in substance. Degree versus kind: every agency under-enforces; Adams is about announcing that the mandate will not be carried out.
 
-- Black students, citizens and taxpayers sued the Secretary of HEW (Elliot Richardson) and the Director of HEW's Office of Civil Rights for declaratory and injunctive relief. The District Court found HEW's Title VI enforcement deficient and ordered seven specific enforcement measures against primary and secondary schools and state systems of higher education.
-- HEW appealed; the D.C. Circuit, sitting en banc, decided per curiam.
+**Note 2. "How does the court distinguish exercises of prosecutorial discretion like Cox? Is this distinction persuasive?"**
 
-### Facts
+- Three grounds: Title VI directs enforcement and sets procedures; the challenge is to a general policy of abdication, not a few decisions in "a generally effective enforcement program"; and HEW is paying the violators.
+- Persuasive as to the third, which has no criminal analogue. Weaker as to the first, since a directive to enforce still leaves the choice of targets, and the second is only as good as the general-policy line.
 
-Title VI of the Civil Rights Act of 1964 bars discrimination in programs receiving federal financial assistance. Section 602 directs each funding agency to effectuate that prohibition by rules of general applicability and prescribes the means, subject to a proviso that the agency first notify the recipient and determine "that compliance cannot be secured by voluntary means." The plaintiffs alleged that HEW had not taken appropriate action to end segregation in federally funded public educational institutions. HEW argued that the means of Title VI enforcement lay in its "absolute agency discretion," relying almost entirely on cases refusing to review the prosecutorial discretion of the Attorney General and U.S. Attorneys. The editors omit the court's review of the injunction's substance, which it affirmed "in all but one minor respect." The panel list marks Judge MacKinnon with an asterisk whose footnote is not reproduced.
+**Note 3. "Is Adams really a case about Congress's power of the purse? Should the court's reasoning be limited to funding?"**
 
-### Issue
+- On the funding ground, yes: money moving where Congress forbade it, the mirror image of [[U.S. House of Representatives v. Burwell]].
+- Limited to funding, it says nothing about criminal non-enforcement; unlimited, it is a general duty to enforce mandatory statutes — the reading *Heckler* declined to bless.
 
-- Is HEW's enforcement of Title VI committed to agency discretion, so that the courts cannot review an alleged failure to enforce?
-- Does Title VI leave HEW free to rely indefinitely on voluntary compliance while continuing to fund noncompliant institutions?
+**Note 4. "Twelve years later, the Supreme Court decided Heckler v. Chaney . . . 'an agency's decision not to prosecute or enforce . . . is a decision generally committed to an agency's absolute discretion.' . . . 'Nor do we have a situation where . . . the agency has "consciously and expressly adopted a general policy" that is so extreme as to amount to an abdication.'"**
 
-### Holding
+- Heckler reverses the presumption and keeps Adams alive as its exception: the quoted phrase is Adams's own, and the footnote adds that such a statute might indicate the decision was not committed to agency discretion
+- The surviving rule is narrow and statute-dependent: Adams wins on Title VI's mandatory text; on a permissive statute the same facts lose. The Supreme Court has twice declined to adopt or reject it.
 
-- No. The exception is narrow; Title VI provides law to apply, and a general policy amounting to abdication, together with affirmative funding of violators, distinguishes the prosecutorial discretion cases.
-- No. Voluntary compliance is a required first step; if it fails within a reasonable time, HEW must terminate funds or use other lawful means, and a consistent failure to do so is a reviewable dereliction of duty.
+### Further drilling
 
-### Rule
-
-- Agency action is presumptively reviewable under the APA; the committed-to-discretion exception applies only where "there is no law to apply."
-- A statute under which the agency is "authorized and directed" to enforce, and which prescribes the means, supplies law to apply.
-- A general policy that "is in effect an abdication of its statutory duty" is reviewable, unlike individual enforcement choices within a functioning program.
-
-### Reasoning
-
-**(Per curiam)**
-
-- Text: the statute says "authorized and directed," and lays out the enforcement procedures, so it is not "drawn in such broad terms that in a given case there is no law to apply."
-- Precedent: the prosecutorial-discretion cases turned in part on the absence of a specific statute requiring the Attorney General to act (*Powell v. Katzenbach*).
-- Scope of challenge: plaintiffs ask the court "to interpret the statute and determine whether HEW has correctly construed its enforcement obligations," which is a legal question.
-- Purse: funding segregated schools is "contrary to the expressed purposes of Congress," and the "anomaly" of the government's position supports taking Congress's "clear statement of an affirmative enforcement duty" at face value.
-- Structure of the statute: the voluntary-compliance proviso exists "to avoid unnecessary invocation of formal enforcement procedures," not to replace them.
-
-### Dissent / concurrence
-
-- None in the excerpt; the court speaks per curiam, and the casebook reproduces no separate opinion.
-
-### Cold-call notes
-
-- **How does Adams distinguish Cox?** Note 2. Three grounds, in the court's order: (1) Title VI directs enforcement and sets procedures; (2) the challenge is to a general policy of abdication, not to a few decisions in a working program; (3) HEW is paying the violators. The court introduces the second with "More significantly." Ask which ground is doing the work by removing each in turn.
-- **Hypothetical: HEW terminates funds for some districts and negotiates with others.** Now HEW is making individual decisions in a generally effective program. Under ground (2) the case moves toward Cox and [[Heckler v. Chaney]], even with the mandatory statute. The line is general policy versus case-by-case judgment, the same line [[The Thompson Memo]] draws in its fourth principle.
-- **Hypothetical: Title VI said only that agencies "may" terminate funds.** Ground (1) disappears; the case looks like *Powell v. Katzenbach*. But grounds (2) and (3) remain, and the funding point would still press: Congress's substantive prohibition in § 2000d does not become optional because the remedy is permissive.
-- **Is Adams really a purse case?** Note 3. On the funding ground, yes: the executive is spending in a way Congress forbade, which is the Appropriations Clause problem in [[U.S. House of Representatives v. Burwell]] turned around. If the reasoning is limited to funding, Adams says little about criminal non-enforcement, and the Cox line is untouched. If it is not limited, Adams is a general duty to enforce mandatory statutes.
-- **Where is Adams in Youngstown?** Category three. Congress "directed" enforcement, so a policy of not enforcing is "incompatible with the expressed or implied will of Congress." The executive wins in category three only if the power is "conclusive and preclusive," and nobody claims that Article II gives the President an exclusive power to fund segregated schools.
-- **What is the best argument for an executive power to ignore the mandate?** Note 1. Resource constraints and the Take Care Clause read as a grant of judgment, the Heckler reasons. The best argument against: the Convention rejected a suspending power, and a policy of not enforcing a mandatory statute is a suspension in substance. Say which you find stronger and why.
-- **What did the Supreme Court do with Adams?** Heckler's footnote 4 reserved it; the Thompson memo treats it as a limit the executive "ordinarily" cannot cross; *United States v. Texas (2023)* (Kavanaugh) again reserved a "Heckler-style 'abdication' argument." Know that Adams is a court of appeals decision the Supreme Court has repeatedly declined to reject or adopt.
-- **The Price test.** Note 7 in the Thompson section: non-enforcement authority extends "neither to prospective licensing of prohibited conduct nor to policy-based nonenforcement of federal laws for entire categories of offenders." Adams fits: HEW's policy was category-wide non-enforcement, and the court treated it as unlawful.
+- **Remove each ground in turn.** Terminate funds for some districts and negotiate with others: individual decisions inside a working program, so the case slides towards Cox and *Heckler*. Make § 602 permissive: ground one disappears, but § 2000d's prohibition does not become optional.
+- **The general-policy line.** The Thompson memo's fourth principle runs along it: case-by-case decisions are comfortably unreviewable; "a general policy of non-enforcement that forecloses the exercise of case-by-case discretion poses 'special risks.'"
+- **The Price test.** Non-enforcement authority extends "neither to prospective licensing of prohibited conduct nor to policy-based nonenforcement of federal laws for entire categories of offenders." HEW's policy was category-wide.
+- **Memorable lines.** "It is one thing . . . it is quite another." "[A] dereliction of duty reviewable in the courts."

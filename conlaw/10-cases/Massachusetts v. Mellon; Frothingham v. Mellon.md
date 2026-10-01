@@ -17,110 +17,98 @@ posture_drove_outcome: true
 
 > [!caution] Source check — Both editions garble the opinion's last sentence identically ("to assume a position of authority over plainly we do not possess," 5th ed. p. 425), so only the clean fragment is quoted. The U.S. Reports reads "authority over the governmental acts of another and co-equal department, an authority which plainly we do not possess."
 
+## Snapshot
+
+Congress offered money to States that accepted the Maternity Act's conditions. Massachusetts, having refused it, sued the Treasury Secretary in an original action; Frothingham, a federal taxpayer, came up on appeal from the District of Columbia. Both failed on jurisdiction: a State's Tenth Amendment complaint about an optional grant is political, a State cannot be parens patriae against the United States, and a federal taxpayer's stake in the Treasury is too diffuse for equity. Article III, § 2 and the Tenth Amendment are in play.
+
+## Issue
+
+- Does a State that has not accepted a federal grant present a justiciable controversy in suing on its own behalf, alleging that the program usurps powers reserved by the Tenth Amendment?
+- May a State sue as parens patriae to protect its citizens from a federal statute's operation?
+- Does a federal taxpayer have standing to enjoin an appropriation act as unconstitutional because it will raise her taxes?
+
 ## Rule
 
-Neither a State nor a federal taxpayer can challenge a federal spending statute merely by alleging that Congress exceeded its powers. A State suing for itself needs an actual or threatened injury to proprietary, territorial or quasi-sovereign rights, not "abstract questions of political power"; a State cannot sue as parens patriae to protect its citizens from federal law; and a federal taxpayer's interest is too "minute and indeterminable" to support suit. The Court reviews acts of Congress only when a party shows "some direct injury suffered or threatened."
+Neither a State nor a federal taxpayer can challenge a federal spending statute merely by alleging that Congress exceeded its powers. A State suing for itself needs injury to proprietary, territorial or quasi-sovereign rights; it cannot sue as parens patriae against the United States; a federal taxpayer's interest in the Treasury is too minute and diffuse for equity.
 
-## Facts
+- A State's presence confers original jurisdiction only "where it is a party to a proceeding of judicial cognizance"; proprietary rights, quasi-sovereign rights "actually invaded or threatened" and boundaries fix "the jurisdictional line of demarcation" ([[Texas v. White]]).
+- "It cannot be conceded that a state, as parens patriae, may institute judicial proceedings to protect citizens of the United States from the operation of the statutes thereof."
+- "We have no power per se to review and annul acts of Congress on the ground that they are unconstitutional"; the party must show "some direct injury," not suffering "in common with people generally."
 
-- **The Maternity Act of 1921 offered appropriations to States that accepted its conditions.** *It "imposes no obligation but simply extends an option," so a State that declines loses nothing it had.*
-- **Massachusetts had not accepted the Act and sued in its own right and for its citizens.** *Having refused the money, the State could frustrate any coercion "by the simple expedient of not yielding."*
-- **Massachusetts complained that the appropriations burdened industrial States unequally.** *The only burden is taxation, which "falls upon their inhabitants," who are within Congress's taxing power.*
-- **Frothingham sued as a federal taxpayer, alleging higher future taxes would take her property without due process.** *Her share of federal spending is "comparatively minute and indeterminable"; a municipal taxpayer could have sued.*
-- **The only relief sought was to stop officials from executing an Act of Congress.** *No one was being made to do anything, so there was nothing for a court to decide except the statute's validity in the abstract.*
+## Operative facts
 
-## Court Ruling
+- **The Act of November 23, 1921, the Maternity Act, appropriated money for five years among "such of the several states as shall accept and comply with its provisions," to cut maternal and infant mortality.** *Conditional and optional, which drains the coercion claim: it "imposes no obligation but simply extends an option which the state is free to accept or reject."*
+- **A federal bureau administered it with state agencies, which reported their expenditures, and payments could be withheld from a State that misspent funds.** *Every federal lever reaches only a State that has taken the money: inside the program, a proprietary injury; outside it, nothing.*
+- **Massachusetts never accepted the Act.** *The fact that decides the case. Having refused the money the State lost nothing, and any purpose to tempt it "may be effectively frustrated by the simple expedient of not yielding."*
+- **Massachusetts filed an original suit in the Supreme Court against the Secretary of the Treasury and other federal officers to enjoin the Act's operation.** *Original jurisdiction turns on the proceeding, not the party: being a State does not supply a case.*
+- **Its bill alleged that the appropriations were local rather than national, usurped powers reserved by the Tenth Amendment, and forced on the State an option "either to yield to the federal government a part of its reserved rights or lose the share" of the money.** *Reduced to its terms this is "the naked contention that Congress has usurped the reserved powers of the several states by the mere enactment of the statute" — political, not judicial.*
+- **Frothingham brought a taxpayer's bill in the Supreme Court of the District of Columbia; it was dismissed, the District Court of Appeals affirmed, and the case came here on appeal.** *A judgment to review rather than original jurisdiction — the only difference between the suits, and it changes nothing.*
+- **She repeated the attack and added that, as a federal taxpayer, the appropriations would increase future taxation and take her property without due process.** *Her share of the Treasury is "shared with millions of others," "comparatively minute and indeterminable"; a municipal taxpayer could have sued.*
+- **The cases were argued and decided together, and the only relief sought was an injunction against officials executing an Act of Congress.** *Neither plaintiff was made to do anything, so nothing remained but the statute's validity in the abstract.*
 
-**Held** (Sutherland, J., for the Court)
+## Holding and reasoning
 
-- **Both cases are dismissed "for want of jurisdiction, without considering the merits of the constitutional questions."**
-- **Massachusetts in its own behalf.** A State's presence as a party confers original jurisdiction only "where it is a party to a proceeding of judicial cognizance." Jurisdiction has been kept for proprietary rights, dominion over air and soil, quasi-sovereign rights "actually invaded or threatened," and boundaries. A claim that Congress usurped reserved powers "by the mere enactment of the statute" is "political, and not judicial in character."
-- **Massachusetts as parens patriae.** "It cannot be conceded that a state, as parens patriae, may institute judicial proceedings to protect citizens of the United States from the operation of the statutes thereof." In relations with the federal government, "it is the United States, and not the state, which represents them as parens patriae."
-- **Frothingham as taxpayer.** A federal taxpayer's interest is "shared with millions of others," and the effect of any expenditure on her taxes is "so remote, fluctuating and uncertain" that equity cannot act. The suit presents a matter "of public and not of individual concern."
-- **The basis of judicial review.** "We have no power per se to review and annul acts of Congress on the ground that they are unconstitutional." Such a question may be considered only when a party's claim of direct injury "is made to rest upon such an act."
+**Held** (Sutherland, J., for the Court; no separate opinion in the casebook's excerpt)
 
-**Rejected**
+- **Both cases dismissed** "for want of jurisdiction, without considering the merits of the constitutional questions."
+- **Massachusetts on its own behalf: no justiciable controversy.** The bill presents "not rights of person or property, not rights of dominion over physical domain, not quasi sovereign rights actually invaded or threatened, but abstract questions of political power, of sovereignty, of government."
+- **Massachusetts as parens patriae: no.** In relations with the federal government "it is the United States, and not the state, which represents them as parens patriae."
+- **Frothingham: no standing.** Her interest is too remote for equity, and the suit is "essentially a matter of public and not of individual concern."
 
-- *Spending conditions are coercive: the Act, with similar grants, is "an effective means of inducing the states to yield a portion of their sovereign rights," and offering a State the choice of surrendering reserved powers or losing its share is itself an injury.* Sutherland: the Act does not "require the states to do or to yield anything," and a purpose to tempt them "may be effectively frustrated by the simple expedient of not yielding." The Court also adds that the State's powers are probably not invaded at all, but refuses to "rest here."
-- *The burden of the appropriations "falls unequally upon the several states, and rests largely upon the industrial states, such as Massachusetts."* The only burden is taxation, and it falls on individuals whom Congress may tax directly, not on the State.
-- *A State may sue to protect its citizens from unconstitutional laws.* A State may sometimes sue as parens patriae, but "it is no part of its duty or power to enforce their rights in respect of their relations with the federal government."
-- *A resident taxpayer may enjoin illegal use of a municipality's money, and the same should hold for the Treasury.* Sutherland: the federal question "has never been passed upon by this court," and in *Bradfield v. Roberts* the District of Columbia court sustained standing only by treating the suit as one against the District, a municipal corporation. A municipal taxpayer's interest is "direct and immediate," resembling a stockholder's; the federal taxpayer's is not. And "[i]f one taxpayer may champion and litigate such a cause, then every other taxpayer may do the same," as to "every other appropriation act." No precedent supports such suits despite many federal appropriations "for nonfederal purposes."
+**Sutherland, for the Court**
 
-## Context
+- The State's powers are probably not invaded at all, since the Act extends only an option — "[b]ut we do not rest here." The dismissal is jurisdictional.
+- The original-jurisdiction grant does not "confer jurisdiction upon the court merely because a state is a party, but only where it is a party to a proceeding of judicial cognizance." The earlier state suits fix the line, and this complaint falls outside it.
+- Citizens of Massachusetts are also citizens of the United States. A State ordinarily protects them through its own law; against federal law "it is no part of its duty or power to enforce their rights in respect of their relations with the federal government."
+- The municipal-taxpayer rule rests on "the peculiar relation of the corporate taxpayer to the corporation"; the federal relation "is very different."
+- Floodgates: "[i]f one taxpayer may champion and litigate such a cause, then every other taxpayer may do the same," as to "every other appropriation act" — a suggestion that "goes far to sustain the conclusion."
+- Review "amounts to little more than the negative power to disregard an unconstitutional enactment," and a court enjoins "not the execution of the statute, but the acts of the official, the statute notwithstanding."
+- Looking "through forms of words to the substance," the complaint is only that officials "are executing and will execute an act of Congress asserted to be unconstitutional." To stop them would be "to assume a position of authority" the Court does not possess.
 
-**The case Levitt cites.** [[Ex parte Levitt]] (1937) relies on Mellon at 488 for the direct-injury rule. Mellon supplies the rule's reason: the judiciary interprets and applies laws only "in cases properly brought before the courts," and to enjoin officials executing an Act without such a case "would be, not to decide a judicial controversy, but to assume a position of authority" the Court lacks.
+## Arguments rejected
 
-**Taxpayer standing afterwards (Note 4).** *Flast v. Cohen* (1968) allowed federal taxpayers to challenge spending under the Establishment Clause. The casebook calls the distinction "not convincing." The Roberts Court confined Flast: it does not reach discretionary executive spending (*Hein v. Freedom From Religion Foundation*, 2007) or tax credits (*Arizona Christian School Tuition Organization v. Winn*, 2011). Frothingham remains the general rule.
+- *The Act and similar appropriations are "an effective means of inducing the states to yield a portion of their sovereign rights," and the forced choice between surrendering reserved powers and losing its share is itself an injury.* Sutherland: the statute does not "require the states to do or to yield anything," and the tempting purpose "may be effectively frustrated by the simple expedient of not yielding."
+- *The burden "falls unequally upon the several states, and rests largely upon the industrial states, such as Massachusetts."* The only burden is taxation, on inhabitants "within the taxing power of Congress."
+- *A State may sue to protect its citizens against unconstitutional federal laws.* Sometimes, but not in its citizens' "relations with the federal government."
+- *A resident taxpayer may enjoin illegal use of a municipality's money, so the same should hold for the Treasury.* This court has never passed on the federal question, and *Bradfield v. Roberts* sustained standing only by treating the suit as one against the District of Columbia, a municipal corporation. The municipal taxpayer's interest is "direct and immediate"; the federal taxpayer's is not.
 
-**State standing afterwards.** *Massachusetts v. EPA* (2007) gave States special solicitude in the standing analysis, but on the ground of a State's own quasi-sovereign and territorial interests, the category Mellon had preserved. Post-casebook, *Haaland v. Brackeen* (2023) relied on Mellon to hold that Texas could not assert parens patriae standing against the federal government, and *United States v. Texas* (2023) held that States lacked standing to challenge the Executive's immigration enforcement priorities, returning the Class 8 enforcement-discretion question to the political branches.
+## Where it sits
 
-**The spending power.** The Maternity Act was an early conditional grant; the doctrine that later governs such grants is [[South Dakota v. Dole]] and [[NFIB v. Sebelius]]. In NFIB, States reached the merits and won on coercion, because the Medicaid expansion threatened funds they already received. Massachusetts, which had accepted nothing, stood to lose nothing.
+**The direct-injury rule.** [[Ex parte Levitt]] (1937) cites Mellon for the rule; Mellon supplies its reason. The judiciary applies law only "in cases properly brought before the courts," so enjoining officials executing an Act, absent such a case, exceeds its authority. The modern injury–traceability–redressability test grows from this root; see [[Standing, Mootness, and Ripeness]].
 
-**Who polices spending, then?** Note 1's question has one answer elsewhere in the course: in [[U.S. House of Representatives v. Burwell]], the House as an institution sued over spending without an appropriation. The contrast is instructive. Frothingham's interest was shared by every taxpayer; the House claimed an injury to a power that belongs to it alone under Art. I, § 9, cl. 7.
+**What survived each holding.** *Flast v. Cohen* (1968) carved an Establishment Clause exception the casebook calls "not convincing," since confined to bar challenges to discretionary executive spending (*Hein*, 2007) and tax credits (*Winn*, 2011). *Massachusetts v. EPA* (2007) gave States special solicitude on the quasi-sovereign ground Mellon preserved; *Haaland v. Brackeen* (2023) used Mellon to deny Texas parens patriae standing.
 
-**Departmentalism (Note 3).** The Court describes its power as "little more than the negative power to disregard an unconstitutional enactment," and says that an injunction runs against "the acts of the official, the statute notwithstanding." That is the judgment-centred picture of review from the Class 13 debate and Tocqueville's "censured" but "not abolished" law. See [[Judicial supremacy and departmentalism - Art. VI oath]].
+**The spending power.** The Maternity Act was an early conditional grant; the doctrine now governing them is [[South Dakota v. Dole]] and [[NFIB v. Sebelius]], where States won on coercion because the expansion threatened money they already had. Massachusetts, having accepted nothing, stood to lose nothing.
+
+**Who polices spending instead.** Largely the political branches — but [[U.S. House of Representatives v. Burwell]] is the other route: the House claimed injury to a power belonging to it alone under Art. I, § 9, cl. 7, not an interest "shared with millions of others."
 
 ## Professor gloss
 
----
+## Cold-call notes
 
-## Class layer
+**Note 1. "If no citizen and no state has standing to challenge the constitutionality of the federal law . . . then who will enforce the constitutional limits on Congress's spending and taxing power?"**
 
-### Posture
+- Congress and the President, through their oaths and the political process. Courts re-enter only when a plaintiff with money at stake appears: a State already receiving funds ([[NFIB v. Sebelius]]), or a chamber claiming its own appropriations power ([[U.S. House of Representatives v. Burwell]]).
+- The spending power's scope is not inherently non-justiciable; it is political "as it is thus presented" — abstractly, by a plaintiff who need do nothing.
 
-- *Massachusetts v. Mellon*: an original suit by Massachusetts in the Supreme Court against the Secretary of the Treasury and other federal officers to enjoin the Maternity Act.
-- *Frothingham v. Mellon*: a taxpayer's bill in the Supreme Court of the District of Columbia, dismissed; the decree was affirmed by the "District Court of Appeals," and the case came to the Supreme Court on appeal. The two were argued and decided together.
+**Note 2. "Since the Mellon cases . . . there has been an explosion in Congress's use of the spending and taxing power to dictate policy . . . . Does this change your view of these cases at all?"**
 
-### Facts
+- Yes: when grants dominate state budgets, the "simple expedient of not yielding" is theoretical, and the free option Sutherland described is the leverage.
+- No: standing turns on injury to this plaintiff, not the importance of the question. Mellon assumed grants were marginal; Dole and NFIB now police coercion on the merits.
 
-The Act of November 23, 1921, the Maternity Act, provided an initial appropriation and then annual appropriations for five years, apportioned among States that accepted and complied with it, to reduce maternal and infant mortality and protect the health of mothers and infants. A federal bureau administered it with state agencies, which had to report on their operations and expenditures, and the bureau could withhold payments from a State that misspent funds. Massachusetts alleged that the appropriations were for local, not national, purposes; that they usurped powers reserved by the Tenth Amendment; and that they forced on it an unconstitutional choice between yielding reserved rights and losing its share of the money. Frothingham made the same attack and added that, as a federal taxpayer, the increased burden of future taxation would take her property without due process.
+**Note 3. "Consider the earlier distinction . . . between judicial supremacy and departmentalism. Which conception is dominant here?"**
 
-### Issue
+- Departmentalism. Review is "little more than the negative power to disregard an unconstitutional enactment," and the injunction runs against "the acts of the official, the statute notwithstanding" — a judgment, not an annulment.
+- It sits uneasily with [[Cooper v. Aaron]], where the Court's reading binds every official as supreme law, and echoes [[Tocqueville on the American Judiciary]].
 
-- Does a State that has not accepted a federal grant program present a justiciable controversy when it sues in its own right, alleging that the program usurps powers reserved to the States?
-- May a State sue as parens patriae to protect its citizens from the operation of a federal statute?
-- Does a federal taxpayer have standing to enjoin an appropriation act on the ground that it is unconstitutional and will increase her taxes?
+**Note 4. "The general rule against taxpayer standing . . . was abandoned for lawsuits alleging a violation of the Establishment Clause in . . . Flast v. Cohen . . . . This distinction is not convincing . . . ."**
 
-### Holding
+- Flast rested on the injury to conscience in being taxed even a trifle to support a disagreeable faith — purpose, not size of stake.
+- The casebook's objection: conscience cannot be the line, since the objector taxed for war suffers the same injury and has no standing. Hein and Winn narrowed Flast to congressional appropriations, leaving the exception nearly formal.
 
-- No. The Act imposes no obligation on the State and injures no proprietary, territorial or quasi-sovereign right, so the claim presents "abstract questions of political power, of sovereignty, of government," which are political rather than judicial.
-- No. In their relations with the federal government, citizens are represented as parens patriae by the United States, not by their State.
-- No. A federal taxpayer's interest in Treasury funds is minute, shared with millions and too remote in its effect on future taxes to support equitable relief; the municipal-taxpayer rule does not extend to the United States.
+### Further drilling
 
-### Rule
-
-- A State is a proper party only in "a proceeding of judicial cognizance"; being a State does not by itself create a justiciable controversy.
-- State suits are justiciable when proprietary rights, dominion over territory, quasi-sovereign rights "actually invaded or threatened," or boundaries are at stake ([[Texas v. White]], *Georgia v. Tennessee Copper Co*, *Missouri v. Holland*).
-- A State cannot sue the United States as parens patriae on behalf of its citizens.
-- A federal taxpayer lacks standing to challenge an appropriation merely because it is unconstitutional.
-- A party invoking judicial review "must be able to show, not only that the statute is invalid, but that he has sustained or is immediately in danger of sustaining some direct injury as the result of its enforcement, and not merely that he suffers in some indefinite way in common with people generally."
-
-### Reasoning
-
-**(Sutherland, J., for the Court)**
-
-- The States' powers are probably not invaded, "since the statute imposes no obligation but simply extends an option which the state is free to accept or reject," but the Court decides on jurisdiction.
-- The prior state cases mark "the jurisdictional line of demarcation": property, dominion over air and soil, game within its borders, boundaries. This complaint is "the naked contention that Congress has usurped the reserved powers of the several states by the mere enactment of the statute, though nothing has been done and nothing is to be done without their consent."
-- Citizens of Massachusetts are also citizens of the United States. A State ordinarily protects its citizens by its own criminal law or by opening its courts; against federal law, the United States is their parens patriae.
-- The municipal-taxpayer rule rests on the "peculiar relation of the corporate taxpayer to the corporation," like stockholder to company. The federal relation "is very different."
-- Allowing one federal taxpayer to sue means allowing every taxpayer to challenge every appropriation. "The bare suggestion of such a result, with its attendant inconveniences, goes far to sustain the conclusion."
-- Separation of powers: "To the legislative department has been committed the duty of making laws, to the executive the duty of executing them, and to the judiciary the duty of interpreting and applying them in cases properly brought before the courts."
-- Judicial review "amounts to little more than the negative power to disregard an unconstitutional enactment, which otherwise would stand in the way of the enforcement of a legal right." An injunction runs against "the acts of the official, the statute notwithstanding."
-- The plaintiffs' real complaint is that officials "are executing and will execute an act of Congress asserted to be unconstitutional." To stop them would not be to decide a judicial controversy.
-
-### Dissent / concurrence
-
-- None in the casebook's excerpt; Sutherland wrote for the Court.
-
-### Cold-call notes
-
-- **Two plaintiffs, three theories, one answer.** Massachusetts for itself (no injury to a judicially cognizable right), Massachusetts for its citizens (wrong parens patriae), Frothingham as taxpayer (interest too diffuse). Know all three and the reason for each.
-- **Why is the Tenth Amendment claim "political"?** Not because it is unimportant, but because "as it is thus presented" it asks the Court to decide the scope of Congress's power in the abstract. The same Tenth Amendment question would be judicial if a State were ordered to do something, as in [[Printz v. United States]].
-- **Vary the State's conduct.** If Massachusetts had accepted the grant and the bureau withheld its funds for misspending, the State would have a proprietary injury and a justiciable claim. If the Act required Massachusetts to run the program, the State would be directly regulated. Mellon turns on the State's having done nothing and being required to do nothing.
-- **Vary the taxpayer.** A Boston taxpayer suing the city over an illegal municipal expenditure has standing under the municipal-taxpayer rule. A federal taxpayer challenging a grant to a church under the Establishment Clause has standing under *Flast*, unless the money is discretionary executive spending (*Hein*) or a tax credit (*Winn*).
-- **Who enforces the spending limits (Note 1)?** On Mellon's logic, largely Congress and the President, through their oaths and the political process. The consequence is that the limits of the spending power went mostly unenforced by courts until conditional-grant cases like [[South Dakota v. Dole|Dole]] and [[NFIB v. Sebelius|NFIB]], where the plaintiffs were States with money at stake.
-- **Does the growth of federal spending change the analysis (Note 2)?** The argument for yes: when federal grants dominate state budgets, the "option" to refuse is illusory, and a State's reserved powers are practically at stake. The argument for no: standing turns on the injury to this plaintiff, not on the importance of the question, and NFIB shows States can sue when a grant condition actually threatens their funds.
-- **Supremacy or departmentalism (Note 3)?** Mellon describes judicial review as a power to disregard a law in a case, not to annul it. That fits departmentalism and the view that courts issue judgments, not general pronouncements; it sits uneasily with [[Cooper v. Aaron]]'s claim that the Court's interpretation of the Constitution binds every official as supreme law.
-- **Connect to Tocqueville.** Sutherland's "negative power to disregard" is Tocqueville's judge who declines to apply a law. Frothingham's floodgates argument is Tocqueville's point that incidental review protects legislation "from wanton assailants."
-- **Connect to Burwell.** Frothingham could not challenge federal spending as a taxpayer; the House of Representatives could challenge spending without an appropriation as an institution. Be ready to say why: a specific constitutional role belonging to the plaintiff alone versus an interest "shared with millions of others."
-- **Memorable lines.** "[T]he simple expedient of not yielding." "[A]bstract questions of political power, of sovereignty, of government." "We have no power per se to review and annul acts of Congress on the ground that they are unconstitutional." "[C]omparatively minute and indeterminable."
+- **Two plaintiffs, three theories, one answer.** Massachusetts for itself (no cognizable right invaded), for its citizens (wrong parens patriae), Frothingham as taxpayer (interest too diffuse).
+- **Vary the State's conduct.** Accept the grant and have funds withheld: proprietary injury, a case. Be required to run the program: direct regulation, as in [[Printz v. United States]].
+- **Vary the taxpayer.** A federal taxpayer challenging a congressional grant to a church has standing under Flast, unless the money is discretionary (*Hein*) or a tax credit (*Winn*).
+- **Memorable lines.** "[T]he simple expedient of not yielding." "[A]bstract questions of political power, of sovereignty, of government."
