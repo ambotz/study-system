@@ -51,7 +51,7 @@ Lincoln answered in his July 4, 1861 message to Congress without mentioning Tane
 
 Merryman tests the provision Jackson flagged in [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]]: suspension of the writ is the Constitution's only express provision for "extraordinary authority because of a crisis." Jackson does not rely on the Suspension Clause's placement in Article I; that point is Taney's. In Youngstown terms, Lincoln acted with Congress absent (category two at best); Congress later authorized presidential suspension in 1863, moving later suspensions into category one. The same setting, with Congress not in session, frames [[The Prize Cases]] (Class 9), where the Court upheld Lincoln's blockade.
 
-Taney is also the author of [[Dred Scott v. Sandford]] (Class 12). Lincoln's refusal to comply was made against a Chief Justice he had already publicly declined to follow as a "political rule." [[Hamdi v. Rumsfeld]] (2004) and [[Boumediene v. Bush]] (2008) are the modern Suspension Clause cases.
+Taney is also the author of [[Dred Scott v. Sandford]] (Class 12). Lincoln's refusal to comply was made against a Chief Justice he had already publicly declined to follow as a "political rule." *Hamdi v. Rumsfeld* (2004) and *Boumediene v. Bush* (2008) are the modern Suspension Clause cases.
 
 The final Notes set out the debate between two casebook co-authors: Paulsen's "Merryman Power" of executive non-execution of judgments, and Baude's "judgment power," under which the President must obey judgments of a court that had jurisdiction. Baude reads Bates's opinion as resting on the lack of jurisdiction. The debate is set out in [[Bates, Opinion on the Suspension of Habeas Corpus|Bates]].
 

@@ -36,7 +36,7 @@ Lincoln's two proclamations freeing slaves in the rebelling states: the Prelimin
   - The unanswered difference: property in persons is not property the Constitution should be read to protect, but in 1863 the law treated it as property, and the casebook presses the point in legal terms.
 - **Military service.** Freed persons "of suitable condition, will be received into the armed service." That clause is the link to [[Lincoln, Order of Retaliation]]: once Black soldiers served, the Union had to decide how to protect them if captured.
 - **Note 3: what if the other branches intervened?**
-  - Congress countermanding: Congress has power to "make Rules concerning Captures" and to govern the forces, so on the Barreme principle ([[Little v. Barreme]]) a statute could control the conduct of war. Whether it could re-enslave persons already freed is a different question: the Proclamation declared them free, and a statute undoing that would operate on persons, not on the conduct of war.
+  - Congress countermanding: Congress has power to "make Rules concerning Captures" and to govern the forces, so on the Barreme principle (*Little v. Barreme*) a statute could control the conduct of war. Whether it could re-enslave persons already freed is a different question: the Proclamation declared them free, and a statute undoing that would operate on persons, not on the conduct of war.
   - The Court holding it unconstitutional: whether the President must comply raises departmentalism, which returns with [[Marbury v. Madison]] and [[Ex parte Merryman]].
 - **"Sincerely believed to be an act of justice, warranted by the Constitution, upon military necessity."** The closing sentence names both justifications and puts constitutional warrant on "military necessity," not on justice.
 
@@ -48,4 +48,4 @@ Lincoln's two proclamations freeing slaves in the rebelling states: the Prelimin
 - [[The Prize Cases]] — enemy property defined by territory, not loyalty.
 - [[Lincoln, Order of Retaliation]] — the companion order on Black soldiers taken prisoner.
 - [[Terminating War]] — why a war measure's effect after the war was uncertain.
-- [[Korematsu v. United States]] — the next war measure in the casebook, directed inward at citizens.
+- *Korematsu v. United States* — the next war measure in the casebook, directed inward at citizens.

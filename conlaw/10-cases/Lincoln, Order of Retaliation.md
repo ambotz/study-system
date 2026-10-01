@@ -26,20 +26,20 @@ Lincoln's order of July 30, 1863 threatening retaliation on Confederate prisoner
   - The same premise as [[The Prize Cases]]: the Union claims belligerent rights under the law of nations against the Confederacy, so it is bound by, and may enforce, the laws of war.
 - **The order equalizes by treating the Confederacy as a belligerent.** Grier said parties to a civil war "usually concede to each other belligerent rights" and "exchange prisoners." Lincoln insists those rules apply to Black soldiers equally, and threatens to suspend them for the enemy's prisoners if they are not.
 - **Note 2: could Congress countermand it?** The candidate powers are "make Rules concerning Captures on Land and Water," "To make Rules for the Government and Regulation of the land and naval Forces," and Necessary and Proper.
-  - The better view: yes. Rules for treatment of prisoners are rules concerning captures and rules for the forces; [[Little v. Barreme]] and [[Brown v. United States]] hold that congressional rules on capture and enemy property override presidential orders.
+  - The better view: yes. Rules for treatment of prisoners are rules concerning captures and rules for the forces; *Little v. Barreme* and *Brown v. United States* hold that congressional rules on capture and enemy property override presidential orders.
   - The executive view: tactical decisions in the field belong to the Commander in Chief, and a statute forbidding reprisal would disable a means of protecting the troops.
   - Youngstown frame: a statute banning retaliation would put the order in category three, and the President would have to claim a conclusive and preclusive command power over prisoners. Treatment of prisoners is a subject the text expressly gives Congress through the Captures Clause, which makes that claim weak.
 - **Variations on the facts.**
   - Retaliation against prisoners who themselves committed war crimes: punishment for an offense, not reprisal, and easier to justify.
   - Retaliation by torture or killing of prisoners in a modern conflict: modern law of war prohibits reprisals against prisoners of war; the 1863 order's authority depended on the law of war as it then stood, so the same legal theory would produce the opposite answer today.
   - Retaliation against enemy civilians: outside the order's terms, and the law-of-war rationale ("public enemies" in arms) does not reach them.
-- **What the order shows about the war power.** The Commander in Chief power is bounded by and enforced through the law of war. That connects Lincoln to [[Hamdi v. Rumsfeld]], where detention of enemy combatants was upheld as part of the war power subject to limits, and it contrasts with [[Korematsu v. United States]], where the war power was turned inward against citizens, the direction Jackson in [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] treated as most dangerous.
+- **What the order shows about the war power.** The Commander in Chief power is bounded by and enforced through the law of war. That connects Lincoln to *Hamdi v. Rumsfeld*, where detention of enemy combatants was upheld as part of the war power subject to limits, and it contrasts with *Korematsu v. United States*, where the war power was turned inward against citizens, the direction Jackson in [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] treated as most dangerous.
 
 ## Where it goes
 
 - [[War powers - Art. I § 8 cl. 11 and the Commander in Chief]] — the conduct of war, the law of war as a limit, and Congress's Captures and Rules Clauses.
 - [[The Emancipation Proclamation]] — enlistment of freed persons, which the order protects.
 - [[The Prize Cases]] — belligerent rights in a civil war.
-- [[Little v. Barreme]] — congressional rules on capture override executive orders.
-- [[Hamdi v. Rumsfeld]] — the war power over enemy combatants in the modern era.
-- [[Korematsu v. United States]] — the war power turned inward.
+- *Little v. Barreme* — congressional rules on capture override executive orders.
+- *Hamdi v. Rumsfeld* — the war power over enemy combatants in the modern era.
+- *Korematsu v. United States* — the war power turned inward.

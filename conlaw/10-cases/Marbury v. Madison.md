@@ -49,7 +49,7 @@ A court deciding a case must treat the Constitution as "a superior, paramount la
 
 ## Context
 
-The casebook calls Marbury "the first time that the entire Court wrote an opinion holding an act of Congress unconstitutional," but the idea was not new: [[Brutus No. 11]] and [[The Federalist No. 78]] both assumed it, the Justices had already refused to give advisory opinions ([[The Correspondence of the Justices]]) and objected to the statute in [[Hayburn's Case]], and [[Hylton v. United States]] upheld a federal tax on the merits without anyone questioning review. Marshall's argument is Hamilton's, with text added.
+The casebook calls Marbury "the first time that the entire Court wrote an opinion holding an act of Congress unconstitutional," but the idea was not new: [[Brutus No. 11]] and [[The Federalist No. 78]] both assumed it, the Justices had already refused to give advisory opinions ([[The Correspondence of the Justices]]) and objected to the statute in *Hayburn's Case*, and [[Hylton v. United States]] upheld a federal tax on the merits without anyone questioning review. Marshall's argument is Hamilton's, with text added.
 
 The case is inseparable from its politics: the election of 1800, the lame-duck Judiciary Act of 1801, the Jeffersonian Repeal Act, the cancellation of the Court's 1802 Term, and impeachment proceedings against Federalist judges ([[The Impeachment of Justice Chase]], Class 15). The confrontation everyone expected came one week later in [[Stuart v. Laird]], where the Court upheld the Repeal Act. McConnell's verdict: "Marbury must be understood as the product of a defeated and demoralized Court."
 

@@ -45,11 +45,11 @@ Congress may regulate purely local, noncommercial activity that is part of an ec
 
 Raich is the limit of [[United States v. Lopez]]. Lopez left open that noneconomic conduct can be reached as "an essential part of a larger regulation of economic activity"; Raich walks through that door. The Lopez majority splits: Kennedy joins Stevens, Scalia concurs in the judgment on a separate theory, and only Rehnquist, O'Connor and Thomas dissent.
 
-The two federalism signals of the decade point different ways. [[United States v. Morrison]] (2000, not assigned) extended Lopez to gender-motivated violence despite congressional findings; Raich shows that once the activity is the production or consumption of a traded commodity inside a comprehensive scheme, Lopez offers little. O'Connor's charge that Lopez is now "nothing more than a drafting guide" is the standing critique.
+The two federalism signals of the decade point different ways. *United States v. Morrison* (2000, not assigned) extended Lopez to gender-motivated violence despite congressional findings; Raich shows that once the activity is the production or consumption of a traded commodity inside a comprehensive scheme, Lopez offers little. O'Connor's charge that Lopez is now "nothing more than a drafting guide" is the standing critique.
 
 Scalia's concurrence relocates the substantial-effects category to the Necessary and Proper Clause and reads it through [[McCulloch v. Maryland]]: means must be "appropriate," "plainly adapted," and consistent "with the letter and spirit of the constitution," and a law that violates state sovereignty, as in [[Printz v. United States]] (Class 20), is not "proper." Thomas uses the same McCulloch text for the opposite result, invoking Marshall's warning against using the Clause as a "pretext." The Necessary and Proper route and the "proper" limit become central in [[NFIB v. Sebelius]] (Class 23), where the question is whether a mandate to buy insurance is a regulation of commerce or a necessary and proper means to the ACA's insurance reforms. [[United States v. Comstock]] (2010, not assigned; next in the casebook) upheld federal civil commitment of sexually dangerous prisoners under the Necessary and Proper Clause.
 
-Thomas's dissent restates his [[United States v. Lopez|Lopez]] originalism ("commerce" as buying, selling and transporting) and adds an as-applied Necessary and Proper analysis. After the casebook, Thomas wrote in 2021 (statement respecting denial of certiorari in [[Standing Akimbo, LLC v. United States]]) that federal tolerance of state marijuana markets had undermined the premise of Raich's "gaping hole" reasoning.
+Thomas's dissent restates his [[United States v. Lopez|Lopez]] originalism ("commerce" as buying, selling and transporting) and adds an as-applied Necessary and Proper analysis. After the casebook, Thomas wrote in 2021 (statement respecting denial of certiorari in *Standing Akimbo, LLC v. United States*) that federal tolerance of state marijuana markets had undermined the premise of Raich's "gaping hole" reasoning.
 
 ## Professor gloss
 
@@ -96,7 +96,7 @@ California voters passed Proposition 215, the Compassionate Use Act of 1996, whi
 **(Scalia, J., concurring in the judgment)**
 
 - The third Lopez category is "misleading and incomplete": activities that substantially affect commerce "are not themselves part of interstate commerce, and thus the power to regulate them cannot come from the Commerce Clause alone" but from the Necessary and Proper Clause.
-- Two routes: regulating activities with substantial effects, and regulating intrastate activity (even noneconomic) needed to make an interstate regulation effective ([[United States v. Wrightwood Dairy Co|Wrightwood Dairy]]: Congress "possesses every power needed to make that regulation effective").
+- Two routes: regulating activities with substantial effects, and regulating intrastate activity (even noneconomic) needed to make an interstate regulation effective (*Wrightwood Dairy*: Congress "possesses every power needed to make that regulation effective").
 - The second route does not reduce Lopez to a drafting guide: it "can only be exercised in conjunction with congressional regulation of an interstate market, and it extends only to those measures necessary to make the interstate regulation effective."
 - McCulloch's limits are "not merely hortatory": means must be "appropriate" and "plainly adapted," not "prohibited," and consistent with "the letter and spirit of the constitution"; Printz shows a law violating state sovereignty is not "proper."
 - Applied: Congress may seek to "extinguish the interstate market in Schedule I controlled substances"; "[t]hat simple possession is a noneconomic activity is immaterial"; marijuana grown at home "is never more than an instant from the interstate market."
@@ -105,7 +105,7 @@ California voters passed Proposition 215, the Compassionate Use Act of 1996, whi
 
 **(O'Connor, J., with Rehnquist, C.J., and Thomas, J., as to all but Part III, dissenting)**
 
-- Federalism's virtue is state experimentation: "a single courageous State may, if its citizens choose, serve as a laboratory" (Brandeis in [[New State Ice Co. v. Liebmann]]); California has made its own judgment on medical marijuana.
+- Federalism's virtue is state experimentation: "a single courageous State may, if its citizens choose, serve as a laboratory" (Brandeis in *New State Ice Co. v. Liebmann*); California has made its own judgment on medical marijuana.
 - Letting Congress immunize local regulation by "packaging regulation of local activity in broader schemes, is tantamount to removing meaningful limits on the Commerce Clause"; Lopez becomes "nothing more than a drafting guide."
 - The class must be drawn by "objective markers": federal and state law already treat medical and recreational use as distinct, so the relevant conduct is personal medical cultivation, possession and use.
 - "The Court's definition of economic activity is breathtaking": home care substitutes for daycare, charades for movie tickets, gardening for the supermarket; "To draw the line wherever private activity affects the demand for market goods is to draw no line at all."

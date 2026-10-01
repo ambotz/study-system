@@ -33,7 +33,7 @@ Alexander Hamilton's essay of April 1, 1788, defending presidential nomination w
 - **The Note's questions, with a view.**
   - *Would appointment by the President alone be abused?* Hamilton's answer is the "silent operation" of the Senate: the threat of rejection shapes the nomination even when the Senate never rejects. The Clause itself partly concedes the President could do the job alone, since Congress may give him inferior appointments "alone."
   - *Would a legislative body log-roll?* Hamilton's "Give us the man" bargain is the prediction, and the pre-1787 state experience is the evidence. Buckley treats the point as settled.
-  - *Ingenious solution or gridlock?* The design places the initiative with one person and a veto with a body. It produces gridlock only when the Senate is willing to bear the cost of refusing, which is the condition Hamilton assumed would be rare. That condition is also why the recess appointment power matters in [[NLRB v. Noel Canning]].
+  - *Ingenious solution or gridlock?* The design places the initiative with one person and a veto with a body. It produces gridlock only when the Senate is willing to bear the cost of refusing, which is the condition Hamilton assumed would be rare. That condition is also why the recess appointment power matters in *NLRB v. Noel Canning*.
 
 ## Where it goes
 
@@ -41,5 +41,5 @@ Alexander Hamilton's essay of April 1, 1788, defending presidential nomination w
 - [[Buckley v. Valeo]] — the log-rolling objection enforced against congressional appointment.
 - [[The Federalist No. 70]] — the accountability premise, applied to choosing officers.
 - [[The Decision of 1789]] — whether the Senate's role in appointment implies a role in removal.
-- [[NLRB v. Noel Canning]] — the recess alternative to Senate consent.
+- *NLRB v. Noel Canning* — the recess alternative to Senate consent.
 - [[Morrison v. Olson]] — the "inferior Officers" alternative and appointment by a court.

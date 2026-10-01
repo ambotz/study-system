@@ -55,7 +55,7 @@ Wisdom's claim that the executive's discretion "would have evolved without the d
 
 Twenty years later, [[Heckler v. Chaney]] (1985) adopted the same presumption for civil agency enforcement under the APA, explicitly analogizing an agency's refusal to act to "the decision of a prosecutor in the Executive Branch not to indict," and citing the Take Care Clause. The prosecution-is-executive premise is also the ground of Scalia's dissent in [[Morrison v. Olson]] (the independent counsel). Judge Griffin Bell, one of the dissenters here, later served as Attorney General under President Carter.
 
-After the casebook, [[United States v. Texas (2023)]] (Kavanaugh, J., for five Justices) held that states lacked standing to challenge DHS's immigration enforcement priorities, reasoning that "the Executive Branch possesses authority to decide how to prioritize and how aggressively to pursue legal actions" and that non-enforcement decisions are "ordinarily unsuitable for judicial review." That is Cox's principle stated by the Supreme Court as a matter of Article III.
+After the casebook, *United States v. Texas (2023)* (Kavanaugh, J., for five Justices) held that states lacked standing to challenge DHS's immigration enforcement priorities, reasoning that "the Executive Branch possesses authority to decide how to prioritize and how aggressively to pursue legal actions" and that non-enforcement decisions are "ordinarily unsuitable for judicial review." That is Cox's principle stated by the Supreme Court as a matter of Article III.
 
 ## Professor gloss
 

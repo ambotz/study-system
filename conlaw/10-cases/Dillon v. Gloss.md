@@ -47,7 +47,7 @@ The only Supreme Court opinion the Article V chapter excerpts, and the casebook 
 
 Two pieces of the opinion the casebook's excerpt leaves out. Dillon also held that ratification was consummated when the thirty-sixth state ratified (January 16, 1919), not on the Secretary of State's proclamation (January 29, 1919), so the Amendment's one-year delay ended on January 16, 1920 — which is why Dillon himself lost, because his conduct fell inside the thirteen-day gap. And the excerpt elides, after "the periods within which prior amendments were ratified," the Court's survey of those periods. Neither is in the assigned pages; use them only as background.
 
-Set the case against [[The Congressional Pay Amendment]], which is the fact pattern Dillon said was "quite untenable," and against [[Hollingsworth v. Virginia]] (1798), the other early Article V holding: an amendment need not be presented to the President.
+Set the case against [[The Congressional Pay Amendment]], which is the fact pattern Dillon said was "quite untenable," and against *Hollingsworth v. Virginia* (1798), the other early Article V holding: an amendment need not be presented to the President.
 
 ## Professor gloss
 

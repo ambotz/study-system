@@ -49,9 +49,9 @@ Congress cannot do through the purse what the Bill of Attainder Clause forbids i
 
 **Removal.** Frankfurter's concurrence names the problem the Court avoided: § 304, read as the Court reads it, is Congress removing executive employees, and the Court had wavered on removal from [[Myers v. United States|Myers]] (1926) to [[Humphrey's Executor v. United States|Humphrey's Executor]] (1935). Lovett is what Congress does when it cannot remove directly: it defunds the officer. See [[The Decision of 1789]], [[Myers v. United States]] and [[Humphrey's Executor v. United States]], and Class 7's [[Trump v. Slaughter]].
 
-**The bill-of-attainder line.** [[Cummings v. Missouri]] and [[Ex parte Garland]] (1867) are the foundation. Later cases outside the casebook excerpt refined Lovett's test: [[United States v. Brown]] (1965) struck a bar on Communist Party members serving as union officers, and [[Nixon v. Administrator of General Services]] (1977) upheld a statute aimed at one former President's papers, asking whether the burden is punitive in history, function and motive. The specificity-plus-punishment frame in Lovett survives; the Nixon case shows that naming one person is not enough by itself.
+**The bill-of-attainder line.** *Cummings v. Missouri* and *Ex parte Garland* (1867) are the foundation. Later cases outside the casebook excerpt refined Lovett's test: *United States v. Brown* (1965) struck a bar on Communist Party members serving as union officers, and *Nixon v. Administrator of General Services* (1977) upheld a statute aimed at one former President's papers, asking whether the burden is punitive in history, function and motive. The specificity-plus-punishment frame in Lovett survives; the Nixon case shows that naming one person is not enough by itself.
 
-**Avoidance.** Frankfurter's opinion is a textbook statement of the [[Ashwander v. Tennessee Valley Authority|Ashwander]] canon, and it would have produced the same judgment. Compare the statutory-construction move that decides [[Gundy v. United States]].
+**Avoidance.** Frankfurter's opinion is a textbook statement of the *Ashwander* canon, and it would have produced the same judgment. Compare the statutory-construction move that decides [[Gundy v. United States]].
 
 **Signing statements.** Roosevelt's statement and the Solicitor General's refusal to defend set the pattern for [[Obama, Statement on H.R. 1473]]: the President signs a must-pass appropriations bill and announces that a rider is unconstitutional.
 
@@ -84,7 +84,7 @@ In the late 1930s the House grew alarmed that "subversives" held government post
 
 ### Rule
 
-- "A bill of attainder is a legislative act which inflicts punishment without a judicial trial" ([[Cummings v. Missouri|Cummings]]).
+- "A bill of attainder is a legislative act which inflicts punishment without a judicial trial" (*Cummings*).
 - The prohibition reaches acts "no matter what their form" that apply to "named individuals or to easily ascertainable members of a group" and "inflict punishment on them without a judicial trial."
 - Permanent exclusion from a vocation, including government service, is punishment.
 - Congress's control of appropriations does not make a pay cutoff unreviewable when its purpose is to punish.
@@ -96,7 +96,7 @@ In the late 1930s the House grew alarmed that "subversives" held government post
 - Reads § 304 in light of "the circumstances leading to its passage": the Dies speech, the subcommittee's "inquest," its findings of guilt, the House's insistence.
 - Any narrower reading "would completely frustrate the purpose of all who sponsored Section 304."
 - Justiciability follows from the reading: a congressional proscription of three named people cannot be immune from every court. "Our Constitution did not contemplate such a result."
-- [[Cummings v. Missouri|Cummings]] and [[Ex parte Garland|Garland]] struck loyalty oaths that excluded people from professions; neither has been overruled, and the Court adheres to them.
+- *Cummings* and *Garland* struck loyalty oaths that excluded people from professions; neither has been overruled, and the Court adheres to them.
 - § 304 "operates as a legislative decree of perpetual exclusion" from a chosen vocation, a sanction Congress has otherwise used only for crimes like treason and bribery.
 
 **(Frankfurter, J., joined by Reed, J., concurring)**
@@ -106,7 +106,7 @@ In the late 1930s the House grew alarmed that "subversives" held government post
 - Two kinds of constitutional provisions. Broad standards like due process leave room for judgment; specific ones like the Attainder Clause "were defined by history" and must be held to their historic limits.
 - A bill of attainder is "the substitution of legislative determination of guilt and legislative imposition of punishment for judicial finding and sentence." Every historical bill specified an offense and declared guilt; § 304 does neither.
 - Not every deprivation is punishment: "A man may be forbidden to practice medicine because he has been convicted of a felony, or because he is no longer qualified."
-- The Court's reading raises removal and due process questions of great difficulty, as the swing from Myers to Humphrey's Executor shows. [[Ashwander v. Tennessee Valley Authority|Ashwander]] requires the available construction: § 304 only stopped ordinary disbursement and left the government's obligation to pay, so the respondents recover.
+- The Court's reading raises removal and due process questions of great difficulty, as the swing from Myers to Humphrey's Executor shows. *Ashwander* requires the available construction: § 304 only stopped ordinary disbursement and left the government's obligation to pay, so the respondents recover.
 
 ### Dissent / concurrence
 

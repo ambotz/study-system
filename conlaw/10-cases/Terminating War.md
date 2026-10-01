@@ -13,7 +13,7 @@ read_for: null
 
 ## What it is
 
-A short casebook note (pp. 325–326) on how a war ends: the Convention's debate over treaties of peace, [[Ludecke v. Watkins]] (1948) on the termination of a "state of war," and the 1971 repeal of the Gulf of Tonkin Resolution. It closes Assignment 14 before the casebook turns to "Conducting War."
+A short casebook note (pp. 325–326) on how a war ends: the Convention's debate over treaties of peace, *Ludecke v. Watkins* (1948) on the termination of a "state of war," and the 1971 repeal of the Gulf of Tonkin Resolution. It closes Assignment 14 before the casebook turns to "Conducting War."
 
 ## What to notice
 
