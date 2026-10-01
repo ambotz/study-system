@@ -1,15 +1,22 @@
 ---
 name: case-brief
-description: Write a case file for an assigned reading, against the fixed two-layer schema in CLAUDE.md section 5. Use when asked to brief a case, prepare a reading, or fill 10-cases for a class meeting. Refuses to brief statutes, rules, and governance documents, which take doctrine modules instead.
+description: Write a case file for an assigned reading, against the fixed schema in CLAUDE.md section 5 — one pass for Con Law, two layers for BusOrg and Legal Finance. Use when asked to brief a case, prepare a reading, or fill 10-cases for a class meeting. Refuses to brief statutes, rules, and governance documents, which take doctrine modules instead.
 ---
 
 # case-brief
 
 Produces one file in `<class>/10-cases/<Case Name>.md` from an assigned reading.
 
-The case file has two layers. The **brief layer** is extraction that must still be
-true in December and that feeds `30-doctrine`. The **class layer** is cold-call
-prep against the opinion and is allowed to decay after the class meeting passes.
+The schema depends on the course.
+
+- **Con Law** takes the one-pass, nine-section schema (`CLAUDE.md` 5a). Every
+  subject appears once: the facts are told in one place, the rule stated in one
+  place. Use it from Class 5 forward, and convert an older Class 1–4 file to it
+  when you touch that file.
+- **BusOrg** and **Legal Finance** take the two-layer schema (`CLAUDE.md` 5b).
+  The **brief layer** is extraction that must still be true in December and that
+  feeds `30-doctrine`; the **class layer** is cold-call prep against the opinion
+  and is allowed to decay after the class meeting passes.
 
 `CLAUDE.md` is authoritative for the schema and the house style. This file is the
 procedure.
@@ -71,7 +78,54 @@ Look the reading up in `<class>/99-meta/case-index.json`.
 6. **Leave `Professor gloss` empty.** An empty heading, no placeholder text and
    no comment. `session-reconcile` populates the gloss from the class debrief.
 
-## Section order
+## Section order — Con Law
+
+Nine sections, this order, no additions, no reordering.
+
+1. `## Snapshot` — 60–90 words of prose, orientation only. What was done, how the
+   case got here in a clause, what the court held, and the provisions in play. No
+   narrative detail: the story is told in Operative facts and nowhere else. Past
+   90 words it is doing another section's job.
+2. `## Issue` — bulleted, one per question, in the order the court takes them.
+   A question argued and left undecided is marked **Argued, not decided**. Where
+   the casebook frames the unit around a stated question, quote that framing in
+   one lead sentence and say which question this case answers.
+3. `## Rule` — the synthesized statement first, as prose, 2–5 sentences: the
+   opening line of an exam answer. Then the court's own quotable formulations as
+   bullets beneath it. The rule is stated here and nowhere else in the file.
+4. `## Operative facts` — bulleted, **chronological**, six to ten bullets. Each
+   opens with the fact in bold, stated plainly and fully enough to stand alone,
+   then gives its significance in italics: what it decided, or what changing it
+   would change. Read top to bottom these bullets must give the reader the case —
+   there is no separate narrative section, so a fact that matters goes here or
+   nowhere. A fact that decided nothing and explains nothing is omitted.
+   Order chronologically rather than by importance: in most cases the sequence of
+   events *is* the argument, and a reader who gets the order gets the holding.
+5. `## Holding and reasoning` — a `**Held**` line naming the vote and the lineup,
+   including any judge who took no part; then bulleted dispositions in issue
+   order; then the reasoning under a bold heading per opinion, majority first,
+   judge named. A unanimous court is a clause in the Held line, not a section.
+6. `## Arguments rejected` — bulleted. The losing argument at its strongest, in
+   italics, then the court's answer. An argument summarised only as the court's
+   dismissal of it is useless for drilling.
+7. `## Where it sits` — prose with wikilinks. Course position, the neighbouring
+   cases and the distinguishing fact for each, the legislative response, the
+   module this case feeds. Three or four bolded themes, not six.
+8. `## Professor gloss` — empty.
+9. `## Cold-call notes` — **built from the casebook's own notes.** Find the
+   numbered notes for this reading, quote each as the prompt in the casebook's
+   words, and answer it beneath in bullets. Where the notes follow a later
+   reading and cover several together, say so in one line and quote them anyway.
+   Where a note contains a question that looks rhetorical — "is it relevant
+   that the Constitution says . . ." — treat it as the live one; that is usually
+   where the professor is going. Questions of your own go below a
+   `### Further drilling` subheading, and only where they reach something the
+   casebook's notes do not.
+
+Target 1,600–2,000 words for the file. Longer means a section is restating
+another.
+
+## Section order — BusOrg and Legal Finance
 
 **Brief layer**
 
@@ -170,14 +224,32 @@ Stop and say so, rather than producing something plausible:
 
 ## Before finishing, check
 
-1. Every section present, in order, both layers.
+1. Every section present, in the schema's order, and no section added.
 2. `Professor gloss` empty — no placeholder, no comment.
 3. `feeds_module` resolves to a real module, or the missing module is named.
-4. No wikilink wraps across a line.
-5. No meta-commentary anywhere in the file.
-6. Holding bullets map one-to-one onto Issue bullets, in the same order.
-7. Every rejected argument stated at its strongest before the court's answer.
-8. `case` frontmatter matches the filename and matches `case-index.json`.
-9. The two Facts sections divide the material rather than duplicating it — every
-   bullet in the brief layer passes the would-changing-it-change-the-result test,
-   and nothing that fails that test appears in both places.
+4. **Every wikilink resolves to a note that exists.** A case the reading discusses
+   but that has no file in `10-cases/` is written as an italicised case name in
+   plain text, never as a link — Obsidian renders a link to a missing note as a
+   dead link. Check with `ls` rather than assuming.
+5. No wikilink wraps across a line, and no link target ends in a period.
+6. No meta-commentary anywhere in the file.
+7. Holding bullets map one-to-one onto Issue bullets, in the same order.
+8. Every rejected argument stated at its strongest before the court's answer.
+9. `case` frontmatter matches the filename and matches `case-index.json`.
+
+**Con Law only**
+
+10. Each subject appears once. The facts are told only in Operative facts; the
+    rule stated only in Rule. If a reader meets the same material twice at
+    different altitudes, the file has reverted to the two-layer shape.
+11. Operative facts run in chronological order and carry the whole story — a
+    reader of those bullets alone understands the case.
+12. Cold-call notes quote the casebook's numbered notes as the prompts. Invented
+    questions sit below `### Further drilling`, or not at all.
+13. The file is 1,600–2,000 words.
+
+**BusOrg and Legal Finance only**
+
+14. The two Facts sections divide the material rather than duplicating it — every
+    bullet in the brief layer passes the would-changing-it-change-the-result test,
+    and nothing that fails that test appears in both places.

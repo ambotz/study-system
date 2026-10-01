@@ -139,6 +139,88 @@ statutes, rules, or governance documents.
 
 ## 5. Case file schema — FIXED
 
+Two schemas, chosen by course. They are not interchangeable.
+
+- **Con Law** uses the single-pass schema in 5a, adopted from Class 5 forward.
+  Classes 1–4 may still carry the older two-layer shape; convert on touch.
+- **BusOrg** and **Legal Finance** use the two-layer schema in 5b.
+
+Frontmatter is the same either way.
+
+```yaml
+case:                  # short name, matches the filename
+citation:
+court:
+year:
+class:                 # busorg | conlaw | legalfinance
+session:               # class meeting number
+topic:
+feeds_module:          # wikilink(s) to the doctrine module(s) this case supports
+read_for:              # YYYY-MM-DD, the class meeting it was assigned for
+posture_drove_outcome: # true | false
+```
+
+### 5a. Con Law — one pass, nine sections
+
+Nine sections, this order, no additions, no reordering. Each subject appears
+**once**: the facts are told in one place, the rule stated in one place. A file
+that tells the reader the same thing at two altitudes is the defect this schema
+exists to prevent.
+
+```
+## Snapshot
+## Issue
+## Rule
+## Operative facts
+## Holding and reasoning
+## Arguments rejected
+## Where it sits
+## Professor gloss
+## Cold-call notes
+```
+
+1. **Snapshot** — orientation only, 60–90 words, prose. What the government or
+   the parties did, how the case got here in one clause, what the court held, and
+   the provision or provisions in play. No narrative detail: the story belongs in
+   Operative facts. If Snapshot runs past 90 words it has started doing another
+   section's job.
+2. **Issue** — bulleted, one bullet per question, in the order the court takes
+   them. Mark a question the parties argued and the court declined to decide as
+   **Argued, not decided**. Where the casebook frames the unit around a stated
+   question, quote that framing in one lead sentence and say which question this
+   case answers.
+3. **Rule** — the synthesized statement first, as prose: the opening line of an
+   exam answer, 2–5 sentences. Then, as bullets beneath it, the quotable
+   formulations in the court's own words. Both belong here and nowhere else.
+4. **Operative facts** — bulleted, **in chronological order**, because the
+   sequence is usually the argument. Each bullet opens with the fact in bold,
+   stated plainly and completely enough to stand alone, then gives its
+   significance in italics: what it decided, or what changing it would change.
+   These are the facts a hypothetical is built on. Ordinary narrative that
+   decided nothing is omitted, not relegated — there is no second facts section
+   to hold it. Six to ten bullets.
+5. **Holding and reasoning** — a **Held** line naming the vote and lineup
+   (including who took no part), then bulleted dispositions in issue order, then
+   the reasoning grouped under a bold heading per opinion, majority first. Name
+   the judge in each heading. A unanimous court gets one clause in the Held line,
+   not a section.
+6. **Arguments rejected** — bulleted. State the losing argument at its strongest,
+   in italics, then the court's answer. The exam points live here.
+7. **Where it sits** — prose with wikilinks. Course position, the neighbouring
+   cases and the fact that distinguishes each, the statutory or legislative
+   response, which module the case feeds. Three or four bolded themes, not six.
+8. **Professor gloss** — heading only. Filled after class, never before.
+9. **Cold-call notes** — **driven off the casebook's own notes**, which is what
+   gets asked. Quote each numbered note as the prompt and answer it beneath.
+   Where the notes sit after a later reading and cover several, say so in one
+   line and quote them anyway. Invented questions are allowed only below a
+   `### Further drilling` subheading, and only where they add something the
+   casebook's notes do not reach.
+
+Target 1,600–2,000 words. Longer means a section is restating another.
+
+### 5b. BusOrg and Legal Finance — two layers
+
 Two layers in one file.
 
 - The **brief layer** is the extraction that survives into `30-doctrine` and must
@@ -149,19 +231,7 @@ Two layers in one file.
 The brief layer leads. If the class layer stops getting filled in by week six,
 the file is still doing its job.
 
-```yaml
-case:                  # short name, matches the filename
-citation:
-court:
-year:
-class:                 # busorg | conlaw | legalfinance
-topic:
-feeds_module:          # wikilink(s) to the doctrine module(s) this case supports
-read_for:              # YYYY-MM-DD, the class meeting it was assigned for
-posture_drove_outcome: # true | false
-```
-
-### Brief layer
+#### Brief layer
 
 1. **Rule** — one sentence. What this case adds to the doctrine that was not
    already there. "Nothing — illustration of [[X]]" is a legitimate answer.
@@ -185,7 +255,7 @@ posture_drove_outcome: # true | false
    three sections above but that a reader in December would want.
 5. **Professor gloss** — filled in after class, not before. Empty until then.
 
-### Class layer
+#### Class layer
 
 Below a `---`. In this order:
 
