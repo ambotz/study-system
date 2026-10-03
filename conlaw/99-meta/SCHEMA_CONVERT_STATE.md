@@ -18,28 +18,24 @@ Everything here is set up. **Do not rebuild any of it.**
 - `_inbox/schema-v2/out/A..H/ASSIGN.md` — the 36 cases split 8 ways (A–D are 5 cases, E–H are 4).
 - `_inbox/schema-v2/converted/` — converted files awaiting validation and commit.
 
-## Converted so far — 31 of 36
+## Converted so far — 34 of 36
 
-All of Class 5+ except the five below. Latest batch: Trump v. Slaughter, Trump v.
-United States, United States v. Nixon, South Dakota v. Dole, Marbury v. Madison,
-McCulloch v. Maryland.
+All of Class 5+ except NFIB v. Sebelius and Dred Scott v. Sandford.
 
-## 5 remain
+## 2 remain
 
-Three are converted but over the word band. They need **trimming, not
-reconverting** — the nine sections are already correct in each. Working copies are
-in `_inbox/schema-v2/oversize/`.
+| Case | Extract | Note |
+|---|---|---|
+| NFIB v. Sebelius | 123 KB | not started; give it its own agent |
+| Dred Scott v. Sandford | 121 KB | not started; give it its own agent |
 
-| Case | State |
-|---|---|
-| Trump v. Cook | converted, 2,349 words — trim |
-| In re Neagle | converted, 2,610 words — trim |
-| National Pork Producers Council v. Ross | converted, 2,317 words — trim |
-| NFIB v. Sebelius | not started — 123 KB extract, give it its own agent |
-| Dred Scott v. Sandford | not started — 121 KB extract, give it its own agent |
+These are the two largest casebook extracts in the course. One agent each, and
+nothing else in the batch.
 
-The three trims are cheap: one agent can take all three, since no extract needs
-reading. NFIB and Dred Scott are the two most expensive files in the course.
+**Word counting, for anyone measuring a file against the band:** count the nine
+sections only. The `> [!caution]` callout sits above them, is copied byte-identical
+from the source, and runs to 190 words in some files — counting it makes a
+compliant file look over.
 
 ## Nine cases have no casebook extract
 

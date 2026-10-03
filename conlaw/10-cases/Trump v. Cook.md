@@ -16,126 +16,107 @@ posture_drove_outcome: true
 
 > [!caution] Source check — Built from the Court's opinion, partially retrieved. Thomas's dissent is partial; Alito's and Barrett's dissents were not retrieved and are described only as the majority characterizes them. Check against the Canvas version.
 
-## Rule
+## Snapshot
 
-The Federal Reserve is the exception [[Trump v. Slaughter]] reserved: the Governors' for-cause protection "is consistent with the Constitution" because the Fed follows the First and Second Banks' tradition of monetary policy insulated from the President. Under the statute, "cause" is judicially reviewable and sets "a substantial threshold." A fixed term with removal "for cause" also carries the common-law requirement of notice and an opportunity to respond before removal.
+The President purported to remove a Federal Reserve Governor for cause, citing alleged mortgage fraud that predated her service; she won a preliminary injunction, and the Court denied the Government's stay application. On narrow statutory grounds it held that she had received none of the notice and opportunity to respond a for-cause removal requires, so the removal was void, and that the Governors' protection is consistent with Article II. 12 U.S.C. § 242 and Article II are the provisions in play.
 
-## Facts
+## Issue
 
-- **The President cited alleged mortgage fraud, not policy.** He wrote that Cook "may have made false statements on one or more mortgage agreements." *A policy-based firing would fail at once; alleged misconduct forces the Court to say what "cause" means.*
-- **The alleged conduct came before Cook joined the Board.** *The District Court held "cause" limited to in-office conduct. The Court rejected that as a categorical rule; the nexus to the Governor's duties goes to weight instead.*
-- **Cook received no notice or chance to respond.** The only prior "notice" was a post: "Cook must resign, now!!!" *The ground of decision. With a notice and a deadline for response, the case turns to whether the charge was cause.*
-- **The Government conceded the statute's constitutionality.** *The Court reached Article II anyway, in reply to Thomas; Alito and Barrett objected.*
-- **The case came up on a stay application.** *The Court decides only likelihood of success. Kavanaugh stresses that whether Cook may be removed for cause remains open.*
-
-## Court Ruling
-
-**Held** (5–4; Roberts, C.J., for the Court, joined by Sotomayor, Kagan, Kavanaugh and Jackson; Kavanaugh and Jackson concurring; Thomas dissenting; Alito dissenting, joined by Gorsuch; Barrett dissenting)
-
-- Application for stay denied. The Government has not shown it is likely to prevail on any of its three arguments, and "[t]o accept any one of those arguments would in effect transform the Federal Reserve's for-cause protection into at-will employment."
-- The President's determination of cause is reviewable. Removal "is a decision only the President can make (short of impeachment). But that does not mean that he may make that decision for any reason, or no reason."
-- "Cause" is a common-law term of art. The Government's test (any concern about "conduct, ability, fitness, or competence") is "too lenient," and Cook's (only the causes other statutes listed in 1935) is "too stringent." "[A]ny definition of 'cause' in this context must reflect the Federal Reserve's unique historical status and role," which "counsels a substantial threshold."
-- A court may order that a removed Governor stay in office pending litigation if the Governor is otherwise entitled to a preliminary injunction; equity protected de facto officers while title was litigated at law.
-- On "narrow grounds," the President "failed to afford Cook the procedural protections to which she was entitled by statute." Her removal was "erroneous and void" from the start. The constitutional due process claim is not reached.
-- "The protection from removal enjoyed by Governors of the Federal Reserve is consistent with the Constitution."
-
-**Rejected**
-
-- *"For cause" commits the judgment to the President alone. Only he may remove a Governor, and courts cannot second-guess his finding of cause.* Roberts: "We see no such textual commitment." Congress could have made Governors removable at will or barred review, "[b]ut Congress has done neither." *Reagan* (1901) is distinguishable because that statute defined no causes. The common law treated "[t]he sufficiency and reasonableness of the cause of removal" as "questions for the courts."
-- *"Cause" means any concern about conduct, ability, fitness or competence (Black's, 2d ed.), which excludes only "mere policy disagreement," and a concern about integrity easily qualifies.* Roberts: Black's own sources required cause that is "substantial, reasonable and just," a "disqualification" akin to inefficiency or incompetency, and "[n]either one of those cases, however, nor Black's itself, suggested that any reason would do."
-- *(Cook) "Cause" incorporates only the causes other statutes recognized in 1935 (inefficiency, neglect, malfeasance, ineligibility), so private pre-office conduct "can offer no cause at all."* Roberts: the statute says "cause," a common-law concept; it does not refer to "causes that Congress has otherwise recognized as adequate."
-- *Equity cannot interfere with removal of public officers (In re Sawyer, White v. Berry), so the most a court can give is backpay later.* Roberts: those cases bar equity from finally deciding title, not from protecting "the possession of officers de facto, . . . pending a litigation." Otherwise a President could remove a Governor "for very lengthy periods of time without substantial cause."
-- *The President's social-media post gave Cook notice and a chance to be heard.* Roberts: the post "did not suggest that a response from Cook would be appropriate" nor state the charge; "That will not do." At minimum Cook was owed "some explanation of the evidence at issue, some avenue for a response, and a deadline by which a response would be due."
-- *(Alito) The Court should not rest on the statute when the lower courts ruled only on due process.* Roberts: "we 'revie[w] judgments, not statements in opinions.'"
-- *(Thomas) The Federal Reserve Board is an executive agency, the Banks were not, and Article II requires at-will removal.* Roberts: the Fed's tradition "has not stood still," but there is "no reason, however, why our central bank ought to be 'trapped in amber'" any more than the rest of the constitutional scheme.
-
-## Context
-
-Cook was decided the same day as [[Trump v. Slaughter]] and answers the question Slaughter's Part III-B left open. The reservation began in [[Seila Law LLC v. Consumer Financial Protection Bureau|Seila Law]] n.8, and in the 2025 interim order in *Trump v. Wilcox* the Court described the Fed as a "uniquely structured" entity in the First and Second Bank tradition (quoted in Kavanaugh's concurrence as the Government's acknowledgment). The vote lines differ from Slaughter's. Kavanaugh and the three Slaughter dissenters join Roberts. Thomas, Alito, Gorsuch and Barrett, all in the Slaughter majority, dissent.
-
-The opinion's history runs through the Bank of North America, the First Bank (1791), and the Second Bank (1816). It quotes Marshall's account in [[McCulloch v. Maryland]] of why Congress revived the Bank, and ends with Jackson's veto of the Second Bank's recharter. Cook therefore bridges the removal unit (Classes 6–7) and McCulloch in Class 17: the same institution that tests the Necessary and Proper Clause there supplies the Article II exception here.
-
-The case stays within [[Humphrey's Executor v. United States|Humphrey's]]' world in one respect: Roosevelt's firing of Humphrey, for policy disagreement with no cause claimed, is the paradigm of what a for-cause protection forbids. Cook adds three things Humphrey's never reached: judicial review of the cause given, a substantive threshold for "cause," and pre-removal process. Whether Cook in fact may be removed is left to the litigation below.
-
-## Professor gloss
-
----
-
-## Class layer
-
-### Posture
-
-- The District Court (D.D.C.) preliminarily enjoined Cook's removal. The D.C. Circuit declined to stay the injunction: Judge Garcia, joined by Judge Childs, concurred on due process, and Judge Katsas dissented.
-- The Government applied to the Supreme Court for a stay; the Court deferred the application pending oral argument (argued January 21, 2026) and denied it on June 29, 2026 (No. 25A312).
-
-### Facts
-
-Lisa Cook was appointed to the Board of Governors in 2022 to finish an unexpired term and was confirmed to a full 14-year term in 2023, running to 2038. In August 2025 the Director of the Federal Housing Finance Agency posted a letter to the Attorney General accusing Cook of claiming two homes as her principal residence in 2021 to obtain better mortgage terms. Within half an hour the President posted that Cook "must resign," and days later he purported to remove her for cause. He cited "deceitful and potentially criminal conduct" that at a minimum showed "gross negligence." Cook sued, alleging the removal was not "for cause" and that she was owed notice and a hearing. The District Court held "cause" limited to in-office conduct and found a likely due process violation.
-
-### Issue
-
-- Is the President's determination that "cause" exists judicially reviewable?
+- Is the President's determination of "cause" judicially reviewable?
 - What does "for cause" in 12 U.S.C. § 242 require?
 - May a court keep a removed Governor in office while the removal is litigated?
 - Did the President give Cook the process the statute requires?
 - Is the Governors' for-cause protection consistent with Article II?
 
-### Holding
+## Rule
 
-- Yes. Nothing in the statute commits cause to the President's unreviewable discretion, and the common law treated sufficiency of cause as a question for courts.
-- A substantial threshold, not fully defined. The Government's and Cook's tests are both rejected; cause must reflect the Fed's "unique historical status and role" and turns on the seriousness of the misconduct and its nexus to the Governor's duties.
-- Yes, if the Governor is otherwise entitled to a preliminary injunction; equity protects de facto officers pending a contest over title.
-- No, and this is the ground of decision. A fixed term with removal "for cause" carries a common-law right to notice and an opportunity to respond (*Reagan*, *Shurtleff*). A social-media post is not notice, so the removal was likely "erroneous and void." The constitutional due process claim is not reached.
-- Yes. The Fed "follows in this tradition" of the First and Second Banks, "with a similar degree of independence from Presidential control."
+The Fed is the exception [[Trump v. Slaughter]] reserved: the Governors' for-cause protection "is consistent with the Constitution" because the Fed follows the First and Second Banks' tradition of insulating monetary policy from the President. "Cause" is a common-law term of art, judicially reviewable and pitched at a substantial threshold reflecting the Fed's unique history, and a fixed term with removal for cause carries a common-law right to notice and an opportunity to respond.
 
-### Rule
+- Removal "is a decision only the President can make (short of impeachment)," but that does not mean "that he may make that decision for any reason, or no reason."
+- Cause turns "on the seriousness of the alleged misconduct, and the extent of any nexus that may exist to the Governor's professional duties," and on whether the charge shows "an unfitness for the place."
+- Equity may keep a Governor in office pending litigation if she is otherwise entitled to a preliminary injunction.
 
-- A statutory "for cause" limit on removal is reviewable in court unless Congress commits it to the President or bars review.
-- "Cause" for removing a Fed Governor depends "on the seriousness of the alleged misconduct, and the extent of any nexus that may exist to the Governor's professional duties." The question is whether the cause implies "an unfitness for the place" or is a pretext to secure a "more congenial" replacement.
-- A fixed term plus for-cause removal implies notice of the charges and a chance to respond before removal, which may be "on written materials only."
-- Courts may enjoin a Governor's removal pending litigation.
-- Article II permits for-cause protection for the Fed's Governors because of the First and Second Bank tradition.
+## Operative facts
 
-### Reasoning
+- **Section 242 gives each of the seven Governors a staggered fourteen-year term and allows removal only "for cause."** *A term of art rather than a list of grounds, which is what lets the Court import the common law.*
+- **Cook was appointed to the Board in 2022 to finish an unexpired term and confirmed in 2023 to a full term running to 2038.** *A fixed term triggers the 1901 rule that notice and hearing are essential.*
+- **August 2025: the Director of the Federal Housing Finance Agency posted a letter to the Attorney General accusing Cook of claiming two homes as her principal residence in 2021 to obtain better mortgage terms.** *The conduct alleged predates her service, which raises whether pre-office conduct can be cause at all.*
+- **Within half an hour the President posted that Cook "must resign, now!!!"** *The only notice she ever received, and the ground of decision: it stated no charge and invited no response.*
+- **Days later he purported to remove her for cause, citing "deceitful and potentially criminal conduct" that at a minimum showed "gross negligence."** *Alleged misconduct rather than policy, so the Court cannot treat this as a disguised policy firing and must say what "cause" means.*
+- **Cook sued, alleging that the removal was not "for cause" and that she was owed notice and a hearing.** *She pleaded the statute and the Constitution, and only the statutory claim is reached.*
+- **The District Court preliminarily enjoined the removal, holding "cause" limited to in-office conduct and finding a likely due process violation.** *The categorical limit is rejected on review, and the nexus to the Governor's duties goes to weight instead.*
+- **The D.C. Circuit declined to stay the injunction, Judge Garcia and Judge Childs concurring on due process and Judge Katsas dissenting.** *The procedural rationale the Court adopts was already the narrow ground below.*
+- **The Government applied for a stay, the Court deferred the application, heard argument on January 21, 2026, and denied the stay on June 29, 2026.** *Only likelihood of success is decided, so whether Cook may lawfully be removed for cause remains open.*
 
-**(Roberts, C.J., for the Court)**
+## Holding and reasoning
 
-- **History first.** The Continental Congress's paper money was "[n]ot worth a Continental," so Congress "would have to tie its own hands" through a bank. The Bank of North America was followed by the First Bank (1791), whose directors answered to private stockholders. Hamilton thought it "an essential ingredient in its structure, that it shall be under a private not a public Direction." The Second Bank followed; only five of its 25 directors were appointed by the President. Jackson's veto ended it, and the panics that followed led to the Federal Reserve (1913, restructured 1933 and 1935).
-- **Structure of the Fed.** There are twelve privately owned regional banks plus the Board and the Federal Open Market Committee. The Board's seven Governors serve staggered 14-year terms and "may be removed only 'for cause.'"
-- **Reviewability (II-A).** Congress neither made Governors removable at will nor barred review. Deciding whether the President has identified cause requires interpreting the statute, which is the courts' task (*Loper Bright*). The Government's authorities either declined to decide the point or involved statutes making procedures exclusive. "We see no indication in the common law that the President should have a free hand."
-- **Meaning of cause (II-B).** Congress legislated "against the backdrop of the common law." Common-law cause was "substantial, reasonable and just," and the Fed's features (a self-set budget, private regional banks, and a mandate that depends on credibility) mean that "the appearance of independence is key to the Federal Reserve's design." Without a real threshold, "any perceived or alleged misstep (past or present) could provide a ready pretext." "Nothing could be more corrosive of the independence that Congress sought to preserve."
-- **Interim reinstatement (II-C).** Equity could not decide title, which was for quo warranto or mandamus, but it could protect incumbents "pending a contest as to their title." *Sawyer* and *White v. Berry* rested on adequate legal remedies.
-- **Process (III-A).** When Congress wrote "for cause" in 1913 and 1935, the Court had held (1901) that "notice and hearing are essential" where "the term of office is for a fixed period." Only notice of the charges and "an opportunity to be heard in his defense" are required, not a trial. The President gave neither, since "Cook must resign, now!!!" is not notice. The Court does not decide whether Cook committed "gross negligence."
-- **Constitutionality (III-B).** The Founders knew the dangers of even the "suspicion" of political manipulation of money. The First and Second Banks were independent of the President, and "[t]he Federal Reserve follows in this tradition, with a similar degree of independence from Presidential control." The tradition need not be "trapped in amber"; "[i]n our view, the Federal Reserve maintains the 'balance struck by the founding generation' under 'modern circumstances.'" The Court declines to leave the question open, invoking the "special arrangement sanctioned by history" (quoting Alito's dissent in *CFPB v. CFSA*).
+**Held** (5–4; Roberts, C.J., for the Court, joined by Sotomayor, Kagan, Kavanaugh and Jackson)
 
-### Dissent / concurrence
+- **Stay denied.** None of the Government's three arguments is likely to prevail; each "would in effect transform the Federal Reserve's for-cause protection into at-will employment."
+- **Cause is reviewable, and pitched at a substantial threshold.**
+- **Interim reinstatement is available** to a Governor otherwise entitled to an injunction.
+- **No process, so no valid removal.** The President "failed to afford Cook the procedural protections to which she was entitled by statute," making the removal "erroneous and void"; the due process claim is not reached.
+- **Constitutional.** "The protection from removal enjoyed by Governors of the Federal Reserve is consistent with the Constitution."
 
-- **Kavanaugh, J., concurring.** Joins in full. "[T]oday's interim ruling does not decide whether the President may lawfully remove Governor Cook for cause"; that depends on facts yet to be found. The Government itself "acknowledge[d]" the Fed's constitutionality. The Court was right not to leave the question open: "After Slaughter, there is a clear choice: Either the Federal Reserve may remain independent (with the Governors removable for cause, not at will), or it may not." Uncertainty would risk "turmoil in the U. S. and world economies." "If the Federal Reserve's for-cause removal protections are to be eliminated, that change must occur through the legislative process."
-- **Jackson, J., concurring.** A stay is "fundamentally an equitable determination," and the equities decide this case alone. The only harm the Government identified is the President's displeasure, and the public interest in an independent Fed "unmistakably weighs against" the application. She joins the merits because of the full briefing and argument. "The Government misses the mark by a mile."
-- **Thomas, J., dissenting.** "Cook's office was not her 'property' because, in this country, government officials do not own the public offices in which they serve." "Apparent mortgage fraud was a 'cause' to remove Cook." The statute "says nothing about notice or a hearing," and "[a]ny other result would violate Article II." Historically, the First and Second Banks "possessed no sovereign power." The Board is an executive regulator modeled by Warburg, Aldrich and Wilson on European central banks, not on the Banks. The majority's policy case is one of "arguments against the Constitution," and the relief lacks a cause of action and exceeds equity. Only the opening portion of the dissent was retrievable.
-- **Alito, J., dissenting (joined by Gorsuch, J.).** The text was not retrievable. As the majority describes it, the Court should not rest on the statute when the lower courts ruled on due process alone, and should not issue a "comprehensive opinion at this juncture."
-- **Barrett, J., dissenting.** The text was not retrievable. As the majority describes it, she objects to the Court's discussing the Fed's constitutionality at all, and suggests that the injunction in fact reaches well beyond process.
+**Roberts, C.J., for the Court**
 
-### Cold-call notes
+- **History first.** The Continental Congress's paper money was "[n]ot worth a Continental," so Congress "would have to tie its own hands" through a bank; only five of the Second Bank's twenty-five directors were presidential appointees.
+- **Reviewability and cause.** Congress neither made Governors removable at will nor barred review, and it legislated "against the backdrop of the common law." Because "the appearance of independence is key to the Federal Reserve's design," a lower threshold would let any "alleged misstep" supply "a ready pretext."
+- **Process.** Notice and hearing "are essential" where "the term of office is for a fixed period," though only notice and "an opportunity to be heard in his defense" are required, not a trial.
+- **Constitutionality.** The Founders knew the dangers of even the "suspicion" of political manipulation of money, and the Fed "follows in this tradition, with a similar degree of independence from Presidential control."
 
-- **What was the actual ground of decision?** Statutory procedure. Everything else (reviewability, the meaning of cause, interim reinstatement, Article II) clears away the Government's reasons the procedural defect should not matter. Be precise: the Court did not hold that Cook cannot be removed, or that mortgage fraud is not cause.
-- **What does "cause" mean for Cook?** Not the Government's "any concern about fitness," and not Cook's closed list of in-office faults. It is a substantial, common-law threshold keyed to "the seriousness of the alleged misconduct" and its "nexus" to the Governor's duties, with the ultimate question whether the charge shows "unfitness for the place" or is an effort to get "a 'more congenial' replacement." Pre-office conduct is not categorically excluded ("past or present"), but weak nexus cuts against it. Review is "deferential," but the Court will not "exhibit a naiveté from which ordinary citizens are free" (*Department of Commerce v. New York*), which is pretext review.
+**Kavanaugh, J., concurring**
+
+- Joins in full: "today's interim ruling does not decide whether the President may lawfully remove Governor Cook for cause." Leaving that open would risk "turmoil in the U. S. and world economies," and eliminating the protection "must occur through the legislative process."
+
+**Jackson, J., concurring**
+
+- A stay is "fundamentally an equitable determination," and the equities decide this case: the Government's only identified harm is the President's displeasure, while the public interest in an independent Fed "unmistakably weighs against" the application.
+
+**Thomas, J., dissenting**
+
+- "Cook's office was not her 'property'" because "government officials do not own the public offices in which they serve." Apparent mortgage fraud was "a 'cause' to remove Cook," and the statute "says nothing about notice or a hearing."
+
+**Alito, J., dissenting (joined by Gorsuch, J.), and Barrett, J., dissenting**
+
+- As the majority describes them, Alito would not rest on the statute when the courts below ruled on due process alone; Barrett objects to discussing the Fed's constitutionality at all.
+
+## Arguments rejected
+
+- *"For cause" commits the judgment to the President alone.* Roberts: there is no such "textual commitment," and the common law treated the "sufficiency and reasonableness of the cause of removal" as "questions for the courts."
+- *"Cause" means any concern about fitness, excluding only "mere policy disagreement."* Roberts: Black's own sources required cause "substantial, reasonable and just," and never "suggested that any reason would do."
+- *(Cook) "Cause" incorporates only the causes other statutes recognized in 1935, so pre-office conduct cannot qualify.* Roberts: the statute says "cause," a common-law concept, not "causes that Congress has otherwise recognized as adequate."
+- *Equity cannot interfere with removals, so backpay is all a court can give.* Roberts: those cases bar equity from deciding title finally, not from protecting officers de facto "pending a litigation."
+- *The President's social-media post gave Cook notice and a chance to be heard.* Roberts: the post "did not suggest that a response from Cook would be appropriate." "That will not do."
+- *(Thomas) The Board is an executive agency, the Banks were not, and Article II requires at-will removal.* Roberts: the tradition "has not stood still," and the central bank is not "trapped in amber."
+
+## Where it sits
+
+**The reservation, taken up.** Cook was decided the same day as [[Trump v. Slaughter]] and answers the question Part III-B left open. The reservation goes back to *Seila Law* n.8, and the 2025 order in *Trump v. Wilcox* had already called the Fed a "uniquely structured" entity in the First and Second Bank tradition.
+
+**A different five.** Kavanaugh and the three Slaughter dissenters join Roberts, while Thomas, Alito, Gorsuch and Barrett, all in the Slaughter majority, dissent. The unit ends with two lineups and two methods: text and structure for the FTC, history for the Fed.
+
+**Banks, and McCulloch.** The history runs from the First Bank (1791) and the Second Bank (1816) to Jackson's veto of recharter, by way of Marshall's account in [[McCulloch v. Maryland]] of why Congress revived the Bank. The institution that tests the Necessary and Proper Clause in Class 17 supplies the Article II exception here.
+
+**What Humphrey's never reached.** Roosevelt's firing of Humphrey for policy disagreement remains the paradigm of what a for-cause protection forbids, and [[Humphrey's Executor v. United States|Humphrey's Executor]] stopped there. Cook adds judicial review of the cause given, a substantive threshold, and pre-removal process.
+
+## Professor gloss
+
+## Cold-call notes
+
+The casebook notes for this reading were not available; these questions are drawn from the opinion.
+
+- **What was the actual ground of decision?** Statutory procedure; everything else clears away the Government's reasons why the defect should not matter. Be precise: the Court did not hold that Cook cannot be removed, or that mortgage fraud is not cause.
+- **What does "cause" mean?** A substantial common-law threshold keyed to the seriousness of the alleged misconduct and its nexus to the Governor's duties. Review is deferential, but the Court will not "exhibit a naiveté from which ordinary citizens are free," which is pretext review.
 - **Vary the facts.**
-  - The President gives written notice of the mortgage charges and a week to respond, then fires Cook. The procedural defect is cured, and the case turns on cause: serious alleged fraud with a thin nexus to monetary policy is a close call.
-  - The President fires a Governor for voting against a rate cut. That is policy disagreement, which even the Government conceded is not cause; it is Humphrey's paradigm.
-  - A Governor is convicted of a felony while in office. Cause is easy, and notice is a formality.
-  - The charge is in-office insider trading on FOMC information. The nexus is strong, so cause is likely.
-  - The President fires an FTC commissioner under the same process. [[Trump v. Slaughter|Slaughter]] makes cause irrelevant because the protection is void.
-- **Why does the Fed survive when the FTC does not?** Not because the Fed exercises no executive power (Thomas is right that the Board regulates banks and imposes penalties), and not because independence is good policy, which is what Thomas says the majority really relies on. The answer is historical: the First Congress chartered a bank insulated from the President, and Myers treated early congressional practice as the best evidence of Article II's meaning. The weakness is that the Banks were private corporations with "no sovereign power," while the Board is a federal agency. The strength is that Slaughter's own method (liquidation by early practice) is the method Cook uses.
-- **The First and Second Banks and McCulloch (Class 17).** [[McCulloch v. Maryland]] upheld the Second Bank as a "necessary and proper" means of executing federal powers, and Cook quotes Marshall's account of how the refusal to recharter the First Bank "convinced those who were most prejudiced against the measure of its necessity." Tension: McCulloch treats the Bank as an instrument of federal power, which cuts toward Thomas (an instrument of executing the laws should answer to the executive). Cook treats the Bank as a model of insulation from the President. Also remember Jackson: his veto message argued that the President need not defer to McCulloch on the Bank's constitutionality. In 1833 he removed a Treasury Secretary who would not withdraw federal deposits from the Bank. The Jacksonian episode shows both presidential control of the Treasury and the Bank's independence from it.
-- **Tension with Slaughter's premises.** [[The Federalist No. 70]]'s objection to plurality ("conceal faults and destroy responsibility") applies to a seven-member Board setting monetary policy as much as to a five-member FTC. The [[The Decision of 1789|Decision of 1789]] concerned executive departments; the Bank of 1791 was chartered by the same Congress two years later without presidential control of its directors. The majority's move is that 1789 and 1791 must be read together.
-- **Myers, Humphrey's, Morrison, Seila Law, Collins.**
-  - [[Myers v. United States|Myers]] supplies the method (the "greatest weight" on early practice) that justifies the carve-out.
-  - [[Humphrey's Executor v. United States|Humphrey's]] supplies the paradigm of an impermissible removal (policy disagreement).
-  - [[Morrison v. Olson|Morrison]]'s functional question ("does the limit impede the President's duties?") is the question Cook's majority seems to answer by calling independence "key to the Federal Reserve's design," but without adopting Morrison's test.
-  - [[Seila Law LLC v. Consumer Financial Protection Bureau|Seila Law]] n.8 is the origin of the Fed reservation.
-  - *Collins* held the FHFA Director's protection invalid. The FHFA Director who referred the charges against Cook is removable at will because of that line of cases.
-- **Remedy.** Cook holds that equity may keep a protected officer in place pending litigation. That answers, for the Fed, the remedial question lurking in Slaughter, and it matters because without interim relief a President could remove a Governor "for very lengthy periods of time without substantial cause."
-- **Interim docket.** The Court took argument and months to decide, and says so. Alito and Barrett objected to deciding Article II on a stay application, and Kavanaugh defended it as necessary to avoid market uncertainty. Be ready to say whether the constitutional holding is dictum: the Government conceded constitutionality, and the ground of decision was statutory process.
-- **Formalism and functionalism.** Slaughter is formalist; Cook's statutory reasoning is common-law, and its constitutional reasoning is historical with a strong functional undertone (appearance of independence, credibility, economic stability). Thomas calls this "policy." The defense is that a historical exception is formalist if the history is right.
-- **Memorable lines.** "[N]ot worth a Continental"; "for any reason, or no reason"; "Cook must resign, now!!!"; "Nothing could be more corrosive of the independence that Congress sought to preserve"; "trapped in amber"; "The Government misses the mark by a mile."
+    - Written notice of the charges and a week to respond, then removal: the defect is cured, and serious fraud with a thin nexus to monetary policy is a close call.
+    - Removal for voting against a rate cut: policy disagreement, which even the Government conceded is not cause.
+    - A felony conviction in office: cause is easy and notice a formality.
+    - In-office insider trading on FOMC information: the nexus is strong, so cause is likely.
+    - The same process applied to an FTC commissioner: [[Trump v. Slaughter|Slaughter]] makes cause irrelevant, because the protection is void.
+- **Why does the Fed survive when the FTC does not?** Not because the Board exercises no executive power, and not because independence is good policy. The answer is historical: the First Congress chartered a bank insulated from the President, and *Myers* treated early practice as the best evidence of Article II's meaning. The weakness is that the Banks were private corporations while the Board is a federal agency.
+- **How does this sit with McCulloch?** [[McCulloch v. Maryland]] upheld the Second Bank as a necessary and proper means of executing federal powers, which cuts toward Thomas: an instrument for executing the laws should answer to the executive. Cook instead treats the Bank as a model of insulation.
+- **What about Slaughter's own premises?** [[The Federalist No. 70]]'s objection to plurality applies to a seven-member Board as much as to a five-member Commission, and [[The Decision of 1789]] concerned the executive departments. The majority's move is that 1789 and the Bank of 1791 must be read together.
+- **Is the constitutional holding dictum?** The Government conceded constitutionality and the ground of decision was statutory process, so the question is fair. Alito and Barrett objected to deciding Article II on a stay application.
+- **Formalism or functionalism?** Cook's statutory reasoning is common-law and its constitutional reasoning is historical, with a strong functional undertone of credibility and stability. Thomas calls that policy; the defense is that a historical exception is formalist if the history is right.
+- **Memorable lines.** "[N]ot worth a Continental"; "for any reason, or no reason"; "Cook must resign, now!!!"; "trapped in amber"; "The Government misses the mark by a mile."
