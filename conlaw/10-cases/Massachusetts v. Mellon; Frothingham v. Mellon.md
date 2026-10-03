@@ -80,7 +80,7 @@ Neither a State nor a federal taxpayer can challenge a federal spending statute 
 
 **The spending power.** The Maternity Act was an early conditional grant; the doctrine now governing them is [[South Dakota v. Dole]] and [[NFIB v. Sebelius]], where States won on coercion because the expansion threatened money they already had. Massachusetts, having accepted nothing, stood to lose nothing.
 
-**Who polices spending instead.** Largely the political branches — but [[U.S. House of Representatives v. Burwell]] is the other route: the House claimed injury to a power belonging to it alone under Art. I, § 9, cl. 7, not an interest "shared with millions of others."
+**Who polices spending instead.** Largely the political branches — but [[U.S. House of Representatives v. Burwell (2015)]] is the other route: the House claimed injury to a power belonging to it alone under Art. I, § 9, cl. 7, not an interest "shared with millions of others."
 
 ## Professor gloss
 
@@ -88,7 +88,7 @@ Neither a State nor a federal taxpayer can challenge a federal spending statute 
 
 **Note 1. "If no citizen and no state has standing to challenge the constitutionality of the federal law . . . then who will enforce the constitutional limits on Congress's spending and taxing power?"**
 
-- Congress and the President, through their oaths and the political process. Courts re-enter only when a plaintiff with money at stake appears: a State already receiving funds ([[NFIB v. Sebelius]]), or a chamber claiming its own appropriations power ([[U.S. House of Representatives v. Burwell]]).
+- Congress and the President, through their oaths and the political process. Courts re-enter only when a plaintiff with money at stake appears: a State already receiving funds ([[NFIB v. Sebelius]]), or a chamber claiming its own appropriations power ([[U.S. House of Representatives v. Burwell (2015)]]).
 - The spending power's scope is not inherently non-justiciable; it is political "as it is thus presented" — abstractly, by a plaintiff who need do nothing.
 
 **Note 2. "Since the Mellon cases . . . there has been an explosion in Congress's use of the spending and taxing power to dictate policy . . . . Does this change your view of these cases at all?"**

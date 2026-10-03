@@ -59,7 +59,7 @@ The germaneness limit is a Necessary and Proper Clause question wearing differen
 
 Dole also inherits the founding-era problem the casebook has been building. [[The Savannah Fire Debate]] asked whether Congress could spend on an object outside the enumeration; Dole answers that it can, and asks instead what it may demand in return. And Madison's fourth objection in the Bonus Bill veto — that general-welfare questions are "unsusceptible of judicial cognizance and decision" — is vindicated by the majority's treatment of the first limit as near-automatic.
 
-Compare the appropriations material in Class 5. [[United States v. Lovett]] is the mirror image: Congress attaching a condition to an appropriation to accomplish against three named individuals what it could not enact as substantive law, and the Court striking it under an independent constitutional bar — the Bill of Attainder Clause. Lovett is what Dole's fourth limit looks like when it actually bites.
+Compare the appropriations material in Class 5. [[United States v. Lovett (1946)]] is the mirror image: Congress attaching a condition to an appropriation to accomplish against three named individuals what it could not enact as substantive law, and the Court striking it under an independent constitutional bar — the Bill of Attainder Clause. Lovett is what Dole's fourth limit looks like when it actually bites.
 
 ## Professor gloss
 

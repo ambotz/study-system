@@ -69,7 +69,7 @@ Agency action is presumptively reviewable under the APA; the committed-to-discre
 
 **The constitutional implication.** Note 1 reads the court as concluding "at least implicitly" that Article II does not let the executive ignore a specific congressional enforcement mandate — the Take Care Clause as duty, with the English ban on the suspending power behind it: a general policy of not enforcing is a suspension in practice.
 
-**The purse.** An executive that keeps paying recipients Congress has disqualified spends contrary to the grant's conditions. Compare [[U.S. House of Representatives v. Burwell]] (spending without an appropriation) and [[Obama, Statement on H.R. 1473]].
+**The purse.** An executive that keeps paying recipients Congress has disqualified spends contrary to the grant's conditions. Compare [[U.S. House of Representatives v. Burwell (2015)]] (spending without an appropriation) and [[Obama, Statement on H.R. 1473]].
 
 **Reserved, never adopted.** *Heckler v. Chaney* (1985) set the general rule the other way, but its footnote 4 reserved Adams by name — how Adams survives; [[The Thompson Memo]] adopts it as its third limiting principle. *United States v. Texas* (2023) repeated the reservation, Kavanaugh noting that "the standing calculus might change if the Executive Branch wholly abandoned its statutory responsibilities."
 
@@ -89,7 +89,7 @@ Agency action is presumptively reviewable under the APA; the committed-to-discre
 
 **Note 3. "Is Adams really a case about Congress's power of the purse? Should the court's reasoning be limited to funding?"**
 
-- On the funding ground, yes: money moving where Congress forbade it, the mirror image of [[U.S. House of Representatives v. Burwell]].
+- On the funding ground, yes: money moving where Congress forbade it, the mirror image of [[U.S. House of Representatives v. Burwell (2015)]].
 - Limited to funding, it says nothing about criminal non-enforcement; unlimited, it is a general duty to enforce mandatory statutes — the reading *Heckler* declined to bless.
 
 **Note 4. "Twelve years later, the Supreme Court decided Heckler v. Chaney . . . 'an agency's decision not to prosecute or enforce . . . is a decision generally committed to an agency's absolute discretion.' . . . 'Nor do we have a situation where . . . the agency has "consciously and expressly adopted a general policy" that is so extreme as to amount to an abdication.'"**

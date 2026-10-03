@@ -75,7 +75,7 @@ Congress cannot do through the purse what the Bill of Attainder Clause forbids i
 
 ## Where it sits
 
-**The purse against individuals.** Lovett answers the casebook's first question for this unit — how Congress can use the purse to limit the executive — with a limit on Congress instead: the Appropriations Clause gives no license to evade the Attainder Clause two clauses away. [[U.S. House of Representatives v. Burwell|Burwell]] takes the second question, enforcement.
+**The purse against individuals.** Lovett answers the casebook's first question for this unit — how Congress can use the purse to limit the executive — with a limit on Congress instead: the Appropriations Clause gives no license to evade the Attainder Clause two clauses away. [[U.S. House of Representatives v. Burwell (2015)|Burwell]] takes the second question, enforcement.
 
 **Removal, avoided.** Read as the Court reads it, § 304 is Congress removing executive employees — which is what Congress does when it cannot remove directly. The Court ducked it; Frankfurter named it. Runs to [[The Decision of 1789]], [[Humphrey's Executor v. United States]] and Class 7's [[Trump v. Slaughter]].
 
@@ -92,16 +92,16 @@ The casebook prints no notes after Lovett. These three follow [[Obama, Statement
 **Note 1. "Is Congress constitutionally required to fund executive branch operations with which it disagrees, or may it withhold funds? If there are limits, what are they?"**
 
 - No, as a default. Spending requires an affirmative act, so declining to fund is Congress using a power, not withholding one.
-- Lovett's limit comes from outside the spending power: a defunding cannot be an attainder. The constraint is about punishing named people, not about money.
-- Other candidate limits: defunding a constitutionally required function (Article III salaries, which cannot be diminished); conditioning funds on giving up a right; and defunding an officer Congress cannot remove directly — the question Lovett ducked.
+- Lovett's limit comes from outside the spending power: a defunding is an attainder. The constraint is about punishing named people, not about money.
+- Other candidate limits: defunding a constitutionally required function (Article III salaries, which cannot be diminished); conditioning funds on giving up a right; and defunding an officer that Congress cannot remove directly — the question Lovett ducked.
 
 **Note 2. "If a court believes a funding bill has an unconstitutional restriction, what should be the remedy? . . . If the president believes a funding bill contains an unconstitutional restriction, what should be the remedy? . . . Is it relevant that the Constitution says that 'No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law'?"**
 
 - Court: sever. Lovett strikes § 304 and leaves the Act standing, which avoids defunding the government to cure one rider.
 - President: veto, or comply and object. Roosevelt took the second.
-- The clause is the trap, not decoration. It closes the third option — spending unappropriated money — so the President's remedy is never self-help from the Treasury. That is exactly what [[U.S. House of Representatives v. Burwell|Burwell]] alleges the executive did.
+- The clause is the trap, not decoration. It closes the third option — spending unappropriated money — so the President's remedy is never self-help from the Treasury. That is exactly what [[U.S. House of Representatives v. Burwell (2015)|Burwell]] alleges the executive did.
 
-**Note 3. "Is there a difference between this kind of signing statement and the 'line item veto' forbidden in [[Clinton v. City of New York|Clinton v. City of New York]]?"**
+**Note 3. "Is there a difference between this kind of signing statement and the 'line item veto' forbidden in [[Clinton v. City of New York (1998)|Clinton v. City of New York]]?"**
 
 - Formally, yes. The Line Item Veto Act stripped a provision of "legal force or effect." A signing statement changes nothing; the provision stays on the books for a court to apply.
 - Functionally the objection bites: both let the President keep what he likes and neutralize what he does not, without returning to Congress.

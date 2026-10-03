@@ -15,133 +15,125 @@ posture_drove_outcome: false
 ---
 
 > [!caution] Source check — The 4th-ed. casebook omits the O'Connor and Thomas concurrences and the Souter and Breyer dissents (p. 593), so those opinions (and Scalia's footnote reply to Breyer's comparative argument) are summarized here from the reported opinion at 521 U.S. 898, without quotation; verify against the 5th ed., which may excerpt them.
+
+## Snapshot
+
+The Brady Act's interim provisions ordered local chief law enforcement officers to run background checks on prospective handgun buyers. Two sheriffs sued, won below, lost in a divided Ninth Circuit, and won again here. The Court held that Congress may not command state executive officers to administer a federal regulatory program. In play are the commerce power, the Necessary and Proper Clause, the Tenth Amendment and Article II.
+
+## Issue
+
+- May Congress, under the commerce power and the Necessary and Proper Clause, require state and local law enforcement officers to administer a federal regulatory scheme?
+- Does the anti-commandeering rule of *New York v. United States*, which bars compelling state legislatures, reach state executive officers?
+- **Argued, not decided.** Whether Congress may buy cooperation through funding conditions, or require States only to report information.
+
 ## Rule
 
-Congress may not "command the States' officers, or those of their political subdivisions, to administer or enforce a federal regulatory program"; the anti-commandeering rule of [[New York v. United States]] (legislatures) extends to state executive officers, and it is categorical: no balancing of burdens and benefits.
+Congress may not command state executive officers to administer or enforce a federal regulatory program. The anti-commandeering rule of *New York v. United States* extends from state legislatures to the state executive, and it is categorical: neither a light burden nor the absence of policymaking discretion saves the statute. With no text on point, the rule rests on dual sovereignty and on the President's Article II responsibility for execution.
 
-## Facts
+- Congress may neither "issue directives requiring the States to address particular problems" nor "command the States' officers, or those of their political subdivisions, to administer or enforce a federal regulatory program."
+- "It matters not whether policymaking is involved, and no case-by-case weighing of the burdens or benefits is necessary."
+- A law that "violates the principle of state sovereignty" is not a "La[w] . . . proper for carrying into Execution the Commerce Clause."
+- State courts are different: the Supremacy Clause names "the Judges in every State" (*Testa v. Katt*).
 
-- **The Brady Act's interim provisions ordered local chief law enforcement officers (CLEOs) to "make a reasonable effort" to check each handgun buyer within five business days.** *A command to state officers to execute federal law, not a regulation of private conduct.*
-- **The command ran to CLEOs in their official capacity.** *Scalia treats an order to the officer as an order to the State; the dissent's "individuals" distinction fails.*
-- **The duty was temporary and modest: it would end when the national instant check system began, and it required no action on an ineligible buyer.** *Held irrelevant: where commanding the state executive is "the whole object of the law," balancing is "inappropriate."*
-- **The Act was not a funding condition or an information-reporting requirement.** *Scalia sets both categories aside as not "the precise issue before us"; they are the open doors the opinion leaves.*
-- **Early Congresses imposed federal duties on state courts but, the Court found, never on state executives.** *The judge/executive line decides the historical argument.*
+## Operative facts
 
-## Court Ruling
+- **The early Congresses imposed duties on state courts — naturalization records, seaworthiness disputes, fugitive-slave certificates — and on September 23, 1789, the day before proposing the Bill of Rights, the First Congress asked state legislatures, not state executives, to hold federal prisoners in state jails.** *The Government's best evidence reaches only "state judges," and the jail statute shows that when the founding generation needed the state executive, it asked.*
+- **No statute of that era commanded a state executive, and almost none did for two centuries after: the 1882 immigration act authorized contracts with officers designated by governors, and Wilson implemented the 1917 draft law with each governor's consent.** *Silence is the argument: given "the attractiveness of that course to Congress," its absence "suggests an assumed absence of such power."*
+- **The Gun Control Act of 1968 governed firearms distribution, and the 1993 Brady Act amended it, directing the Attorney General to build a national instant check system by November 30, 1998.** *Nobody disputed Congress's power over dealers; the fight is over who administers the scheme until that system exists.*
+- **Until then a dealer had to send the buyer's form to the CLEO of his residence and wait five business days, and the CLEO had to "make a reasonable effort to ascertain within 5 business days whether receipt or possession would be in violation of the law."** *The dealer is the regulated party and a state officer is the administrator; the duty ran to officers in their official capacity, so an order to the officer is an order to the State.*
+- **The duty was temporary and modest: it lapsed when the instant check system began and required nothing on an ineligible buyer, though knowing violation was a crime.** *Held irrelevant: where commanding the state executive is "the whole object of the law," balancing is "inappropriate."*
+- **The Act was neither a condition on federal funds nor a requirement that States merely report information.** *Scalia sets both aside as not "the precise issue before us"; they are the doors the opinion leaves open.*
+- **Printz and Mack, the CLEOs of Ravalli County, Montana, and Graham County, Arizona, objected to being "pressed into federal service" and sued separately; both district courts struck the requirement and a divided Ninth Circuit panel reversed.** *Two sitting sheriffs brought the challenge themselves, so the case arrives as a pure structural objection.*
 
-**Held** (5–4; Scalia for the Court; O'Connor and Thomas, JJ., concurring)
+## Holding and reasoning
 
-- Because there is "no constitutional text speaking to this precise question," the answer comes from "historical understanding and practice, in the structure of the Constitution, and in the jurisprudence of this Court," taken in that order.
-- History: the early statutes show at most that the Constitution permitted "imposition of an obligation on state judges to enforce federal prescriptions, insofar as those prescriptions related to matters appropriate for the judicial power." The absence of executive-commandeering statutes, despite their "attractiveness . . . to Congress," suggests "an assumed absence of such power."
-- Structure: the Constitution created "dual sovereignty," and "the Framers explicitly chose a Constitution that confers upon Congress the power to regulate individuals, not States." Commandeering also undermines presidential control of execution under Article II.
-- Necessary and Proper Clause: a law that "violates the principle of state sovereignty" is not a "La[w] . . . proper for carrying into Execution the Commerce Clause."
-- Precedent: "We held in New York that Congress cannot compel the States to enact or enforce a federal regulatory program. Today we hold that Congress cannot circumvent that prohibition by conscripting the State's officers directly." Reversed.
+**Held** (5–4; Scalia, J., for the Court, with Rehnquist, C.J., O'Connor, Kennedy and Thomas, JJ.; O'Connor and Thomas, JJ., concurring; Stevens, J., dissenting with Souter, Ginsburg and Breyer, JJ.; Souter and Breyer, JJ., dissenting separately)
 
-**Rejected**
+- **Congress may not conscript the state executive.** With "no constitutional text speaking to this precise question," the answer lies in history, structure and precedent, in that order.
+- **The rule reaches officers.** "We held in New York that Congress cannot compel the States to enact or enforce a federal regulatory program. Today we hold that Congress cannot circumvent that prohibition by conscripting the State's officers directly." Reversed.
+- **Funding conditions and information-only requirements are left open.**
 
-- *The First Congresses required state officials to take naturalization applications, certify vessels and hear fugitive-slave claims; contemporaneous legislation fixes the Constitution's meaning.* Scalia: those duties fell on state courts, which "applied the law of other sovereigns all the time" and which the Supremacy Clause expressly binds; courts are different from "legislatures and executives."
-- *The Federalist says the Union would "employ the ordinary magistracy of each [State] in the execution of its laws" and use "State officers and State regulations" to collect taxes.* Scalia: those passages assume the States would consent; none "necessarily implies . . . that Congress could impose these responsibilities without the consent of the States."
-- *Federalist No. 27 says state "legislatures, courts, and magistrates" will be "incorporated into the operations of the national government" and "rendered auxiliary to the enforcement of its laws" (Souter).* Scalia: read that way, the passage would operate without any congressional directive and would subject state legislatures to federal direction, which [[New York v. United States|New York]] forbids.
-- *The Commerce Clause plus the Necessary and Proper Clause authorizes the Act, and the Tenth Amendment limits only undelegated powers (Stevens).* Scalia: "What destroys the dissent's Necessary and Proper Clause argument . . . is not the Tenth Amendment but the Necessary and Proper Clause itself."
-- *The Brady Act commands individuals (CLEOs), not the State as in New York.* Scalia: the Act directs them "in their official capacities as state officers"; an official-capacity suit "is no different from a suit against the State itself" (*Will v. Michigan Department of State Police*).
-- *The Act serves important purposes, is most efficiently run by CLEOs, and imposes only a minimal, temporary burden.* Scalia: balancing may be proper for "incidental application to the States of a federal law of general applicability," but not where directing the state executive is the law's object.
-- *Testa v. Katt requires state courts to hear federal claims, so States can be enlisted.* Scalia: Testa rests on the Supremacy Clause's express reference to "the Judges in every State," which "says nothing about whether state executive officers must administer federal law."
+**Scalia, for the Court**
 
-## Context
+- Structure: the Constitution created "dual sovereignty," and "the Framers explicitly chose a Constitution that confers upon Congress the power to regulate individuals, not States."
+- Accountability and Article II: a State's government must "represent and remain accountable to its own citizens," while the Take Care Clause places execution in the President, a responsibility the Act "effectively transfers . . . to thousands of CLEOs in the 50 States," who act "without meaningful Presidential control."
 
-Printz completes the pair begun by [[New York v. United States]] (1992), which struck down the "take title" provision of the Low-Level Radioactive Waste Policy Amendments Act because it forced States to legislate or take the waste. [[Garcia v. San Antonio Metropolitan Transit Authority|Garcia]] still governs laws that regulate States alongside private actors; New York and Printz govern laws that tell States how to govern. The line between the two is the heart of the unit's state-sovereignty material.
+**O'Connor, concurring**
 
-Two routes remain open to Congress. It may regulate private parties directly and build its own bureaucracy, or it may pay for cooperation through conditional spending, which Scalia expressly distinguishes ("conditions upon the grant of federal funding"); see [[South Dakota v. Dole]] and the coercion limit in [[NFIB v. Sebelius]]. *Reno v. Condon* (2000) upheld the Driver's Privacy Protection Act, which barred States from selling drivers' personal data, because it regulated the States as owners of databases and applied to private resellers as well; it required no state legislation or enforcement.
+- Congress may still make participation voluntary or pay for it by contract, and ministerial reporting duties, such as reporting missing children, are not decided.
 
-*Murphy v. NCAA* (2018), quoted in the casebook's Note 5, extended the doctrine to federal prohibitions on state legislation: a statute forbidding States to "authorize" sports betting was unconstitutional because "[t]he basic principle—that Congress cannot issue direct orders to state legislatures—applies in either event." Justice Alito grounded the doctrine in the absence from Article I of "the power to issue direct orders to the governments of the States." In *Haaland v. Brackeen* (2023) the Court rejected anti-commandeering challenges to the Indian Child Welfare Act, largely because its requirements apply to private and state actors alike.
+**Thomas, concurring**
 
-Scalia's Article II argument (Part III-B) borrows the unitary-executive theory of [[The Federalist No. 70]] and cites Calabresi and Prakash; it ties Printz to the removal cases, [[Humphrey's Executor v. United States]] and [[Seila Law LLC v. Consumer Financial Protection Bureau]], and to [[Enforcement discretion - Art. II § 3 Take Care|the Take Care Clause]].
+- In line with his [[United States v. Lopez|Lopez]] concurrence, the commerce power may not reach wholly intrastate point-of-sale handgun sales, and the Second Amendment may bear on such regulation.
+
+**Stevens, dissenting (joined by Souter, Ginsburg and Breyer)**
+
+- The Necessary and Proper Clause "is surely adequate to support the temporary enlistment of local police officers," and the Oath Clause binds them: "[t]here is not a clause, sentence, or paragraph in the entire text of the Constitution" that lets a local officer ignore a valid federal statute.
+- The early statutes gave state judges executive duties, so the majority's line "rests on empty formalistic reasoning of the highest order," and the States are anyway protected by their representation in Congress ([[Garcia v. San Antonio Metropolitan Transit Authority|Garcia]]).
+
+**Souter, dissenting**
+
+- Federalist No. 27, which renders state officers "auxiliary to the enforcement of [federal] laws," read with No. 44 on their oath, lets Congress require state executives to implement federal law.
+
+**Breyer, dissenting (joined by Stevens)**
+
+- In Switzerland, Germany and the European Union central bodies legislate and constituent states implement, so commandeering can protect local autonomy. Scalia replied in a footnote that comparative analysis is inappropriate.
+
+## Arguments rejected
+
+- *Contemporaneous legislation fixes meaning, and the early Congresses imposed federal duties on state officials, as Testa v. Katt confirms.* Each reaches only courts, which the Supremacy Clause binds by name and which "applied the law of other sovereigns all the time."
+- *The Federalist promised the Union would "employ the ordinary magistracy of each [State] in the execution of its laws," and Souter reads No. 27 as making state officers "auxiliary to the enforcement of its laws."* Those passages assume state consent, and Souter's reading would bind officers absent any directive and subject state legislatures to federal direction.
+- *The commerce power and the Necessary and Proper Clause authorize the Act (Stevens).* "What destroys the dissent's Necessary and Proper Clause argument . . . is not the Tenth Amendment but the Necessary and Proper Clause itself."
+- *The Act commands individuals, the CLEOs, not the State.* It directs them "in their official capacities as state officers," and such a suit "is no different from a suit against the State itself."
+- *The Act is important, efficient, and only a minimal and temporary burden.* Balancing may be proper for a federal law "of general applicability," not where directing the state executive is the law's object.
+
+## Where it sits
+
+**The anti-commandeering pair.** *New York v. United States* (1992) struck the "take title" provision of the Low-Level Radioactive Waste Policy Amendments Act, which forced States to legislate or keep the waste; Printz completes the pair. [[Garcia v. San Antonio Metropolitan Transit Authority|Garcia]] still governs laws that regulate States alongside private actors, while these two govern laws that tell States how to govern.
+
+**The routes left open.** Congress may regulate private parties directly, or pay for cooperation through conditional spending, which Scalia expressly distinguishes; see [[South Dakota v. Dole]] and the coercion limit in [[NFIB v. Sebelius]]. *Reno v. Condon* (2000) upheld a bar on States selling drivers' data, which regulated them as database owners and reached private resellers.
+
+**The doctrine since.** *Murphy v. NCAA* (2018) extended the rule to federal prohibitions on state legislation, grounding it in Article I's silence about "the power to issue direct orders to the governments of the States." *Haaland v. Brackeen* (2023) rejected a challenge to the Indian Child Welfare Act, which binds private and state actors alike.
+
+**The Article II thread.** Scalia's unitary-executive argument borrows [[The Federalist No. 70]] and ties Printz to the removal cases — [[Humphrey's Executor v. United States]] — and the Take Care Clause.
 
 ## Professor gloss
 
----
+## Cold-call notes
 
-## Class layer
+**Note 1. "Which of the types of constitutional argument (p. 41) does the majority opinion rely on? Which ones does the dissent rely on?"**
 
-### Posture
+- Majority: history, structure and precedent, "in that order," since no text speaks to it. See [[Types of Constitutional Argument]].
+- Dissent: text (enumerated powers, the Oath Clause), history (Federalist Nos. 27 and 36), structure (*Garcia*'s political safeguards) and consequences (emergencies, bureaucracy).
+- Say the oddity out loud: the textualist writes the text-less structural opinion.
 
-- Printz (Ravalli County, Montana) and Mack (Graham County, Arizona), both CLEOs, sued separately to challenge the Brady Act's interim provisions; each District Court held the background-check requirement unconstitutional.
-- A divided Ninth Circuit panel reversed; the Supreme Court granted certiorari and reversed.
+**Note 2. "Are state executive branch officials more like state judges, who can apparently be commandeered; or more like state legislatures, which cannot be?"**
 
-### Facts
+- Scalia: the Supremacy Clause names "the Judges in every State," and courts apply other sovereigns' law routinely.
+- Stevens: judges have "merited as much respect as executive agents," so sparing "town constables" while pressing judges is "perverse."
+- Argue it by function: a legislature chooses for the State, a judge applies law as he finds it, and a CLEO searching records looks judge-like.
 
-The Gun Control Act of 1968 regulates the distribution of firearms, and the 1993 Brady Act directed the Attorney General to establish a national instant background-check system by November 30, 1998. Until then, a dealer selling a handgun had to take a form from the buyer, send its contents to the CLEO of the buyer's residence, and wait five business days unless the CLEO cleared the sale sooner. The CLEO had to make a reasonable effort to determine whether the sale was lawful, searching state, local and national records, and on request had to give a rejected buyer a written statement of reasons. The Act also made it a crime to knowingly violate the amended section. Two sheriffs objected to being "pressed into federal service."
+**Note 3. ". . . should judges—especially originalist ones—change their constitutional beliefs every time new historical evidence is discovered?"**
 
-### Issue
+- Campbell (2013): commandeering was the Anti-Federalists' alternative to a large central bureaucracy, so Hamilton was conceding it, not claiming it — which inverts Scalia's reading of No. 27.
+- Bellia and Clark (2020) push back: change in 2013, then change again in 2020?
+- Either original meaning is fixed and judicial estimates must follow the evidence, or stare decisis absorbs the shock.
 
-- May Congress, acting under the commerce power and the Necessary and Proper Clause, require state and local law enforcement officers to perform background checks and related tasks to administer a federal regulatory scheme?
+**Note 4. Section 1373(a) bars any official from prohibiting or "in any way restrict[ing]" the sharing of immigration-status information. "Is this provision unconstitutional under the anticommandeering doctrine?"**
 
-### Holding
+- Under *Murphy* it reads as a direct order to state legislatures about what they may enact, and the compel/forbid distinction is "empty."
+- The answer the other way is that it concerns information, the category Printz reserved, and commands no officer to act.
+- Several district courts after *Murphy* held it unconstitutional.
 
-- No. Nothing in historical practice supports federal command of state executives (the early statutes reached only state judges), the Constitution's dual-sovereignty structure and Article II's unitary execution forbid it, a law violating state sovereignty is not "proper" under the Necessary and Proper Clause, and New York's bar on compelling States to "enact or administer" a federal program forbids conscripting their officers directly, whatever the burden.
+**Note 5. "Printz was not the last word."** *Murphy v. NCAA* (2018) struck down, 7–2, a law forbidding States to "authorize" sports betting.
 
-### Rule
+- Alito's account is structural: "conspicuously absent from the list of powers given to Congress is the power to issue direct orders to the governments of the States."
+- "[I]t was a matter of happenstance that the laws challenged in New York and Printz commanded 'affirmative' action as opposed to imposing a prohibition."
+- Keep ordinary preemption separate: regulating private actors and displacing state law is no order to a State.
 
-- "The Federal Government may neither issue directives requiring the States to address particular problems, nor command the States' officers, or those of their political subdivisions, to administer or enforce a federal regulatory program" (Scalia).
-- "It matters not whether policymaking is involved, and no case-by-case weighing of the burdens or benefits is necessary" (Scalia).
-- State courts are different: they may be required to apply federal law under the Supremacy Clause (*Testa v. Katt*).
-- Reserved: federal funding conditions and requirements that States merely provide information.
+### Further drilling
 
-### Reasoning
-
-**(Scalia, J., for the Court)**
-
-- **Method.** With no text on point, the Court looks to history, structure and precedent, "in that order."
-- **Early practice.** Congress used state courts (naturalization, seaworthiness disputes, fugitive-slave certificates, alien-enemy deportation) because courts routinely enforce other sovereigns' law and the Full Faith and Credit Clause required it. When the First Congress wanted state jails to hold federal prisoners (September 23, 1789, the day before proposing the Bill of Rights), it issued "not a command to the States' executive, but a recommendation to their legislatures."
-- **Later practice.** The 1882 immigration statute authorized contracts with state officers designated by governors; the 1917 draft law was implemented by President Wilson with the consent of every governor. Recent statutes are either funding conditions, information requirements, or too recent to count against "almost two centuries of apparent congressional avoidance of the practice."
-- **Dual sovereignty.** The States retain "a residuary and inviolable sovereignty" (The Federalist No. 39), reflected in Art. IV, § 3, Art. III, § 2, Art. IV, § 2, Article V, the Guarantee Clause and the Tenth Amendment. The Framers rejected a government acting "upon and through the States"; citizens have "two political capacities, one state and one federal." The Federal Government's power "would be augmented immeasurably if it were able to impress into its service—and at no cost to itself—the police officers of the 50 States."
-- **Accountability.** The Constitution "contemplates that a State's government will represent and remain accountable to its own citizens." (New York developed the point that commandeering blurs which government voters should blame.)
-- **Separation of powers.** The Take Care Clause places execution in the President and his appointees; the Brady Act "effectively transfers this responsibility to thousands of CLEOs in the 50 States," who act "without meaningful Presidential control." That unity "would be shattered . . . if Congress could act as effectively without the President as with him."
-- **Necessary and Proper.** "Proper" is a real limit, and the Federalist No. 33 calls a law beyond it "merely [an] ac[t] of usurpation." New York already answered the argument: the commerce power "does not authorize Congress to regulate state governments' regulation of interstate commerce."
-- **Precedent.** New York controls; the officer/State distinction and Testa both fail; balancing is rejected as in New York.
-
-**(O'Connor, J., concurring)**
-
-- Joined the Court. Congress remains free to make CLEO participation voluntary or to pay for it through contracts, and the Court does not decide whether purely ministerial reporting duties (such as reporting missing children) are invalid.
-
-**(Thomas, J., concurring)**
-
-- Joined the Court. Would hold, in line with his [[United States v. Lopez|Lopez]] concurrence, that the commerce power does not reach wholly intrastate point-of-sale handgun transactions, and suggested the Second Amendment may confer a personal right that bears on such regulation.
-
-### Dissent / concurrence
-
-**(Stevens, J., with Souter, Ginsburg and Breyer, JJ., dissenting)**
-
-- **Text.** The commerce power covers handgun sales, and the Necessary and Proper Clause "is surely adequate to support the temporary enlistment of local police officers." The Tenth Amendment limits only undelegated powers. The Oath Clause (Art. VI, cl. 3) binds state executive officers, suggesting they may bear greater federal duties than private citizens: "There is not a clause, sentence, or paragraph in the entire text of the Constitution" that lets a local officer ignore a valid federal statute.
-- **History.** The shift from the Articles was meant "to enhance the power of the national government, not to provide some new, unmentioned immunity for state officers." Hamilton (No. 27) expected the Union "to employ the ordinary magistracy of each in the execution of its laws"; No. 36 expected state officers to collect federal taxes.
-- **Early practice.** Failure to use a power is no evidence it was lacking, or post-New Deal commerce doctrine would fall. The early statutes gave state judges and clerks executive duties, so the majority's judge/executive line "rests on empty formalistic reasoning of the highest order."
-- **Structure.** Quoting [[Garcia v. San Antonio Metropolitan Transit Authority|Garcia]], the States are protected by their representation in Congress; the Unfunded Mandates Reform Act of 1995 shows "the political safeguards protecting our Federalism are effective."
-- **Perverse incentives.** Barring the use of state officers means the Federal Government must "create vast national bureaucracies," the very result the Federalists promised to avoid.
-- **Precedent.** New York's "enact or administer" language was dictum; the take-title provision was a compelled legislative subsidy. Background checks involve no "substantial policymaking discretion."
-- **Testa.** It is "perverse" to think the Framers would draft state judges but regard a "far lesser" burden "on town constables as an intolerable affront."
-- **Emergencies.** Air raid wardens, a draft, mass inoculation or a terrorist threat may require state officers before federal personnel exist, and it should be Congress, not the Court, that decides.
-
-**(Souter, J., dissenting)**
-
-- Joined Stevens. Rested chiefly on Federalist No. 27's statement that state officers will be "rendered auxiliary to the enforcement of [federal] laws," read with No. 44 on the state officers' oath, as showing that Congress may require state executives to implement federal law.
-
-**(Breyer, J., with Stevens, J., dissenting)**
-
-- Joined Stevens. Pointed to Switzerland, Germany and the European Union, whose federal systems have central bodies legislate and constituent states implement, as evidence that commandeering can protect local autonomy rather than threaten it. He conceded the Court interprets its own Constitution, not foreign ones, and offered the comparison as empirical light. Scalia answered in a footnote that comparative analysis is inappropriate to interpreting the Constitution, which the Framers designed to differ from other systems.
-
-### Cold-call notes
-
-- **What kind of argument wins? (Note 1)** No text on point, by the majority's own admission. Scalia uses history, structure and precedent; Stevens relies on text (enumerated powers, the Oath Clause), history (Federalist Nos. 27 and 36), structure (Garcia's political safeguards) and consequences (emergencies, bureaucracy). See [[Types of Constitutional Argument]]. Printz is the rare case in which the textualist writes the text-less structural opinion.
-- **Why are judges different from sheriffs? (Note 2)** Scalia: the Supremacy Clause names "the Judges in every State," and courts traditionally apply other sovereigns' law. Stevens: judges enjoy more respect than constables, so the lesser burden should follow from the greater. Be ready to argue whether executive officers are more like legislatures (who make choices on a State's behalf) or like judges (who apply law as they find it). A CLEO checking records looks judge-like; the take-title law looked legislative.
-- **What is the "proper" argument?** Scalia reads "proper" as a limit independent of the Tenth Amendment: a law may be necessary to execute the commerce power yet improper because it violates state sovereignty. Compare [[McCulloch v. Maryland|McCulloch]]'s "consist with the letter and spirit of the constitution" and O'Connor's [[Garcia v. San Antonio Metropolitan Transit Authority|Garcia]] dissent, which used the same phrase for the same purpose. The move returns in [[NFIB v. Sebelius]], where the individual mandate was held not "proper."
-- **Is Scalia consistent with the historical evidence? (Note 3)** Campbell (2013) argues commandeering was the Anti-Federalists' preferred alternative to a large federal bureaucracy and that Hamilton was conceding it to them; Bellia and Clark (2020) push back. Printz's own accountability argument cuts the other way from Stevens's bureaucracy argument: each claims to be the pro-federalism position. Decide whether an originalist should switch every time the historiography moves.
-- **Hypo: the same checks, but Congress offers each State $5 million a year if its sheriffs perform them.** Constitutional as a spending condition if unambiguous, related to the federal interest and not coercive under [[South Dakota v. Dole]]; Scalia distinguishes funding conditions from mandates. The limit is coercion, as in [[NFIB v. Sebelius]]'s Medicaid holding.
-- **Hypo: a federal law requires CLEOs only to report to the FBI the names of people they arrest for gun crimes.** Scalia reserved information-only requirements, and O'Connor flagged ministerial reporting (missing children) as open. Stevens compared the Brady Act itself to such a reporting law. The strongest answer is that reporting is not "administer[ing] or enforc[ing] a federal regulatory program."
-- **Hypo: a federal law forbids States to disclose drivers' data and applies equally to private resellers.** *Reno v. Condon* (2000) upheld exactly that: the law regulates the State as a participant in the market for data, alongside private actors, as in [[Garcia v. San Antonio Metropolitan Transit Authority|Garcia]], and requires no state regulation of its citizens.
-- **Hypo: a federal law forbids States to repeal their bans on sports betting.** *Murphy v. NCAA* (2018): a prohibition on state legislation is still commandeering; the do/don't-do distinction "is empty." Distinguish ordinary preemption, which regulates private actors and displaces contrary state law.
-- **Hypo: 8 U.S.C. § 1373 forbids localities to restrict their officers from sharing immigration-status information. (Note 4)** Under Murphy it looks like a direct order to state legislatures about what laws they may pass; the counterargument is that it concerns information, the category Printz reserved. Several district courts after Murphy held it unconstitutional.
-- **What about emergencies?** Stevens's air raid wardens and epidemics are his best argument. The majority's answer is that Congress can ask, pay, or use federal personnel; Wilson got every governor's consent in 1917.
-- **Accountability.** When Congress commandeers, voters may blame the sheriff for a federal policy; Congress takes the credit and the States bear the cost. That rationale explains why the rule is categorical and why balancing (Stevens's "minimal" burden) is beside the point.
-- **Comparative federalism.** Breyer's European examples show that administrative federalism (central law, state execution) can protect member states. Scalia's reply is that the American design chose the opposite model: each government acts directly on individuals. The exchange tests whether structural reasoning is about the actual Constitution or about good federalism in general.
-- **Formalism versus functionalism.** Printz is formalist in both halves: a categorical anti-commandeering rule and a unitary-executive argument. Stevens is functionalist: small burdens, big benefits, emergencies. Compare the same divide in [[INS v. Chadha]] and [[Morrison v. Olson]].
-- **Memorable lines.** Scalia: "the last, best hope of those who defend ultra vires congressional action, the Necessary and Proper Clause"; "at no cost to itself—the police officers of the 50 States." Stevens: "empty formalistic reasoning of the highest order"; "town constables."
+- **Hypo: $5 million a year to each State whose sheriffs run the checks.** Valid as a spending condition if unambiguous, germane and not coercive under [[South Dakota v. Dole]]; the limit is coercion, as in [[NFIB v. Sebelius]].
+- **Hypo: CLEOs need only report to the FBI those they arrest for gun crimes.** Information-only duties were reserved, and reporting is not "administer[ing] or enforc[ing] a federal regulatory program."
+- **What "proper" is doing.** A law may be necessary to the commerce power yet improper because it violates state sovereignty — [[McCulloch v. Maryland|McCulloch]]'s "letter and spirit" turned against Congress.
+- **Memorable lines.** Scalia: "at no cost to itself—the police officers of the 50 States." Stevens: "empty formalistic reasoning of the highest order"; "town constables."

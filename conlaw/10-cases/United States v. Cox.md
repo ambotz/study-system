@@ -14,127 +14,114 @@ read_for: null
 posture_drove_outcome: true
 ---
 
+## Snapshot
+
+A federal grand jury in Mississippi voted to indict two Black witnesses for perjury, the United States Attorney refused on the Acting Attorney General's instructions, and the district judge held him in contempt and ordered him jailed. Sitting en banc, the Fifth Circuit reversed: the signature on an indictment is an executive act no court may compel or review. Article II's executive power and the Take Care Clause meet the Fifth Amendment's Grand Jury Clause, which the dissenters would have made controlling.
+
+## Issue
+
+The section asks whether the President must "enforce every law on the books, in every circumstance." Cox is the episode where the court did not interfere.
+
+- Can a court compel a U.S. Attorney to sign an indictment the Attorney General declined to bring?
+- Can it compel him to draft one in legal form?
+- Was the show-cause order appealable, and should a writ issue?
+
 ## Rule
 
-The decision whether to prosecute belongs to the executive, and courts may not coerce or review it: a federal indictment is invalid without the government attorney's signature, and "the affixing or withholding of the signature is a matter of executive discretion which cannot be coerced or reviewed by the courts." The court grounds that discretion in the separation of powers and the Take Care Clause, and Wisdom adds a federalism rationale for keeping it national.
+The decision whether to prosecute belongs to the executive, and courts may neither coerce nor review it. A federal indictment is invalid without the government attorney's signature, and withholding that signature is a discretionary executive act. The Attorney General exercises it as the President's hand under the Take Care Clause, while the grand jury's vote establishes probable cause and obliges no one to prosecute.
 
-## Facts
-
-- **The U.S. Attorney refused on the express instructions of the Acting Attorney General, Katzenbach.** *The refusal was the Justice Department's considered decision, the concentration of power behind the dissenters' fear of "an Attorney General suspected of being corrupt."*
-- **The grand jury wanted to indict and asked for the indictments.** *Had the grand jury declined, there would have been no conflict.*
-- **Judge Cox's order was in the conjunctive: draft and sign.** *Four judges would compel drafting and four held signing could not be compelled; a draft-only order would have had a majority.*
-- **The targets were two Black witnesses for the United States in a voting-rights suit.** *Wisdom rests on these facts; Jones's opinion does not, so the holding does not depend on the Attorney General's reasons.*
-- **The Attorney General found the evidence would not prove perjury and that prosecution would deter Black citizens from registering.** *Wisdom calls it "a bona fide, reasonable exercise of discretion"; the dissenters reserve "bad faith or irrational action."*
-- **Katzenbach had only been cited to show cause.** *His appeal was therefore interlocutory and dismissed.*
-
-## Court Ruling
-
-**Held** (en banc court of seven; Jones for the court; 4–3 on the signature question, with Tuttle, Jones, Brown and Wisdom in the majority; Brown and Wisdom each concurring specially; Rives, Gewin and Bell concurring in part and dissenting in part)
-
-- The Attorney General is "the hand of the President in taking care that the laws of the United States in legal proceedings and in the prosecution of offenses, be faithfully executed."
-- The discretion whether to prosecute "may well depend upon matters of policy wholly apart from any question of probable cause," and the prosecutor exercises it as "an officer of the executive department."
+- "[T]he affixing or withholding of the signature is a matter of executive discretion which cannot be coerced or reviewed by the courts."
 - "It follows, as an incident of the constitutional separation of powers, that the courts are not to interfere with the free exercise of the discretionary powers of the attorneys of the United States in their control over criminal prosecutions."
-- The signature is necessary to a valid indictment; if the attorney "refuses to sign, as he has the discretionary power of doing," there is no valid indictment.
-- The contempt order against Hauberg is reversed. Katzenbach's appeal is dismissed as interlocutory. The petition for a writ of prohibition is denied as unnecessary.
-- A different majority of four (Brown plus Rives, Gewin and Bell) holds that the U.S. Attorney must, at the grand jury's request, draft indictments in the form it wants. Jones's opinion calls that "an exercise of futility"; it does not control the judgment because the order also required signing.
+- The discretion "may well depend upon matters of policy wholly apart from any question of probable cause."
 
-**Rejected**
+## Operative facts
 
-- *The Fifth Amendment's Grand Jury Clause is itself one of the "laws" the President must faithfully execute, so the grand jury, not the Attorney General, holds the controlling discretion over felony prosecutions.* (Rives, Gewin and Bell.) Jones: the grand jury's role "is restricted to a finding as to whether or not there is probable cause," while prosecution turns on policy. The grand jury's constitutional role is a check on charging, not a power to charge.
-- *The U.S. Attorney is a member of the bar and an officer of the court, so the court may order him to perform his duties before it.* Jones: "he is nevertheless an executive official of the Government," and it is in that capacity that he decides whether to prosecute.
-- *Unreviewable prosecutorial discretion invites abuse by a corrupt Attorney General.* Wisdom: "I am not aware that we have had more lawless Attorneys General than lawless juries." Brown: an open-court disagreement between grand jury and executive subjects the decision "to the scrutiny of an informed electorate." The check is political, not judicial.
-- *A grand jury can weigh the policy reasons against prosecution as well as the executive can.* Brown: in national-security cases the grand jury has no source of information, no clearances and "no definitive political responsibility." Wisdom: a jury "chosen from the Southern District of Mississippi" cannot resolve a conflict "affecting the whole Nation."
+- **The United States sued the registrar of Clarke County, Mississippi, and the State to enforce Black citizens' voting rights.** *The perjury charge grew out of the government's own civil-rights case, so the targets were its witnesses.*
+- **Goff and Kendrick testified that the registrar had refused to register them at Stonewall while registering white applicants, including a B. Floyd Jones, and the registrar testified that Jones had registered at Enterprise and that he himself had never discriminated.** *The conflict in testimony is the only evidence of perjury, and the district court in effect found the registrar untruthful.*
+- **Judge Cox said from the bench that Goff and Kendrick should be "bound over to await the action of the grand jury for perjury."** *The prosecution originated with the judge, which is what makes the case a separation-of-powers dispute rather than a charging dispute.*
+- **The Attorney General concluded that the evidence would not prove perjury and that prosecution would deter Black citizens from registering.** *Wisdom calls this "a bona fide, reasonable exercise of discretion"; the dissenters would reserve review for "bad faith or irrational action."*
+- **When the grand jury reconvened in October 1964 it asked the U.S. Attorney, Hauberg, to prepare indictments, and he refused on the express instructions of Acting Attorney General Katzenbach.** *The grand jury wanted to indict, so there was a real conflict; the refusal was the Department's considered decision rather than one official's.*
+- **Judge Cox gave Hauberg an hour, then held him in civil contempt and ordered him jailed until he performed his "official duty for the grand jury," staying the order five days.** *A coercive contempt against an executive officer is what made the question live.*
+- **The order was in the conjunctive: draft and sign.** *Four judges would compel drafting and four held that signing could not be compelled, so a draft-only order would have had a majority and survived.*
+- **Katzenbach was only ordered to show cause, never cited, and he and Hauberg appealed and petitioned for a writ of prohibition.** *His appeal was therefore interlocutory, and with the contempt reversed the writ became unnecessary.*
 
-## Context
+## Holding and reasoning
 
-The section opens with the English background. Two prerogatives claimed by English monarchs were the **suspending** power (setting aside a statute entirely) and the **dispensing** power (excusing individuals from compliance). James II used both to evade the statute barring Roman Catholics from office; after his ouster, the settlement with William and Mary (the Bill of Rights of 1689) required that no future monarch claim them. The Constitution never uses those words, but the Convention "unanimously rejected a proposal to give the president a suspending power," and the Take Care Clause says the President "shall take Care that the Laws be faithfully executed." The casebook's framing questions run through the whole unit: is the Take Care Clause a power or a duty, and when does enforcement discretion become the old prerogative under another name?
+**Held** (en banc court of seven; Jones, J., for the court; 4–3 on the signature, with Tuttle, Jones, Brown and Wisdom in the majority; Brown and Wisdom concurring specially; Rives, Gewin and Bell concurring in part and dissenting in part)
 
-Cox is the first of three episodes and the pole of maximum discretion. Note 5 places it in **category two** of Jackson's [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] concurrence: Congress had neither granted nor forbidden enforcement discretion. [[Adams v. Richardson]] is the counterweight, where Congress had directed enforcement and specified the means, and the court ordered the agency to act. [[The Thompson Memo]] then tries to state the line between the two for a programmatic immigration policy.
+- **The signature cannot be compelled.** If the attorney "refuses to sign, as he has the discretionary power of doing," there is no valid indictment. A different four — Brown with the partial dissenters — would compel drafting, which Jones calls "an exercise of futility," but the order also required signing, so it falls.
+- **Disposition.** The contempt order against Hauberg is reversed, Katzenbach's appeal is dismissed as interlocutory, and the writ of prohibition is denied as unnecessary.
 
-Wisdom's claim that the executive's discretion "would have evolved without the doctrine" of separation of powers is an argument from practice, not text, and pairs with Frankfurter's "gloss" argument in Youngstown. Jones's argument is the formalist one: prosecution is an executive function, so the judiciary may not exercise it.
+**Jones, J., for the court**
 
-Twenty years later, [[Heckler v. Chaney]] (1985) adopted the same presumption for civil agency enforcement under the APA, explicitly analogizing an agency's refusal to act to "the decision of a prosecutor in the Executive Branch not to indict," and citing the Take Care Clause. The prosecution-is-executive premise is also the ground of Scalia's dissent in [[Morrison v. Olson]] (the independent counsel). Judge Griffin Bell, one of the dissenters here, later served as Attorney General under President Carter.
+- Text and structure: the executive power and the Take Care duty belong to the President, and the Attorney General is his hand.
+- Division of labor: the grand jury finds only probable cause, while prosecuting turns on policy, and the attorney decides "as an executive official of the Government."
 
-After the casebook, *United States v. Texas (2023)* (Kavanaugh, J., for five Justices) held that states lacked standing to challenge DHS's immigration enforcement priorities, reasoning that "the Executive Branch possesses authority to decide how to prioritize and how aggressively to pursue legal actions" and that non-enforcement decisions are "ordinarily unsuitable for judicial review." That is Cox's principle stated by the Supreme Court as a matter of Article III.
+**Brown, J., concurring specially**
+
+- "Mine is a middle course." A court cannot compel the signature but may compel the attorney "to act as legal scrivener to the Grand Jury," and the value of that duty is disclosure before "an informed electorate."
+- The power not to prosecute "is indeed awesome. But it has to reside somewhere," and it sits more safely in a politically responsible official than in a body marked by "anonymity, transitory authority, and political unresponsibility."
+
+**Wisdom, J., concurring specially**
+
+- Prosecution is "an executive function within the exclusive prerogative of the Attorney General," who by statute controls all U.S. Attorneys.
+- Someone must be able to stop a baseless prosecution, and the right officer is the one whose duty "is to collect evidence on both sides of a case." Where national policy is involved, declining to prosecute "is analogous to the exercise of executive privilege."
+- Federalism: where local custom collides with national policy, the discretion belongs to an official "insulated from local prejudices and parochial pressures."
+
+**Rives, Gewin and Bell, JJ., concurring in part and dissenting in part**
+
+- The issue is whether controlling discretion "rests with the Attorney General or with the grand jury," and "[o]ne of the most fundamental and important of the laws so to be faithfully executed" is the Fifth Amendment's indictment requirement.
+- Separation of powers survives if the attorney must draft and sign and the executive then refuses to go forward "in open court and not in the secret confines of the grand jury room."
+
+## Arguments rejected
+
+- *The Grand Jury Clause is itself one of the "laws" the President must faithfully execute, so the grand jury holds the controlling discretion.* Jones: the grand jury finds only probable cause, while prosecution turns on policy. Its office is a check on charging, not a power to charge.
+- *The U.S. Attorney is an officer of the court, so the court may order him to perform his duties before it.* Jones: "he is nevertheless an executive official of the Government," and he decides in that capacity.
+- *Unreviewable discretion invites abuse by a corrupt Attorney General.* Wisdom: "I am not aware that we have had more lawless Attorneys General than lawless juries." Brown: open disagreement subjects the decision "to the scrutiny of an informed electorate."
+- *A grand jury can weigh the policy reasons against prosecution as well as the executive can.* Brown: it has no source of information, no clearances and "no definitive political responsibility." Wisdom: a local jury cannot resolve a conflict "affecting the whole Nation."
+
+## Where it sits
+
+**Suspending and dispensing.** English monarchs claimed powers to suspend statutes and to dispense individuals from them, and James II used both against the act barring Roman Catholics from office until the 1689 settlement ended it. The Constitution never uses the words, and the Convention "unanimously rejected a proposal to give the president a suspending power." Cox is the pole of maximum discretion.
+
+**Category two.** Congress had neither granted nor forbidden enforcement discretion, which places Cox in the second category of Jackson's [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] concurrence. [[Adams v. Richardson]] is the counterweight, where Congress had directed enforcement and specified the means, and [[The Thompson Memo]] tries to state the line for a programmatic policy.
+
+**Two methods.** Jones is formal: prosecution is an executive function, so the judiciary may not exercise it. Wisdom's claim that the discretion "would have evolved without the doctrine" is an argument from practice, and it pairs with Frankfurter's gloss argument in Youngstown.
+
+**Afterwards.** *Heckler v. Chaney* (1985) extended the presumption to civil enforcement under the APA, analogizing an agency's refusal to act to "the decision of a prosecutor in the Executive Branch not to indict." *United States v. Texas* (2023) restated Cox's principle as a matter of standing.
 
 ## Professor gloss
 
----
+## Cold-call notes
 
-## Class layer
+**Note 1. "What are the constitutional arguments in favor of prosecutorial discretion? What are the arguments against it? What provisions of the text speak to this question?"**
 
-### Posture
+- For: the Vesting Clause gives the executive power to one President, and the pardon power shows that the Constitution tolerates non-enforcement.
+- Against: the Take Care Clause reads as a duty, "faithfully" implies something other than free choice, and the Grand Jury Clause puts the charging check outside the executive branch.
 
-- The District Court (Judge Harold Cox, S.D. Miss.) held U.S. Attorney Hauberg in civil contempt and ordered Acting Attorney General Katzenbach to show cause; it stayed its order five days.
-- Hauberg and Katzenbach appealed, and with the United States petitioned for a writ of prohibition. The Fifth Circuit heard the case en banc.
+**Note 2. "Is he right about the power of the facts of this case? But if so, should his logic extend to future cases, with different facts?"**
 
-### Facts
+- On these facts he is right. The grand jury looks like the danger and the Attorney General like the protector of federal rights, with the witnesses facing trial "in a climate of community hostility."
+- Reverse them — a grand jury wants to indict a registrar and a politically motivated Attorney General refuses — and "uncontrollable discretion" still covers it. The dissenters' bad-faith reservation is the answer, and Jones never rests on the facts.
 
-In a suit by the United States against the registrar of Clarke County, Mississippi, and the State to enforce Black citizens' voting rights, Goff and Kendrick testified that the registrar had refused to register them at Stonewall while registering white applicants, including a B. Floyd Jones. The registrar testified that Jones had registered at Enterprise and that he had never discriminated. Judge Cox said from the bench that Goff and Kendrick should be "bound over to await the action of the grand jury for perjury." When the grand jury reconvened in October 1964, it asked the U.S. Attorney, Hauberg, to prepare indictments, and he refused. Judge Cox gave him an hour, then held him in civil contempt and ordered him jailed until he agreed to perform his "official duty for the grand jury." The editors omit Wisdom's account of the investigation and the dissenters' history of the grand jury.
+**Note 3. "Does this make sense? What does an unsigned indictment accomplish?"**
 
-### Issue
+- Brown's answer is disclosure: the grand jury's view and the executive's refusal become public, and the electorate is the check.
+- The dissenters want that one step later, on a motion to dismiss in open court, while Jones objects that a document the attorney will never "vitalize with his signature" is futile.
 
-- Can a federal court compel a U.S. Attorney to sign an indictment that the grand jury has voted but the Attorney General has decided not to bring?
-- Can a federal court compel a U.S. Attorney to draft, in legal form, an indictment the grand jury wants to consider or return?
-- Was the order to show cause against the Acting Attorney General appealable, and should a writ of prohibition issue?
+**Note 4. "Why is that? Is it a principle limited to criminal cases? Is the pardon power from Article II, Section 2, relevant?"**
 
-### Holding
+- Because the alternative is a court prosecuting, which is no judicial function; even the dissenters say the power to withhold leave to dismiss "is solely for the protection of the defendant."
+- The pardon power is relevant and strong: a President who may pardon after conviction can surely decline to charge. Beyond criminal cases that analogy disappears, yet *Heckler v. Chaney* extended the presumption anyway.
 
-- No (4–3). The signature is essential to a valid indictment, and signing or withholding it is an unreviewable executive decision grounded in the separation of powers.
-- Yes, by a separate 4–3 majority (Brown and the three dissenters), though the point did not control the judgment: because Judge Cox's order required drafting and signing, it was reversed.
-- No and no. The show-cause order was interlocutory, so the appeal was dismissed; with the contempt reversed and no citation served on Katzenbach, the discretionary writ was unnecessary.
+**Note 5. "Does its logic extend to cases where Congress has expressly instructed the president to enforce?"**
 
-### Rule
+- Not on its own terms, since Cox is category two and the opinions reason from the absence of a congressional command.
+- Vary it: a statute providing that the attorney "shall" sign any indictment the grand jury votes moves the case to category three, where the question becomes whether the discretion is conclusive and preclusive.
 
-- Whether to commence or maintain a federal prosecution is a discretionary executive decision, exercised by the Attorney General as the President's hand under the Take Care Clause.
-- Courts "are not to interfere with the free exercise of the discretionary powers of the attorneys of the United States in their control over criminal prosecutions."
-- The grand jury decides only probable cause; its vote does not bind the executive to prosecute.
-- Even on the dissenters' view, once an indictment is returned the executive can refuse to go forward, and the court's power to withhold leave to dismiss "is solely for the protection of the defendant" (Rives, Gewin and Bell).
+### Further drilling
 
-### Reasoning
-
-**(Jones, J., for the court)**
-
-- Text and structure: the judicial power extends to criminal prosecutions, but the executive power and the Take Care duty belong to the President, and the Attorney General is his hand.
-- The grand jury's function is probable cause; the prosecutor's is policy.
-- Officer of the court or not, the U.S. Attorney decides whether to prosecute as an executive officer, so judicial coercion would breach the separation of powers.
-- Since the signature cannot be compelled, requiring a draft he will not "vitalize with his signature" is futile.
-
-**(Brown, J., concurring specially)**
-
-- "Mine is a middle course." The court cannot compel the signature but can compel the U.S. Attorney "to act as legal scrivener to the Grand Jury."
-- The power not to prosecute "is indeed awesome. But it has to reside somewhere," and it is safer pinpointed in a politically responsible official than in a body marked by "anonymity, transitory authority, and political unresponsibility."
-- National security, the choice of whom to name as defendants and whom to use as witnesses, and the executive's policy aims all require executive control.
-- The drafting duty is illogical but historical: the grand jury is "born, not out of logic, but out of the needs of history's rich experience." Its value is disclosure: the conflict is revealed in open court. "With great power comes great responsibility."
-
-**(Wisdom, J., concurring specially)**
-
-- Prosecution is "an executive function within the exclusive prerogative of the Attorney General," who by statute heads the Department of Justice and controls all U.S. Attorneys.
-- Two reasons for vesting the discretion in the executive. First, someone must be able to stop a baseless prosecution, and the right repository is the officer whose duty "is to collect evidence on both sides of a case." Second, where national policy is involved (national security, foreign policy, conflict between branches) the executive is the branch to decide; a decision not to prosecute "is analogous to the exercise of executive privilege."
-- The discretion is "absolute and exclusive" and can be rationalized by separation of powers, but "would have evolved without the doctrine and exists in countries that do not purport to accept this doctrine."
-- The facts show "the imperative necessity" of "uncontrollable discretion to prosecute": the witnesses faced trial "in a climate of community hostility," while the registrar, whom the district court in effect found untruthful, "runs no risk."
-- Federalism: when local custom "collide[s] with national policy as fixed by the Constitution or by Congress," the discretion must lie with an official "insulated from local prejudices and parochial pressures." Resolution of the conflict cannot lie "with a majority of twenty-three members of a jury chosen from the Southern District of Mississippi."
-- On a narrow view, Rule 48(a) by analogy suffices, and the grand jury may still make a presentment in open court. "But there is more to the case."
-
-### Dissent / concurrence
-
-**(Rives, Gewin and Bell, JJ., concurring in part and dissenting in part)**
-
-- The basic issue is whether controlling discretion over felony prosecutions "rests with the Attorney General or with the grand jury."
-- "[O]ne of the most fundamental and important of the laws so to be faithfully executed" is the Fifth Amendment's requirement of a grand jury presentment or indictment. The Take Care Clause therefore cuts for the grand jury.
-- Separation of powers is kept intact by requiring the U.S. Attorney to draft and sign, then letting the executive refuse to go forward "in open court and not in the secret confines of the grand jury room." Compelling prosecution beyond that point would put prosecutorial power in the judiciary.
-- They reserve a court's power to require "a showing of good faith, and a statement of some rational basis for dismissal," and, in case of bad faith, to appoint counsel to prosecute.
-- "Memory goes back, however, to days when we had an Attorney General suspected of being corrupt." The precedent is for all cases, and the grand jury is "that great constitutional bulwark."
-- They would affirm the contempt, and they concur in dismissing Katzenbach's appeal and denying the writ.
-
-### Cold-call notes
-
-- **What exactly did the court hold, and by what votes?** Two different 4–3 majorities. Tuttle, Jones, Brown and Wisdom: the signature cannot be compelled. Brown, Rives, Gewin and Bell: the draft can be. Brown is the swing vote on both. The judgment reverses only because the order was conjunctive. Getting the split right is the first cold-call trap.
-- **Where does Cox sit in Youngstown?** Category two, per Note 5: Congress neither granted nor forbade discretion. Vary the fact: a statute providing that the U.S. Attorney "shall" sign any indictment the grand jury votes. That moves the case to category three, and the question becomes whether prosecutorial discretion is "conclusive and preclusive." Jones's separation-of-powers reasoning and Wisdom's "exclusive prerogative" suggest yes; [[Adams v. Richardson]] suggests Congress's command controls, at least outside criminal prosecution.
-- **Why do even the dissenters let the executive stop the case after indictment?** Note 4. Because the alternative is the court prosecuting, which is not a judicial function; the dissenters say so themselves. The pardon power points the same way: a President who could pardon the defendant the day after conviction can surely decline to prosecute. Be ready to say whether the principle reaches civil enforcement, where there is no pardon analogue ([[Heckler v. Chaney]] says it largely does).
-- **What does an unsigned indictment accomplish?** Note 3. Brown's answer is disclosure: the grand jury's view and the executive's refusal become public, and the check is the electorate. The dissenters want the same thing one step later, in open court on a motion to dismiss. Wisdom points to the presentment as the grand jury's own public channel.
-- **Does Wisdom's argument from the facts prove too much?** Note 2. His facts make the grand jury look like the danger and the Attorney General the protector of federal rights. Reverse the facts: a local grand jury wants to indict a registrar for civil-rights violations and a politically motivated Attorney General refuses. Wisdom's rule still says "uncontrollable discretion." The dissenters' reservation for bad faith is the answer to that hypothetical, and Brown's publicity is the fallback.
-- **Is the discretion here a dispensing power?** No, on the casebook's framing. A dispensation excuses an individual prospectively from obeying the law; declining to prosecute past conduct in a particular case excuses no one in advance. Cox is the paradigm of what the English settlement did not forbid. Hold that against [[The Thompson Memo]]'s deferred action, which "openly tolerate[s]" continuing unlawful presence for a fixed period.
-- **Power or duty?** The dissenters read the Take Care Clause as a duty that includes the Grand Jury Clause. Jones and Wisdom read it as the source of a power. The word "faithfully" is where the argument lives: faithful execution may require judgment about which cases to bring.
-- **Formalism and functionalism.** Jones is formalist (prosecution is executive, full stop). Wisdom is functionalist (the executive is better informed, national, and politically accountable) and historical (the power "would have evolved" anyway). Brown is openly anti-logical. Knowing which opinion supplies which kind of argument is the level-three answer to Note 1.
-- **Memorable lines.** Brown: "The power not to initiate is indeed awesome. But it has to reside somewhere"; "With great power comes great responsibility." Wisdom: "I am not aware that we have had more lawless Attorneys General than lawless juries." Dissent: "an Attorney General suspected of being corrupt."
+- **Get the votes right.** Two 4–3 majorities, Brown the swing vote in both: Tuttle, Jones, Brown and Wisdom on the signature; Brown and the three dissenters on the draft. The judgment reverses only because the order was conjunctive.
+- **Is this a dispensing power?** No: a dispensation excuses an individual prospectively, while declining to prosecute past conduct excuses no one in advance. Compare [[The Thompson Memo]]'s deferred action.
+- **Power or duty?** The dissenters read the Take Care Clause as a duty taking in the Grand Jury Clause, while Jones and Wisdom read it as a power. The argument lives in "faithfully."
+- **Memorable lines.** Brown: "The power not to initiate is indeed awesome. But it has to reside somewhere." Wisdom: "I am not aware that we have had more lawless Attorneys General than lawless juries."

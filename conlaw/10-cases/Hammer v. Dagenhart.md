@@ -14,110 +14,99 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+## Snapshot
+
+Congress barred from interstate commerce the products of any factory or mine that had recently employed child labor. A father of two mill boys won an injunction in North Carolina, and on direct appeal the Court affirmed, 5–4. Because child-made goods are harmless in themselves, the prohibition regulated production rather than commerce and invaded powers reserved to the states. The Commerce Clause and the Tenth Amendment decide the case; the Fifth Amendment claim goes unaddressed.
+
+## Issue
+
+The unit's bridge note asks whether the commerce power "must . . . be employed for a commercial-regulatory purpose." Hammer answers yes.
+
+- May Congress bar the interstate shipment of goods made in factories that employed children within the prohibited ages and hours?
+- Does such a prohibition invade powers reserved to the states by the Tenth Amendment?
+- **Argued, not decided.** Does the Act conflict with the Fifth Amendment?
+
 ## Rule
 
-Congress may not use its power to exclude goods from interstate commerce to regulate the conditions of their **production**: where the goods are "of themselves harmless" and the real object is local labor, the prohibition is not a regulation of commerce but an invasion of the states' reserved power. Overruled by [[United States v. Darby]] (1941).
+Congress may not use its power to exclude goods from interstate commerce to regulate the conditions of their production. Where the goods are harmless in themselves and transportation is not the instrument of the evil, a ban on their movement is not a regulation of commerce but an invasion of reserved state power. The character of the thing shipped, not the form of the statute, decides which side of the line a prohibition falls on. Overruled by [[United States v. Darby]] (1941).
 
-## Facts
+- The commerce power is a power "to prescribe the rule by which commerce is to be governed," controlling "the means by which commerce is carried on," not forbidding movement.
+- Congress may prohibit transportation only where its use "was necessary to the accomplishment of harmful results."
+- "[T]he production of articles, intended for interstate commerce, is a matter of local regulation."
+- "The commerce clause was not intended to give to Congress a general authority to equalize such conditions."
 
-- **The Act banned interstate shipment of goods from any factory or mine that had used child labor within the prior thirty days.** *The statute's form was a shipping ban, which is why the government could invoke Champion v. Ames; the Court looked past the form to the object.*
-- **The goods themselves were harmless cotton-mill products.** *Day's decisive distinction: in the lottery, liquor and Mann Act cases "the use of interstate transportation was necessary to the accomplishment of harmful results"; here the harm was over before shipment began.*
-- **The Act let the same goods ship freely once thirty days had passed after they left the factory.** *Day uses this to show the Act was not about the goods moving in commerce at all but about the factory.*
-- **The plaintiffs were a father and his two minor sons working in a Charlotte, North Carolina cotton mill.** *North Carolina permitted work at twelve; the federal floor of fourteen displaced a choice the state had made.*
-- **Every state already regulated child labor, but the standards differed.** *The government's unfair-competition argument depended on these differences; the Court held Congress has no "general authority to equalize such conditions."*
+## Operative facts
 
-## Court Ruling
+- **By 1916 every state limited the employment of children, but the standards differed.** *The unfair-competition argument depends on that variation, and the Court answers that Congress has no "general authority to equalize such conditions."*
+- **North Carolina, where the mill stood, permitted children to work from the age of twelve.** *The federal floor of fourteen displaced a judgment the state had made, which is what makes this a Tenth Amendment case too.*
+- **In 1916 Congress barred from interstate and foreign commerce the products of any mine or factory that, within thirty days before the goods were removed, had employed children under fourteen, or children of fourteen to sixteen for more than eight hours a day, more than six days a week, or at night.** *The form is a flat shipping ban, which is why the government could invoke Champion v. Ames; the casebook puts the law's "obvious purpose" as banning child labor nationwide, and Day looks past the form to the object.*
+- **The Act permitted the same goods to be "freely shipped after thirty days from the time of their removal from the factory."** *Day's cleanest proof that the target was the factory, since the Act does not care where child-made products go, only how they were made.*
+- **The goods were ordinary cotton-mill products, "of themselves harmless."** *The decisive distinction. In the lottery, liquor and Mann Act cases transportation was "necessary to the accomplishment of harmful results"; here the harm was complete before shipment.*
+- **A father sued in the Western District of North Carolina, for himself and as next friend of his two minor sons, one under fourteen and the other between fourteen and sixteen, both employed in a Charlotte cotton mill.** *The challengers are the family the Act was meant to protect, and they attacked it under the Commerce Clause, the Tenth Amendment and the Fifth.*
+- **The District Court held the Act unconstitutional and enjoined its enforcement.** *The government arrives as appellant with the injunction already running, so affirmance kills the scheme without any further order.*
+- **On direct appeal the government rested the Act entirely on the commerce power.** *No alternative ground was offered, which is why Congress's next attempt ran through the taxing power in [[Bailey v. Drexel Furniture Co]] (1922).*
 
-**Held** (5–4; Day for the Court)
+## Holding and reasoning
 
-- The Act exceeds the commerce power. The power to regulate is the power "to control the means by which commerce is carried on," not a general power to forbid commerce in "ordinary commodities."
-- The prohibition cases (*Champion v. Ames*, *Caminetti v. United States*) rest on the harmful character of the thing shipped; child-made goods are "of themselves harmless."
-- Production is local: "the production of articles, intended for interstate commerce, is a matter of local regulation." Otherwise "all manufacture intended for interstate shipment would be brought under federal control."
-- The Act is "in a two-fold sense" unconstitutional: it "transcends the authority delegated to Congress over commerce" and "exerts a power as to a purely local matter to which the federal authority does not extend." The injunction against enforcement is affirmed.
+**Held** (5–4; Day for the Court; Holmes dissenting, joined by McKenna, Brandeis and Clarke)
 
-**Rejected**
+- **Exceeds the commerce power.** The power to regulate controls "the means by which commerce is carried on"; the prohibition cases reach only goods whose movement accomplishes the harm.
+- **Invades reserved state power.** The Act's "necessary effect" is "to regulate the hours of labor of children in factories and mines within the states, a purely state authority," making it unconstitutional "in a two-fold sense."
+- **Fifth Amendment not reached.** The decree below is affirmed.
 
-- *The power to regulate includes the power to prohibit, as Champion v. Ames settled; a law that does nothing but bar goods from interstate carriage is a regulation of interstate commerce on its face, whatever Congress hoped would follow.* Day: in the prohibition cases the prohibition was "but the exertion of the power to regulate" because interstate transportation was the means of the harm; here the "labor of their production is over" before shipment.
-- *Congress may close the channels of commerce to stop states with lax child-labor laws from undercutting states with strict ones.* Day: "There is no power vested in Congress to require the states to exercise their police power so as to prevent possible unfair competition." Minimum-wage and hours laws for women vary too, and that variation does not give Congress power to equalize.
+**Day, for the Court**
+
+- Reads Gibbons's "prescribe the rule" as a power to govern commerce, the opposite of a right "to forbid commerce from moving and thus destroying it as to particular commodities."
+- Distinguishes the prohibition precedents by subject matter rather than form: where the thing shipped is harmful, "the authority to prohibit is as to them but the exertion of the power to regulate." That element "is wanting" here.
+- Looks through form to effect. The Act "aims to standardize the ages at which children may be employed in mining and manufacturing within the states," and under *United States v. E.C. Knight Co.* production is local, so federal control would sweep in "all manufacture intended for interstate shipment."
+- Grounds the limit in enumerated powers and the Tenth Amendment, which he quotes as reserving powers "not expressly delegated" — a word not in the amendment, as Marshall noted against the Articles in [[McCulloch v. Maryland]].
+
+**Holmes, dissenting (joined by McKenna, Brandeis and Clarke)**
+
+- Concedes the premise and refuses its consequence. The states have "exclusive control over their methods of production," but an act within a power "specifically conferred upon Congress" is "not made any less constitutional because of the indirect effects that it may have."
+- The statute "confines itself to prohibiting the carriage of certain goods in interstate or foreign commerce," and "[r]egulation means the prohibition of something." Collateral consequences cannot matter, because the power cannot "be cut down or qualified by the fact that it might interfere with the carrying out of the domestic policy of any State."
+- Rejects any harmful-goods limit. Civilized countries have agreed on "the evil of premature and excessive child labor" "far more unanimously than they have with regard to intoxicants," and it is not for the Court to say prohibition "is permissible as against strong drink but not as against the product of ruined lives."
+- Denies that the Act touches what the states own: "when they seek to send their products across the State line they are no longer within their rights," since such commerce "belongs not to the States but to Congress to regulate."
+
+## Arguments rejected
+
+- *The power to regulate includes the power to prohibit, as Champion v. Ames settled, so a law that does nothing but bar goods from interstate carriage is a regulation of commerce on its face, whatever Congress hoped would follow.* Day: there the ban was "but the exertion of the power to regulate" because transportation was the means of the harm, while here "the labor of their production is over" before shipment begins.
+- *Congress may close the channels of commerce to stop states with lax child-labor laws from undercutting states with strict ones.* Day: "There is no power vested in Congress to require the states to exercise their police power so as to prevent possible unfair competition." Minimum-wage and hours laws for women vary too, and that variation confers no power to equalize.
 - *Uniform national child-labor rules are desirable, and every state agrees child labor should be limited.* Day concedes the desirability and answers with [[McCulloch v. Maryland]]: the federal government "is one of enumerated powers," a principle "universally admitted."
 
-## Context
+## Where it sits
 
-The case sits at the end of the casebook's bridge note, "The Commerce and Necessary and Proper Clauses: After [[Gibbons v. Ogden]]," which traces two competing lines. The **narrowing line** starts with [[United States v. E.C. Knight Co|E.C. Knight]] (1895): "Commerce succeeds to manufacture and is not a part of it," because otherwise Congress could regulate "every branch of human industry." The **expanding line** runs through *Champion v. Ames* (1903) (power to regulate includes power "to prohibit" noxious goods), the *Shreveport Rate Case* (1914) (Congress may reach intrastate rates of interstate carriers to protect interstate commerce, "to take all measures necessary or appropriate to that end"), and *Caminetti v. United States* (1917) (non-commercial interstate travel for "immoral purpose"). Before Knight, the Marshall and Taney Courts mostly decided the reverse question, whether state laws were valid police-power measures: *Willson v. Black-Bird Creek Marsh Co* (1829), *New York v. Miln* (1837) and *Cooley v. Board of Wardens* (1851), whose "single uniform rule" versus local "diversity" distinction is the seed of the dormant Commerce Clause.
+**Two lines after Gibbons.** The casebook's bridge note traces a narrowing line and an expanding one. *United States v. E.C. Knight Co.* (1895) holds that "Commerce succeeds to manufacture and is not a part of it." Against it run *Champion v. Ames* (1903), finding in the power to regulate a power "to prohibit" noxious goods, the *Shreveport Rate Case* (1914) and *Caminetti* (1917). Hammer makes Knight the rule and the prohibition cases an exception for harmful things, so the distinguishing fact is the character of the goods — and neither a lottery ticket nor a car ride is harmful in itself.
 
-Hammer tries to reconcile the lines: Knight's production/commerce distinction governs unless the thing shipped is itself harmful. The distinguishing fact between Hammer and Champion is therefore the character of the goods, not the form of the statute, which in both cases is a flat ban on interstate carriage.
+**Pretext.** Day finds the Act's "necessary effect" is to regulate the hours of child labor, applying Marshall's pretext warning in [[McCulloch v. Maryland]] to the commerce power. [[United States v. Darby]] abandons the inquiry: motive is "for the legislative judgment."
 
-The opinion also runs a **pretext** argument. Day finds that the Act's "necessary effect" is "to regulate the hours of labor of children in factories and mines." That is Marshall's pretext warning in [[McCulloch v. Maryland]] (the Court would strike down a law that used an enumerated power as a pretext to accomplish ends not entrusted to the national government) applied to the commerce power itself. [[United States v. Darby]] rejects the pretext inquiry: motive is "for the legislative judgment."
-
-Aftermath: Congress tried a tax on child-labor profits, struck down 8–1 in [[Bailey v. Drexel Furniture Co]] (1922, Class 21), then proposed the Child Labor Amendment, which stalled. [[A.L.A. Schechter Poultry Corp. v. United States|Schechter Poultry]] (1935) and *Carter Coal* (1936) carried Hammer's production and "indirect effects" reasoning into the New Deal; [[NLRB v. Jones & Laughlin Steel Corp|Jones & Laughlin]] (1937) turned the corner; [[United States v. Darby]] overruled Hammer by name. Holmes's dissent became the law, and then some: Darby rejected even his concession that Congress cannot directly regulate production. Hammer's spirit, that some activity is beyond the national power because it is local, returns in [[United States v. Lopez]] (1995) and [[NFIB v. Sebelius]] (2012).
+**Aftermath.** Congress tried a tax on child-labor profits and lost 8–1 in [[Bailey v. Drexel Furniture Co]], then proposed a Child Labor Amendment that stalled. *Schechter Poultry* (1935) and *Carter Coal* (1936) carried the production reasoning into the New Deal, *Jones & Laughlin Steel* (1937) turned the corner, and Darby overruled Hammer by name. The intuition that some activity lies beyond national power because it is local returns in [[United States v. Lopez]] and [[NFIB v. Sebelius]].
 
 ## Professor gloss
 
----
+## Cold-call notes
 
-## Class layer
+**Note 1. "Which opinion is more persuasive as a matter of text and structure? As a matter of precedent?"**
 
-### Posture
+- Text favors Holmes. The clause grants power over commerce among the states in unqualified terms, and a ban on carriage is a rule about carriage; Day must read a purpose requirement into "regulate."
+- Structure favors Day, and it is his strongest ground: a commerce power reaching production reaches everything made for sale, leaving the enumeration no work. The weakness is his misquotation, since the amendment reserves powers not "delegated."
+- Precedent favors Holmes. *Champion v. Ames* and *Caminetti* both ban movement of harmless things to suppress local vice, so Day's harmful-goods line does not describe them.
 
-- A father, suing for himself and as next friend of his two sons, sought an injunction in the Western District of North Carolina against enforcement of the 1916 child-labor act. The District Court held the Act unconstitutional and enjoined enforcement.
-- Direct appeal to the Supreme Court, which affirmed.
+**Note 2. "Justice Holmes concedes that the Constitution forbids 'direct intermeddling' with the states' 'exclusive control over their methods of production.' Why? What is his apparent theory of the limits of Congress's powers? Does it make sense?"**
 
-### Facts
+- His theory is jurisdictional. Each government has its own sphere, and validity turns on a statute's immediate operation, so a law operating on carriage stands however much it reshapes factory practice.
+- The concession buys the appearance of a limit while giving Congress every result it wants, so long as it uses the channels of commerce.
+- It does not finally hold. A limit Congress can evade by choosing its statutory form limits almost nothing, which is why [[United States v. Darby]] discarded the concession.
 
-In 1916, as Progressive Era regulation gained momentum, Congress passed a child-labor act barring from interstate or foreign commerce the products of any mine or factory that, within thirty days before the goods were removed, had employed children under fourteen, or children fourteen to sixteen for more than eight hours a day or six days a week, or at night. The casebook frames the law's "obvious purpose" as banning child labor nationwide. A father whose two sons, one under fourteen and one between fourteen and sixteen, worked in a Charlotte cotton mill sued to stop enforcement, attacking the Act under the Commerce Clause, the Tenth Amendment and the Fifth Amendment. North Carolina's own law set the minimum working age at twelve.
+**Note 3. "Could Congress have banned the interstate and foreign trade of any good made using slave labor? Would that have let Congress effectively outlaw slavery?"**
 
-### Issue
+- On Holmes's theory, yes to the first: such a ban regulates carriage, and its effect inside a state is collateral.
+- The second follows practically rather than formally. Cotton was an export staple, so closing commerce to slave-made goods would have destroyed slavery's economics without reaching it directly.
+- That is why antebellum Southerners read the commerce power narrowly, and why the production line had defenders long before 1918. Compare the fight over slavery in the territories in [[Dred Scott v. Sandford]].
 
-- May Congress, under its power to regulate commerce among the states, prohibit the interstate shipment of goods produced in factories that employed children within the prohibited ages and hours?
-- Does such a prohibition invade powers reserved to the states under the Tenth Amendment?
+### Further drilling
 
-### Holding
-
-- No. The Act does not regulate commerce: the goods are harmless, shipment is not the means of the evil, and the production of goods "intended for interstate commerce" is local. The power to prohibit extends only to things whose interstate movement accomplishes harm.
-- Yes. Because the Act's "necessary effect" is to regulate child labor in factories and mines, "a purely state authority," it both exceeds the commerce power and intrudes on reserved state power.
-
-### Rule
-
-- The commerce power is "the power to regulate; that is, to prescribe the rule by which commerce is to be governed" ([[Gibbons v. Ogden]], as read by Day), meaning control of the "means by which commerce is carried on."
-- Congress may prohibit interstate transportation where "the use of interstate transportation was necessary to the accomplishment of harmful results."
-- "Over interstate transportation, or its incidents, the regulatory power of Congress is ample, but the production of articles, intended for interstate commerce, is a matter of local regulation."
-- Congress may not close the channels of commerce to equalize competitive conditions created by differing state laws.
-
-### Reasoning
-
-**(Day, J., for the Court)**
-
-- Reads Gibbons's "prescribe the rule" as a power to govern commerce, which is "directly the contrary of the assumed right to forbid commerce from moving and thus destroying it as to particular commodities."
-- Distinguishes the prohibition precedents (*Champion v. Ames*, *Caminetti v. United States* and similar cases) by their harmful subject matter. There, "the authority to prohibit is as to them but the exertion of the power to regulate."
-- Looks through form to effect: "The act in its effect does not regulate transportation among the states, but aims to standardize the ages at which children may be employed in mining and manufacturing within the states."
-- The thirty-day window shows the target is production: the Act "permits them to be freely shipped after thirty days from the time of their removal from the factory."
-- Follows [[United States v. E.C. Knight Co|E.C. Knight]]: once production is local, federal control of it would bring "all manufacture intended for interstate shipment" under federal control "to the practical exclusion of the authority of the states."
-- Rejects the race-to-the-bottom rationale: "The commerce clause was not intended to give to Congress a general authority to equalize such conditions."
-- Invokes enumerated powers and the Tenth Amendment: "the nation is made up of states to which are entrusted the powers of local government. And to them and to the people the powers not expressly delegated to the national government are reserved." (The word "expressly" is not in the Tenth Amendment; Marshall made that point against the Articles in [[McCulloch v. Maryland]].)
-- Slippery slope: if Congress can regulate local matters by prohibiting movement of commodities, "all freedom of commerce will be at an end, and the power of the states over local matters may be eliminated, and thus our system of government be practically destroyed."
-
-### Dissent / concurrence
-
-**(Holmes, J., with McKenna, Brandeis and Clarke, JJ., dissenting)**
-
-- **The concession.** The states have "exclusive control over their methods of production," and "taking the proposition in the sense of direct intermeddling I agree to it and suppose that no one denies it."
-- **The core principle.** "[I]f an act is within the powers specifically conferred upon Congress, it seems to me that it is not made any less constitutional because of the indirect effects that it may have, however obvious it may be that it will have those effects."
-- **Step one: the Act is a regulation of commerce on its face.** It "confines itself to prohibiting the carriage of certain goods in interstate or foreign commerce." "Regulation means the prohibition of something," and after *Champion v. Ames* a law is not beyond the power "merely because it prohibits certain transportation out and out."
-- **Step two: collateral effects on state policy do not invalidate a valid exercise.** The Court's "most conspicuous decisions" establish that the commerce power cannot "be cut down or qualified by the fact that it might interfere with the carrying out of the domestic policy of any State."
-- **No harmful-goods limit.** "The notion that prohibition is any less prohibition when applied to things now thought evil I do not understand." If moral judgments count, child labor is the strongest case: civilized countries have agreed on "the evil of premature and excessive child labor" "far more unanimously than they have with regard to intoxicants."
-- **Policy belongs to Congress.** "It is not for this Court to pronounce when prohibition is necessary to regulation if it ever may be necessary—to say that it is permissible as against strong drink but not as against the product of ruined lives."
-- **The Act touches only what the states never owned.** "The Act does not meddle with anything belonging to the States. . . . But when they seek to send their products across the State line they are no longer within their rights." "Under the Constitution such commerce belongs not to the States but to Congress to regulate."
-- **The national view prevails in the national sphere.** "The national welfare as understood by Congress may require a different attitude within its sphere from that of some self-seeking State. It seems to me entirely constitutional for Congress to enforce its understanding by all the means at its command."
-
-### Cold-call notes
-
-- **What is the pivotal fact?** The goods were harmless when shipped. Change it: a ban on shipping goods contaminated in the factory is a Champion-style prohibition even under Day's test, because the interstate movement spreads the harm. Day's line is about the thing in commerce, not the statute's form.
-- **Shipping versus making.** A ban on *shipping* child-made goods interstate is the Hammer statute (invalid in 1918, valid after [[United States v. Darby]]). A federal ban on *employing* children in a factory is direct regulation of production, which Holmes himself conceded Congress could not do in 1918; Darby's second holding (§ 15(a)(2), the production-for-commerce wage and hour rules) is what later makes that direct route available.
-- **Does the thirty-day clause help or hurt the government?** It hurts. It shows the Act does not care where the goods go, only where and how they were made; Day uses it as proof of pretext. A statute banning the goods permanently, like the lottery ban, would look more like a judgment about the goods.
-- **Tie to McCulloch's pretext passage.** Marshall said the Court would strike down a law passed under the pretext of an enumerated power to accomplish objects not entrusted to the national government. Hammer is the high-water mark of that idea for the commerce power. Darby abandons judicial review of motive; [[NFIB v. Sebelius]] and [[United States v. Lopez]] revive limits by other means (activity versus inactivity, the non-economic and local), not by motive.
-- **Note 1: text, structure, precedent.** Text: the power to regulate commerce among the states plausibly includes a shipping ban (Holmes) and plausibly excludes manufacturing ([[United States v. E.C. Knight Co|E.C. Knight]]). Structure: Day's enumerated-powers point is strong, but his "expressly delegated" misquotes the Tenth Amendment. Precedent: *Champion v. Ames* and *Caminetti v. United States* are hard to distinguish, since neither the lottery ticket nor the car ride was harmful in itself; both were bans aimed at local vice.
-- **Note 2: why does Holmes concede "direct intermeddling"?** His theory is a jurisdictional one: each government has its own sphere, and what counts is the immediate operation of the law, not its indirect effects. The concession keeps a limit (Congress cannot directly regulate factories) while allowing Congress to achieve the same result through the channels of commerce. The critique: a limit that Congress can evade by statutory form limits almost nothing, which is why Darby dropped it.
-- **Note 3: slavery.** Could Congress have banned interstate trade in slave-made goods and so effectively outlawed slavery? Under Holmes's theory, apparently yes, which shows how much work the form/effect distinction does and why antebellum Southerners read the commerce power narrowly. Compare the power over slavery in the territories in [[Dred Scott v. Sandford]].
-- **Race to the bottom.** Day refuses the unfair-competition rationale; [[United States v. Darby]] embraces it ("the spread of substandard labor conditions"). That argument, that competitive pressure among states justifies national rules, is a structural argument for the commerce power that recurs in Class 19.
-- **Formalism versus functionalism.** Day is formally a functionalist about the statute (he looks at "necessary effect") but a formalist about categories (production is local, period). Holmes is formalist about the statute (look at what it literally regulates) and deferential about purpose. [[Wickard v. Filburn]] rejects Day's categories altogether in favor of "actual effects."
-- **Memorable lines.** Day: "The goods shipped are of themselves harmless"; "our system of government be practically destroyed." Holmes: "the product of ruined lives"; "some self-seeking State"; "Regulation means the prohibition of something."
+- **The pivotal fact.** The goods were harmless when shipped. Make the goods contaminated in the factory and the ban survives even on Day's test, because movement then spreads the harm.
+- **Shipping versus making.** A ban on *shipping* child-made goods is the Hammer statute, invalid in 1918 and valid after Darby. A ban on *employing* children regulates production directly, which Holmes himself conceded Congress could not reach.
+- **Formalism or functionalism?** Day is functional about the statute, looking to "necessary effect," and formal about the categories, since production is local. Holmes inverts both; [[Wickard v. Filburn]] discards the categories.
+- **Memorable lines.** Day: "of themselves harmless"; "our system of government be practically destroyed." Holmes: "the product of ruined lives"; "some self-seeking State."

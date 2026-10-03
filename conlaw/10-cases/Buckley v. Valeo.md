@@ -77,7 +77,7 @@ Any appointee exercising significant authority pursuant to the laws of the Unite
 
 **Appointment and removal.** Congress may neither fill an office that executes the laws nor fire its holder — the removal half is *Bowsher v. Synar* (1986). It may limit the President's own removal power: [[Humphrey's Executor v. United States|Humphrey's Executor]], cited here as an accommodation the independent agency won, and now [[Trump v. Slaughter]].
 
-**The formalist moment.** Text, the list of appointers, Convention history — joined by White, the Court's leading functionalist and later the principal dissenter in [[INS v. Chadha]]. The bargain enforced is Hamilton's in [[The Federalist No. 76]]; inferior-officer questions come in *Morrison v. Olson*, the recess alternative in *NLRB v. Noel Canning*.
+**The formalist moment.** Text, the list of appointers, Convention history — joined by White, the Court's leading functionalist and later the principal dissenter in [[INS v. Chadha (1983)]]. The bargain enforced is Hamilton's in [[The Federalist No. 76]]; inferior-officer questions come in *Morrison v. Olson*, the recess alternative in *NLRB v. Noel Canning*.
 
 **The rest of the case.** Appointments is a small part of a per curiam otherwise about campaign finance. The Court left the Commission its investigative functions, treated its past acts as valid, and stayed its judgment; Congress reconstituted the agency in 1976.
 

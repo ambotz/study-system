@@ -37,5 +37,5 @@ The casebook's section-by-section overview of Article I, opening Part A (Legisla
 
 - [[Separation of powers - vesting clauses and checks and balances]] — Federalist 48 and 51.
 - [[Nondelegation - Art. I § 1 and the intelligible principle]] — the vesting principle in § 1.
-- [[INS v. Chadha]] and [[Clinton v. City of New York]] — § 7, in Class 4.
-- [[United States v. Lovett]] — § 9's Bill of Attainder Clause, in Class 5.
+- [[INS v. Chadha (1983)]] and [[Clinton v. City of New York (1998)]] — § 7, in Class 4.
+- [[United States v. Lovett (1946)]] — § 9's Bill of Attainder Clause, in Class 5.

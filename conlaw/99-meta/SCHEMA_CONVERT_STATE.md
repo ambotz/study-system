@@ -18,15 +18,20 @@ Everything here is set up. **Do not rebuild any of it.**
 - `_inbox/schema-v2/out/A..H/ASSIGN.md` — the 36 cases split 8 ways (A–D are 5 cases, E–H are 4).
 - `_inbox/schema-v2/converted/` — converted files awaiting validation and commit.
 
-## Converted so far — 16 of 36
+## Converted so far — 25 of 36
 
 Lovett, Humphrey's Executor, Stuart v. Laird, Ex parte Levitt, Adams v. Richardson,
 Buckley v. Valeo, Texas v. White, Ex parte Merryman, Wickard v. Filburn,
 Massachusetts v. Mellon, United States v. Darby, Cooper v. Aaron, Corfield v. Coryell,
-Ex parte McCardle, Bailey v. Drexel Furniture Co, Dillon v. Gloss.
+Ex parte McCardle, Bailey v. Drexel Furniture Co, Dillon v. Gloss, Hylton v. United
+States, U.S. House of Representatives v. Burwell, United States v. Cox, Hammer v.
+Dagenhart, The Prize Cases, Garcia v. San Antonio Metropolitan Transit Authority,
+Gonzales v. Raich, Printz v. United States, United States v. Lopez.
 
-All committed and validated. **20 remain**, listed by weight of their casebook extract
-(the extract is what makes a case expensive to convert):
+**11 remain.**
+
+Converted but held back: `South Dakota v. Dole` sits in the cloud outputs at 2,354
+words, over the band. It needs trimming, not reconverting.
 
 | Case | Extract |
 |---|---|
@@ -34,16 +39,7 @@ All committed and validated. **20 remain**, listed by weight of their casebook e
 | Dred Scott v. Sandford | 121 KB |
 | McCulloch v. Maryland | 81 KB |
 | Marbury v. Madison | 65 KB |
-| United States v. Lopez | 64 KB |
-| Printz v. United States | 59 KB |
-| Garcia v. San Antonio Metropolitan Transit Authority | 56 KB |
-| Gonzales v. Raich | 52 KB |
-| South Dakota v. Dole | 46 KB |
-| The Prize Cases | 46 KB |
-| Hammer v. Dagenhart | 42 KB |
-| United States v. Cox | 42 KB |
-| U.S. House of Representatives v. Burwell | 38 KB |
-| Hylton v. United States | 34 KB |
+| South Dakota v. Dole | 46 KB — converted, needs trim |
 | Trump v. Slaughter | none |
 | Trump v. Cook | none |
 | United States v. Nixon | none |

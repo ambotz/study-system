@@ -14,12 +14,9 @@ feeds_module:
 read_for: null
 posture_drove_outcome: false
 ---
-
-> [!note] Source — Checked against the 5th-edition scan (pp. 119–128): the extract is materially identical to the 4th ed., and neither edition describes what the two cancelled provisions did. Both name the parties and classify the items — the New York case an "item of new direct spending," the Snake River case a "limited tax benefit" — and stop there, so the class-layer description of the provisions comes from the full opinion and is not in the casebook. The President made three cancellations (one in the Balanced Budget Act, two in the Taxpayer Relief Act) but only two were challenged; the second Taxpayer Relief Act item stayed cancelled and was never before the Court.
-
 ## Rule
 
-Congress cannot authorize the President to cancel, that is, to deprive of "legal force or effect," parts of a statute after it has been enacted. Cancellation is repeal, and repeal must follow Article I, § 7. The rule of [[INS v. Chadha]] binds Congress and the President alike, and their agreement cannot change the "finely wrought" procedure short of an Article V amendment.
+Congress cannot authorize the President to cancel, that is, to deprive of "legal force or effect," parts of a statute after it has been enacted. Cancellation is repeal, and repeal must follow Article I, § 7. The rule of [[INS v. Chadha (1983)]] binds Congress and the President alike, and their agreement cannot change the "finely wrought" procedure short of an Article V amendment.
 
 ## Facts
 
@@ -35,7 +32,7 @@ Congress cannot authorize the President to cancel, that is, to deprive of "legal
 **Held** (6–3; Stevens, J., for the Court; Kennedy, J., concurring; Scalia, J., joined by O'Connor, J., and by Breyer, J., as to Part III, concurring in part and dissenting in part; Breyer, J., joined by O'Connor, J., and by Scalia, J., as to Part III, dissenting)
 
 - The appellees have standing (summarized by the editors).
-- A cancellation under the Act is, "[i]n both legal and practical effect," a repeal of part of a statute, and "[r]epeal of statutes, no less than enactment, must conform with Art. I" (quoting [[INS v. Chadha|Chadha]]).
+- A cancellation under the Act is, "[i]n both legal and practical effect," a repeal of part of a statute, and "[r]epeal of statutes, no less than enactment, must conform with Art. I" (quoting [[INS v. Chadha (1983)|Chadha]]).
 - "There is no provision in the Constitution that authorizes the President to enact, to amend, or to repeal statutes." The Constitution's silence on partial, post-enactment presidential repeal is "equivalent to an express prohibition."
 - The Act yields "truncated versions of two bills that passed both Houses of Congress," a law "whose text was not voted on by either House of Congress or presented to the President."
 - A new presidential role in "determining the final text of what may 'become a law'" requires an Article V amendment, not legislation.
@@ -51,7 +48,7 @@ Congress cannot authorize the President to cancel, that is, to deprive of "legal
 
 ## Context
 
-Clinton is [[INS v. Chadha|Chadha]] run in reverse. Chadha held that Congress may not take a shortcut around the President; Clinton holds that the President may not take a shortcut around Congress, even when Congress invites it. Both rest on the same sentence, that the legislative power must be exercised "in accord with a single, finely wrought and exhaustively considered, procedure," and both reject a statute that both political branches had agreed to.
+Clinton is [[INS v. Chadha (1983)|Chadha]] run in reverse. Chadha held that Congress may not take a shortcut around the President; Clinton holds that the President may not take a shortcut around Congress, even when Congress invites it. Both rest on the same sentence, that the legislative power must be exercised "in accord with a single, finely wrought and exhaustively considered, procedure," and both reject a statute that both political branches had agreed to.
 
 **Note 1 asks whether this is "a non-delegation doctrine case masquerading as a bicameralism and presentment case."** Scalia says yes, and says the delegation is valid. The majority's reasoning supports his charge: its violation depends on the Act's words "cancel" and "legal force or effect," so a redrafted statute conferring the same power as discretion to decline to spend would pass. A rule that turns on drafting must be protecting something else, and the likeliest candidate is the quantum of power handed to the President, which is a delegation concern. The Court may have chosen presentment because the delegation doctrine, after [[The Non-Delegation Doctrine's Good Year]], supplies only the intelligible principle test, and the Act's three findings would satisfy it. Gorsuch's dissent in [[Gundy v. United States|Gundy]] names Clinton as one of the structural cases through which the hydraulic pressures of an unenforced nondelegation doctrine escape.
 
@@ -59,10 +56,9 @@ The lineup inverts the usual pattern. Stevens, often a functionalist, writes a s
 
 [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] appears twice. The majority is Black's formalism: the President has no lawmaking power except recommending and vetoing. Breyer quotes Jackson's category one: when the President acts "pursuant to an express or implied authorization of Congress, his authority is at its maximum." The case shows that category one does not cure a procedural defect. Congressional authorization can enlarge the President's executive discretion, not give him a share in the § 7 process.
 
-Scalia's history of impoundment connects to Class 5 and the [[The power of the purse - Art. I § 9 cl. 7 appropriations|power of the purse]]: Grant, Roosevelt and Truman withheld funds; Nixon claimed a "constitutional right" to do so; and [[Train v. City of New York]] (1975) rejected the claim as a matter of statutory interpretation while "implicitly confirm[ing] that Congress may confer discretion upon the Executive to withhold appropriated funds." See [[United States v. Lovett]] and [[U.S. House of Representatives v. Burwell]] on how Congress controls spending and enforces its limits.
+Scalia's history of impoundment connects to Class 5 and the [[The power of the purse - Art. I § 9 cl. 7 appropriations|power of the purse]]: Grant, Roosevelt and Truman withheld funds; Nixon claimed a "constitutional right" to do so; and [[Train v. City of New York]] (1975) rejected the claim as a matter of statutory interpretation while "implicitly confirm[ing] that Congress may confer discretion upon the Executive to withhold appropriated funds." See [[United States v. Lovett (1946)]] and [[U.S. House of Representatives v. Burwell (2015)]] on how Congress controls spending and enforces its limits.
 
 **After the casebook.** Impoundment returned in 2025. In September 2025 the Court, on its emergency docket in [[Department of State v. AIDS Vaccine Advocacy Coalition]], stayed a lower-court order and so, for the time being, allowed the executive to withhold about $4 billion in foreign aid that it had proposed to rescind late in the fiscal year (a so-called pocket rescission). The order was interim and did not decide whether the withholding was lawful. It is the modern version of Scalia's question: what is the difference between a statutory power to decline to spend and a power to cancel?
-
 ## Professor gloss
 
 ---
@@ -73,30 +69,25 @@ Scalia's history of impoundment connects to Class 5 and the [[The power of the p
 
 - Suits in the District Court by parties injured by two of the cancellations. The District Court held the Act invalid, and the Supreme Court expedited its review.
 - The Court first held that the appellees had standing (summarized by the editors); Scalia's Parts I and II, on standing, are omitted from the casebook.
-
 ### Facts
 
 The Line Item Veto Act took effect on January 1, 1997. It let the President "cancel in whole" three kinds of provisions already signed into law: "(1) any dollar amount of discretionary budget authority; (2) any item of new direct spending; or (3) any limited tax benefit." A cancellation took effect when Congress received the President's special message, and became "null and void" if a disapproval bill was enacted. In 1997 no disapproval bill passed. The City of New York and others challenged the spending cancellation; a potato growers' cooperative and others (the Snake River case) challenged the tax-benefit cancellation. The casebook does not describe the items; from the full opinion, one relieved New York of a potential multibillion-dollar Medicaid liability to the federal government, and the other let processors defer capital gains on sales of their facilities to farmers' cooperatives.
-
 ### Issue
 
 - Do the appellees have standing to challenge the Act?
 - Do the Act's cancellation procedures violate the Presentment Clause, Art. I, § 7, cl. 2?
 - Does the Act unconstitutionally delegate legislative power or disrupt the balance of powers?
-
 ### Holding
 
 - Yes. The parties injured by the cancellations may sue.
 - Yes. Cancellation is partial repeal of an enacted statute by the President alone, which Article I, § 7 does not permit; the text that results was never passed by both Houses and presented.
 - Not reached. Having found a § 7 violation, the Court found it "unnecessary to consider" the delegation and balance-of-powers grounds.
-
 ### Rule
 
-- "[R]epeal of statutes, no less than enactment, must conform with Art. I" ([[INS v. Chadha|Chadha]]).
+- "[R]epeal of statutes, no less than enactment, must conform with Art. I" ([[INS v. Chadha (1983)|Chadha]]).
 - The President has no constitutional power "to enact, to amend, or to repeal statutes"; his role in lawmaking is limited to approving or returning the whole bill before it becomes law.
 - Congress cannot alter the § 7 procedure by statute; only an Article V amendment can.
 - Statutory discretion to decline to spend appropriated funds remains valid; what is forbidden is a power "to change the text of duly enacted statutes."
-
 ### Reasoning
 
 **(Stevens, J., for the Court)**
@@ -136,14 +127,13 @@ The Line Item Veto Act took effect on January 1, 1997. It let the President "can
 - Literal compliance is enough: "To drive exactly 65 miles per hour on an interstate highway closely resembles an act that violates the speed limit. But it does not violate that limit." The President "did not repeal any law nor did he amend any law. He simply followed the law."
 - The three separation-of-powers questions all come out "no." The power is the right kind, "executive," differing from spending and tariff discretion only "in degree, not kind." It does not encroach, because Congress can exempt any bill, section or phrase from the Act by simple majority and defines the outer limits by drafting the appropriations. It does not aggrandize the President, because it is limited to the budget and is "minute" compared with delegations the Court has upheld.
 - "[I]t skirts a constitutional edge. But that edge has to do with means, not ends." The Act is "an experiment that may, or may not, help representative government work better."
-
 ### Cold-call notes
 
 - **Does Clinton follow inexorably from Chadha? (Note 1)** From Chadha's language, yes: repeal must follow § 7. From Chadha's facts, no: in Chadha one House acted outside a statute's enactment; here the President acted under a statute that went through § 7 and was signed by him. The distinguishing fact that makes Clinton harder is that every step of the Act's own passage complied with § 7.
 - **Is it a nondelegation case masquerading as a presentment case? (Note 1)** Scalia's argument in one line: presentment was met, so the only question is whether the delegation went too far. The best defense of the majority: the Act does not delegate discretion in executing a law; it delegates the choice of which enacted text is law, and that is § 7 business. Be ready to say which is right and why the answer matters for [[Gundy v. United States|Gundy]].
 - **Redraft the Act (Note 3).** Options that survive the majority's reasoning:
   - **Permissive appropriations.** Every appropriation reads "not exceeding" a sum, or authorizes the President to decline to spend. Scalia says there is "not the slightest doubt" this is valid; Stevens concedes the tradition.
-  - **Separate enrollment.** Each item of a bill is enrolled and presented as a separate bill after the Houses pass the package. The President vetoes items one by one. The question is whether a single vote in each House can "pass" hundreds of bills; the Houses' § 5 rules power is the argument that it can (compare Note 4 in [[INS v. Chadha|Chadha]]).
+  - **Separate enrollment.** Each item of a bill is enrolled and presented as a separate bill after the Houses pass the package. The President vetoes items one by one. The question is whether a single vote in each House can "pass" hundreds of bills; the Houses' § 5 rules power is the argument that it can (compare Note 4 in [[INS v. Chadha (1983)|Chadha]]).
   - **Expedited rescission.** The President proposes cuts and Congress must vote on them quickly. Valid, because nothing changes without a new law.
   - **Article V amendment.** Stevens's own suggestion.
 - **Why do the words "legal force or effect" matter?** Because the majority's violation lies in the statute's description of what cancellation does. Change the words to "decline to spend" and the same practical power survives. Press whether a constitutional rule should turn on drafting.

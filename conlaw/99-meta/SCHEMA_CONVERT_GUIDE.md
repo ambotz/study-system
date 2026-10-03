@@ -95,6 +95,11 @@ each subject appears **once**.
 - Frontmatter is unchanged — copy it across verbatim, including any `> [!note]`
   or `> [!caution]` callout that sits immediately after it.
 - Quote only what the current file or the extract already quotes. Invent nothing.
+- **Proofread before writing the file out.** Check subject-verb agreement, singular
+  and plural after an intervening clause, its/it's and their/there, dangling or
+  misattached modifiers, sentences that lost their main verb during editing, doubled
+  words, a missing space after a period, parallel structure inside a bulleted list,
+  and consistent em dashes. Every bullet is finished prose, not a note to itself.
 - **Per-section word budget.** The whole file is 1,600–2,000 words. A first
 conversion attempt came in at 2,620 because Rule and Operative facts ran double.
 Hold to these, which are the worked example's actual counts:

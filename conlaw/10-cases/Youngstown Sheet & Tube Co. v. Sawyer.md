@@ -51,9 +51,9 @@ Youngstown is the case every later separation-of-powers dispute reaches for, and
 - **Category two** (twilight): [[The Prize Cases]], where Lincoln acted before Congress met and Congress ratified afterwards.
 - **Category three** (lowest ebb): [[Zivotofsky v. Kerry]] (2015) is the only case in which the Court has upheld presidential action in category three, on the ground that recognition of foreign sovereigns is exclusive to the President. It shows what Jackson meant by "conclusive and preclusive."
 
-Black's opinion is the formalist pole. It maps each branch onto a function and asks whether the act is lawmaking. That style returns in [[INS v. Chadha]] and in Gorsuch's dissent in [[Gundy v. United States]]. Frankfurter's opinion is the source of the **historical gloss** argument, which returns in the removal cases (the [[The Decision of 1789|Decision of 1789]]) and in [[United States v. Cox]] on prosecutorial discretion.
+Black's opinion is the formalist pole. It maps each branch onto a function and asks whether the act is lawmaking. That style returns in [[INS v. Chadha (1983)]] and in Gorsuch's dissent in [[Gundy v. United States]]. Frankfurter's opinion is the source of the **historical gloss** argument, which returns in the removal cases (the [[The Decision of 1789|Decision of 1789]]) and in [[United States v. Cox]] on prosecutorial discretion.
 
-Douglas's concurrence runs a separate, structural argument through the **Takings Clause**: a seizure is a taking, only Congress can appropriate compensation, so only Congress can authorize the taking. That argument links this case to the appropriations material in Class 5: [[United States v. Lovett]] and [[U.S. House of Representatives v. Burwell]].
+Douglas's concurrence runs a separate, structural argument through the **Takings Clause**: a seizure is a taking, only Congress can appropriate compensation, so only Congress can authorize the taking. That argument links this case to the appropriations material in Class 5: [[United States v. Lovett (1946)]] and [[U.S. House of Representatives v. Burwell (2015)]].
 
 Justice Clark relied on [[Little v. Barreme]] (1804): where Congress prescribes how a power is to be exercised, the President must follow that method. Barreme is the earliest statement of the category-three principle.
 

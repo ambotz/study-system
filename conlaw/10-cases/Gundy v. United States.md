@@ -49,7 +49,7 @@ Gundy is the modern bookend to [[The Non-Delegation Doctrine's Good Year]]. The 
 - Congress prescribes the rule and makes its application depend on executive fact-finding ([[Cargo of Brig Aurora v. United States|The Brig Aurora]]).
 - Congress assigns non-legislative responsibilities, or discretion over matters already within the executive's own power, such as foreign affairs.
 
-Gorsuch's "hydraulic pressures" point is worth taking seriously. He argues the Court still polices delegation under other names: the **major questions doctrine**, **void for vagueness**, and the structural cases, including [[INS v. Chadha]] (delegation to one House) and [[Clinton v. City of New York]] (the line-item veto), which are the next class.
+Gorsuch's "hydraulic pressures" point is worth taking seriously. He argues the Court still polices delegation under other names: the **major questions doctrine**, **void for vagueness**, and the structural cases, including [[INS v. Chadha (1983)]] (delegation to one House) and [[Clinton v. City of New York (1998)]] (the line-item veto), which are the next class.
 
 **What happened after the 4th edition.** Two later decisions bear directly on this case. [[Loper Bright Enterprises v. Raimondo|Loper Bright]] (2024) overruled *Chevron* deference, which removes one way agencies expanded delegated authority without a nondelegation ruling. [[FCC v. Consumers' Research]] (2025) then took up the nondelegation question with a full Court and **upheld** the Universal Service Fund 6–3 (Kagan), applying the intelligible principle test, with Gorsuch dissenting. The revival that Alito's concurrence seemed to promise has not come. Check whether the 5th edition or Baude's Canvas materials add Consumers' Research.
 

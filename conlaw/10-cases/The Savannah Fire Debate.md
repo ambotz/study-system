@@ -44,7 +44,7 @@ The House debate of December 28, 1796 (6 Annals of Congress 1712–1727) on Will
 - [[Madison, Veto Message on the Bonus Bill]] — the theory the objectors are applying, stated at length twenty-one years later.
 - [[Hamilton, Report on Manufactures]] — Harper's "general welfare" argument, and the "General and not local" qualification that cuts against him.
 - [[The power of the purse - Art. I § 9 cl. 7 appropriations]] — Baldwin's reliance on the Appropriations Clause as the structural check on spending.
-- [[United States v. Lovett]] — the other side of the appropriations coin: Congress using the spending power to accomplish what it could not enact directly, and Class 5's material on riders and conditions.
+- [[United States v. Lovett (1946)]] — the other side of the appropriations coin: Congress using the spending power to accomplish what it could not enact directly, and Class 5's material on riders and conditions.
 - [[South Dakota v. Dole]] — where the general/local and germaneness questions ended up, and how little of either survives judicial review.
 - [[The Post Roads Debate]] — the same House five years earlier (the Second Congress, 1791), the same interpretive fight, on delegation instead of spending; a useful comparison on how much weight a House vote deserves as liquidation.
 - [[Types of Constitutional Argument]] — text (Macon), practice (Harper and Smith), structure (Baldwin), consequences (Kitchell and Giles) in a single afternoon.
