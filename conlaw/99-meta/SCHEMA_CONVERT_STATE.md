@@ -18,37 +18,28 @@ Everything here is set up. **Do not rebuild any of it.**
 - `_inbox/schema-v2/out/A..H/ASSIGN.md` — the 36 cases split 8 ways (A–D are 5 cases, E–H are 4).
 - `_inbox/schema-v2/converted/` — converted files awaiting validation and commit.
 
-## Converted so far — 25 of 36
+## Converted so far — 31 of 36
 
-Lovett, Humphrey's Executor, Stuart v. Laird, Ex parte Levitt, Adams v. Richardson,
-Buckley v. Valeo, Texas v. White, Ex parte Merryman, Wickard v. Filburn,
-Massachusetts v. Mellon, United States v. Darby, Cooper v. Aaron, Corfield v. Coryell,
-Ex parte McCardle, Bailey v. Drexel Furniture Co, Dillon v. Gloss, Hylton v. United
-States, U.S. House of Representatives v. Burwell, United States v. Cox, Hammer v.
-Dagenhart, The Prize Cases, Garcia v. San Antonio Metropolitan Transit Authority,
-Gonzales v. Raich, Printz v. United States, United States v. Lopez.
+All of Class 5+ except the five below. Latest batch: Trump v. Slaughter, Trump v.
+United States, United States v. Nixon, South Dakota v. Dole, Marbury v. Madison,
+McCulloch v. Maryland.
 
-**11 remain.**
+## 5 remain
 
-Converted but held back: `South Dakota v. Dole` sits in the cloud outputs at 2,354
-words, over the band. It needs trimming, not reconverting.
+Three are converted but over the word band. They need **trimming, not
+reconverting** — the nine sections are already correct in each. Working copies are
+in `_inbox/schema-v2/oversize/`.
 
-| Case | Extract |
+| Case | State |
 |---|---|
-| NFIB v. Sebelius | 123 KB |
-| Dred Scott v. Sandford | 121 KB |
-| McCulloch v. Maryland | 81 KB |
-| Marbury v. Madison | 65 KB |
-| South Dakota v. Dole | 46 KB — converted, needs trim |
-| Trump v. Slaughter | none |
-| Trump v. Cook | none |
-| United States v. Nixon | none |
-| Trump v. United States | none |
-| National Pork Producers Council v. Ross | none |
-| In re Neagle | none |
+| Trump v. Cook | converted, 2,349 words — trim |
+| In re Neagle | converted, 2,610 words — trim |
+| National Pork Producers Council v. Ross | converted, 2,317 words — trim |
+| NFIB v. Sebelius | not started — 123 KB extract, give it its own agent |
+| Dred Scott v. Sandford | not started — 121 KB extract, give it its own agent |
 
-Give the four largest an agent each. The six with no extract are the cheapest —
-pure restructuring, and they take the no-notes flag line.
+The three trims are cheap: one agent can take all three, since no extract needs
+reading. NFIB and Dred Scott are the two most expensive files in the course.
 
 ## Nine cases have no casebook extract
 
