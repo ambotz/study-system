@@ -49,6 +49,7 @@ Generated 2026-10-04 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 5 — The Power of the Purse
 
+- [[United States v. Lovett (1946)]] — pp. 130–139 · case
 - [[Obama, Statement on H.R. 1473]] — pp. 139–140 · document
     - Syllabus: 'Signing Statement on HR 1473'.
 - [[U.S. House of Representatives v. Burwell (2015)]] — pp. 140–147 · case

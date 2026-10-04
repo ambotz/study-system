@@ -195,6 +195,15 @@
    "title": "The Power of the Purse",
    "readings": [
     {
+     "case": "United States v. Lovett (1946)",
+     "kind": "case",
+     "source": "pmbb4",
+     "start": 130,
+     "end": 139,
+     "syllabus_pp": "128–135 (4th ed. pp. 130–139)",
+     "note": "Dropped from the final syllabus of 10/4/26; retained for the bill-of-attainder limit on the purse."
+    },
+    {
      "case": "Obama, Statement on H.R. 1473",
      "kind": "document",
      "source": "pmbb4",

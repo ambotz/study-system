@@ -14,7 +14,7 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!note] Off the syllabus — The final syllabus of 10/4/26 drops Lovett from Class 5, which now runs pp. 136–145 and adds two Canvas readings. The file is kept because the bill-of-attainder limit on the purse still feeds [[Bills of attainder - Art. I § 9 cl. 3]] and because Baude may reach it in the synthesis class.
+> [!note] Off the syllabus — The final syllabus of 10/4/26 drops Lovett from Class 5, which now runs pp. 136–145 and adds two Canvas readings. The case is retained in the index and the by-class view: the bill-of-attainder limit on the purse feeds [[Bills of attainder - Art. I § 9 cl. 3]], and Baude may reach it in the synthesis class. It is not in the Class 5 print packet, which tracks the assignment.
 
 ## Snapshot
 
