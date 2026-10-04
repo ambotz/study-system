@@ -13,7 +13,7 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — Now overruled by Trump v. Slaughter (June 29, 2026), which is after the casebook; see that brief.
+> [!caution] Now overruled by Trump v. Slaughter (June 29, 2026)
 
 ## Snapshot
 

@@ -49,12 +49,11 @@ Generated 2026-10-04 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 5 — The Power of the Purse
 
-- [[United States v. Lovett (1946)]] — pp. 130–139 · case
 - [[Obama, Statement on H.R. 1473]] — pp. 139–140 · document
     - Syllabus: 'Signing Statement on HR 1473'.
 - [[U.S. House of Representatives v. Burwell (2015)]] — pp. 140–147 · case
-- [[Power of the Purse — additional materials]] — Canvas · document · **no file**
-    - Syllabus: '(canvas) Additional Materials'. Contents not yet known.
+- [[Executive Order 14242]] — Canvas (eo-14242_Class_5.pdf); not in the casebook. · document
+- [[Trump v. IRS settlement agreement]] — Canvas (SDFL Settlement Signed_Class 5.pdf); not in the casebook. · document
 
 ## I. The Separation of Powers — B. Executive Power
 

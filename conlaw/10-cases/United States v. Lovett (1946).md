@@ -14,6 +14,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
+> [!note] Off the syllabus — The final syllabus of 10/4/26 drops Lovett from Class 5, which now runs pp. 136–145 and adds two Canvas readings. The file is kept because the bill-of-attainder limit on the purse still feeds [[Bills of attainder - Art. I § 9 cl. 3]] and because Baude may reach it in the synthesis class.
+
 ## Snapshot
 
 Congress cut off the salaries of three named federal employees it had decided were subversive. They kept working, sued for their pay, and won. The Court held that an appropriations rider aimed at named individuals is a bill of attainder — punishment without a judicial trial — and that calling it a spending decision does not put it beyond review. Two clauses of Article I, § 9 collide: the Appropriations Clause and the Bill of Attainder Clause.
@@ -65,7 +67,7 @@ Congress cannot do through the purse what the Bill of Attainder Clause forbids i
 - Broad clauses like due process leave room for judgment; specific ones like the Attainder Clause "were defined by history" and must be held to their historic limits.
 - Attainder means "the substitution of legislative determination of guilt and legislative imposition of punishment for judicial finding and sentence." Every historical bill specified an offense and declared guilt. § 304 does neither.
 - Not every deprivation is punishment: "A man may be forbidden to practice medicine because he has been convicted of a felony, or because he is no longer qualified."
-- Avoidance resolves it. § 304 stopped only ordinary disbursement and left the government's obligation intact, so the respondents recover without reaching the constitutional question — and the Court's reading opens removal and due process questions of great difficulty.
+- Avoidance resolves it. § 304 stopped only ordinary disbursement and left the government's obligation intact, so the respondents (still) recover without reaching the constitutional question — and the Court's reading opens removal and due process questions of great difficulty.
 
 ## Arguments rejected
 

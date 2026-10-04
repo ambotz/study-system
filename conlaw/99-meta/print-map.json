@@ -1,14 +1,61 @@
 {
   "_about": "Con Law print sources for .claude/scripts/build_print_packets.py. Con Law's casebook is held as an EPUB, which has no pages to cut, so most packets are built from the EPUB separately. A class whose whole assignment was scanned from the 5th edition is declared under packet_source: the packet body is those page runs in order, and the cover lists the readings without separate page cuts, because the scan is already the assignment in syllabus order. runs are [first_pdf_page, last_pdf_page, offset], where printed 5th-ed page = pdf page + offset.",
-
   "course": "Constitutional Law I",
-
   "packet_source": {
-    "3": {"file": "Con Law Reading Class 3.pdf", "label": "5th ed.", "runs": [[1, 22, 59]]},
-    "4": {"file": "Con Law Reading Class 4.pdf", "label": "5th ed.", "runs": [[1, 23, 105]]},
-    "5": {"file": "Con Law Reading Class 5.pdf", "label": "5th ed.", "runs": [[1, 18, 127]]},
-    "6": {"file": "Con Law Reading Class 6.pdf", "label": "5th ed.", "runs": [[1, 16, 161], [17, 20, 176], [21, 24, 188]]}
+    "3": {
+      "file": "Con Law Reading Class 3.pdf",
+      "label": "5th ed.",
+      "runs": [
+        [
+          1,
+          22,
+          59
+        ]
+      ]
+    },
+    "4": {
+      "file": "Con Law Reading Class 4.pdf",
+      "label": "5th ed.",
+      "runs": [
+        [
+          1,
+          23,
+          105
+        ]
+      ]
+    },
+    "5": {
+      "file": "Con Law Reading Class 5.pdf",
+      "label": "5th ed.",
+      "runs": [
+        [
+          9,
+          18,
+          127
+        ]
+      ]
+    },
+    "6": {
+      "file": "Con Law Reading Class 6.pdf",
+      "label": "5th ed.",
+      "runs": [
+        [
+          1,
+          16,
+          161
+        ],
+        [
+          17,
+          20,
+          176
+        ],
+        [
+          21,
+          24,
+          188
+        ]
+      ]
+    }
   },
-
   "readings": {}
 }

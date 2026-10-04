@@ -48,7 +48,7 @@ Any appointee exercising significant authority pursuant to the laws of the Unite
 
 **Held** (per curiam; unanimous on the appointments question; White concurring in part and dissenting in part on other portions)
 
-- **Officers.** The term is "intended to have substantive meaning," and its "fair import is that any appointee exercising significant authority pursuant to the laws of the United States" is one. Commissioners with primary responsibility for civil litigation to vindicate public rights exercise that authority.
+- **Officers.** The term is "intended to have substantive meaning," and its "fair import is that any appointee exercising significant authority pursuant to the laws of the United States" is one. Commissioners with primary responsibility for civil litigation to vindicate public rights exercise that authority. The office must also be "continuing" (OLC).[[]]
 - **No congressional appointment.** The provisions vesting that litigation responsibility in the Commission as constituted "violate Art. II, § 2, cl. 2": "[s]uch functions may be discharged only by persons who are 'Officers of the United States.'"
 
 **Per curiam**
