@@ -18,24 +18,19 @@ Everything here is set up. **Do not rebuild any of it.**
 - `_inbox/schema-v2/out/A..H/ASSIGN.md` — the 36 cases split 8 ways (A–D are 5 cases, E–H are 4).
 - `_inbox/schema-v2/converted/` — converted files awaiting validation and commit.
 
-## Converted so far — 34 of 36
+## Complete — 36 of 36
 
-All of Class 5+ except NFIB v. Sebelius and Dred Scott v. Sandford.
+Every Class 5+ case file is on the one-pass schema. Validated across all of them:
+nine headings in order and nothing else at that level, Professor gloss empty,
+every wikilink resolving, each file inside the word band measured across the nine
+sections.
 
-## 2 remain
+Classes 1-4 still hold a handful of case files on the old two-layer schema; convert
+on touch, per CLAUDE.md 5a.
 
-| Case | Extract | Note |
-|---|---|---|
-| NFIB v. Sebelius | 123 KB | not started; give it its own agent |
-| Dred Scott v. Sandford | 121 KB | not started; give it its own agent |
-
-These are the two largest casebook extracts in the course. One agent each, and
-nothing else in the batch.
-
-**Word counting, for anyone measuring a file against the band:** count the nine
-sections only. The `> [!caution]` callout sits above them, is copied byte-identical
-from the source, and runs to 190 words in some files — counting it makes a
-compliant file look over.
+**Word counting:** count the nine sections only. The `> [!caution]` callout sits
+above them, is copied byte-identical from the source, and runs to 190 words in
+places — counting it makes a compliant file look over.
 
 ## Nine cases have no casebook extract
 
