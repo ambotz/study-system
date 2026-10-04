@@ -57,5 +57,18 @@
       ]
     }
   },
-  "readings": {}
+  "readings": {
+    "Executive Order 14242": [
+      {
+        "file": "eo-14242_Class_5.pdf",
+        "label": "90 Fed. Reg. 13679 (Canvas)"
+      }
+    ],
+    "Trump v. IRS settlement agreement": [
+      {
+        "file": "SDFL Settlement Signed_Class 5.pdf",
+        "label": "Settlement (Canvas)"
+      }
+    ]
+  }
 }

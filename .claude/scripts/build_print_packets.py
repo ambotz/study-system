@@ -316,17 +316,34 @@ def main():
             runs = whole.get("runs") or [[1, page_count(path), 0]]
             label = whole.get("label", "5th ed. scan")
             span = "; ".join(dash(f + o, l + o) for f, l, o in runs)
-            for r in s["readings"]:
-                if r.get("source"):
-                    rows.append({"name": r["case"], "src": f"{label} {span}", "pp": "in this packet"})
-                else:
-                    rows.append({"name": r["case"], "src": "NOT PRINTED", "pp": "—"})
-                    notes.append(f"{r['case']}: not in the scan (Canvas material).")
+            scanned = [r for r in s["readings"] if r.get("source")]
+            extra = [r for r in s["readings"] if not r.get("source")]
+            for r in scanned:
+                rows.append({"name": r["case"], "src": f"{label} {span}", "pp": "in this packet"})
             for f, l, o in runs:
                 pieces.append((path, f, l))
                 for pg in range(f, l + 1):
                     labels.append(f"{label} · p. {pg + o}")
                 cursor += l - f + 1
+            # readings outside the scan (Canvas documents) follow it, resolved through print-map
+            for r in extra:
+                parts, why = resolve(ix, pmap, srcdir, r)
+                if parts is None:
+                    rows.append({"name": r["case"], "src": "NOT PRINTED", "pp": "—"})
+                    notes.append(f"{r['case']}: not printed ({why}).")
+                    problems.append(f"Class {n}: {r['case']} — {why}")
+                    continue
+                start = cursor
+                for q in parts:
+                    pieces.append((q["path"], q["first"], q["last"]))
+                    for _pg in range(q["first"], q["last"] + 1):
+                        labels.append(f"{r['case']} · {q['label']}")
+                    cursor += q["last"] - q["first"] + 1
+                rows.append({"name": r["case"],
+                             "src": "; ".join(q["label"] for q in parts),
+                             "pp": dash(start, cursor - 1)})
+                if a.duplex and (cursor - start) % 2:
+                    pieces.append((blank, 1, 1)); labels.append(None); cursor += 1
             notes.append(f"This packet is the 5th-edition scan of the whole assignment ({span}), "
                          f"so the readings run in syllabus order without separate page cuts.")
 
