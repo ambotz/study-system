@@ -11,7 +11,7 @@ reconciled: false
 
 ## Readings
 
-- [[In re Neagle]]
+- [[In re Neagle (1890)|In re Neagle]]
 - [[Article VI - other materials]]
 
 ## Notes

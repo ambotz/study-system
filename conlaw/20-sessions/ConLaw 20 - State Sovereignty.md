@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[Garcia v. San Antonio Metropolitan Transit Authority]]
-- [[Printz v. United States]]
+- [[Garcia v. San Antonio Metropolitan Transit Authority (1985)|Garcia v. San Antonio Metropolitan Transit Authority]]
+- [[Printz v. United States (1997)|Printz v. United States]]
 
 ## Notes
 

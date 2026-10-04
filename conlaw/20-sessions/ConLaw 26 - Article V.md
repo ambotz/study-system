@@ -12,7 +12,7 @@ reconciled: false
 ## Readings
 
 - [[The Congressional Pay Amendment]]
-- [[Dillon v. Gloss]]
+- [[Dillon v. Gloss (1921)|Dillon v. Gloss]]
 - [[OLC Opinion on the Congressional Pay Amendment]]
 - [[The Equal Rights Amendment]]
 - [[The Riddles of Article V]]

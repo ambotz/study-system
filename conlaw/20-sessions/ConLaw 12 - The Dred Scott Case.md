@@ -11,7 +11,7 @@ reconciled: false
 
 ## Readings
 
-- [[Dred Scott v. Sandford]]
+- [[Dred Scott v. Sandford (1857)|Dred Scott v. Sandford]]
 
 ## Notes
 

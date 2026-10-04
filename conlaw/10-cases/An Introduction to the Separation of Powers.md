@@ -13,7 +13,7 @@ read_for: null
 
 ## What it is
 
-The opening of Chapter 2 (The Separation of the National Powers), which introduces the three vesting clauses and catalogs the checks each branch holds against the others. It leads into [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]].
+The opening of Chapter 2 (The Separation of the National Powers), which introduces the three vesting clauses and catalogs the checks each branch holds against the others. It leads into [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]].
 
 ## What to notice
 
@@ -33,5 +33,5 @@ The opening of Chapter 2 (The Separation of the National Powers), which introduc
 ## Where it goes
 
 - [[Separation of powers - vesting clauses and checks and balances]] — the base text of the module.
-- [[Youngstown Sheet & Tube Co. v. Sawyer]] — the first application.
+- [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown Sheet & Tube Co. v. Sawyer]] — the first application.
 - [[Presidential power - Art. II and the Youngstown categories]] — the Vesting Clause asymmetry.

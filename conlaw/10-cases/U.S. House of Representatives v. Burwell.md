@@ -77,13 +77,13 @@ The House of Representatives, as an institution, has Article III standing to sue
 
 ## Where it sits
 
-**The section's second question.** [[United States v. Lovett]] and [[Obama, Statement on H.R. 1473]] ask how Congress may limit the executive with the purse; Burwell asks how Congress enforces a limit the executive ignores. A court may hear the complaint, but only as a violation of the Appropriations Clause itself.
+**The section's second question.** [[United States v. Lovett (1946)|United States v. Lovett]] and [[Obama, Statement on H.R. 1473]] ask how Congress may limit the executive with the purse; Burwell asks how Congress enforces a limit the executive ignores. A court may hear the complaint, but only as a violation of the Appropriations Clause itself.
 
 **What happened next.** On May 12, 2016, Collyer reached the merits, held that the Secretaries had violated Article I, § 9, and stayed her injunction pending appeal. The appeal was held in abeyance, the Trump administration stopped the payments in October 2017, and the case settled that December, so no appellate court ruled on the House's standing.
 
-**Standing afterwards.** In *U.S. House of Representatives v. Mnuchin* Judge McFadden "decline[d] to apply Burwell," but the D.C. Circuit held in 2020 that the House had standing to litigate the clause. Contrast *Raines v. Byrd*, which denied standing to individual members challenging the Line Item Veto Act — struck a year later in [[Clinton v. City of New York]].
+**Standing afterwards.** In *U.S. House of Representatives v. Mnuchin* Judge McFadden "decline[d] to apply Burwell," but the D.C. Circuit held in 2020 that the House had standing to litigate the clause. Contrast *Raines v. Byrd*, which denied standing to individual members challenging the Line Item Veto Act — struck a year later in [[Clinton v. City of New York (1998)|Clinton v. City of New York]].
 
-**Relation to Youngstown.** Spending against a refusal to appropriate would be category three in [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] had the executive claimed an Article II power; it claimed instead that Congress had appropriated. The ACA's taxing theory returns in [[NFIB v. Sebelius]].
+**Relation to Youngstown.** Spending against a refusal to appropriate would be category three in [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]] had the executive claimed an Article II power; it claimed instead that Congress had appropriated. The ACA's taxing theory returns in [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]].
 
 ## Professor gloss
 

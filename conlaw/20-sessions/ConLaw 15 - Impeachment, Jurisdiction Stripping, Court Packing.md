@@ -12,7 +12,7 @@ reconciled: false
 ## Readings
 
 - [[The Impeachment of Justice Chase]]
-- [[Ex parte McCardle]]
+- [[Ex parte McCardle (1869)|Ex parte McCardle]]
 - [[Senate Report on Court Packing]]
 
 ## Notes

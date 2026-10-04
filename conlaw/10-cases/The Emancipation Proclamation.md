@@ -23,7 +23,7 @@ Lincoln's two proclamations freeing slaves in the rebelling states: the Prelimin
 - **Lincoln also relies on statutes.** The preliminary proclamation calls attention to the March 13, 1862 additional Article of War and §§ 9–10 of the July 17, 1862 confiscation act, which barred the military from returning fugitive slaves and potentially freed slaves of persons supporting the rebellion, and orders the armed forces "to observe, obey, and enforce" them. In Youngstown terms, Congress had moved in the same direction: the proclamation sits nearer category one than its Commander in Chief recital suggests.
 - **The geography is the argument (Note 2).** The Final Proclamation names the states in rebellion and excepts parishes of Louisiana, including New Orleans, the forty-eight counties of West Virginia, and several Virginia counties, including Norfolk County with the cities of Norfolk and Portsmouth, which "are for the present, left precisely as if this proclamation were not issued." It freed no slaves in the loyal border states (Kentucky, Maryland, Delaware, Missouri) or in areas already under Union control.
   - Why: a war measure can reach only enemy territory. Freeing slaves in a loyal state is not directed at the enemy, and in Union-held territory there is no military necessity of weakening the enemy's labor force.
-  - The same territorial logic as [[The Prize Cases]]: enemy character follows the line "marked by lines of bayonets," not the loyalty of the individual.
+  - The same territorial logic as [[The Prize Cases (1863)|The Prize Cases]]: enemy character follows the line "marked by lines of bayonets," not the loyalty of the individual.
   - So the limitation strengthens the constitutional case. A proclamation that freed every slave in the country would be a general legislative act, not a war measure.
 - **Why the Thirteenth Amendment was still needed.** Three reasons follow from the war-measure theory:
   - Scope: the proclamation did not reach the border states or excepted areas.
@@ -37,15 +37,15 @@ Lincoln's two proclamations freeing slaves in the rebelling states: the Prelimin
 - **Military service.** Freed persons "of suitable condition, will be received into the armed service." That clause is the link to [[Lincoln, Order of Retaliation]]: once Black soldiers served, the Union had to decide how to protect them if captured.
 - **Note 3: what if the other branches intervened?**
   - Congress countermanding: Congress has power to "make Rules concerning Captures" and to govern the forces, so on the Barreme principle (*Little v. Barreme*) a statute could control the conduct of war. Whether it could re-enslave persons already freed is a different question: the Proclamation declared them free, and a statute undoing that would operate on persons, not on the conduct of war.
-  - The Court holding it unconstitutional: whether the President must comply raises departmentalism, which returns with [[Marbury v. Madison]] and [[Ex parte Merryman]].
+  - The Court holding it unconstitutional: whether the President must comply raises departmentalism, which returns with [[Marbury v. Madison (1803)|Marbury v. Madison]] and [[Ex parte Merryman (1861)|Ex parte Merryman]].
 - **"Sincerely believed to be an act of justice, warranted by the Constitution, upon military necessity."** The closing sentence names both justifications and puts constitutional warrant on "military necessity," not on justice.
 
 ## Where it goes
 
 - [[War powers - Art. I § 8 cl. 11 and the Commander in Chief]] — the Commander in Chief's power over enemy property and persons in the conduct of war.
 - [[Presidential power - Art. II and the Youngstown categories]] — the comparison with Truman's seizure.
-- [[Youngstown Sheet & Tube Co. v. Sawyer]] — Note 1's taking question and the inward/outward line.
-- [[The Prize Cases]] — enemy property defined by territory, not loyalty.
+- [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown Sheet & Tube Co. v. Sawyer]] — Note 1's taking question and the inward/outward line.
+- [[The Prize Cases (1863)|The Prize Cases]] — enemy property defined by territory, not loyalty.
 - [[Lincoln, Order of Retaliation]] — the companion order on Black soldiers taken prisoner.
 - [[Terminating War]] — why a war measure's effect after the war was uncertain.
 - *Korematsu v. United States* — the next war measure in the casebook, directed inward at citizens.

@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[INS v. Chadha]]
-- [[Clinton v. City of New York]]
+- [[INS v. Chadha (1983)]]
+- [[Clinton v. City of New York (1998)]]
 
 ## Notes
 

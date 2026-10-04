@@ -11,7 +11,7 @@ read_for: null
 
 ## What it is
 
-The casebook's list of five types of constitutional argument, adapted from Philip Bobbitt's modalities in Constitutional Fate (1982). It recurs throughout the book, and the notes to [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] ask you to identify which types each opinion uses. The syllabus says Baude will test both what the Court has said the Constitution means and what the Constitution actually requires; these five types are the tools for the second.
+The casebook's list of five types of constitutional argument, adapted from Philip Bobbitt's modalities in Constitutional Fate (1982). It recurs throughout the book, and the notes to [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]] ask you to identify which types each opinion uses. The syllabus says Baude will test both what the Court has said the Constitution means and what the Constitution actually requires; these five types are the tools for the second.
 
 ## What to notice
 
@@ -33,5 +33,5 @@ The casebook's list of five types of constitutional argument, adapted from Phili
 ## Where it goes
 
 - [[Modes of constitutional argument]] — this note is the module's base text.
-- [[Youngstown Sheet & Tube Co. v. Sawyer]] — Note 1 asks you to sort each opinion by type.
+- [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown Sheet & Tube Co. v. Sawyer]] — Note 1 asks you to sort each opinion by type.
 - [[The Post Roads Debate]] — all five types in a single 1791 floor debate.

@@ -34,20 +34,20 @@ The reading is short, and every later dispute in the unit comes back to it: the 
 - **Note 1, the majority reading.** Most scholars (Ramsey, Lofgren) read the materials to give Congress the decision "to take the nation into a condition of war." That is the better reading of the debate: every speaker who objected to executive war-making prevailed, and the only executive power named is repelling attacks. The Yoo reading has to treat the words "commence" and "clogging" as beside the point.
 - **Note 2, repelling sudden attacks today.**
   - An attack on U.S. territory already under way: within the carve-out on any reading.
-  - An attack on U.S. forces abroad: within its logic; WPR § 2(c)(3) treats an attack on U.S. "armed forces" as sufficient. [[The Prize Cases]] does not reach this far: it involved an insurrection at home, not an attack on forces abroad.
+  - An attack on U.S. forces abroad: within its logic; WPR § 2(c)(3) treats an attack on U.S. "armed forces" as sufficient. [[The Prize Cases (1863)|The Prize Cases]] does not reach this far: it involved an insurrection at home, not an attack on forces abroad.
   - An attack believed imminent: the carve-out stretches to anticipatory self-defense only if "repel" includes preempt. Technology is the pressure the note names.
   - A strike to punish or deter after the attack is over: no longer "repelling"; this is the Syria 2017/2018 and Soleimani question in [[Modern Applications of the War Power]].
 - **Practice and liquidation.** The casebook asks whether practice "'liquidate[s]' the meaning of the Constitution, as Madison said in The Federalist No. 37," or whether "a great deal of the nation's practice with respect to war powers has been unconstitutional." Liquidation in Madison's sense settles ambiguity through deliberate, repeated, accepted practice; it cannot override clear text. The debate here makes the initiation question look less ambiguous than the practice suggests, which is why the practice argument is hard.
 - **Only five formal declarations.** 1812, Mexico, Spain, World War I, World War II (six with the Declaration of Independence). The casebook asks whether Congress must use "those magic words." The Convention's concern was who decides, not what the decision is called, which points toward treating a statutory authorization as enough (see [[Declarations of War]]).
-- **The Youngstown connection.** Jackson gives the Commander in Chief his widest latitude when force is turned against the outside world and refuses it when force is turned inward. The debate adds a limit on the outward side too: the command power was designed to conduct war and repel attacks, not to begin war. See [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]].
+- **The Youngstown connection.** Jackson gives the Commander in Chief his widest latitude when force is turned against the outside world and refuses it when force is turned inward. The debate adds a limit on the outward side too: the command power was designed to conduct war and repel attacks, not to begin war. See [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]].
 
 ## Where it goes
 
 - [[War powers - Art. I § 8 cl. 11 and the Commander in Chief]] — the original-meaning baseline for the module.
-- [[The Prize Cases]] — Grier's "bound to resist force by force" is the repel-attacks carve-out applied to a rebellion.
+- [[The Prize Cases (1863)|The Prize Cases]] — Grier's "bound to resist force by force" is the repel-attacks carve-out applied to a rebellion.
 - [[Declarations of War]] — whether a formal declaration is required or an authorization suffices.
 - [[Nixon, Veto of the War Powers Resolution]] — Nixon invokes "the wisdom of the Founding Fathers" for the opposite conclusion.
 - [[Modern Applications of the War Power]] — OLC's "limited hostilities" theory tested against "repel and not to commence."
 - [[Terminating War]] — the rejected peace motion and the treaty route.
-- [[Youngstown Sheet & Tube Co. v. Sawyer]] — Jackson on the Commander in Chief "turned inward" versus outward.
+- [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown Sheet & Tube Co. v. Sawyer]] — Jackson on the Commander in Chief "turned inward" versus outward.
 - [[Types of Constitutional Argument]] — framers' intent from Convention notes, and the weight of practice.

@@ -11,7 +11,7 @@ reconciled: false
 
 ## Readings
 
-- [[McCulloch v. Maryland]]
+- [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]]
 - [[Madison, Letter to Lafayette]]
 - [[Jackson, Veto Message on the Bank]]
 - [[The Death of the Second Bank]]

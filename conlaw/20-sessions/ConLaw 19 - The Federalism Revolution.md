@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[United States v. Lopez]]
-- [[Gonzales v. Raich]]
+- [[United States v. Lopez (1995)|United States v. Lopez]]
+- [[Gonzales v. Raich (2005)|Gonzales v. Raich]]
 
 ## Notes
 

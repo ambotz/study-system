@@ -15,9 +15,9 @@ reconciled: false
 - [[A Map of Article II]]
 - [[The Federalist No. 70]]
 - [[The Federalist No. 76]]
-- [[Buckley v. Valeo]]
+- [[Buckley v. Valeo (1976)|Buckley v. Valeo]]
 - [[The Decision of 1789]]
-- [[Humphrey's Executor v. United States]]
+- [[Humphrey's Executor v. United States (1935)|Humphrey's Executor v. United States]]
 
 ## Notes
 

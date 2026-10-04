@@ -20,7 +20,7 @@ last_drilled:
 
 ## Rule statement
 
-Congress may spend on objects outside its other enumerated powers and may attach conditions that buy from the States what it could not command. The spending power "is not limited by the direct grants of legislative power found in the Constitution" ([[United States v. Butler]]). A condition must serve the general welfare, be unambiguous, relate to the federal interest in the program, and not induce the State to act unconstitutionally ([[South Dakota v. Dole]]). An inducement also may not pass "the point at which 'pressure turns into compulsion,'" a caveat first enforced in [[NFIB v. Sebelius]]. The contest is Madison's: "general Welfare" may only state the purpose of the taxing power, "limited and explained by the particular enumeration subjoined," or clause 1 may grant no spending power at all.
+Congress may spend on objects outside its other enumerated powers and may attach conditions that buy from the States what it could not command. The spending power "is not limited by the direct grants of legislative power found in the Constitution" ([[United States v. Butler]]). A condition must serve the general welfare, be unambiguous, relate to the federal interest in the program, and not induce the State to act unconstitutionally ([[South Dakota v. Dole (1987)|South Dakota v. Dole]]). An inducement also may not pass "the point at which 'pressure turns into compulsion,'" a caveat first enforced in [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]]. The contest is Madison's: "general Welfare" may only state the purpose of the taxing power, "limited and explained by the particular enumeration subjoined," or clause 1 may grant no spending power at all.
 
 ## Elements
 
@@ -35,7 +35,7 @@ Congress may spend on objects outside its other enumerated powers and may attach
    - **Shared purpose (Rehnquist).** A drinking age is germane to highway money because safe interstate travel is "one of the main purposes for which highway funds are expended."
    - **Marginal effect (O'Connor).** The condition must make the funded program work better, and "the efficacy, the marginal impact, of the highway spending is the same whether or not there is a 21-year-old drinking age."
 5. **Would the State's compliance itself be unconstitutional?** The fourth limit bars conditions that "induce the States to engage in activities that would themselves be unconstitutional" — "invidiously discriminatory state action or the infliction of cruel and unusual punishment." The limit is "not . . . a prohibition on the indirect achievement of objectives which Congress is not empowered to achieve directly."
-6. **Has pressure turned into compulsion?** Ask three questions from [[NFIB v. Sebelius|NFIB]] (Roberts, plurality, with the joint dissent agreeing):
+6. **Has pressure turned into compulsion?** Ask three questions from [[NFIB v. Sebelius (2012)|NFIB]] (Roberts, plurality, with the joint dissent agreeing):
    - **Old or new money.** Conditions governing the use of the funds are the ordinary case; "threats to terminate other significant independent grants" are "a means of pressuring the States to accept policy changes."
    - **Modification or new program.** If the change "is not properly viewed as a modification of the existing Medicaid program, Congress's decision to so title it is irrelevant."
    - **Size.** Five percent of highway funds — under half of one percent of South Dakota's budget — is "relatively mild encouragement"; all federal Medicaid funds, over 10 percent of a State's overall budget, is "a gun to the head."
@@ -49,7 +49,7 @@ Congress may spend on objects outside its other enumerated powers and may attach
 - **Standard — coercion:** A question of degree with no threshold. The Court declines to "fix the outermost line," holding only that "wherever that line may be, this statute is surely beyond it."
 - **Not coercion — success:** A grant is not "unconstitutional simply by reason of its success in achieving the congressional objective."
 - **Not coercion — temptation:** Equating "motive or temptation" with coercion would "plunge the law in endless difficulties" and end in "a philosophical determinism by which choice becomes impossible" ([[Steward Machine Co. v. Davis|Steward Machine]], quoted in Dole); the State keeps "the 'simple expedient' of not yielding" (*Oklahoma v. Civil Service Commission*, quoted in Dole).
-- **Not reviewed — taxpayer and parens patriae suits:** A federal taxpayer's interest in spending is too "minute and indeterminable" to sue, and a State that declined a grant has lost nothing ([[Massachusetts v. Mellon; Frothingham v. Mellon]]); see [[Standing - Art. III § 2 cases and controversies]].
+- **Not reviewed — taxpayer and parens patriae suits:** A federal taxpayer's interest in spending is too "minute and indeterminable" to sue, and a State that declined a grant has lost nothing ([[Massachusetts v. Mellon; Frothingham v. Mellon (1923)|Massachusetts v. Mellon; Frothingham v. Mellon]]); see [[Standing - Art. III § 2 cases and controversies]].
 - **Track record:** Butler (1936) was "the last case in which this Court struck down an Act of Congress as beyond the authority granted by the Spending Clause" (O'Connor, in 1987) until the Medicaid holding in 2012.
 - **Remedy:** Bar the threat, not the program: "the Secretary cannot apply § 1396c to withdraw existing Medicaid funds for failure to comply with the requirements set out in the expansion," and the rest of the Act stands (5–4).
 
@@ -58,7 +58,7 @@ Congress may spend on objects outside its other enumerated powers and may attach
 - **Conditions on the use of the money itself:** Always valid. Money appropriated to train state police may be required to train state police, and "[w]hen Congress appropriates money to build a highway, it is entitled to insist that the highway be a safe one" (O'Connor).
 - **New grants with new conditions:** "Nothing in our opinion precludes Congress from offering funds under the Affordable Care Act to expand the availability of health care, and requiring that States accepting such funds comply with the conditions on their use" (Roberts).
 - **Genuine modifications of an existing program:** Roberts's rule reaches only a "basic change in the nature" of the program. Ginsburg would treat any amendment as within Congress's reserved power, because States "have no entitlement to receive any Medicaid funds."
-- **Independent bars that bite:** [[United States v. Lovett]] struck an appropriations rider cutting off three named employees' pay as a bill of attainder ([[Bills of attainder - Art. I § 9 cl. 3]]). Lovett limits Congress's own use of the purse, the analogue of Dole's fourth limit rather than an application of it.
+- **Independent bars that bite:** [[United States v. Lovett (1946)]] struck an appropriations rider cutting off three named employees' pay as a bill of attainder ([[Bills of attainder - Art. I § 9 cl. 3]]). Lovett limits Congress's own use of the purse, the analogue of Dole's fourth limit rather than an application of it.
 - **Spending is not regulating:** Hamilton conceded that the power to appropriate "would not carry a power to do any other thing, not authorised in the constitution." Conditional grants are the hole in that concession, since a condition makes appropriation a way of commanding.
 - **The anti-commandeering workaround:** Congress may not order a State to enact a 21-year-old drinking age, but Dole lets it buy the same statute; wherever the price can be met, anti-commandeering is a drafting rule ([[State sovereignty and anti-commandeering - Tenth Amendment]]).
 - **The Madisonian reading, if revived:** Madison and Jefferson in [[The Bank Debate]] read "general Welfare" as the purpose of the taxing power, because the broad reading "would render nugatory the enumeration of particular powers"; on that view every appropriation must trace to an enumerated power and conditional-grant doctrine collapses into the Necessary and Proper Clause.
@@ -70,7 +70,7 @@ Congress may spend on objects outside its other enumerated powers and may attach
 
 ## Leading case
 
-[[South Dakota v. Dole]]
+[[South Dakota v. Dole (1987)|South Dakota v. Dole]]
 
 - **Holding:** 23 U.S.C. § 158, withholding 5 percent of specified federal highway funds from States permitting purchase or public possession of alcohol under age 21, is a valid exercise of the spending power (7–2; Rehnquist, C.J.).
 - **Driving fact — size:** Losing 5 percent is "relatively mild encouragement," and "the argument as to coercion is shown to be more rhetoric than fact." Change the number and the case changes.
@@ -83,7 +83,7 @@ Congress may spend on objects outside its other enumerated powers and may attach
 
 ## Best counter-case
 
-[[NFIB v. Sebelius]]
+[[NFIB v. Sebelius (2012)|NFIB v. Sebelius]]
 
 - **Distinguishing line:** A condition becomes coercive when Congress threatens a State's existing, independent grants, large relative to the State's budget, to force it into what is in substance a new program; conditions on new money, or modest amendments to an old program, stay on the Dole side.
 - **Holding:** Threatening all existing Medicaid funds to force acceptance of the expansion is "economic dragooning that leaves the States with no real option but to acquiesce" (7–2 on coercion; 5–4 on remedy). The tax holding in the same case belongs to [[Taxing power - Art. I § 8 cl. 1 and direct taxes]].
@@ -99,7 +99,7 @@ Congress may spend on objects outside its other enumerated powers and may attach
 ## Common trap
 
 - **"Dole's fourth limit means Congress may not do indirectly what it cannot do directly."** That is the reading Dole rejected. The limit forbids only conditions that would induce the State to act unconstitutionally; the point of the case is that Congress may buy what it may not command.
-- **"The general-welfare limit screens spending."** It is the limit Madison predicted no court would enforce, and none has. The work is done by germaneness and coercion, and the majority's shared-purpose germaneness test is looser than even [[McCulloch v. Maryland|McCulloch]]'s standard for means ([[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]]).
+- **"The general-welfare limit screens spending."** It is the limit Madison predicted no court would enforce, and none has. The work is done by germaneness and coercion, and the majority's shared-purpose germaneness test is looser than even [[McCulloch v. Maryland (1819)|McCulloch]]'s standard for means ([[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]]).
 - **"There are four limits."** Coercion sits outside the four as a caveat drawn from Steward Machine, and it is the only one that has ever invalidated a spending statute. Count five things.
 - **"NFIB set a percentage threshold."** Roberts gives a comparison, not a number, and declines to "fix the outermost line"; the argument runs on size and the existing-versus-new distinction together.
 - **"Butler stands for a limited spending power."** Butler adopted Hamilton's broad reading in the same opinion that struck the statute down; its restrictive half — Congress "may not indirectly accomplish those ends by taxing and spending to purchase compliance" — is what Dole repudiates, and O'Connor's Dole dissent is its surviving echo.

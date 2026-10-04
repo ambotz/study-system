@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[Corfield v. Coryell]]
-- [[National Pork Producers Council v. Ross]]
+- [[Corfield v. Coryell (1823)|Corfield v. Coryell]]
+- [[National Pork Producers Council v. Ross (2023)|National Pork Producers Council v. Ross]]
 
 ## Notes
 

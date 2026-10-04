@@ -61,7 +61,7 @@ The Constitution is supreme written law made by the people, it binds every offic
    - The casebook lists the four answers without mapping them to methods.
    - A workable mapping: inheritance points to the meaning inherited, precommitment to the commitment as made, and the Jeffersonian answer to present judgment.
    - Acceptance is ambiguous, since what our generation accepted may be the original meaning or the Constitution as currently understood.
-   - This is the link to [[Modes of constitutional argument]], and it is what [[Gundy v. United States|Gundy]] and the removal cases are really fighting about when they argue over founding-era evidence.
+   - This is the link to [[Modes of constitutional argument]], and it is what [[Gundy v. United States (2019)|Gundy]] and the removal cases are really fighting about when they argue over founding-era evidence.
 
 ## Standard of review / burden
 
@@ -110,7 +110,7 @@ The Constitution is supreme written law made by the people, it binds every offic
 
 - **"The Constitution is just, so read rights into it to close any gap."** The sixth theme says the opposite, and Roane's "nose of wax" names the failure mode.
 - **"Federalist 39 shows the government is national."** Madison's scorecard is deliberately split, "neither a national nor a federal Constitution, but a composition of both," and each of its five categories gets a different answer.
-- **"Popular sovereignty means the states (or the nation) are sovereign."** "We the People" means neither is. That premise is what [[McCulloch v. Maryland]] uses against Maryland and what the secession readings fight over.
+- **"Popular sovereignty means the states (or the nation) are sovereign."** "We the People" means neither is. That premise is what [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] uses against Maryland and what the secession readings fight over.
 - **"Article I, § 1 and Article II, § 1 are parallel."** Article I vests "All legislative Powers **herein granted**"; Article II vests "The executive Power" with no limiting phrase, and the vesting-clause debate turns on that difference ([[The Constitution of the United States]]).
 - **"The original Constitution had no rights provisions."** Article I, §§ 9 and 10 carry several, including the Suspension, Bill of Attainder and Ex Post Facto Clauses.
 - **"The four dead-hand answers are interchangeable."** Acceptance rests on present consent, inheritance on the use of the institutions, and precommitment on national identity over time; each points toward a different method, and the Jeffersonian answer rejects the premise that the document binds.

@@ -14,8 +14,8 @@ reconciled: false
 - [[A Map of Article III]]
 - [[Brutus No. 11]]
 - [[The Federalist No. 78]]
-- [[Marbury v. Madison]]
-- [[Stuart v. Laird]]
+- [[Marbury v. Madison (1803)|Marbury v. Madison]]
+- [[Stuart v. Laird (1803)|Stuart v. Laird]]
 
 ## Notes
 

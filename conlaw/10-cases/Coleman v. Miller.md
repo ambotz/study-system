@@ -22,7 +22,7 @@ Whether a proposed amendment has "lost its vitality through lapse of time" is fo
 
 - **Members of the Kansas Legislature sued in state court, claiming that Kansas's ratification of the Child Labor Amendment was invalid.**
 - **Congress had proposed the Child Labor Amendment in 1924, and Kansas ratified it about thirteen years later.** *Staleness was the claimed defect, and the Court refused to consider it.*
-- **Congress had set no time limit when it proposed the amendment.** *Unlike in [[Dillon v. Gloss]], there was no congressional deadline to uphold; the only possible limit was one implied by Article V.*
+- **Congress had set no time limit when it proposed the amendment.** *Unlike in [[Dillon v. Gloss (1921)|Dillon v. Gloss]], there was no congressional deadline to uphold; the only possible limit was one implied by Article V.*
 
 ## Court Ruling
 
@@ -36,12 +36,12 @@ Whether a proposed amendment has "lost its vitality through lapse of time" is fo
 
 **Rejected**
 
-- *A proposal thirteen years old has lost its vitality, because [[Dillon v. Gloss|Dillon]] reads Article V to require ratification "within some reasonable time after the proposal."* Dillon's reasonable-time discussion was dictum, since the issue there was Congress's power to set a deadline; what counts as a reasonable time is for Congress at promulgation.
+- *A proposal thirteen years old has lost its vitality, because [[Dillon v. Gloss (1921)|Dillon]] reads Article V to require ratification "within some reasonable time after the proposal."* Dillon's reasonable-time discussion was dictum, since the issue there was Congress's power to set a deadline; what counts as a reasonable time is for Congress at promulgation.
 
 ## Context
 
-Coleman sits between [[Dillon v. Gloss]] (1921) and the Twenty-seventh Amendment (1992). The 1992 [[OLC Opinion on the Congressional Pay Amendment]] used Coleman against Dillon: Hughes had called Dillon's reasoning dictum, and Coleman itself, "[h]aving declined to address the content of an implicit time limit, . . . leaves open for Congress the conclusion that there is no time limit at all." OLC also read Coleman as resting on a political-question rationale about courts, which "has no bearing on the actions of the Archivist, an officer of one of the political branches." The Archivist certified the Amendment on that advice before Congress voted, 414–3 in the House and 99–0 in the Senate, to accept it. See [[The Congressional Pay Amendment]] and [[The Riddles of Article V]].
+Coleman sits between [[Dillon v. Gloss (1921)|Dillon v. Gloss]] (1921) and the Twenty-seventh Amendment (1992). The 1992 [[OLC Opinion on the Congressional Pay Amendment]] used Coleman against Dillon: Hughes had called Dillon's reasoning dictum, and Coleman itself, "[h]aving declined to address the content of an implicit time limit, . . . leaves open for Congress the conclusion that there is no time limit at all." OLC also read Coleman as resting on a political-question rationale about courts, which "has no bearing on the actions of the Archivist, an officer of one of the political branches." The Archivist certified the Amendment on that advice before Congress voted, 414–3 in the House and 99–0 in the Senate, to accept it. See [[The Congressional Pay Amendment]] and [[The Riddles of Article V]].
 
-Coleman is the reason the Article V questions have almost no judicial enforcer. It widens the gap [[Dillon v. Gloss|Dillon]] opened: the Court derives a timing principle from structure and then hands its application to Congress. See [[Amendment process - Art. V]] and, on who decides constitutional questions outside the courts, [[Modes of constitutional argument]].
+Coleman is the reason the Article V questions have almost no judicial enforcer. It widens the gap [[Dillon v. Gloss (1921)|Dillon]] opened: the Court derives a timing principle from structure and then hands its application to Congress. See [[Amendment process - Art. V]] and, on who decides constitutional questions outside the courts, [[Modes of constitutional argument]].
 
 ## Professor gloss

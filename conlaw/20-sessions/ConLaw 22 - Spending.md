@@ -14,7 +14,7 @@ reconciled: false
 - [[Madison, Veto Message on the Bonus Bill]]
 - [[Hamilton, Report on Manufactures]]
 - [[The Savannah Fire Debate]]
-- [[South Dakota v. Dole]]
+- [[South Dakota v. Dole (1987)|South Dakota v. Dole]]
 
 ## Notes
 

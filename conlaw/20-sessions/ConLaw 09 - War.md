@@ -13,7 +13,7 @@ reconciled: false
 
 - [[A Note on Executive Agreements]]
 - [[Madison's Notes on the War Power]]
-- [[The Prize Cases]]
+- [[The Prize Cases (1863)|The Prize Cases]]
 - [[Declarations of War]]
 - The War Powers Resolution → [[War powers - Art. I § 8 cl. 11 and the Commander in Chief]]
 - [[Nixon, Veto of the War Powers Resolution]]

@@ -12,8 +12,8 @@ reconciled: false
 ## Readings
 
 - [[The Impeachment of Andrew Johnson]]
-- [[United States v. Nixon]]
-- [[Trump v. United States]]
+- [[United States v. Nixon (1974)|United States v. Nixon]]
+- [[Trump v. United States (2024)|Trump v. United States]]
 
 ## Notes
 

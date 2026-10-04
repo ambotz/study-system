@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[United States v. Cox]]
-- [[Adams v. Richardson]]
+- [[United States v. Cox (1965)|United States v. Cox]]
+- [[Adams v. Richardson (1973)|Adams v. Richardson]]
 - [[The Thompson Memo]]
 
 ## Notes

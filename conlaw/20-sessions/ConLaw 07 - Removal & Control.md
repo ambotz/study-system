@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[Trump v. Slaughter]]
-- [[Trump v. Cook]]
+- [[Trump v. Slaughter (2026)|Trump v. Slaughter]]
+- [[Trump v. Cook (2026)|Trump v. Cook]]
 
 ## Notes
 

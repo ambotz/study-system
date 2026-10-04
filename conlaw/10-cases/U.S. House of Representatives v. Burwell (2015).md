@@ -51,9 +51,9 @@ The House of Representatives, as an institution, has Article III standing to sue
 
 **The standing question afterwards.** Note 4: in *U.S. House of Representatives v. Mnuchin* (border wall), Judge McFadden "decline[d] to apply Burwell" (D.D.C. 2019), but the D.C. Circuit held in 2020 that the House had standing to litigate the Appropriations Clause. The Supreme Court has never decided whether a House of Congress may sue the executive to enforce the clause. Contrast *Raines v. Byrd* (1997), which denied standing to individual members challenging the Line Item Veto Act, the statute struck the next year in [[Clinton v. City of New York (1998)]] at the suit of injured private parties. Burwell also leans on *Arizona State Legislature v. Arizona Independent Redistricting Commission* (2015), where an institutional legislature was allowed to sue. Standing returns in Article III.
 
-**Relation to Youngstown.** Spending against an express refusal to appropriate would be category three in [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] if the President claimed an Article II power, **but here the executive claimed the reverse: that Congress had appropriated.** That is why the court could frame the case as a question of constitutional compliance. Douglas's concurrence in Youngstown, that only the branch that can pay can authorize a taking, rests on the same clause.
+**Relation to Youngstown.** Spending against an express refusal to appropriate would be category three in [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]] if the President claimed an Article II power, **but here the executive claimed the reverse: that Congress had appropriated.** That is why the court could frame the case as a question of constitutional compliance. Douglas's concurrence in Youngstown, that only the branch that can pay can authorize a taking, rests on the same clause.
 
-**The statute on the merits.** The ACA and its taxing theory come back in [[NFIB v. Sebelius]], which the opinion quotes for the ACA's purpose and for the "tax" characterization of the mandate's payments.
+**The statute on the merits.** The ACA and its taxing theory come back in [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]], which the opinion quotes for the ACA's purpose and for the "tax" characterization of the mandate's payments.
 
 ## Professor gloss
 
@@ -99,7 +99,7 @@ Article I requires both authorization and appropriation before public money is s
 - The harm is "particularly insidious" because, if proved, "it would eliminate Congress's role via-a-vis the Executive." "The political tug of war anticipated by the Constitution depends upon Article I, § 9, cl. 7 having some force."
 - Story, via the D.C. Circuit: without the clause "the executive would possess an unbounded power over the public purse of the nation." "Congress's power of the purse is the ultimate check on the otherwise unbounded power of the Executive."
 - The employer-mandate theory "proves too much" and would create "general legislative standing." "Article I is not a talisman."
-- Justiciability: familiar judicial techniques suffice ([[Marbury v. Madison|Marbury]]); courts must sometimes interpret the Constitution "at variance with the construction given the document by another branch" (*Powell*).
+- Justiciability: familiar judicial techniques suffice ([[Marbury v. Madison (1803)|Marbury]]); courts must sometimes interpret the Constitution "at variance with the construction given the document by another branch" (*Powell*).
 - No floodgates: the case "is inherently limited by the extraordinary facts of which it was born."
 
 ### Dissent / concurrence

@@ -77,7 +77,7 @@ Congress cannot do through the purse what the Bill of Attainder Clause forbids i
 
 **The purse against individuals.** Lovett answers the casebook's first question for this unit — how Congress can use the purse to limit the executive — with a limit on Congress instead: the Appropriations Clause gives no license to evade the Attainder Clause two clauses away. [[U.S. House of Representatives v. Burwell (2015)|Burwell]] takes the second question, enforcement.
 
-**Removal, avoided.** Read as the Court reads it, § 304 is Congress removing executive employees — which is what Congress does when it cannot remove directly. The Court ducked it; Frankfurter named it. Runs to [[The Decision of 1789]], [[Humphrey's Executor v. United States]] and Class 7's [[Trump v. Slaughter]].
+**Removal, avoided.** Read as the Court reads it, § 304 is Congress removing executive employees — which is what Congress does when it cannot remove directly. The Court ducked it; Frankfurter named it. Runs to [[The Decision of 1789]], [[Humphrey's Executor v. United States (1935)|Humphrey's Executor v. United States]] and Class 7's [[Trump v. Slaughter (2026)|Trump v. Slaughter]].
 
 **The attainder line.** Cummings and Garland (1867) are the foundation. Later cases refine the test: Brown (1965) struck a bar on Communists serving as union officers; Nixon v. Administrator of General Services (1977) upheld a statute aimed at one former President's papers, asking whether the burden is punitive in history, function and motive. Naming one person is not by itself enough.
 

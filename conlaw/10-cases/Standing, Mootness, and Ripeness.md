@@ -11,7 +11,7 @@ read_for: null
 
 ## What it is
 
-The casebook's editorial note closing Part C, which follows the Mellon notes and runs to the start of Part D on the political question doctrine. It states the modern standing test that grew out of [[Ex parte Levitt]] and [[Massachusetts v. Mellon; Frothingham v. Mellon|Mellon]], illustrates each element with a case, and adds the two timing doctrines, mootness and ripeness.
+The casebook's editorial note closing Part C, which follows the Mellon notes and runs to the start of Part D on the political question doctrine. It states the modern standing test that grew out of [[Ex parte Levitt (1937)|Ex parte Levitt]] and [[Massachusetts v. Mellon; Frothingham v. Mellon (1923)|Mellon]], illustrates each element with a case, and adds the two timing doctrines, mootness and ripeness.
 
 It is assigned because the older cases state the principle ("direct injury," not an interest "common to all members of the public") and this note states the test a modern court applies. The three-part formulation is usually cited to *Lujan v. Defenders of Wildlife* (1992), which the note does not name.
 
@@ -37,7 +37,7 @@ It is assigned because the older cases state the principle ("direct injury," not
 ## Where it goes
 
 - [[Standing - Art. III § 2 cases and controversies]] — the modern test, the timing doctrines and their exceptions.
-- [[Ex parte Levitt]] and [[Massachusetts v. Mellon; Frothingham v. Mellon]] — the older cases the test grew from.
+- [[Ex parte Levitt (1937)|Ex parte Levitt]] and [[Massachusetts v. Mellon; Frothingham v. Mellon (1923)|Massachusetts v. Mellon; Frothingham v. Mellon]] — the older cases the test grew from.
 - [[U.S. House of Representatives v. Burwell (2015)]] — institutional standing, and a case that ended in voluntary cessation and settlement.
 - *Powell v. McCormack* — the collateral-consequences exception to mootness.
 - [[The Correspondence of the Justices]] and [[Tocqueville on the American Judiciary]] — the founding-era basis of the case requirement.

@@ -3,7 +3,7 @@
 Constitutional Law I: Government Structure · Baude · Autumn 2026
 Meets Mon, Wed, Thu 1:30-2:35 pm. in-class, closed-book exam, plus participation (cold-calling; email by 11 a.m. to pass)
 
-Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
+Generated 2026-10-04 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
 
 ## Sources
 
@@ -30,7 +30,7 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 - [[Types of Constitutional Argument]] — pp. 41–42 · note
 - [[An Introduction to the Separation of Powers]] — pp. 45–46 · note
-- [[Youngstown Sheet & Tube Co. v. Sawyer]] — pp. 46–62 · case
+- [[Youngstown Sheet & Tube Co. v. Sawyer (1952)]] — pp. 46–62 · case
 
 ## I. The Separation of Powers — A. Legislative Power
 
@@ -40,19 +40,19 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[The Post Roads Debate]] — pp. 64–70 · document
 - [[The Non-Delegation Doctrine's Good Year]] — pp. 70–71 · note
     - Syllabus calls this 'One Good Year'.
-- [[Gundy v. United States]] — pp. 71–83 · case
+- [[Gundy v. United States (2019)]] — pp. 71–83 · case
 
 ### Class 4 — Bicameralism and Presentment
 
-- [[INS v. Chadha]] — pp. 108–121 · case
-- [[Clinton v. City of New York]] — pp. 121–130 · case
+- [[INS v. Chadha (1983)]] — pp. 108–121 · case
+- [[Clinton v. City of New York (1998)]] — pp. 121–130 · case
 
 ### Class 5 — The Power of the Purse
 
-- [[United States v. Lovett]] — pp. 130–139 · case
+- [[United States v. Lovett (1946)]] — pp. 130–139 · case
 - [[Obama, Statement on H.R. 1473]] — pp. 139–140 · document
     - Syllabus: 'Signing Statement on HR 1473'.
-- [[U.S. House of Representatives v. Burwell]] — pp. 140–147 · case
+- [[U.S. House of Representatives v. Burwell (2015)]] — pp. 140–147 · case
 - [[Power of the Purse — additional materials]] — Canvas · document · **no file**
     - Syllabus: '(canvas) Additional Materials'. Contents not yet known.
 
@@ -64,22 +64,22 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[A Map of Article II]] — pp. 168–169 · note
 - [[The Federalist No. 70]] — pp. 169–172 · document
 - [[The Federalist No. 76]] — pp. 172–175 · document
-- [[Buckley v. Valeo]] — pp. 175–179 · case
+- [[Buckley v. Valeo (1976)]] — pp. 175–179 · case
 - [[The Decision of 1789]] — pp. 196–199 · note
     - Casebook heading: 'Foundations of the Removal Power: The Decision of 1789'.
-- [[Humphrey's Executor v. United States]] — pp. 212–214 · case
+- [[Humphrey's Executor v. United States (1935)]] — pp. 212–214 · case
     - Syllabus says 'v. FEC'; the case is Humphrey's Executor v. United States (1935).
 
 ### Class 7 — Removal & Control
 *Class 6 materials continued.*
 
-- [[Trump v. Slaughter]] — Canvas · case
-- [[Trump v. Cook]] — Canvas · case
+- [[Trump v. Slaughter (2026)]] — Canvas · case
+- [[Trump v. Cook (2026)]] — Canvas · case
 
 ### Class 8 — Suspending and Dispensing Powers?
 
-- [[United States v. Cox]] — pp. 251–259 · case
-- [[Adams v. Richardson]] — pp. 259–262 · case
+- [[United States v. Cox (1965)]] — pp. 251–259 · case
+- [[Adams v. Richardson (1973)]] — pp. 259–262 · case
 - [[The Thompson Memo]] — pp. 262–269 · document
     - Karl R. Thompson (OLC), The Department of Homeland Security's Authority to Prioritize Removal (2014).
 
@@ -89,7 +89,7 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
     - Not named in the syllabus, but inside its page range. The 5th ed. updates the Iran paragraph through 2021.
 - [[Madison's Notes on the War Power]] — pp. 302–305 · document
     - Includes the casebook's framing notes (Starting War; Text; Historical Context), 302–304.
-- [[The Prize Cases]] — pp. 305–314 · case
+- [[The Prize Cases (1863)]] — pp. 305–314 · case
     - Casebook caption: The Brig Amy Warwick (The Prize Cases). Includes 'Practice and Precedent', 305.
 - [[Declarations of War]] — pp. 314–316 · document
     - Declaration of War Against Japan; Gulf of Tonkin Resolution.
@@ -109,8 +109,8 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 - [[The Impeachment of Andrew Johnson]] — pp. 350–357 · document
     - David Currie on the Impeachment of Andrew Johnson.
-- [[United States v. Nixon]] — Canvas · case
-- [[Trump v. United States]] — Canvas · case
+- [[United States v. Nixon (1974)]] — Canvas · case
+- [[Trump v. United States (2024)]] — Canvas · case
 
 ## I. The Separation of Powers — C. The Judicial Power
 
@@ -119,19 +119,19 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[A Map of Article III]] — pp. 372–376 · note
 - [[Brutus No. 11]] — pp. 376–379 · document
 - [[The Federalist No. 78]] — pp. 379–381 · document
-- [[Marbury v. Madison]] — pp. 381–396 · case
+- [[Marbury v. Madison (1803)]] — pp. 381–396 · case
     - Includes 'Background to Marbury', 381–384.
-- [[Stuart v. Laird]] — pp. 396–397 · case
+- [[Stuart v. Laird (1803)]] — pp. 396–397 · case
 
 ### Class 12 — The Dred Scott Case
 
-- [[Dred Scott v. Sandford]] — pp. 724–753 · case
+- [[Dred Scott v. Sandford (1857)]] — pp. 724–753 · case
 
 ### Class 13 — Judicial Supremacy
 
 - [[The Lincoln-Douglas Debates]] — pp. 397–402 · document
-- [[Cooper v. Aaron]] — pp. 402–407 · case
-- [[Ex parte Merryman]] — pp. 407–410 · case
+- [[Cooper v. Aaron (1958)]] — pp. 402–407 · case
+- [[Ex parte Merryman (1861)]] — pp. 407–410 · case
 - [[Bates, Opinion on the Suspension of Habeas Corpus]] — pp. 410–416 · document
     - Not named in the syllabus, but inside its page range. Read it.
 
@@ -139,15 +139,15 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 - [[The Correspondence of the Justices]] — pp. 416–419 · document
 - [[Tocqueville on the American Judiciary]] — pp. 419–422 · document
-- [[Ex parte Levitt]] — pp. 422–423 · case
-- [[Massachusetts v. Mellon; Frothingham v. Mellon]] — pp. 423–427 · case
+- [[Ex parte Levitt (1937)]] — pp. 422–423 · case
+- [[Massachusetts v. Mellon; Frothingham v. Mellon (1923)]] — pp. 423–427 · case
 - [[Standing, Mootness, and Ripeness]] — pp. 427–429 · note
     - Not named in the syllabus, but inside its page range. Read it.
 
 ### Class 15 — Impeachment, Jurisdiction Stripping, Court Packing
 
 - [[The Impeachment of Justice Chase]] — Canvas · document
-- [[Ex parte McCardle]] — Canvas · case
+- [[Ex parte McCardle (1869)]] — Canvas · case
 - [[Senate Report on Court Packing]] — Canvas · document
     - Syllabus: 'Senate Report'. Presumably the 1937 Senate Judiciary Committee report; confirm on Canvas.
 
@@ -165,7 +165,7 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 ### Class 17 — The Bank, Part II
 *Bank debates continued as necessary.*
 
-- [[McCulloch v. Maryland]] — pp. 484–502 · case
+- [[McCulloch v. Maryland (1819)]] — pp. 484–502 · case
 - [[Madison, Letter to Lafayette]] — pp. 502–503 · document
     - Includes 'After McCulloch', 502.
 - [[Jackson, Veto Message on the Bank]] — pp. 503–506 · document
@@ -173,29 +173,29 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 18 — The Commerce Clause
 
-- [[Hammer v. Dagenhart]] — pp. 515–523 · case
+- [[Hammer v. Dagenhart (1918)]] — pp. 515–523 · case
     - Includes the bridge note 'After Gibbons v. Ogden', 515–518.
-- [[United States v. Darby]] — pp. 523–528 · case
+- [[United States v. Darby (1941)]] — pp. 523–528 · case
     - Includes the bridge note 'After Hammer v. Dagenhart', 523.
-- [[Wickard v. Filburn]] — pp. 528–532 · case
+- [[Wickard v. Filburn (1942)]] — pp. 528–532 · case
 
 ### Class 19 — The Federalism Revolution?
 
-- [[United States v. Lopez]] — pp. 536–550 · case
-- [[Gonzales v. Raich]] — pp. 550–561 · case
+- [[United States v. Lopez (1995)]] — pp. 536–550 · case
+- [[Gonzales v. Raich (2005)]] — pp. 550–561 · case
 
 ### Class 20 — State Sovereignty
 
-- [[Garcia v. San Antonio Metropolitan Transit Authority]] — pp. 570–582 · case
-- [[Printz v. United States]] — pp. 582–595 · case
+- [[Garcia v. San Antonio Metropolitan Transit Authority (1985)]] — pp. 570–582 · case
+- [[Printz v. United States (1997)]] — pp. 582–595 · case
 
 ### Class 21 — Taxing
 *The 5th ed. adds a short Note 6 after Hylton (corpus linguistics, 5th p. 603) that the 4th-ed. print lacks; it is summarized in the Hylton brief, or print that one page from the scan.*
 
 - [[Express Limits on the Power to Tax]] — pp. 596–597 · note
-- [[Hylton v. United States]] — pp. 597–603 · case
+- [[Hylton v. United States (1796)]] — pp. 597–603 · case
 - [[Implied Limits on the Power to Tax]] — pp. 603–607 · note
-- [[Bailey v. Drexel Furniture Co]] — Canvas · case
+- [[Bailey v. Drexel Furniture Co (1922)]] — Canvas · case
     - The Child Labor Tax Case.
 
 ### Class 22 — Spending
@@ -204,34 +204,34 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
     - Includes the casebook's spending-power introduction and 'The Assumption Controversy', 608–611.
 - [[Hamilton, Report on Manufactures]] — pp. 612–614 · document
 - [[The Savannah Fire Debate]] — pp. 614–618 · document
-- [[South Dakota v. Dole]] — pp. 618–627 · case
+- [[South Dakota v. Dole (1987)]] — pp. 618–627 · case
     - Includes 'Spending Litigation During the New Deal', 618–620.
 
 ### Class 23 — NFIB v. Sebelius
 
-- [[NFIB v. Sebelius]] — pp. 628–658 · case
+- [[NFIB v. Sebelius (2012)]] — pp. 628–658 · case
 
 ### Class 24 — Secession
 *Print from the 5th-ed. scan (Con law 1 - Class 24 (Secession) - pp 760-780.pdf), not the 4th ed. — Grier's dissent in Texas v. White is in the 5th ed. only.*
 
 - [[Buchanan, Address to Congress]] — pp. 760–763 · document
 - [[Lincoln, First Inaugural Address]] — pp. 763–774 · document
-- [[Texas v. White]] — pp. 774–777 · case
+- [[Texas v. White (1869)]] — pp. 774–777 · case
 - [[Jefferson Davis, Farewell Address to the Senate]] — Canvas · document
 
 ## III. The Rest of the Original Constitution
 
 ### Class 25 — Article IV
 
-- [[Corfield v. Coryell]] — pp. 710–715 · case
-- [[National Pork Producers Council v. Ross]] — Canvas · case
+- [[Corfield v. Coryell (1823)]] — pp. 710–715 · case
+- [[National Pork Producers Council v. Ross (2023)]] — Canvas · case
 
 ### Class 26 — Article V
 *Print from the 5th-ed. scan (Con law 1 - Class 26 (Article V) - pp 805-815.pdf), not the 4th ed. — the 5th ed. rewrote this chapter.*
 
 - [[The Congressional Pay Amendment]] — pp. 805–806 · note
     - Rewritten from the 5th-ed. scan; the 5th ed. rebuilt this chapter around three worked examples.
-- [[Dillon v. Gloss]] — pp. 806–808 · case
+- [[Dillon v. Gloss (1921)]] — pp. 806–808 · case
     - Excerpted in the 5th ed. only; the 4th ed. cites it in a note at p. 804.
 - [[OLC Opinion on the Congressional Pay Amendment]] — pp. 808–813 · document
     - 16 Op. O.L.C. 85 (1992). In the 5th ed. only.
@@ -242,6 +242,6 @@ Generated 2026-09-25 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 ### Class 27 — Article VI
 
-- [[In re Neagle]] — Canvas · case
+- [[In re Neagle (1890)]] — Canvas · case
 - [[Article VI - other materials]] — Canvas · document
     - Syllabus: 'and other materials'. Contents not yet known.

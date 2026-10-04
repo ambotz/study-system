@@ -13,8 +13,8 @@ reconciled: false
 
 - [[The Correspondence of the Justices]]
 - [[Tocqueville on the American Judiciary]]
-- [[Ex parte Levitt]]
-- [[Massachusetts v. Mellon; Frothingham v. Mellon]]
+- [[Ex parte Levitt (1937)|Ex parte Levitt]]
+- [[Massachusetts v. Mellon; Frothingham v. Mellon (1923)|Massachusetts v. Mellon; Frothingham v. Mellon]]
 - [[Standing, Mootness, and Ripeness]]
 
 ## Notes

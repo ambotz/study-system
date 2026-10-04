@@ -13,7 +13,7 @@ read_for: null
 
 The House of Representatives' debate of December 6–8, 1791 (3 Annals of Congress 229–41) on the bill establishing the Post Office. Representative Sedgwick moved to strike the list of roads in the bill and substitute "by such route as the President of the United States shall, from time to time, cause to be established." The motion failed.
 
-The casebook sets it next to [[Gundy v. United States]] as the founding-era case study on delegation. Every modern argument about the nondelegation doctrine appears in it, made by members of the Second Congress with no precedent to rely on.
+The casebook sets it next to [[Gundy v. United States (2019)|Gundy v. United States]] as the founding-era case study on delegation. Every modern argument about the nondelegation doctrine appears in it, made by members of the Second Congress with no precedent to rely on.
 
 ## What to notice
 
@@ -28,11 +28,11 @@ The casebook sets it next to [[Gundy v. United States]] as the founding-era case
 - **Madison's position.** Sedgwick's arguments "admit of such construction as will lead to blending those powers so as to leave no line of separation whatever." The subject "is expressly committed to Legislative determination by the Constitution"; alienating it "would be a violation of the Constitution."
 - **Benson's observation undercuts the whole debate.** The bill as written designates no post offices at all. Congress was already delegating the offices while arguing about the roads.
 - **What precedent does the vote set?** Note 2. Madison's side won. ==But a House vote declining to delegate is not a holding that delegation is unconstitutional==; members voted on expediency and constitutionality together. Be ready to say how much weight an early congressional vote deserves as "liquidation" of meaning.
-- **Private rights versus government property.** Note 3. Post roads concern the government's own operations, not private conduct. **Gorsuch's definition of legislative power in [[Gundy v. United States|Gundy]] is rules governing private conduct**, which would put post roads outside the nondelegation doctrine altogether. The debate is harder for Gorsuch than it looks.
+- **Private rights versus government property.** Note 3. Post roads concern the government's own operations, not private conduct. **Gorsuch's definition of legislative power in [[Gundy v. United States (2019)|Gundy]] is rules governing private conduct**, which would put post roads outside the nondelegation doctrine altogether. The debate is harder for Gorsuch than it looks.
 
 ## Where it goes
 
 - [[Nondelegation - Art. I § 1 and the intelligible principle]] — the founding-era evidence on both sides.
-- [[Gundy v. United States]] — Sedgwick is the ancestor of the plurality; Madison and Livermore of the dissent.
+- [[Gundy v. United States (2019)|Gundy v. United States]] — Sedgwick is the ancestor of the plurality; Madison and Livermore of the dissent.
 - [[The Non-Delegation Doctrine's Good Year]] — the 1935 cases that gave Madison's side its only judicial victories.
 - [[Types of Constitutional Argument]] — a clean example of text (Livermore), practice (Bourne), structure (Madison) and consequences (White) in a single debate.

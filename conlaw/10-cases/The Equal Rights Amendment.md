@@ -33,4 +33,4 @@ read_for: null
 - [[Amendment process - Art. V]] — deadlines, rescission, and who certifies.
 - [[The Congressional Pay Amendment]] — the mirror case: no deadline, two centuries, and acceptance.
 - [[OLC Opinion on the Congressional Pay Amendment]] — the reasoning that, applied here, would revive the ERA.
-- [[Dillon v. Gloss]] — the authority for a deadline in the first place.
+- [[Dillon v. Gloss (1921)|Dillon v. Gloss]] — the authority for a deadline in the first place.

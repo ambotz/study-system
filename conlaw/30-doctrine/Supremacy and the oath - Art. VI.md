@@ -18,7 +18,7 @@ last_drilled:
 
 ## Rule statement
 
-When valid federal law conflicts with state law, federal law wins, and a State may not punish a federal officer for doing what federal law authorizes. Article VI makes supreme "[t]his Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States," binding state judges "any Thing in the Constitution or Laws of any State to the Contrary notwithstanding." The article also carries the Confederation's debts forward, binds every federal and state officer by oath "to support this Constitution," and bars religious tests for federal office. [[In re Neagle]] reads "law of the United States" in the federal-officer habeas statute to include "any obligation fairly and properly inferrible from that instrument." The contest is whether supreme "Laws" means only law made through a procedure, as "in Pursuance thereof" and Lamar's dissent suggest — the same text that leaves out executive agreements ([[A Note on Executive Agreements]]).
+When valid federal law conflicts with state law, federal law wins, and a State may not punish a federal officer for doing what federal law authorizes. Article VI makes supreme "[t]his Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States," binding state judges "any Thing in the Constitution or Laws of any State to the Contrary notwithstanding." The article also carries the Confederation's debts forward, binds every federal and state officer by oath "to support this Constitution," and bars religious tests for federal office. [[In re Neagle (1890)|In re Neagle]] reads "law of the United States" in the federal-officer habeas statute to include "any obligation fairly and properly inferrible from that instrument." The contest is whether supreme "Laws" means only law made through a procedure, as "in Pursuance thereof" and Lamar's dissent suggest — the same text that leaves out executive agreements ([[A Note on Executive Agreements]]).
 
 ## Elements
 
@@ -31,13 +31,13 @@ When valid federal law conflicts with state law, federal law wins, and a State m
    - An agreement executing a statute borrows the statute's place on the list; a bare presidential agreement does not (Exceptions).
 3. **Is the question one of priority or of scope?**
    - "[A]ny Thing . . . to the Contrary notwithstanding" tells a judge which law wins in a conflict.
-   - The clause does not say how large the field of federal law is, so every preemption fight is really about the scope of the statute or the enumerated power behind it. That is why [[McCulloch v. Maryland]] spends its energy on the Necessary and Proper Clause before reaching Maryland's tax.
+   - The clause does not say how large the field of federal law is, so every preemption fight is really about the scope of the statute or the enumerated power behind it. That is why [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] spends its energy on the Necessary and Proper Clause before reaching Maryland's tax.
 4. **Who is bound, by name and by omission?**
    - The Supremacy Clause names state judges and only state judges.
    - The oath binds "[t]he Senators and Representatives . . . the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States."
    - The President is omitted from the oath clause because Article II, § 1 prescribes his own oath ("preserve, protect and defend").
-   - State executives are bound by the oath but not named in the Supremacy Clause; [[Printz v. United States]] and its dissent fight over what follows (Exceptions).
-5. **For executive action, what is the [[In re Neagle|Neagle]] chain, and where is each link weak?**
+   - State executives are bound by the oath but not named in the Supremacy Clause; [[Printz v. United States (1997)|Printz v. United States]] and its dissent fight over what follows (Exceptions).
+5. **For executive action, what is the [[In re Neagle (1890)|Neagle]] chain, and where is each link weak?**
    - Rev. Stat. § 753: habeas for an act done "in pursuance of a law of the United States" — the phrase in dispute.
    - Rev. Stat. § 788: marshals have the powers sheriffs have under state law — the one statutory link, and it borrows state law for its content.
    - The Attorney General's letter assigning the bodyguard — not law at all.
@@ -64,7 +64,7 @@ When valid federal law conflicts with state law, federal law wins, and a State m
 - **Executive agreements are outside the enumeration.** An agreement in which the President promises only to exercise powers he already holds is lawful. The open question is whether he may promise "to do things that otherwise lie outside of unilateral presidential authority—such as preempting state law" ([[A Note on Executive Agreements]]).
 - **The Litvinov cases and their retreat.** *United States v. Belmont* and *United States v. Pink* held that the Litvinov Agreement displaced state law; *Dames & Moore* "implicitly cut back on Belmont and Pink" by resting on congressional authorization.
 - **The modern cases split.** *Crosby v. National Foreign Trade Council* and *American Insurance Association v. Garamendi* found state laws preempted, *Garamendi* even without conflict with any treaty or executive agreement. *Medellín v. Texas* refused to let the President use a non-self-executing treaty to set aside Texas death-penalty proceedings.
-- **State executives are not named in the Supremacy Clause.** [[Printz v. United States]] uses the reference to "the Judges in every State" to distinguish *Testa v. Katt*: state courts must apply federal law, but that "says nothing about whether state executive officers must administer federal law." Stevens answers with the oath clause, which binds state executive officers and suggests they may bear greater federal duties than private citizens. See [[State sovereignty and anti-commandeering - Tenth Amendment]].
+- **State executives are not named in the Supremacy Clause.** [[Printz v. United States (1997)|Printz v. United States]] uses the reference to "the Judges in every State" to distinguish *Testa v. Katt*: state courts must apply federal law, but that "says nothing about whether state executive officers must administer federal law." Stevens answers with the oath clause, which binds state executive officers and suggests they may bear greater federal duties than private citizens. See [[State sovereignty and anti-commandeering - Tenth Amendment]].
 - **The religious-test clause reaches only federal office.** It does not cover offices under a State.
 - **The Article VI oath does not reach the President.** His oath is prescribed separately in Article II, § 1.
 - **Neagle displaces state criminal law, not individual rights.** A federal officer who conducts a warrantless search to protect a judge has authority to act under Neagle and no answer to a constitutional right.
@@ -73,7 +73,7 @@ When valid federal law conflicts with state law, federal law wins, and a State m
 
 ## Leading case
 
-[[In re Neagle]]
+[[In re Neagle (1890)|In re Neagle]]
 
 - **Holding:** (6–2; Miller; Lamar, with Fuller, dissenting; Field not participating) a deputy marshal guarding a Justice under no statute acted "in pursuance of a law of the United States" for habeas purposes, so California could not hold him for trial on a murder charge.
 - **Driving fact:** there was no statute. "It is not supposed that any special act of Congress exists which authorizes the marshals or deputy marshals of the United States in express terms to accompany the judges." The absence of enacted authority is the premise of the holding.
@@ -81,7 +81,7 @@ When valid federal law conflicts with state law, federal law wins, and a State m
 - **Reasoning — the federal peace:** "there is a peace of the United States; that a man assaulting a judge of the United States while in the discharge of his duties violates that peace." With Rev. Stat. § 788, the marshal stands to the peace of the United States as the sheriff stands to the peace of the State.
 - **Reasoning — consequences:** otherwise the government would be "without the means of self-protection," and the mails hypothetical shows the power does not stop at judges.
 - **Separate opinions:** Lamar frames the question as whether Neagle "shall in this ex parte proceeding be discharged and delivered from any trial or further inquiry in any court, state or federal," and answers: "[n]o officer or employe of the United States is placed by his position, or the services he is called to perform, above responsibility to the legal tribunals of the country."
-- **Placement:** Neagle reads Article II, § 3 as a source of power where Congress has legislated nothing, while [[United States v. Cox]] and [[Adams v. Richardson]] read the same clause as a duty owed with respect to statutes. Congress's silence puts the case in the [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] twilight zone; see [[Presidential power - Art. II and the Youngstown categories]].
+- **Placement:** Neagle reads Article II, § 3 as a source of power where Congress has legislated nothing, while [[United States v. Cox (1965)|United States v. Cox]] and [[Adams v. Richardson (1973)|Adams v. Richardson]] read the same clause as a duty owed with respect to statutes. Congress's silence puts the case in the [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]] twilight zone; see [[Presidential power - Art. II and the Youngstown categories]].
 - **Original-meaning critique:** the Take Care Clause is phrased as a duty ("he shall take Care") and sits among the President's obligations, so reading it as a grant of protective power is a structural and consequentialist argument. The originalist defence is that executive power at common law included keeping the peace, which § 788 preserves by reference to sheriffs' powers.
 
 ## Best counter-case
@@ -94,15 +94,15 @@ When valid federal law conflicts with state law, federal law wins, and a State m
 - **Reversibility:** forty-one senators warned that "[t]he next president could revoke such an executive agreement with the stroke of a pen." The casebook's verdict is "That turned out to be true": Trump withdrew "relying on the same unilateral foreign affairs power as President Obama had."
 - **Argue for the broad reading:** the government needs "the means of self-protection" (Neagle). *Belmont* held that although only treaties are named, "the same rule would result in the case of all international compacts and agreements from the very fact that complete power over international affairs is in the national government." *Garamendi* preempted state law on foreign-affairs grounds alone.
 - **Argue for the narrow reading:** the clause makes supreme law the product of a procedure; *Dames & Moore* shifted the basis to congressional authorization; *Medellín* refused to let a presidential instrument override state proceedings; and an instrument that lasts only as long as one President is poorly described as "the supreme Law of the Land."
-- **Link to judicial review:** the asymmetry between statutes "made in Pursuance thereof" and treaties made "under the Authority of the United States" is the strongest textual argument for judicial review in [[Marbury v. Madison]], because some organ must decide which statutes qualify. The same sentence that powers [[Judicial review - Art. III and the Supremacy Clause]] embarrasses Neagle.
+- **Link to judicial review:** the asymmetry between statutes "made in Pursuance thereof" and treaties made "under the Authority of the United States" is the strongest textual argument for judicial review in [[Marbury v. Madison (1803)|Marbury v. Madison]], because some organ must decide which statutes qualify. The same sentence that powers [[Judicial review - Art. III and the Supremacy Clause]] embarrasses Neagle.
 
 ## Professor gloss
 
 ## Common trap
 
-- **"The Supremacy Clause grants federal power."** The clause is a priority rule addressed to state judges. It decides which law wins in a conflict and says nothing about how far federal power reaches; in [[McCulloch v. Maryland]] the Necessary and Proper Clause does that work.
+- **"The Supremacy Clause grants federal power."** The clause is a priority rule addressed to state judges. It decides which law wins in a conflict and says nothing about how far federal power reaches; in [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] the Necessary and Proper Clause does that work.
 - **"The Article VI oath binds the President."** Article VI's list omits him. His oath is Article II, § 1's "preserve, protect and defend."
-- **"'Law of the United States' means the same thing in Article VI and in Rev. Stat. § 753."** [[In re Neagle]] gives the statutory phrase a reading that the constitutional phrase's "in Pursuance thereof" resists, and the mismatch is the case's soft spot.
+- **"'Law of the United States' means the same thing in Article VI and in Rev. Stat. § 753."** [[In re Neagle (1890)|In re Neagle]] gives the statutory phrase a reading that the constitutional phrase's "in Pursuance thereof" resists, and the mismatch is the case's soft spot.
 - **"Neagle held that Neagle was innocent."** The holding is that he need not be tried at all in a state court; the Court resolved necessity on a habeas record, which is what the dissent objected to.
 - **"Executive agreements are supreme law like treaties."** They are not named in the clause, their domestic status is unsettled, and *Medellín* cuts against the assumption.
-- **"Printz rests on Article VI's judges-only text."** [[Printz v. United States]] concedes "no constitutional text speaking to this precise question" and rests on history, structure and precedent. The judges clause only distinguishes *Testa v. Katt*, and Stevens calls the implied *expressio unius* argument "implausible."
+- **"Printz rests on Article VI's judges-only text."** [[Printz v. United States (1997)|Printz v. United States]] concedes "no constitutional text speaking to this precise question" and rests on history, structure and precedent. The judges clause only distinguishes *Testa v. Katt*, and Stevens calls the implied *expressio unius* argument "implausible."

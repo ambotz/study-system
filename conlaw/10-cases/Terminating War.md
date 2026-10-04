@@ -42,5 +42,5 @@ A short casebook note (pp. 325–326) on how a war ends: the Convention's debate
 - [[Madison's Notes on the War Power]] — the rejected "and peace" motion and Ellsworth's asymmetry.
 - [[Declarations of War]] — Tonkin's repeal and the Vietnam funding cutoff.
 - [[Nixon, Veto of the War Powers Resolution]] — the 60-day clock as a statutory termination device.
-- [[The Prize Cases]] — deference on when war begins, paired with Ludecke's deference on when it ends.
-- [[Youngstown Sheet & Tube Co. v. Sawyer]] — repeal plus funding as a category-mixing problem.
+- [[The Prize Cases (1863)|The Prize Cases]] — deference on when war begins, paired with Ludecke's deference on when it ends.
+- [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown Sheet & Tube Co. v. Sawyer]] — repeal plus funding as a category-mixing problem.

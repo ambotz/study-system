@@ -11,9 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[United States v. Lovett]]
+- [[United States v. Lovett (1946)]]
 - [[Obama, Statement on H.R. 1473]]
-- [[U.S. House of Representatives v. Burwell]]
+- [[U.S. House of Representatives v. Burwell (2015)]]
 - Power of the Purse — additional materials *(no reading file yet)*
 
 ## Notes

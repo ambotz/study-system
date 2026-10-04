@@ -14,7 +14,7 @@ read_for: null
 
 ## What it is
 
-A November 1826 letter from former President Madison to Lafayette. Madison explains why, after opposing the First Bank's constitutionality in the House in 1791, he signed the 1816 charter of the Second Bank. The casebook sets it just after [[McCulloch v. Maryland]] and its aftermath ("After McCulloch," p. 502), and just before [[Jackson, Veto Message on the Bank|Jackson's veto]]. It is paired with Jackson as the opposite answer to one question: must a President accept a constitutional question that practice has settled against his own view?
+A November 1826 letter from former President Madison to Lafayette. Madison explains why, after opposing the First Bank's constitutionality in the House in 1791, he signed the 1816 charter of the Second Bank. The casebook sets it just after [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] and its aftermath ("After McCulloch," p. 502), and just before [[Jackson, Veto Message on the Bank|Jackson's veto]]. It is paired with Jackson as the opposite answer to one question: must a President accept a constitutional question that practice has settled against his own view?
 
 The "After McCulloch" section records the backlash. Pennsylvania proposed an amendment confining the Bank to the District of Columbia. Ohio's auditor raided a branch and carried off $100,000, which was later returned only "after much legal wrangling and another decision of the U.S. Supreme Court." Bills to strip the Court's jurisdiction over state-court appeals failed. In Virginia, "Amphictyon" and "Hampden" (Spencer Roane) attacked McCulloch, and Marshall answered pseudonymously as "A Friend of the Constitution" and "A Friend of the Union."
 
@@ -37,7 +37,7 @@ The "After McCulloch" section records the backlash. Pennsylvania proposed an ame
 - [[Judicial supremacy and departmentalism - Art. VI oath]] — the non-judicial settlement of constitutional meaning; Madison's "Nation" as interpreter.
 - [[Modes of constitutional argument]] — the argument from practice in its strongest form.
 - [[The Bank Debate]] — Madison's 1791 speech against the First Bank, which he never repudiated.
-- [[McCulloch v. Maryland]] — Marshall's more guarded use of the same practice, and his jab at "statesmen of the first class" who yielded their opinions.
+- [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] — Marshall's more guarded use of the same practice, and his jab at "statesmen of the first class" who yielded their opinions.
 - [[Jackson, Veto Message on the Bank]] — the counterpoint: the same practice, counted differently.
-- [[The Decision of 1789]] and [[Trump v. Slaughter]] — liquidation by early practice doing Article II work; Slaughter's Federal Reserve reservation rests on the Banks' "distinct historical tradition."
+- [[The Decision of 1789]] and [[Trump v. Slaughter (2026)|Trump v. Slaughter]] — liquidation by early practice doing Article II work; Slaughter's Federal Reserve reservation rests on the Banks' "distinct historical tradition."
 - [[The Post Roads Debate]] — the earlier question of how much weight a congressional vote deserves as "liquidation."

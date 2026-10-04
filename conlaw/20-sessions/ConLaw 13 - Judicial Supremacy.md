@@ -12,8 +12,8 @@ reconciled: false
 ## Readings
 
 - [[The Lincoln-Douglas Debates]]
-- [[Cooper v. Aaron]]
-- [[Ex parte Merryman]]
+- [[Cooper v. Aaron (1958)|Cooper v. Aaron]]
+- [[Ex parte Merryman (1861)|Ex parte Merryman]]
 - [[Bates, Opinion on the Suspension of Habeas Corpus]]
 
 ## Notes

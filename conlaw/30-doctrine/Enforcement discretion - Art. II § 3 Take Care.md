@@ -21,16 +21,16 @@ last_drilled:
 
 ## Rule statement
 
-The President must enforce the laws and may not suspend a statute or excuse people from it in advance, but the executive chooses whom to prosecute and how to spend limited resources, and courts do not second-guess those choices. The Convention "unanimously rejected a proposal to give the president a suspending power," and Article II § 3 says the President "shall take Care that the Laws be faithfully executed." Withholding a signature from an indictment "is a matter of executive discretion which cannot be coerced or reviewed by the courts" ([[United States v. Cox]]). The discretion ends where Congress has directed enforcement and the agency adopts "a general policy which is in effect an abdication of its statutory duty" ([[Adams v. Richardson]]). The contest is power or duty: doctrine reads "take Care" as the source of prosecutorial discretion, while the original-meaning objection is that "faithfully" imposes an obligation and category-wide forbearance is the suspending power renamed.
+The President must enforce the laws and may not suspend a statute or excuse people from it in advance, but the executive chooses whom to prosecute and how to spend limited resources, and courts do not second-guess those choices. The Convention "unanimously rejected a proposal to give the president a suspending power," and Article II § 3 says the President "shall take Care that the Laws be faithfully executed." Withholding a signature from an indictment "is a matter of executive discretion which cannot be coerced or reviewed by the courts" ([[United States v. Cox (1965)|United States v. Cox]]). The discretion ends where Congress has directed enforcement and the agency adopts "a general policy which is in effect an abdication of its statutory duty" ([[Adams v. Richardson (1973)|Adams v. Richardson]]). The contest is power or duty: doctrine reads "take Care" as the source of prosecutorial discretion, while the original-meaning objection is that "faithfully" imposes an obligation and category-wide forbearance is the suspending power renamed.
 
 ## Elements
 
 1. **What law is the executive charged with executing?**
    - A statute is the ordinary case.
-   - Under [[In re Neagle]], "any obligation fairly and properly inferrible" from the Constitution also counts, so the executive may protect the government's own functions — a Justice on circuit, the mails — with no statute behind it.
+   - Under [[In re Neagle (1890)|In re Neagle]], "any obligation fairly and properly inferrible" from the Constitution also counts, so the executive may protect the government's own functions — a Justice on circuit, the mails — with no statute behind it.
 2. **What did Congress say about enforcement?** The answer fixes the Youngstown category; see [[Presidential power - Art. II and the Youngstown categories]].
-   - Silence, or a bare authorization: category two, the posture of [[United States v. Cox]].
-   - A command that the agency "is authorized and directed to effectuate" the statute, with the means specified: category three, the posture of [[Adams v. Richardson]].
+   - Silence, or a bare authorization: category two, the posture of [[United States v. Cox (1965)|United States v. Cox]].
+   - A command that the agency "is authorized and directed to effectuate" the statute, with the means specified: category three, the posture of [[Adams v. Richardson (1973)|Adams v. Richardson]].
    - An express funding restriction the President announces he will not treat as binding: category three, the posture of [[Obama, Statement on H.R. 1473]] on § 2262.
 3. **What form does the non-enforcement take?**
    - A single decision not to charge a particular person for past conduct is the paradigm of lawful discretion.
@@ -49,41 +49,41 @@ The President must enforce the laws and may not suspend a statute or excuse peop
    - Policy disagreement fails: the executive may not, "under the guise of exercising enforcement discretion, attempt to effectively rewrite the laws to match its policy preferences."
    - A constitutional objection to the statute is a distinct, higher-order ground, because the President "is required to act in accordance with the laws—including the Constitution, which takes precedence over other forms of law."
 7. **Does the policy amount to abdication?**
-   - A policy "so extreme as to amount to an abdication of its statutory responsibilities" falls outside the presumption of unreviewability (*Heckler v. Chaney* n.4, quoting [[Adams v. Richardson]]).
+   - A policy "so extreme as to amount to an abdication of its statutory responsibilities" falls outside the presumption of unreviewability (*Heckler v. Chaney* n.4, quoting [[Adams v. Richardson (1973)|Adams v. Richardson]]).
    - The Thompson Memo concedes that abdication "is ordinarily incompatible with the constitutional obligation to faithfully execute the laws."
 8. **Is the executive paying the violators at the same time?**
-   - HEW was "actively supplying segregated institutions with federal funds, contrary to the expressed purposes of Congress" ([[Adams v. Richardson]]).
+   - HEW was "actively supplying segregated institutions with federal funds, contrary to the expressed purposes of Congress" ([[Adams v. Richardson (1973)|Adams v. Richardson]]).
    - Continued payment turns the question into one under [[The power of the purse - Art. I § 9 cl. 7 appropriations]].
 
 ## Standard of review / burden
 
-- **Not reviewed (individual charging decisions):** "[T]he courts are not to interfere with the free exercise of the discretionary powers of the attorneys of the United States in their control over criminal prosecutions" ([[United States v. Cox]]). The discretion "may well depend upon matters of policy wholly apart from any question of probable cause."
-- **Presumption (APA, before 1985):** The committed-to-agency-discretion exception is "a narrow one," applying only where there is "no law to apply" (*Citizens to Preserve Overton Park v. Volpe*, applied in [[Adams v. Richardson]]). A statute that directs enforcement and prescribes its means supplies the law to apply.
+- **Not reviewed (individual charging decisions):** "[T]he courts are not to interfere with the free exercise of the discretionary powers of the attorneys of the United States in their control over criminal prosecutions" ([[United States v. Cox (1965)|United States v. Cox]]). The discretion "may well depend upon matters of policy wholly apart from any question of probable cause."
+- **Presumption (APA, before 1985):** The committed-to-agency-discretion exception is "a narrow one," applying only where there is "no law to apply" (*Citizens to Preserve Overton Park v. Volpe*, applied in [[Adams v. Richardson (1973)|Adams v. Richardson]]). A statute that directs enforcement and prescribes its means supplies the law to apply.
 - **Presumption (APA, after 1985):** [[Heckler v. Chaney]] makes an agency's refusal to act "generally committed to an agency's absolute discretion," analogizing it to a prosecutor's decision not to indict. Its footnote 4 reserves the abdication case.
 - **Burden:** The challenger must show a general policy of non-enforcement rather than a series of individual judgments; a working program with occasional passes stays on the Cox side.
 - **Not reviewed (standing):** *United States v. Texas* (2023) held that States lacked standing to challenge DHS's enforcement priorities, because "the Executive Branch possesses authority to decide how to prioritize and how aggressively to pursue legal actions." The abdication argument was reserved, not rejected; see [[Standing - Art. III § 2 cases and controversies]].
 - **Not reviewed / political question:** [[Bates, Opinion on the Suspension of Habeas Corpus]] argues that "the whole subject-matter is political and not judicial" and that "no court or judge can take cognizance of the political acts of the President," relying on [[Luther v. Borden]].
-- **Not reviewed (criminal liability):** [[Trump v. United States]] holds that the Executive has "exclusive authority and absolute discretion" over which crimes to investigate and prosecute, so that conduct is absolutely immune; see [[Presidential immunity and privilege - Art. II]].
+- **Not reviewed (criminal liability):** [[Trump v. United States (2024)|Trump v. United States]] holds that the Executive has "exclusive authority and absolute discretion" over which crimes to investigate and prosecute, so that conduct is absolutely immune; see [[Presidential immunity and privilege - Art. II]].
 - **What fills the gap (politics):** The electorate, once the disagreement surfaces in open court (Brown in Cox), and Congress, by legislating against the practice, which the Thompson Memo says is how the line has actually been policed.
 - **What fills the gap (purse and impeachment):** The appropriations power, since Lincoln promised to execute the laws "unless my rightful masters, the American people, shall withhold the requisite means." Impeachment, which Bates treats as the only remedy: the President is "responsible before the high court of impeachment, and before no other human tribunal."
 
 ## Exceptions
 
-- **Abdication:** A consciously and expressly adopted general policy of not enforcing a mandatory statute is reviewable and enjoinable; "[a] consistent failure to do so is a dereliction of duty reviewable in the courts" ([[Adams v. Richardson]]).
+- **Abdication:** A consciously and expressly adopted general policy of not enforcing a mandatory statute is reviewable and enjoinable; "[a] consistent failure to do so is a dereliction of duty reviewable in the courts" ([[Adams v. Richardson (1973)|Adams v. Richardson]]).
 - **Mandatory statutes that prescribe the means:** Where Congress says the agency "is authorized and directed to effectuate" the prohibition and lists the tools, voluntary compliance is a required first step, not a substitute. The agency's discretion is over sequencing, not over whether to act.
 - **Affirmative payment to the violators:** Even granting that resources make universal enforcement impossible, "it is quite another to say HEW may affirmatively continue to channel federal funds to defaulting schools."
 - **Constitutional objections to the statute:** [[Obama, Statement on H.R. 1473]] announced that "the executive branch will construe section 2262 not to abrogate these Presidential prerogatives," invoking the President's authority to supervise the executive branch, obtain advice, and "take care that the laws be faithfully executed." [[The Thompson Memo]] sets this ground apart from policy non-enforcement in its "But see" to the 1994 OLC opinion.
 - **Impossibility of execution:** [[Buchanan, Address to Congress]] argued the duty lapses where the machinery is gone: "We no longer have a district judge, a district attorney, or a marshal in South Carolina." [[Lincoln, First Inaugural Address]] conceded the offices — "there will be no attempt to force obnoxious strangers among the people" — while still holding federal property and collecting duties.
 - **Nothing left to execute:** [[Jefferson Davis, Farewell Address to the Senate]] claimed that "there are no laws of the United States to be executed within the limits of a seceded State." The claim holds only if secession was valid, and Lincoln's answer is that the ordinance is void, so the laws still run; see [[Nature of the Union - compact theory, nationalism and secession]].
-- **Take Care as a grant:** [[In re Neagle]] permits protective executive action with no statute, because otherwise the government would be "without the means of self-protection"; Miller's mails hypothetical shows the power is not confined to judges.
-- **Execution by state officers:** Congress may not route execution around the President by conscripting state officers. [[Printz v. United States]] holds that transferring execution to "thousands of CLEOs in the 50 States," acting "without meaningful Presidential control," shatters the unity the Take Care Clause presupposes; see [[State sovereignty and anti-commandeering - Tenth Amendment]].
-- **Not decided: whether the abdication rule reaches criminal non-enforcement.** [[Adams v. Richardson]] is a funding case; if its reasoning is limited to funding, it leaves the Cox line untouched.
+- **Take Care as a grant:** [[In re Neagle (1890)|In re Neagle]] permits protective executive action with no statute, because otherwise the government would be "without the means of self-protection"; Miller's mails hypothetical shows the power is not confined to judges.
+- **Execution by state officers:** Congress may not route execution around the President by conscripting state officers. [[Printz v. United States (1997)|Printz v. United States]] holds that transferring execution to "thousands of CLEOs in the 50 States," acting "without meaningful Presidential control," shatters the unity the Take Care Clause presupposes; see [[State sovereignty and anti-commandeering - Tenth Amendment]].
+- **Not decided: whether the abdication rule reaches criminal non-enforcement.** [[Adams v. Richardson (1973)|Adams v. Richardson]] is a funding case; if its reasoning is limited to funding, it leaves the Cox line untouched.
 - **Not decided: whether the Supreme Court accepts the abdication exception at all.** Heckler's footnote 4 and *United States v. Texas* (2023) reserved it; the Court has never applied it.
 - **Not decided: prospective class-wide deferred action.** The Fifth Circuit's injunction against DAPA was affirmed by an equally divided Court, 4–4, without opinion or precedential effect (*United States v. Texas*, 2016).
 
 ## Leading case
 
-[[United States v. Cox]]
+[[United States v. Cox (1965)|United States v. Cox]]
 
 - **Holding (signature):** A federal indictment is invalid without the government attorney's signature, and signing or withholding it cannot be compelled, "as an incident of the constitutional separation of powers." 4–3 on that question (Tuttle, Jones, Brown, Wisdom); Jones for the en banc Fifth Circuit (1965).
 - **Holding (drafting):** A different 4–3 majority (Brown plus Rives, Gewin and Bell) held that the U.S. Attorney could be compelled to draft the indictment. The contempt order was reversed only because Judge Cox's order was conjunctive — draft and sign — and Brown was the swing vote on both questions.
@@ -95,9 +95,9 @@ The President must enforce the laws and may not suspend a statute or excuse peop
 
 ## Best counter-case
 
-[[Adams v. Richardson]]
+[[Adams v. Richardson (1973)|Adams v. Richardson]]
 
-- **Distinguishing line:** Enforcement discretion becomes reviewable abdication when a statute commands enforcement by specified means and the executive adopts a general refusal to use them — worse still while paying the violators; a case-by-case choice inside a working program stays unreviewable under [[United States v. Cox|Cox]].
+- **Distinguishing line:** Enforcement discretion becomes reviewable abdication when a statute commands enforcement by specified means and the executive adopts a general refusal to use them — worse still while paying the violators; a case-by-case choice inside a working program stays unreviewable under [[United States v. Cox (1965)|Cox]].
 - **Holding:** Non-enforcement is reviewable where the agency has "consciously and expressly adopted a general policy which is in effect an abdication of its statutory duty"; the prosecutorial-discretion cases "do not support a claim to absolute discretion." Per curiam, en banc D.C. Circuit (1973).
 - **Driving facts, in the court's order:** Title VI "authorized and directed" enforcement and specified the means; the challenge was to a general policy rather than to particular decisions (introduced with "More significantly"); and HEW was paying segregated institutions.
 - **The narrow concession:** The court accepts the resource premise for prosecutors — "[i]t is one thing to say the Justice Department lacks the resources necessary to locate and prosecute every civil rights violator" — and refuses to extend it to a funding program.
@@ -112,7 +112,7 @@ The President must enforce the laws and may not suspend a statute or excuse peop
 
 - **"Cox has one holding."** There were two different 4–3 majorities: signing cannot be compelled, drafting can, and the order was reversed only because it required both. Getting the split wrong is the first cold-call trap.
 - **"Heckler v. Chaney holds that Article II confers absolute non-enforcement power."** [[Heckler v. Chaney]] is an APA presumption about reviewability, not a constitutional holding, and its footnote 4 preserves the Adams exception rather than burying it.
-- **"The Supreme Court has held wholesale non-enforcement unconstitutional."** [[Adams v. Richardson]] is a court of appeals decision on a funding program; the Supreme Court has repeatedly declined either to adopt or to reject the abdication exception.
+- **"The Supreme Court has held wholesale non-enforcement unconstitutional."** [[Adams v. Richardson (1973)|Adams v. Richardson]] is a court of appeals decision on a funding program; the Supreme Court has repeatedly declined either to adopt or to reject the abdication exception.
 - **"Ordinary prosecutorial discretion is a dispensing power."** A dispensation excuses an individual prospectively from obeying the law; declining to prosecute past conduct excuses no one in advance. The dispensation objection bites against prospective, class-wide assurances of forbearance, not against Cox.
-- **"A signing statement is a line-item veto."** A signing statement changes nothing in the law and a court remains free to disagree, unlike the cancellation in [[Clinton v. City of New York]]. The objection to [[Obama, Statement on H.R. 1473]] is the suspending-power objection, not [[Bicameralism and presentment - Art. I § 7]].
-- **"Trump v. United States blesses non-enforcement."** [[Trump v. United States]] holds that core prosecution and removal decisions cannot be criminally punished, not that any particular non-enforcement policy is lawful; the remaining check it contemplates is impeachment.
+- **"A signing statement is a line-item veto."** A signing statement changes nothing in the law and a court remains free to disagree, unlike the cancellation in [[Clinton v. City of New York (1998)]]. The objection to [[Obama, Statement on H.R. 1473]] is the suspending-power objection, not [[Bicameralism and presentment - Art. I § 7]].
+- **"Trump v. United States blesses non-enforcement."** [[Trump v. United States (2024)|Trump v. United States]] holds that core prosecution and removal decisions cannot be criminally punished, not that any particular non-enforcement policy is lawful; the remaining check it contemplates is impeachment.

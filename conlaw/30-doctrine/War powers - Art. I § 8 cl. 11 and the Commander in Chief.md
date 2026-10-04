@@ -22,7 +22,7 @@ last_drilled:
 
 ## Rule statement
 
-Congress decides whether the nation goes to war; the President, as Commander in Chief, conducts a war once begun and may use force without prior authorization to repel attacks. The Convention changed Congress's power to "make" war to "declare" war, "leaving to the Executive the power to repel sudden attacks" ([[Madison's Notes on the War Power]]). [[The Prize Cases]] state both halves: the President "has no power to initiate or declare a war," but when war is made on the nation he is "bound to accept the challenge without waiting for any special legislative authority." The War Powers Resolution codifies that division, but Presidents since [[Nixon, Veto of the War Powers Resolution|Nixon's veto]] have refused to concede its constitutionality. The contest is between the Convention's design, which most scholars read to give Congress the decision for war, and the executive's claim to engage "in more limited hostilities to advance the Nation's interests" without Congress ([[Modern Applications of the War Power]]).
+Congress decides whether the nation goes to war; the President, as Commander in Chief, conducts a war once begun and may use force without prior authorization to repel attacks. The Convention changed Congress's power to "make" war to "declare" war, "leaving to the Executive the power to repel sudden attacks" ([[Madison's Notes on the War Power]]). [[The Prize Cases (1863)|The Prize Cases]] state both halves: the President "has no power to initiate or declare a war," but when war is made on the nation he is "bound to accept the challenge without waiting for any special legislative authority." The War Powers Resolution codifies that division, but Presidents since [[Nixon, Veto of the War Powers Resolution|Nixon's veto]] have refused to concede its constitutionality. The contest is between the Convention's design, which most scholars read to give Congress the decision for war, and the executive's claim to engage "in more limited hostilities to advance the Nation's interests" without Congress ([[Modern Applications of the War Power]]).
 
 ## Elements
 
@@ -36,9 +36,9 @@ Congress decides whether the nation goes to war; the President, as Commander in 
    - *Not a decision by Congress:* appropriations (WPR § 8(a)(1)); a treaty not implemented by specific legislation (§ 8(a)(2)); U.N. Security Council approval, as in Korea.
 3. **If Congress has not decided, is the President repelling an attack?**
    - An attack on U.S. territory already under way: squarely within the carve-out.
-   - An attack on U.S. armed forces abroad: within the carve-out's logic, and WPR § 2(c)(3) says so expressly; the attack in [[The Prize Cases]] was at home.
+   - An attack on U.S. armed forces abroad: within the carve-out's logic, and WPR § 2(c)(3) says so expressly; the attack in [[The Prize Cases (1863)|The Prize Cases]] was at home.
    - An attack believed imminent: within the carve-out only if "repel" includes preempt, which the Convention debate does not settle.
-   - A strike to punish or deter after an attack has ended: no longer repelling, and outside [[The Prize Cases]].
+   - A strike to punish or deter after an attack has ended: no longer repelling, and outside [[The Prize Cases (1863)|The Prize Cases]].
 4. **If there is neither authorization nor attack, does Article II alone support the action?**
    - OLC's two-part test: whether "the President could reasonably determine that the action serves important national interests," and whether "the 'anticipated nature, scope and duration'" of the operation would fall short of "war under the Constitution."
    - OLC concedes that Congress decides "whether to commit the Nation to a sustained, full-scale conflict with another Nation."
@@ -47,7 +47,7 @@ Congress decides whether the nation goes to war; the President, as Commander in 
    - § 2(c): the President introduces forces into hostilities "only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces."
    - §§ 3–4: consult Congress "in every possible instance"; report within 48 hours.
    - § 5(b): terminate within sixty days of the report unless Congress declares war, specifically authorizes, extends the period by law, or cannot meet; thirty more days for safe withdrawal.
-   - § 5(c): removal "if the Congress so directs by concurrent resolution," which is invalid after [[INS v. Chadha]]; see [[Bicameralism and presentment - Art. I § 7]].
+   - § 5(c): removal "if the Congress so directs by concurrent resolution," which is invalid after [[INS v. Chadha (1983)]]; see [[Bicameralism and presentment - Art. I § 7]].
    - § 8(a): authority is not to be inferred from any law, "including any provision contained in an appropriation Act," or from any treaty, unless it says it is specific authorization under the Resolution.
    - § 8(c): the Resolution alters no one's "constitutional authority" and grants the President no authority "he would not have had in the absence of this joint resolution," so it cannot be read as a sixty-day license.
    - Nixon's objections: the clock and the concurrent resolution take "by a mere legislative act" powers exercised "for almost 200 years," and Congress should act by "positive action" rather than "handcuff every future President merely by doing nothing and sitting still."
@@ -73,7 +73,7 @@ Congress decides whether the nation goes to war; the President, as Commander in 
 
 ## Standard of review / burden
 
-- **Standard:** Courts defer on the factual predicate. Whether hostilities amount to war "is a question to be decided by him," the President, and the blockade proclamation is "official and conclusive evidence" of a state of war ([[The Prize Cases]]); *Ludecke v. Watkins* mirrors this at the other end, calling termination "a political act."
+- **Standard:** Courts defer on the factual predicate. Whether hostilities amount to war "is a question to be decided by him," the President, and the blockade proclamation is "official and conclusive evidence" of a state of war ([[The Prize Cases (1863)|The Prize Cases]]); *Ludecke v. Watkins* mirrors this at the other end, calling termination "a political act."
 - **Standard:** The deference runs to facts, not to the President's own view of the scope of his powers.
 - **Burden:** A President continuing hostilities against a statutory prohibition must show a conclusive and preclusive command power, and a power to continue a war is the least plausible candidate ([[Nixon, Veto of the War Powers Resolution]]).
 - **Not reviewed / political question:** The lower courts split. *Dellums v. Bush* (1990) held a Gulf War challenge unripe but not a political question, because the Constitution supplies a clear standard requiring congressional authorization; *Ange v. Bush* (1990) held the same dispute a political question.
@@ -85,13 +85,13 @@ Congress decides whether the nation goes to war; the President, as Commander in 
 ## Exceptions
 
 - **Repelling sudden attacks.** The carve-out the "declare" amendment was adopted to preserve, and the one uncontested unilateral power.
-- **Attacks on the armed forces abroad.** WPR § 2(c)(3) treats them as a basis for unilateral force; [[The Prize Cases]] support the result by analogy.
+- **Attacks on the armed forces abroad.** WPR § 2(c)(3) treats them as a basis for unilateral force; [[The Prize Cases (1863)|The Prize Cases]] support the result by analogy.
 - **Rescue of citizens.** The 1980 Iran raid is the strongest of the unauthorized episodes in [[Declarations of War]], because its objective was rescue rather than defeat of an enemy.
-- **Insurrection.** The Militia Acts of 1795 and 1807 authorize force against invasion and insurrection in advance, and Grier holds that Congress "cannot declare war against a State," so a declaration cannot be the test in a domestic rebellion ([[The Prize Cases]]).
+- **Insurrection.** The Militia Acts of 1795 and 1807 authorize force against invasion and insurrection in advance, and Grier holds that Congress "cannot declare war against a State," so a declaration cannot be the test in a domestic rebellion ([[The Prize Cases (1863)|The Prize Cases]]).
 - **Insurrection as law execution.** [[Lincoln, First Inaugural Address]] treats force against secession as executing the laws against individuals; [[Buchanan, Address to Congress]] says no enumerated power authorizes war on a State; [[Jefferson Davis, Farewell Address to the Senate]] says "there are no laws of the United States to be executed within the limits of a seceded State." See [[Nature of the Union - compact theory, nationalism and secession]].
 - **Ratification after the fact.** Congress's 1861 acts approved Lincoln's measures as if taken under "previous express authority"; Grier uses this as a fallback, and Nelson refuses to apply it to captures already made.
 - **Covert action.** The Intelligence Authorization Act of 1991 permits covert action on a written presidential finding within 48 hours, reported to the intelligence committees; it supplies a framework without deciding whether covert lethal force is war.
-- **Lincoln's other 1861 measures.** Suspension of habeas corpus without Congress is tested in [[Ex parte Merryman]] and [[Bates, Opinion on the Suspension of Habeas Corpus]]; see [[Suspension of habeas corpus - Art. I § 9 cl. 2]].
+- **Lincoln's other 1861 measures.** Suspension of habeas corpus without Congress is tested in [[Ex parte Merryman (1861)|Ex parte Merryman]] and [[Bates, Opinion on the Suspension of Habeas Corpus]]; see [[Suspension of habeas corpus - Art. I § 9 cl. 2]].
 - **Not decided: anticipatory self-defense.** Whether "repel" reaches an attack believed imminent.
 - **Not decided: the reach of the 2001 AUMF.** Whether it covers groups with no connection to September 11.
 - **Not decided: whether the 60-day clock binds.** Whether § 5(b) binds a President who claims an independent Article II power.
@@ -99,7 +99,7 @@ Congress decides whether the nation goes to war; the President, as Commander in 
 
 ## Leading case
 
-[[The Prize Cases]]
+[[The Prize Cases (1863)|The Prize Cases]]
 
 - **Holding:** 5–4, Grier for the Court. A civil war "is never solemnly declared; it becomes such by its accidents," so the President could institute a blockade of rebel ports "which neutrals are bound to regard" before Congress acted.
 - **Driving fact:** The South attacked Fort Sumter, so the war was thrust on the government; Grier's premise that the President "has no power to initiate or declare a war" would have cut the other way had Lincoln begun it.
@@ -118,7 +118,7 @@ Congress decides whether the nation goes to war; the President, as Commander in 
 - **Argue for the executive:** Two centuries of limited unilateral force, "quite literally running from the halls of Montezuma to the shores of Tripoli and beyond," with Congress funding the military and rarely objecting, is Frankfurter's historical gloss applied to war. Goldsmith's "That is our system: One person decides" describes the practice.
 - **Argue for the executive:** Yoo reads "declare" as formal recognition of a state of war that triggers its legal incidents, leaving the President power to wage undeclared war limited only by the purse; Sherman's worry that "declare" narrowed Congress's power "too much" is the textual hook ([[Madison's Notes on the War Power]]).
 - **Argue against:** A gloss requires a practice the other branch never questioned, and Congress questioned this one in the War Powers Resolution, passed over a veto. Liquidation settles ambiguous text, and OLC's own concession about sustained conflict shows the text is not ambiguous about who decides. Many of OLC's precedents are OLC opinions, evidence of the executive's claims rather than of acquiescence.
-- **Argue against the test itself:** Nothing in the Convention's sense of war turns on the means, since a naval blockade was the belligerent act in [[The Prize Cases]]. A test keyed to "anticipated" duration makes the constitutional line depend on the President's prediction, when "[a] brief and tidy operation can grow into something big."
+- **Argue against the test itself:** Nothing in the Convention's sense of war turns on the means, since a naval blockade was the belligerent act in [[The Prize Cases (1863)|The Prize Cases]]. A test keyed to "anticipated" duration makes the constitutional line depend on the President's prediction, when "[a] brief and tidy operation can grow into something big."
 - **Synthesis:** Practice has plausibly settled a narrow category of brief, limited strikes and rescues, but not unilateral initiation of sustained hostilities; a months-long air campaign triggers OLC's own reservation for "prolonged and substantial engagements" and the 60-day clock.
 - **Statutory escape route:** The Soleimani strike was also defended under the 2002 Iraq AUMF, an argument that "would sidestep the constitutional question" by moving the case to category one. The National Defense Authorization Act for Fiscal Year 2026 repealed the 1991 and 2002 Iraq authorizations.
 
@@ -129,6 +129,6 @@ Congress decides whether the nation goes to war; the President, as Commander in 
 - **"The Prize Cases approve unilateral presidential war."** Grier says the opposite: "He has no power to initiate or declare a war." The holding is a power to respond to force already used against the nation.
 - **"Only a formal declaration authorizes war."** The Convention placed the decision in Congress, not a form of words; only five wars have been formally declared, and a specific statutory authorization is Congress's decision.
 - **"Continued appropriations authorize the war."** WPR § 8(a)(1) forbids the inference, the Kosovo supplemental is the standard trap fact, and the Declare War Clause would do no work beyond the Appropriations Clause if funding counted.
-- **"Congress can end a war by concurrent resolution under § 5(c)."** After [[INS v. Chadha]] a removal resolution must be presented to the President, which is why the 2020 Iran resolution was vetoed. Congress's real tools are a two-thirds majority in each House or a funding cutoff; repeal alone left Nixon fighting in Vietnam.
+- **"Congress can end a war by concurrent resolution under § 5(c)."** After [[INS v. Chadha (1983)]] a removal resolution must be presented to the President, which is why the 2020 Iran resolution was vetoed. Congress's real tools are a two-thirds majority in each House or a funding cutoff; repeal alone left Nixon fighting in Vietnam.
 - **"The Emancipation Proclamation shows the Commander in Chief may seize property generally."** It was expressly "a fit and necessary war measure," it freed no one in the loyal border States or in areas under Union control, and the 1862 statutes put it nearer category one than its recital suggests; its territorial limits are what make the war-measure theory work.
 - **"The Commander in Chief's control of the conduct of war is exclusive."** The Captures Clause and the power to make rules for the forces are express congressional powers over the same subject, so a statute banning the reprisal in [[Lincoln, Order of Retaliation]] would be strong and the President's counterclaim weak.

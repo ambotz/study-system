@@ -23,7 +23,7 @@ Under the Administrative Procedure Act, an agency's refusal to bring enforcement
 - **The challenge was to a refusal to act, not to an enforcement action.** *An agency that refuses to act "generally does not exercise its coercive power over an individual's liberty or property rights," and leaves no action to serve as "a focus for judicial review."*
 - **The claim arose under the APA, whose § 701(a)(2) excepts action "committed to agency discretion" from review.** *The holding is a reading of that exception, not a ruling that Article II makes non-enforcement unreviewable; the Take Care Clause is one supporting reason among several.*
 - **The FDA's refusal did not rest solely on a belief that it lacked jurisdiction.** *Footnote 4 reserves a refusal of that kind.*
-- **Nothing suggested that the FDA had "consciously and expressly adopted a general policy" amounting to "an abdication of its statutory responsibilities."** *Footnote 4 reserves that situation too, citing [[Adams v. Richardson]].*
+- **Nothing suggested that the FDA had "consciously and expressly adopted a general policy" amounting to "an abdication of its statutory responsibilities."** *Footnote 4 reserves that situation too, citing [[Adams v. Richardson (1973)|Adams v. Richardson]].*
 
 ## Court Ruling
 
@@ -43,7 +43,7 @@ Under the Administrative Procedure Act, an agency's refusal to bring enforcement
 
 ## Context
 
-Heckler is the Supreme Court's answer, twelve years later, to the question [[Adams v. Richardson]] raised: whether courts may review an agency's failure to act. Its footnote 4 is how Adams survives. Heckler carries the charging-discretion principle of [[United States v. Cox]] into civil agency enforcement, by analogy to the prosecutor's decision not to indict. [[The Thompson Memo]] builds most of its framework on Heckler: its first principle (factors "peculiarly within [the enforcing agency's] expertise") and its third (no abdication, from footnote 4) come from the opinion, and its fourth (case-by-case decisions are the most comfortably unreviewable) comes from lower courts "following Chaney."
+Heckler is the Supreme Court's answer, twelve years later, to the question [[Adams v. Richardson (1973)|Adams v. Richardson]] raised: whether courts may review an agency's failure to act. Its footnote 4 is how Adams survives. Heckler carries the charging-discretion principle of [[United States v. Cox (1965)|United States v. Cox]] into civil agency enforcement, by analogy to the prosecutor's decision not to indict. [[The Thompson Memo]] builds most of its framework on Heckler: its first principle (factors "peculiarly within [the enforcing agency's] expertise") and its third (no abdication, from footnote 4) come from the opinion, and its fourth (case-by-case decisions are the most comfortably unreviewable) comes from lower courts "following Chaney."
 
 Heckler is a statutory holding about reviewability, not a holding that Article II confers absolute non-enforcement power; see [[Enforcement discretion - Art. II § 3 Take Care]]. After the casebook, *United States v. Texas* (2023) repeated Heckler's abdication language while noting that the States had not made an abdication argument, so the exception remains reserved at the Supreme Court.
 

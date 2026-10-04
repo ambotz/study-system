@@ -31,9 +31,9 @@ A short essay by Jud Campbell, a legal historian of the founding era, published 
 - **Mapping the Bank Debate onto the four views.** Campbell names Jefferson's, Madison's and Marshall's views; the mapping below applies his framework and should be tested in class.
   - *Jefferson's opinion* rests on the Tenth Amendment and reads "necessary" as indispensable. That is the strict construction the law-of-nations rule demands of a compact among sovereigns: nothing passes unless granted "in clear and express terms."
   - *Madison's speech* sits in the middle. He takes a strict view of enumeration but accepts incidental means, which fits a "reasonable medium" between the strictness of a penal law and "laxity." His later acceptance of the Bank by practice fits the same middle position.
-  - *Hamilton's opinion* treats every federal power as "in its nature sovereign" and reasons from "the very definition of Government." That is nationalist reasoning, and closer to Marshall's view in [[McCulloch v. Maryland]] than to Jefferson's.
+  - *Hamilton's opinion* treats every federal power as "in its nature sovereign" and reasons from "the very definition of Government." That is nationalist reasoning, and closer to Marshall's view in [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] than to Jefferson's.
 - **Why this matters for McCulloch.** Maryland's argument there is compact theory: the states made the Constitution and remain sovereign. Marshall answers with 1787 nationalism: the people made it, through state conventions. On Campbell's thesis, the dispute over "necessary" follows from the dispute over sovereignty, not the other way round.
-- **Where the views lead.** Compact theory leads to nullification and secession ([[Buchanan, Address to Congress]], [[Jefferson Davis, Farewell Address to the Senate]]). The nationalist views lead to [[Lincoln, First Inaugural Address|Lincoln's]] claim that the Union is older than the Constitution, which is Wilson's 1776 position, and to [[Texas v. White]]. Wilson's opinion in *Chisholm v. Georgia* (1793) is the judicial high-water mark of 1776 nationalism.
+- **Where the views lead.** Compact theory leads to nullification and secession ([[Buchanan, Address to Congress]], [[Jefferson Davis, Farewell Address to the Senate]]). The nationalist views lead to [[Lincoln, First Inaugural Address|Lincoln's]] claim that the Union is older than the Constitution, which is Wilson's 1776 position, and to [[Texas v. White (1869)|Texas v. White]]. Wilson's opinion in *Chisholm v. Georgia* (1793) is the judicial high-water mark of 1776 nationalism.
 - **Critique.** If interpretation depends on a prior theory of sovereignty, text alone cannot settle federalism cases, and originalists must first decide which founding theory of the Union counts. Modern doctrine mostly avoids the question. *Term Limits* (1995) is the rare case where the Justices argued about it openly: the majority took a nationalist view, and Justice Thomas's dissent a compact view.
 
 ## Where it goes
@@ -41,6 +41,6 @@ A short essay by Jud Campbell, a legal historian of the founding era, published 
 - [[Nature of the Union - compact theory, nationalism and secession]] — the four views are the module's organizing scheme.
 - [[Enumerated powers and the Necessary and Proper Clause - Art. I § 8 cl. 18]] — strict versus liberal construction as a consequence of the theory of sovereignty.
 - [[The Bank Debate]] — Jefferson, Madison and Hamilton applying their views of the Union.
-- [[McCulloch v. Maryland]] — Marshall's 1787 nationalism against Maryland's compact theory.
-- [[Texas v. White]] — the post-war judicial answer on secession.
+- [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] — Marshall's 1787 nationalism against Maryland's compact theory.
+- [[Texas v. White (1869)|Texas v. White]] — the post-war judicial answer on secession.
 - [[Modes of constitutional argument]] — theory of sovereignty as a premise of interpretation.

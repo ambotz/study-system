@@ -13,7 +13,7 @@ last_drilled:
 
 ## Rule statement
 
-Congress may not single out particular people and punish them by statute instead of leaving guilt and punishment to a court. The Clause reaches "legislative acts, no matter what their form, that apply either to named individuals or to easily ascertainable members of a group in such a way as to inflict punishment on them without a judicial trial" ([[United States v. Lovett]], building on *Cummings v. Missouri*). Form does not matter, so a pay cutoff that permanently bars named employees from government service is an attainder. The contest is Frankfurter's concurrence: the Clause is "defined by history," a historical bill of attainder specified an offense and declared guilt, and § 304 did neither on its face.
+Congress may not single out particular people and punish them by statute instead of leaving guilt and punishment to a court. The Clause reaches "legislative acts, no matter what their form, that apply either to named individuals or to easily ascertainable members of a group in such a way as to inflict punishment on them without a judicial trial" ([[United States v. Lovett (1946)]], building on *Cummings v. Missouri*). Form does not matter, so a pay cutoff that permanently bars named employees from government service is an attainder. The contest is Frankfurter's concurrence: the Clause is "defined by history," a historical bill of attainder specified an offense and declared guilt, and § 304 did neither on its face.
 
 ## Elements
 
@@ -56,12 +56,12 @@ Congress may not single out particular people and punish them by statute instead
 - **Defunding an office rather than a person.** Section 2262 of the 2011 appropriations act defunded several positions advising the President, and the objection raised against it was separation of powers, not attainder ([[Obama, Statement on H.R. 1473]]).
 - **Naming one person without punishing.** Specificity is necessary but not sufficient; the statute aimed at one former President's papers was upheld in *Nixon v. Administrator of General Services*, a case outside the casebook excerpt.
 - **Not decided: removal and due process.** Lovett rested on attainder alone and did not reach whether § 304 usurped the President's removal power or denied due process; Frankfurter notes that even a mere stoppage of disbursement raises the question "whether Congress can treat three employees of the Government differently from all others." See [[Removal - Art. II § 1 and the Humphrey's exception]].
-- **Not decided: a private bill against a named alien.** The Chadha majority says the House's result "could have been achieved, if at all, only by legislation requiring deportation," and Powell's concurrence treats Congress's deciding the case of six named people as a "judicial function"; the words "if at all" leave room for an attainder objection to such a bill ([[INS v. Chadha]]; [[Bicameralism and presentment - Art. I § 7]]).
+- **Not decided: a private bill against a named alien.** The Chadha majority says the House's result "could have been achieved, if at all, only by legislation requiring deportation," and Powell's concurrence treats Congress's deciding the case of six named people as a "judicial function"; the words "if at all" leave room for an attainder objection to such a bill ([[INS v. Chadha (1983)]]; [[Bicameralism and presentment - Art. I § 7]]).
 - **Not resolved: the original meaning.** Whether Frankfurter's historical test (a specified offense plus a declaration of guilt) or Black's purpose-and-effect test states the Clause's meaning is open; the Court answered Frankfurter with *Cummings* and *Garland*, not with history.
 
 ## Leading case
 
-[[United States v. Lovett]]
+[[United States v. Lovett (1946)]]
 
 - **Holding:** Section 304 of the Urgent Deficiency Appropriation Act of 1943, cutting off the pay of three named federal employees unless the President reappointed them with the Senate's consent, is a bill of attainder; the Court affirmed the Court of Claims judgments for the three.
 - **Votes:** Black wrote for the Court; Frankfurter, joined by Reed, concurred only in the judgment on the narrow statutory reading; Jackson took no part; there was no dissent.
@@ -78,9 +78,9 @@ Congress may not single out particular people and punish them by statute instead
 - **Distinguishing line:** A funding bar aimed at positions, with no legislative finding of guilt, raises a separation-of-powers question rather than an attainder question; a funding bar aimed at named people on a record of legislative findings of disloyalty is an attainder.
 - **The collision:** Congress used an appropriations rider against the executive in 2011, as in 1943, but no one claimed attainder, which tests how much work the Clause actually does.
 - **Driving fact:** Section 2262 withheld funds for several positions advising the President directly, not for identified individuals, and carried no finding of guilt or unfitness, so Obama objected under the President's "well-established authority to supervise and oversee the executive branch, and to obtain advice."
-- **Argue for attainder anyway:** If a position is defunded in order to remove the person holding it, [[United States v. Lovett]] looks at purpose and effect rather than form, and a legislative record could supply the same proof the subcommittee's findings supplied in 1943.
+- **Argue for attainder anyway:** If a position is defunded in order to remove the person holding it, [[United States v. Lovett (1946)]] looks at purpose and effect rather than form, and a legislative record could supply the same proof the subcommittee's findings supplied in 1943.
 - **Argue against attainder:** A funding denial is the ordinary operation of the Appropriations Clause, no one has a constitutional right to be paid from the Treasury, and on Frankfurter's historical test there is no specified offense and no declaration of guilt.
-- **Remedial asymmetry:** Obama announced that "the executive branch will construe section 2262 not to abrogate these Presidential prerogatives," which is category three in [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]], and even a void restriction creates no appropriation. Roosevelt's path in Lovett was different: sign, object, comply, and let the injured employees sue. See [[Presidential power - Art. II and the Youngstown categories]] and [[Enforcement discretion - Art. II § 3 Take Care]].
+- **Remedial asymmetry:** Obama announced that "the executive branch will construe section 2262 not to abrogate these Presidential prerogatives," which is category three in [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]], and even a void restriction creates no appropriation. Roosevelt's path in Lovett was different: sign, object, comply, and let the injured employees sue. See [[Presidential power - Art. II and the Youngstown categories]] and [[Enforcement discretion - Art. II § 3 Take Care]].
 
 ## Professor gloss
 

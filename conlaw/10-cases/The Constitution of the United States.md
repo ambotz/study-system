@@ -19,7 +19,7 @@ The exam is closed-book and there are no devices in class, so the text has to be
 
 ## What to notice
 
-- **Preamble.** "We the People of the United States . . . do ordain and establish this Constitution." The source of authority, and Gorsuch's starting point in [[Gundy v. United States|Gundy]] (Class 3).
+- **Preamble.** "We the People of the United States . . . do ordain and establish this Constitution." The source of authority, and Gorsuch's starting point in [[Gundy v. United States (2019)|Gundy]] (Class 3).
 - **Art. I, § 1: legislative vesting.** "All legislative Powers **herein granted** shall be vested in a Congress." Enumeration and nondelegation (Class 3).
 	- Herein granted = limited powers enumerated below...
 - **Art. I, § 7: bicameralism and presentment.** Revenue bills originate in the House; every bill passes both houses and is presented to the President; veto and two-thirds override (Class 4).

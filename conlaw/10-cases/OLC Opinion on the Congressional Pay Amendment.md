@@ -15,7 +15,7 @@ read_for: null
 
 *Congressional Pay Amendment*, 16 Op. O.L.C. 85 (Nov. 2, 1992), a memorandum opinion for the Counsel to the President signed by Timothy E. Flanigan, Acting Assistant Attorney General, Office of Legal Counsel. It memorializes the advice on which Archivist Don W. Wilson certified the Twenty-seventh Amendment, and it concludes two things: the Congressional Pay Amendment was validly ratified despite 203 years, and the Archivist was required to certify it under 1 U.S.C. § 106b without waiting for Congress.
 
-The casebook prints it directly after [[Dillon v. Gloss]], and the pairing is the assignment: an executive-branch opinion telling the Supreme Court it was wrong, acted on, and never tested in court.
+The casebook prints it directly after [[Dillon v. Gloss (1921)|Dillon v. Gloss]], and the pairing is the assignment: an executive-branch opinion telling the Supreme Court it was wrong, acted on, and never tested in court.
 
 ## What to notice
 
@@ -38,7 +38,7 @@ The casebook prints it directly after [[Dillon v. Gloss]], and the pairing is th
 ## Where it goes
 
 - [[Amendment process - Art. V]] — the executive branch's position on deadlines and on who certifies.
-- [[Dillon v. Gloss]] — the opinion this one attacks, printed just before it.
+- [[Dillon v. Gloss (1921)|Dillon v. Gloss]] — the opinion this one attacks, printed just before it.
 - [[The Congressional Pay Amendment]] — the ratification history the opinion blesses.
 - [[The Equal Rights Amendment]] — the same three questions, unresolved, with the Archivist again at the centre.
 - [[Judicial supremacy and departmentalism - Art. VI oath]] — an executive officer declining to follow a Supreme Court rationale, and acting on it. Read with [[Jackson, Veto Message on the Bank]] and [[The Lincoln-Douglas Debates]].

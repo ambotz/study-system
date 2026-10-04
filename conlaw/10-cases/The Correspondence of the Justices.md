@@ -43,7 +43,7 @@ The casebook assigns the exchange as "a paradigm case of what is forbidden by Ar
 - [[Judicial review - Art. III and the Supremacy Clause]] — review exists only as part of deciding cases, which the Justices here refused to go beyond.
 - [[Separation of powers - vesting clauses and checks and balances]] — the Justices' first ground; the rejected Council of Revision.
 - [[Tocqueville on the American Judiciary]] — the theory behind the refusal: a judge who "pronounces upon a law without resting upon a case" invades the legislative sphere.
-- [[Marbury v. Madison]] — judicial review justified as a by-product of deciding a case; the correspondence supplies the case requirement Marbury assumes.
-- [[Ex parte Levitt]] and [[Massachusetts v. Mellon; Frothingham v. Mellon]] — the same requirement, restated a century later as standing.
+- [[Marbury v. Madison (1803)|Marbury v. Madison]] — judicial review justified as a by-product of deciding a case; the correspondence supplies the case requirement Marbury assumes.
+- [[Ex parte Levitt (1937)|Ex parte Levitt]] and [[Massachusetts v. Mellon; Frothingham v. Mellon (1923)|Massachusetts v. Mellon; Frothingham v. Mellon]] — the same requirement, restated a century later as standing.
 - [[A Map of Article III]] — the text of Article III, § 2 that the exchange construes.
 - [[Bates, Opinion on the Suspension of Habeas Corpus]] — an Attorney General's opinion under the Opinion Clause system the Justices pointed to.

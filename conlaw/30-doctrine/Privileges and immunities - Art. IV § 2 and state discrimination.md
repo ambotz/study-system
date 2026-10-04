@@ -15,15 +15,15 @@ last_drilled:
 
 ## Rule statement
 
-A state may not treat citizens of other states worse than its own citizens in the basic civil rights of citizenship, but it need not share its political rights or its common property with them, and it may restrict any activity for everyone alike. [[Corfield v. Coryell]] confines the clause to privileges "which are, in their nature, fundamental; which belong, of right, to the citizens of all free governments." The casebook states the modern principle as a ban on discrimination against out-of-state citizens "except with respect to political rights and state resources which are jointly owned by in-state citizens." Modern doctrine adds a second step: if the right is protected, the state must show a substantial reason for treating nonresidents differently and a close relation between the discrimination and that reason. The contest is over what [[Corfield v. Coryell|Corfield]] actually decided. Its famous catalogue is dictum, its holding is a common-property exception that later cases cut back, and the Fourteenth Amendment's framers borrowed its catalogue for the different job of securing rights against a citizen's own state.
+A state may not treat citizens of other states worse than its own citizens in the basic civil rights of citizenship, but it need not share its political rights or its common property with them, and it may restrict any activity for everyone alike. [[Corfield v. Coryell (1823)|Corfield v. Coryell]] confines the clause to privileges "which are, in their nature, fundamental; which belong, of right, to the citizens of all free governments." The casebook states the modern principle as a ban on discrimination against out-of-state citizens "except with respect to political rights and state resources which are jointly owned by in-state citizens." Modern doctrine adds a second step: if the right is protected, the state must show a substantial reason for treating nonresidents differently and a close relation between the discrimination and that reason. The contest is over what [[Corfield v. Coryell (1823)|Corfield]] actually decided. Its famous catalogue is dictum, its holding is a common-property exception that later cases cut back, and the Fourteenth Amendment's framers borrowed its catalogue for the different job of securing rights against a citizen's own state.
 
 ## Elements
 
 1. **Is the claimant a citizen of another state?**
    - The clause protects "[t]he Citizens of each State," so a corporation or trade association is outside it (*Paul v. Virginia*) and must sue under [[Dormant Commerce Clause - Art. I § 8 cl. 3 and state discrimination|the dormant Commerce Clause]].
-   - The citizenship question once did real work. The casebook reads Taney's holding in [[Dred Scott v. Sandford]] as driven by his refusal to let free Black citizens claim Article IV privileges in other states; see [[Territories and citizenship - Art. IV § 3 and Dred Scott]].
+   - The citizenship question once did real work. The casebook reads Taney's holding in [[Dred Scott v. Sandford (1857)|Dred Scott v. Sandford]] as driven by his refusal to let free Black citizens claim Article IV privileges in other states; see [[Territories and citizenship - Art. IV § 3 and Dred Scott]].
 2. **Does the law draw its line by state citizenship or residence?**
-   - A prohibition addressed to "[n]o person residing in, or out of this state" raises no claim. In [[Corfield v. Coryell|Corfield]] only the sixth section of New Jersey's act, keyed to "actual inhabitant and resident," was even arguable.
+   - A prohibition addressed to "[n]o person residing in, or out of this state" raises no claim. In [[Corfield v. Coryell (1823)|Corfield]] only the sixth section of New Jersey's act, keyed to "actual inhabitant and resident," was even arguable.
    - A city's residency preference counts: *United Building & Construction Trades Council v. Mayor and Council of Camden* (1984) applied the clause to a municipal hiring ordinance.
    - Discrimination against a state's own new residents by length of residence routes to the right to travel: *Saenz v. Roe* (1999) relied partly on Article IV and partly on the Fourteenth Amendment.
 3. **Is the interest a protected civil privilege?**
@@ -45,25 +45,25 @@ A state may not treat citizens of other states worse than its own citizens in th
 
 ## Standard of review / burden
 
-- **Burden at step one:** the claimant must show a line drawn by citizenship or residence and a protected privilege. [[Corfield v. Coryell|Corfield]] never reaches justification, because the classification of oyster beds as common property ends the case.
+- **Burden at step one:** the claimant must show a line drawn by citizenship or residence and a protected privilege. [[Corfield v. Coryell (1823)|Corfield]] never reaches justification, because the classification of oyster beds as common property ends the case.
 - **Burden at step two:** the state must supply a substantial reason and a close fit. In *Piper* the Court found none of New Hampshire's reasons "substantial enough to justify discrimination against nonresidents."
 - **Deference within step two:** the clause, "like many other constitutional provisions, . . . is not an absolute," and a state has "considerable leeway in analyzing local evils and in prescribing appropriate cures" (*Camden*, quoting earlier cases).
 - **Thin record:** a court may remand rather than decide; *Camden* found it "impossible to evaluate Camden's justification on the record as it now stands."
-- **Comparison with the dormant Commerce Clause:** after [[National Pork Producers Council v. Ross]], a court reviewing a nondiscriminatory state law proceeds with "extreme caution," treating invalidation as "a matter of 'extreme delicacy'" done only "where the infraction is clear." Article IV's step two is the stricter test, so a natural person facing a citizenship line should plead Article IV first.
+- **Comparison with the dormant Commerce Clause:** after [[National Pork Producers Council v. Ross (2023)|National Pork Producers Council v. Ross]], a court reviewing a nondiscriminatory state law proceeds with "extreme caution," treating invalidation as "a matter of 'extreme delicacy'" done only "where the infraction is clear." Article IV's step two is the stricter test, so a natural person facing a citizenship line should plead Article IV first.
 
 ## Exceptions
 
-- **Common property:** [[Corfield v. Coryell|Corfield]]'s holding lets a state reserve an unappropriated fishery in its waters to residents, because otherwise the beds "might be totally exhausted and destroyed." After *Toomer*, the exception survives mainly for recreational uses.
+- **Common property:** [[Corfield v. Coryell (1823)|Corfield]]'s holding lets a state reserve an unappropriated fishery in its waters to residents, because otherwise the beds "might be totally exhausted and destroyed." After *Toomer*, the exception survives mainly for recreational uses.
 - **Recreational access:** *Baldwin* sustained higher nonresident elk-hunting fees, which is Corfield's oyster bed in modern dress. Commercial livelihoods and professional licensure sit on the other side of the line.
 - **Political rights:** the franchise, office-holding and jury service may be reserved to the state's own citizens.
 - **Corporations and associations:** a corporation is not a "Citizen" for this clause, which is why the pork producers' challenge had to be brought under the Commerce Clause.
 - **Evenhanded prohibitions:** nothing stopped New Jersey from closing the oyster beds to everyone, as the first and second sections of the same act did. The clause polices the line between citizens and outsiders, not the restriction itself.
 - **Not decided: whether practicing law is a civil or a political right.** The casebook notes that "a state's lawyers are officers of the state courts," so a bar-residency rule might be defended like jury service, against *Piper*'s treatment of practice as a protected livelihood.
-- **Not decided: whether the antidiscrimination principle belongs in Article IV rather than the dormant Commerce Clause.** [[National Pork Producers Council v. Ross|Pork Producers]] notes that some Justices think the principle "may be more appropriately housed elsewhere in the Constitution" and declines to decide.
+- **Not decided: whether the antidiscrimination principle belongs in Article IV rather than the dormant Commerce Clause.** [[National Pork Producers Council v. Ross (2023)|Pork Producers]] notes that some Justices think the principle "may be more appropriately housed elsewhere in the Constitution" and declines to decide.
 
 ## Leading case
 
-[[Corfield v. Coryell]]
+[[Corfield v. Coryell (1823)|Corfield v. Coryell]]
 
 - **Holding:** New Jersey could forfeit a Philadelphia-owned sloop, the Hiram, for dredging oysters in Maurice River Cove, because a share in the state's common property is not a privilege or immunity the clause protects.
 - **Driving fact:** oysters are stationary and lie in the water and soil of the state, so the citizens "may be considered as tenants in common of this property," and New Jersey's exclusive right "has never been ceded by that state, in express terms, to the United States."
@@ -75,7 +75,7 @@ A state may not treat citizens of other states worse than its own citizens in th
 
 ## Best counter-case
 
-[[National Pork Producers Council v. Ross]]
+[[National Pork Producers Council v. Ross (2023)|National Pork Producers Council v. Ross]]
 
 - **Distinguishing line:** Article IV § 2 applies when a state draws a line by citizenship or residence against a natural person in a protected privilege; a law that burdens outsiders only in practical effect, or burdens only firms, goes to the dormant Commerce Clause, where it survives absent purposeful discrimination.
 - **Holding:** California may condition the in-state sale of pork on how the pigs were confined elsewhere, and absent purposeful discrimination there is no "almost per se" rule against state laws with the "practical effect of controlling" out-of-state conduct.
@@ -84,15 +84,15 @@ A state may not treat citizens of other states worse than its own citizens in th
 - **Argue for the state:** "many (maybe most) state laws have the 'practical effect of controlling' extraterritorial behavior." If market size mattered, smaller states would get more regulatory power: "So much for the Constitution's 'fundamental principle of equal sovereignty among the States.'"
 - **The reductio:** on the dissent's view, "all it would take is one complaint from an unhappy out-of-state producer and—presto—the Constitution would protect the sale of horsemeat."
 - **Different interests protected:** Article IV § 2 protects citizens; the dormant Commerce Clause protects "the interstate market . . . from prohibitive or burdensome regulations," not "particular . . . firms" or "particular structure[s] or methods of operation." The Syllabus cites the two together: "U. S. Const., Art. I, §8, cl. 3; Art. IV, §2."
-- **The same plaintiff losing twice:** [[Corfield v. Coryell|Corfield]] also rejected a dormant commerce claim, in a paragraph the casebook replaces with a cross-reference to [[Gibbons v. Ogden]].
+- **The same plaintiff losing twice:** [[Corfield v. Coryell (1823)|Corfield]] also rejected a dormant commerce claim, in a paragraph the casebook replaces with a cross-reference to [[Gibbons v. Ogden]].
 
 ## Professor gloss
 
 ## Common trap
 
-- **"Corfield held that the listed rights are protected."** The catalogue is dictum. [[Corfield v. Coryell|Corfield]] lists nothing resembling oyster-raking and decides the case by holding the activity outside the clause.
+- **"Corfield held that the listed rights are protected."** The catalogue is dictum. [[Corfield v. Coryell (1823)|Corfield]] lists nothing resembling oyster-raking and decides the case by holding the activity outside the clause.
 - **"The visitor carries home-state rights into the host state."** The clause equalizes; it does not transport. "A Minnesota fishing license is not good in Wisconsin," and in *Lemmon v. The People* the clause required New York to give Virginians only the rights it gave New Yorkers.
 - **"Article IV § 2 and the Fourteenth Amendment's Privileges or Immunities Clause are the same clause."** Article IV secures a visitor equal treatment in another state; the Fourteenth Amendment clause was meant to secure rights against a citizen's own state and was read down in the *Slaughter-House Cases* (1873). The framers of that clause borrowed a passage that was dictum in a case upholding a discriminatory law.
 - **"State ownership of a resource is a trump."** That was Washington's rationale, and after *Toomer* it no longer carries commercial activity; the question is whether the state has a substantial reason, closely related, for treating nonresidents worse.
-- **"A corporate client can sue under Article IV § 2."** A corporation is not a citizen for this clause. The claim must be recast under the Commerce Clause, where after [[National Pork Producers Council v. Ross|Pork Producers]] a nondiscriminatory law is very hard to attack.
+- **"A corporate client can sue under Article IV § 2."** A corporation is not a citizen for this clause. The claim must be recast under the Commerce Clause, where after [[National Pork Producers Council v. Ross (2023)|Pork Producers]] a nondiscriminatory law is very hard to attack.
 - **"A heavier practical burden on outsiders states a claim under either clause."** Article IV asks about a citizenship line in a protected privilege and applies the stricter substantial-reason test. The dormant Commerce Clause asks about purposeful discrimination against the interstate market, and harm to producers' "methods of operation" is not a cognizable burden: "[t]hat goes for pigs no less than gas stations."

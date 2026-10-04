@@ -16,7 +16,7 @@ last_drilled:
 
 ## Rule statement
 
-An amendment becomes part of the Constitution when Congress or a convention proposes it and three-fourths of the states ratify it by the mode Congress chooses; the President plays no part. Ratification runs through state legislatures or state conventions, "whichever method Congress chooses in the particular case" ([[The Congressional Pay Amendment]]). On timing, [[Dillon v. Gloss]] holds that ratification must come "within some reasonable time after the proposal," and that Congress may fix a definite period. The Hughes opinion in [[Coleman v. Miller]] called Dillon's reasoning dictum and left lapse of time to Congress, without a controlling majority. The live contest is Dillon's implied-consensus reading against the executive branch's conclusion that Article V "contains no time limits for ratification," on which the Twenty-seventh Amendment was certified 203 years after proposal ([[OLC Opinion on the Congressional Pay Amendment]]).
+An amendment becomes part of the Constitution when Congress or a convention proposes it and three-fourths of the states ratify it by the mode Congress chooses; the President plays no part. Ratification runs through state legislatures or state conventions, "whichever method Congress chooses in the particular case" ([[The Congressional Pay Amendment]]). On timing, [[Dillon v. Gloss (1921)|Dillon v. Gloss]] holds that ratification must come "within some reasonable time after the proposal," and that Congress may fix a definite period. The Hughes opinion in [[Coleman v. Miller]] called Dillon's reasoning dictum and left lapse of time to Congress, without a controlling majority. The live contest is Dillon's implied-consensus reading against the executive branch's conclusion that Article V "contains no time limits for ratification," on which the Twenty-seventh Amendment was certified 203 years after proposal ([[OLC Opinion on the Congressional Pay Amendment]]).
 
 ## Elements
 
@@ -33,7 +33,7 @@ An amendment becomes part of the Constitution when Congress or a convention prop
    - Numerator: the Twenty-seventh crossed the line when Michigan ratified on May 7, 1992, as the thirty-eighth of fifty states.
    - Whether coerced ratifications count (the Southern states on the Fourteenth) routes partly to [[Republican government - Art. IV § 4 Guarantee Clause]]; see Common trap.
 4. **Was ratification timely?** Ask three separate questions.
-   - Is there any implied time limit at all? [[Dillon v. Gloss]] says a "reasonable time"; the [[OLC Opinion on the Congressional Pay Amendment|OLC]] says none.
+   - Is there any implied time limit at all? [[Dillon v. Gloss (1921)|Dillon v. Gloss]] says a "reasonable time"; the [[OLC Opinion on the Congressional Pay Amendment|OLC]] says none.
    - If Congress imposed a deadline, where did it put it? In the amendment's text (the Eighteenth, Twentieth, Twenty-first and Twenty-second) or in a separate joint resolution ([[The Equal Rights Amendment|the ERA]])?
    - May Congress impose a deadline after proposal, extend one, or recall a proposal outright ([[The Riddles of Article V]])?
 5. **Did any ratifying state validly rescind?**
@@ -53,7 +53,7 @@ An amendment becomes part of the Constitution when Congress or a convention prop
 
 ## Standard of review / burden
 
-- **Standard:** [[Dillon v. Gloss]] is the only judicial authority in the chapter, and what it held is narrow: Congress may set a ratification deadline, and seven years is reasonable. The contemporaneity requirement is reasoning, not a holding that any ratification came too late.
+- **Standard:** [[Dillon v. Gloss (1921)|Dillon v. Gloss]] is the only judicial authority in the chapter, and what it held is narrow: Congress may set a ratification deadline, and seven years is reasonable. The contemporaneity requirement is reasoning, not a holding that any ratification came too late.
 - **Not reviewed / political question:** In [[Coleman v. Miller]], Chief Justice Hughes (joined by Stone and Reed) refused to decide whether the Child Labor Amendment had "lost its vitality through lapse of time," leaving the question to Congress "when . . . the time arrives for the promulgation of the adoption of the amendment"; Black and three others concurred separately. The casebook reads Coleman as "suggesting, without a controlling majority opinion, either that Congress possesses this power or that its acceptance of a state ratification is a 'political question'" ([[The Congressional Pay Amendment]]).
 - **Not reviewed / lower courts:** Suits over the allegedly forgotten 1792 Connecticut ratification of the House-size amendment failed on standing and political-question grounds without reaching the merits (*LaVergne v. Bryson*, 3d Cir. 2012).
 - **Substantive-validity claims:** Claims that an amendment is out of keeping with the Constitution's "spirit" and so cannot be adopted were "raised in, and rejected by, *Leser v. Garnett*" (1922) ([[The Riddles of Article V]]).
@@ -64,7 +64,7 @@ An amendment becomes part of the Constitution when Congress or a convention prop
 ## Exceptions
 
 - **No presentment.** Settled since *Hollingsworth v. Virginia* (1798); the one Article V ambiguity with a clean judicial answer ([[The Congressional Pay Amendment]]).
-- **Congressional deadlines.** [[Dillon v. Gloss]] allows Congress to fix a period as "a matter of detail which Congress may determine as an incident of its power to designate the mode of ratification." The power rests on implication; Article V's text says nothing about it.
+- **Congressional deadlines.** [[Dillon v. Gloss (1921)|Dillon v. Gloss]] allows Congress to fix a period as "a matter of detail which Congress may determine as an incident of its power to designate the mode of ratification." The power rests on implication; Article V's text says nothing about it.
 - **The two entrenched provisos.** They are Article V's own exceptions, and the 1808 proviso is the only express time rule the framers wrote. That is the OLC's best textual argument against an implied general limit: "[i]f the Framers had contemplated some terminus of the period for ratification of amendments generally, they would have so stated."
 - **Rescission after the threshold.** Barred, on the shared premise that the scale-tipping ratification locks the amendment in place ([[The Equal Rights Amendment]]).
 - **Not decided: rescission before the threshold.** "Is ratification like a light-switch that a state can turn on and then off again?"
@@ -75,7 +75,7 @@ An amendment becomes part of the Constitution when Congress or a convention prop
 
 ## Leading case
 
-[[Dillon v. Gloss]]
+[[Dillon v. Gloss (1921)|Dillon v. Gloss]]
 
 - **Holding:** "[T]he fair inference or implication from Article V is that the ratification must be within some reasonable time after the proposal," and Congress may fix that period in advance; seven years was reasonable.
 - **Driving fact:** The Eighteenth Amendment's proposing resolution declared the Amendment "inoperative unless ratified within seven years." Without that clause Dillon had no argument, and the Court had no occasion to ask where a time limit could come from.

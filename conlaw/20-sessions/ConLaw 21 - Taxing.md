@@ -12,9 +12,9 @@ reconciled: false
 ## Readings
 
 - [[Express Limits on the Power to Tax]]
-- [[Hylton v. United States]]
+- [[Hylton v. United States (1796)|Hylton v. United States]]
 - [[Implied Limits on the Power to Tax]]
-- [[Bailey v. Drexel Furniture Co]]
+- [[Bailey v. Drexel Furniture Co (1922)|Bailey v. Drexel Furniture Co]]
 
 ## Notes
 

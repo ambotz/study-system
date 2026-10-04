@@ -13,7 +13,7 @@ reconciled: false
 
 - [[Buchanan, Address to Congress]]
 - [[Lincoln, First Inaugural Address]]
-- [[Texas v. White]]
+- [[Texas v. White (1869)|Texas v. White]]
 - [[Jefferson Davis, Farewell Address to the Senate]]
 
 ## Notes

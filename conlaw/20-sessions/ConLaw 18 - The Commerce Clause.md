@@ -11,9 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[Hammer v. Dagenhart]]
-- [[United States v. Darby]]
-- [[Wickard v. Filburn]]
+- [[Hammer v. Dagenhart (1918)|Hammer v. Dagenhart]]
+- [[United States v. Darby (1941)|United States v. Darby]]
+- [[Wickard v. Filburn (1942)|Wickard v. Filburn]]
 
 ## Notes
 

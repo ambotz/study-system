@@ -11,7 +11,7 @@ reconciled: false
 
 ## Readings
 
-- [[NFIB v. Sebelius]]
+- [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]]
 
 ## Notes
 

@@ -24,7 +24,7 @@ The casebook's opening to Part II (Article II: The Executive Power), pp. 166–1
   - If the listed powers are all the President has, why not say "herein granted"?
   - If there are more, what are they, and why did some need to be stated?
   - Removal is the test case. Article II never mentions it, so the Vesting Clause either carries it or nothing does. See [[The Decision of 1789]].
-- **Locke's definition of prerogative.** The executive's "power to act according to discretion, for the public good, without the prescription of the law, and sometimes even against it." Keep the last four words in mind: they are the problem [[Youngstown Sheet & Tube Co. v. Sawyer|Youngstown]] refused to accept.
+- **Locke's definition of prerogative.** The executive's "power to act according to discretion, for the public good, without the prescription of the law, and sometimes even against it." Keep the last four words in mind: they are the problem [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]] refused to accept.
 - **The four groups of Stuart prerogatives.**
   - Finance: to tax, spend and borrow.
   - Lawmaking: the King's Speech, the veto, proroguing Parliament, proclamations, dispensing, suspending, and pardoning.
@@ -36,8 +36,8 @@ The casebook's opening to Part II (Article II: The Executive Power), pp. 166–1
   - James II's use of the dispensing and suspending powers led to the Glorious Revolution.
 - **What the King still held in 1789.** "[P]eace and war," the pardon, the power of appointment, and "(in theory)" the veto. He could no longer "tax, spend, borrow, make or dispense with laws, or suspend habeas corpus" without Parliament. A useful baseline: the prerogatives the King had already lost are the ones the Constitution gives to Congress or denies altogether.
 - **Locke's necessity argument.** The legislature is "not always in being," is "too numerous, and so too slow," and cannot "foresee . . . all accidents and necessities," so "there is a latitude left to the executive power, to do many things of choice which the laws do not prescribe." This is the best founding-era support for inherent executive power, and it is Vinson's position in Youngstown.
-- **The editors' proposed ideal.** "[A]n ideal of executive power—one that includes the action, strength, or force of the government but not its lawmaking power." Test it against each later reading: removal and appointment are "action" powers; enforcement discretion in [[United States v. Cox]] sits close to the line; the dispensing power the Stuarts lost is the argument against non-enforcement in [[Adams v. Richardson]].
-- **Why the appointment prerogative matters for this class.** The King was the "fountain of honors" who created offices and filled them. The American answer divided the prerogative: Congress creates offices by law; the President nominates; the Senate consents. That division is the background to [[The Federalist No. 76]] and [[Buckley v. Valeo]].
+- **The editors' proposed ideal.** "[A]n ideal of executive power—one that includes the action, strength, or force of the government but not its lawmaking power." Test it against each later reading: removal and appointment are "action" powers; enforcement discretion in [[United States v. Cox (1965)|United States v. Cox]] sits close to the line; the dispensing power the Stuarts lost is the argument against non-enforcement in [[Adams v. Richardson (1973)|Adams v. Richardson]].
+- **Why the appointment prerogative matters for this class.** The King was the "fountain of honors" who created offices and filled them. The American answer divided the prerogative: Congress creates offices by law; the President nominates; the Senate consents. That division is the background to [[The Federalist No. 76]] and [[Buckley v. Valeo (1976)|Buckley v. Valeo]].
 
 ## Where it goes
 
@@ -47,4 +47,4 @@ The casebook's opening to Part II (Article II: The Executive Power), pp. 166–1
 - [[The Federalist No. 70]] — Hamilton's case for energy, written against the weak state executives.
 - [[Appointments - Art. II § 2 cl. 2 and the officer line]] — appointment as a divided prerogative.
 - [[Removal - Art. II § 1 and the Humphrey's exception]] — the unlisted power the Vesting Clause has to carry.
-- [[Youngstown Sheet & Tube Co. v. Sawyer]] — Locke's prerogative "against" the law, rejected.
+- [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown Sheet & Tube Co. v. Sawyer]] — Locke's prerogative "against" the law, rejected.

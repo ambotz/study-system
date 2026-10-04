@@ -22,7 +22,7 @@ A short optional section, pp. 40–41: why a document mostly ratified in 1789 an
   - Acceptance: each generation is free to reject the Constitution, and ours, like every earlier one, has accepted it.
   - Inheritance: if we use the institutions the Constitution creates, we take its limits with them; "the children who inherit a house must accept its mortgage and its covenants."
   - Precommitment: individuals and nations bind their future selves, as shareholders bind later shareholders and contracts bind tomorrow. If we are a nation and not a collection of people at different moments, we can make commitments.
-- **The link to interpretation (note-writer's gloss, not casebook content).** Each answer carries a view of method. Acceptance and inheritance point toward the meaning that was accepted or inherited; the Jeffersonian answer points toward present judgment. Keep that link in mind when [[Gundy v. United States|Gundy]] and the removal cases argue over original meaning.
+- **The link to interpretation (note-writer's gloss, not casebook content).** Each answer carries a view of method. Acceptance and inheritance point toward the meaning that was accepted or inherited; the Jeffersonian answer points toward present judgment. Keep that link in mind when [[Gundy v. United States (2019)|Gundy]] and the removal cases argue over original meaning.
 
 ## Where it goes
 

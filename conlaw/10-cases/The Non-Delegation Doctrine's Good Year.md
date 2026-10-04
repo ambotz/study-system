@@ -11,7 +11,7 @@ read_for: null
 
 ## What it is
 
-A casebook note on the two 1935 cases in which the Supreme Court held a delegation of legislative power unconstitutional: [[Panama Refining Co. v. Ryan|Panama Refining]] and [[A.L.A. Schechter Poultry Corp. v. United States|Schechter Poultry]]. The syllabus calls it "One Good Year," after Sunstein's quip that the doctrine "has had one good year, and 211 bad ones (and counting)." It sets up [[Gundy v. United States]].
+A casebook note on the two 1935 cases in which the Supreme Court held a delegation of legislative power unconstitutional: [[Panama Refining Co. v. Ryan|Panama Refining]] and [[A.L.A. Schechter Poultry Corp. v. United States|Schechter Poultry]]. The syllabus calls it "One Good Year," after Sunstein's quip that the doctrine "has had one good year, and 211 bad ones (and counting)." It sets up [[Gundy v. United States (2019)|Gundy v. United States]].
 
 ## What to notice
 
@@ -26,5 +26,5 @@ A casebook note on the two 1935 cases in which the Supreme Court held a delegati
 ## Where it goes
 
 - [[Nondelegation - Art. I § 1 and the intelligible principle]] — the only two invalidations.
-- [[Gundy v. United States]] — the plurality cites both cases as the only exceptions; Gorsuch quotes Cardozo's "delegation running riot" from Schechter.
+- [[Gundy v. United States (2019)|Gundy v. United States]] — the plurality cites both cases as the only exceptions; Gorsuch quotes Cardozo's "delegation running riot" from Schechter.
 - [[The Post Roads Debate]] — the founding-era version of the same argument.

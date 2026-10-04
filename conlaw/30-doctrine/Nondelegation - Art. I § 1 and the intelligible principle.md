@@ -19,7 +19,11 @@ last_drilled:
 
 ## Rule statement
 
-Congress may give the executive broad discretion in carrying out a statute, but it may not hand over the power to make the law itself. A delegation is valid if Congress "lay[s] down by legislative act an intelligible principle to which the person or body authorized to [exercise the delegated authority] is directed to conform" ([[J. W. Hampton, Jr., & Co. v. United States|J.W. Hampton]], restated in [[Gundy v. United States]]). The test is "not demanding": only two delegations have ever failed, both in 1935, and the inquiry "always begins (and often almost ends) with statutory interpretation." The contest is whether the test tracks the Constitution at all: three Gundy dissenters would replace it, Alito would reconsider it with a full Court, and Madison's anti-delegation side won the vote in [[The Post Roads Debate]].
+Congress may give the executive broad discretion in carrying out a statute, but it may not hand over the power to make the law itself. A delegation is valid if Congress "lay[s] down by legislative act an ==intelligible principle== to which the person or body authorized to [exercise the delegated authority] is directed to conform" ([[J. W. Hampton, Jr., & Co. v. United States|J.W. Hampton]], restated in [[Gundy v. United States (2019)|Gundy v. United States]]). 
+
+Intelligible principle = "Congress must give a clear general goal, policy boundary, or standard."
+
+The test is "not demanding": only two delegations have ever failed, both in 1935, and the inquiry "always begins (and often almost ends) with statutory interpretation." The contest is whether the test tracks the Constitution at all: three Gundy dissenters would replace it, Alito would reconsider it with a full Court, and Madison's anti-delegation side won the vote in [[The Post Roads Debate]].
 
 ## Elements
 
@@ -46,9 +50,9 @@ Congress may give the executive broad discretion in carrying out a statute, but 
    - A delegation that fits none of the three is invalid on his view, whatever principle Congress recited; SORNA failed because it let the Attorney General impose "all of the statute's requirements, some of them, or none of them."
 6. **Is the same concern being policed under another name?**
    - Gorsuch's "hydraulic pressures" point: the major questions doctrine and void-for-vagueness do nondelegation work.
-   - The structural cases do too: [[INS v. Chadha]] (delegation to one House) and [[Clinton v. City of New York]] (the line-item veto). See [[Bicameralism and presentment - Art. I § 7]].
+   - The structural cases do too: [[INS v. Chadha (1983)]] (delegation to one House) and [[Clinton v. City of New York (1998)]] (the line-item veto). See [[Bicameralism and presentment - Art. I § 7]].
 7. **If Congress reserved a check on the delegation, is the check lawful?**
-   - A one-House or two-House veto is void after [[INS v. Chadha]].
+   - A one-House or two-House veto is void after [[INS v. Chadha (1983)]].
    - A sunset clause, a report-and-wait provision, and a joint resolution of disapproval presented to the President are valid, because nothing changes the law except a law passed under Article I, § 7.
 
 ## Standard of review / burden
@@ -58,7 +62,7 @@ Congress may give the executive broad discretion in carrying out a statute, but 
 - **Standard:** The intelligible-principle test, applied by comparison with standards already upheld rather than against an abstract measure of definiteness.
 - **Standard:** No heightened version applies to delegations backed by criminal penalties. The Gundy plurality applied the ordinary test to a registration duty enforced by prosecution; Gorsuch's contrary view is a dissent.
 - **Standard:** The plurality justifies the lax test by necessity: "if SORNA's delegation is unconstitutional, then most of Government is unconstitutional," because "Congress simply cannot do its job absent an ability to delegate power under broad general directives." Note 1 calls this reasoning a possible "constitutional fudge."
-- **Not reviewed / political question:** The doctrine is not formally a political question, since the Court decides every challenge on the merits, but the lax test works like one: the Court pleads a lack of manageable standards, the same move [[Garcia v. San Antonio Metropolitan Transit Authority|Garcia]] makes for federalism.
+- **Not reviewed / political question:** The doctrine is not formally a political question, since the Court decides every challenge on the merits, but the lax test works like one: the Court pleads a lack of manageable standards, the same move [[Garcia v. San Antonio Metropolitan Transit Authority (1985)|Garcia]] makes for federalism.
 - **What fills the gap:** Statutory interpretation and constitutional avoidance. A narrowing construction resolves most challenges, and the major questions doctrine checks agency claims of large, unstated authority.
 
 ## Exceptions
@@ -69,12 +73,12 @@ Congress may give the executive broad discretion in carrying out a statute, but 
 - **The government's own operations.** Delegations about government property and internal administration, rather than rules for private conduct, fall outside Gorsuch's definition of legislative power, which is why the post roads debate is harder for his position than it looks.
 - **Not decided: whether some powers are undelegable whatever the principle.** Gundy Note 3 asks whether Congress could delegate the power to declare war, to tax, to appropriate money, to impeach, or to decide which foreigners may enter the country. For war, the harder question is whether the Declare War Clause requires Congress itself to name the enemy.
 - **Not decided: the future of the test.** Three Justices would replace the intelligible principle, which Gorsuch says was "plucked" from a case where it meant something narrower and calls a "misadventure"; Alito would reconsider it with a full Court. After the casebook, *FCC v. Consumers' Research* (2025) applied the test and upheld the delegation 6–3 (Kagan), with Gorsuch dissenting, and *Loper Bright* (2024) ended *Chevron* deference.
-- **Not decided: presidential control of formerly independent delegated power.** Concurring in [[Trump v. Slaughter]], Gorsuch observes that independent agencies exercise delegated "legislative and judicial powers," that "after today's decision, the President can effectively exercise all those powers too," and asks "what, if anything, will this Court do about it?"
-- **Closed off: the legislative veto.** Congress's own answer to broad delegation is void after [[INS v. Chadha]]. White's dissent says the Court left Congress a "Hobson's choice" between impossibly specific laws and abdication; Wurman's proposal (Gundy Note 4) would restore a one-House veto over legislative-type regulations by overruling Chadha.
+- **Not decided: presidential control of formerly independent delegated power.** Concurring in [[Trump v. Slaughter (2026)|Trump v. Slaughter]], Gorsuch observes that independent agencies exercise delegated "legislative and judicial powers," that "after today's decision, the President can effectively exercise all those powers too," and asks "what, if anything, will this Court do about it?"
+- **Closed off: the legislative veto.** Congress's own answer to broad delegation is void after [[INS v. Chadha (1983)]]. White's dissent says the Court left Congress a "Hobson's choice" between impossibly specific laws and abdication; Wurman's proposal (Gundy Note 4) would restore a one-House veto over legislative-type regulations by overruling Chadha.
 
 ## Leading case
 
-[[Gundy v. United States]]
+[[Gundy v. United States (2019)|Gundy v. United States]]
 
 - **Holding:** SORNA § 20913(d), which gives the Attorney General "the authority to specify the applicability" of the registration requirements to pre-Act offenders, is a valid delegation; the judgment is 5–3 and affirms Gundy's conviction under 18 U.S.C. § 2250.
 - **Votes:** There is no majority opinion. Kagan wrote for a plurality of four (with Ginsburg, Breyer and Sotomayor), Alito concurred only in the judgment, Gorsuch dissented with Roberts and Thomas, and Kavanaugh did not participate.
@@ -95,7 +99,7 @@ Congress may give the executive broad discretion in carrying out a statute, but 
 - **Argue for the delegation (Sedgwick's side):** "[T]he establishment of principles was the peculiar province of the former, and the execution of them, that of the latter," which is a claim that route selection is not legislative at all. His reductio is that otherwise Congress would have to "go in a body to borrow every sum" and "turn coiners, and work in the Mint themselves."
 - **Argue for the delegation (practice and competence):** Bourne pointed out that the House had already let the President mark out excise districts. Sedgwick and Barnwell argued that an executive "responsible to the people" would choose routes with more care than members voting their local interests.
 - **The fact that undercuts everyone:** Benson observed that the bill as written designated no post offices at all, so Congress was already delegating the offices while arguing about the roads.
-- **The middle position:** Hartley's sunset (limit the law to three to five years and see) remains a lawful check after [[INS v. Chadha]], because a sunset operates by the terms of a law that went through Article I, § 7.
+- **The middle position:** Hartley's sunset (limit the law to three to five years and see) remains a lawful check after [[INS v. Chadha (1983)]], because a sunset operates by the terms of a law that went through Article I, § 7.
 - **Weight of the vote:** The vote is evidence of original meaning and a candidate for liquidation, but a House vote declining to delegate is not a holding that delegation is unconstitutional, because members voted on expediency and constitutionality together (Note 2).
 - **Runner-up:** [[The Non-Delegation Doctrine's Good Year]]. Use the 1935 invalidations when the hypothetical involves a standardless transfer of code-making power to private trade groups. [[A.L.A. Schechter Poultry Corp. v. United States|Schechter Poultry]] was unanimous, including Brandeis and Cardozo, so it cannot be dismissed as the work of the conservative bloc, and Gorsuch invokes its "delegation running riot."
 
@@ -108,4 +112,4 @@ Congress may give the executive broad discretion in carrying out a statute, but 
 - **Treating the 1935 cases as a live general doctrine.** They are the only two invalidations, in one year, and the Schechter statute let private trade groups write codes with the President's discretion "virtually unfettered." Sunstein's frame: "one good year, and 211 bad ones (and counting)."
 - **Citing Gorsuch's three categories as law.** They are a dissent's proposed replacement, and the later full-Court decision in *FCC v. Consumers' Research* applied the intelligible principle instead. Label the categories as a dissent, then use them for Baude's question about where the doctrine may be off track.
 - **Assuming the post roads debate supports Gorsuch.** Post roads concern the government's own operations rather than rules for private conduct, so on Gorsuch's definition the debate falls outside the doctrine, and Madison's side won it anyway.
-- **Calling [[Clinton v. City of New York]] a nondelegation holding.** The Court decided on presentment and found it "unnecessary to consider" delegation. Whether Clinton is "a non-delegation doctrine case masquerading as a bicameralism and presentment case" is the casebook's Note 1 question; Scalia answers yes and says the delegation was valid.
+- **Calling [[Clinton v. City of New York (1998)]] a nondelegation holding.** The Court decided on presentment and found it "unnecessary to consider" delegation. Whether Clinton is "a non-delegation doctrine case masquerading as a bicameralism and presentment case" is the casebook's Note 1 question; Scalia answers yes and says the delegation was valid.
