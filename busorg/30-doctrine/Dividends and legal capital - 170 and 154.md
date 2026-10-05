@@ -61,7 +61,7 @@ Three features make this a weak constraint in practice, and all three are testab
 2. **Assets are not marked to market on the books**, so "surplus" is an accounting figure, and Delaware permits revaluation of assets to create surplus.
 3. **Capital can be reduced** under § 244, converting capital into surplus and thereby creating dividend capacity.
 
-This is why the real creditor protection in Delaware is **contractual** — negotiated covenants, liens, and the fraudulent transfer statutes — exactly as [[NACEPF v. Gheewalla]] says when it lists "contractual agreements, fraud and fraudulent conveyance law, implied covenants of good faith and fair dealing, bankruptcy law, general commercial law and other sources of creditor rights."
+This is why the real creditor protection in Delaware is **contractual** — negotiated covenants, liens, and the fraudulent transfer statutes — exactly as [[NACEPF v. Gheewalla (2007)|NACEPF v. Gheewalla]] says when it lists "contractual agreements, fraud and fraudulent conveyance law, implied covenants of good faith and fair dealing, bankruptcy law, general commercial law and other sources of creditor rights."
 
 ## Standard of review / burden
 
@@ -71,32 +71,32 @@ This is why the real creditor protection in Delaware is **contractual** — nego
 | Who decides capital | The **board**, by resolution under § 154 |
 | Charter override | "[S]ubject to any restrictions contained in its certificate of incorporation" — the charter may restrict, and dividend restrictions are a standard preferred-stock term |
 | Consequence of an unlawful dividend | Director liability under **8 Del. C. § 174** for wilful or negligent violation — one of the exceptions § 102(b)(7) cannot exculpate |
-| Review of a **lawful** dividend | **Business judgment rule**, subject to [[Sinclair Oil v. Levien]]: proportionate treatment is presumptively safe, differential treatment of a controller is self-dealing and draws entire fairness |
-| Same capital test applies to | **Repurchases under § 160**, which is why [[Cheff v. Mathes]] and [[Unocal v. Mesa Petroleum]] sit alongside this |
+| Review of a **lawful** dividend | **Business judgment rule**, subject to [[Sinclair Oil v. Levien (1971)|Sinclair Oil v. Levien]]: proportionate treatment is presumptively safe, differential treatment of a controller is self-dealing and draws entire fairness |
+| Same capital test applies to | **Repurchases under § 160**, which is why [[Cheff v. Mathes (1964)|Cheff v. Mathes]] and [[Unocal v. Mesa Petroleum (1985)|Unocal v. Mesa Petroleum]] sit alongside this |
 
 ## Exceptions
 
-- **Fraudulent transfer law reaches what § 170 permits.** A dividend lawful under the legal capital rules may still be avoidable as a constructive fraudulent transfer if the corporation was insolvent or rendered insolvent and received no reasonably equivalent value. [[Quadrant Structured Products v. Vertin]] pairs derivative fiduciary claims with direct fraudulent transfer claims for exactly this reason.
+- **Fraudulent transfer law reaches what § 170 permits.** A dividend lawful under the legal capital rules may still be avoidable as a constructive fraudulent transfer if the corporation was insolvent or rendered insolvent and received no reasonably equivalent value. [[Quadrant Structured Products v. Vertin (2014)|Quadrant Structured Products v. Vertin]] pairs derivative fiduciary claims with direct fraudulent transfer claims for exactly this reason.
 - **Fiduciary duty reaches it too, where the transfer is differential.** A transfer of value from an **insolvent** corporation to its controller draws entire fairness even if the source-of-funds test is satisfied. See [[Fiduciary duties on insolvency - Gheewalla standing and the Quadrant line]].
 - **The charter may restrict.** Preferred stock terms routinely condition or prohibit dividends on junior stock, and § 170(a) is expressly subject to charter restrictions.
-- **Contract may restrict.** Indenture and credit agreement covenants are the operative constraint at any leveraged company, as [[Revlon v. MacAndrews & Forbes]] illustrates — the Notes there "limited Revlon's ability to incur additional debt, sell assets, or **pay dividends** unless otherwise approved by the 'independent'... members of the board."
+- **Contract may restrict.** Indenture and credit agreement covenants are the operative constraint at any leveraged company, as [[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes]] illustrates — the Notes there "limited Revlon's ability to incur additional debt, sell assets, or **pay dividends** unless otherwise approved by the 'independent'... members of the board."
 - **Nonstock corporations have zero capital** by definition, which matters for [[Non-stock corporations - governance without stockholders]].
 
 ## Leading case
 
-[[Sinclair Oil v. Levien]] is the fiduciary companion to the statute, and the case Delaware still uses to sort lawful dividends from self-dealing ones.
+[[Sinclair Oil v. Levien (1971)|Sinclair Oil v. Levien]] is the fiduciary companion to the statute, and the case Delaware still uses to sort lawful dividends from self-dealing ones.
 
 Sinven paid $108 million of dividends over seven years — $38 million in excess of its earnings for the period — while its parent "had a need for large amounts of cash." Chancery applied entire fairness and held the defendants failed it. The Supreme Court reversed, drawing the line that matters:
 
 "If such a dividend is **in essence self-dealing by the parent**, then the intrinsic fairness standard is the proper standard." The illustration given is a dividend declared on the parent-owned class only, which "would be receiving something from the subsidiary **to the exclusion of and detrimental to** its minority stockholders." But here "a **proportionate share** of this money was received by the minority shareholders... [The parent] received nothing from [the subsidiary] to the exclusion of its minority stockholders. As such, these dividends were **not self-dealing**," and "[t]he business judgment standard should have been applied."
 
-[[Quadrant Structured Products v. Vertin]] applies the same distinction on insolvency, and confirms that "**equal treatment** of stockholders operates as a presumptive safe harbor for corporate fiduciaries, including controlling stockholders and directors, **even when those fiduciaries allegedly have divergent economic interests**" — while "recognizing that equal treatment is **not an absolute safe harbor**," because bad faith can still produce a loyalty breach.
+[[Quadrant Structured Products v. Vertin (2014)|Quadrant Structured Products v. Vertin]] applies the same distinction on insolvency, and confirms that "**equal treatment** of stockholders operates as a presumptive safe harbor for corporate fiduciaries, including controlling stockholders and directors, **even when those fiduciaries allegedly have divergent economic interests**" — while "recognizing that equal treatment is **not an absolute safe harbor**," because bad faith can still produce a loyalty breach.
 
 ## Best counter-case
 
 The **fraudulent transfer and insolvency doctrines** are the real counterweight, because they reach distributions the legal capital rules allow.
 
-The distinguishing line: **§ 170 asks only where the money came from on the corporation's books; fraudulent transfer law and the insolvency fiduciary rules ask what the transfer did to creditors and to whom it went.** A distribution can clear the surplus test and still be avoided as a constructive fraudulent transfer, or condemned as a specific transfer of value to a controller under [[Quadrant Structured Products v. Vertin]].
+The distinguishing line: **§ 170 asks only where the money came from on the corporation's books; fraudulent transfer law and the insolvency fiduciary rules ask what the transfer did to creditors and to whom it went.** A distribution can clear the surplus test and still be avoided as a constructive fraudulent transfer, or condemned as a specific transfer of value to a controller under [[Quadrant Structured Products v. Vertin (2014)|Quadrant Structured Products v. Vertin]].
 
 The most useful illustration is Quadrant's own facts. The failure to defer interest on Junior Notes held by the sole stockholder was not a dividend at all and never touched § 170 — and it drew entire fairness, because "[t]he payment now **transfers value previously owned beneficially and indirectly by all of the residual claimants to the party in control** of the corporation." The legal capital rules would have been satisfied and would have been beside the point.
 

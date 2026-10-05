@@ -36,7 +36,7 @@ for f in md:
             multiline.append((rel, " ".join(raw.split())[:70]))
             continue
         target = raw[2:-2].split("|")[0].split("#")[0].strip()
-        if target:
+        if target and not re.search(r"\.(jpe?g|png|heic|gif|webp)$", target, re.I):
             links.setdefault(target, set()).add(rel)
 
 resolved = {t: f for t, f in links.items() if t in notes}

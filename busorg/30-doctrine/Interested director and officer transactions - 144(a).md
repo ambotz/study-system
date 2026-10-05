@@ -14,7 +14,7 @@ last_drilled:
 
 ## Rule statement
 
-**The common-law default**, stated in [[Bayer v. Beran]]: the business judgment rule "yields to the rule of undivided loyalty." A conflicted transaction loses the presumption, is examined with "the most scrupulous care," and the burden falls on the fiduciary "not only to prove the good faith of the transaction but also to show its inherent fairness."
+**The common-law default**, stated in [[Bayer v. Beran (1944)|Bayer v. Beran]]: the business judgment rule "yields to the rule of undivided loyalty." A conflicted transaction loses the presumption, is examined with "the most scrupulous care," and the burden falls on the fiduciary "not only to prove the good faith of the transaction but also to show its inherent fairness."
 
 **§ 144 is the statutory overlay** supplying routes out of that default. What the routes *do* is the single biggest thing SB 21 changed.
 
@@ -69,7 +69,7 @@ Pre-SB 21 these were case-law questions. Post-SB 21 they are definitions:
 
 - **Disinterested director**, § 144(e)(4) — "not a party to the act or transaction and does not have a material interest in the act or transaction or a material relationship with a person that has a material interest."
 - **Material interest**, § 144(e)(7) — a benefit "other than one which would devolve on the corporation or the stockholders generally" that "would reasonably be expected to impair the objectivity of the director's judgment."
-- **Material relationship**, § 144(e)(8) — "a **familial**, financial, professional, employment, or other relationship" meeting the same impairment test. *This is [[Bayer v. Beran]] codified: the president's wife is a material relationship.*
+- **Material relationship**, § 144(e)(8) — "a **familial**, financial, professional, employment, or other relationship" meeting the same impairment test. *This is [[Bayer v. Beran (1944)|Bayer v. Beran]] codified: the president's wife is a material relationship.*
 - **Disinterested stockholder**, § 144(e)(5) — no material interest in the transaction and no material relationship with the controller or other interested person.
 
 ### Two thumbs on the scale for the defence, § 144(d)(2)–(3)
@@ -81,7 +81,7 @@ Pre-SB 21 these were case-law questions. Post-SB 21 they are definitions:
 
 | | |
 |---|---|
-| Default, no safe harbour | Entire fairness; burden on the fiduciary ([[Bayer v. Beran]]) |
+| Default, no safe harbour | Entire fairness; burden on the fiduciary ([[Bayer v. Beran (1944)|Bayer v. Beran]]) |
 | Pre-SB 21 compliance | Transaction not void or voidable; fiduciary review **not** foreclosed |
 | Post-SB 21 compliance | No damages and no equitable relief against directors or officers |
 | Scope, post | "act or transaction," including subsidiaries, and including mere involvement "in the initiation, negotiation, or approval" |
@@ -89,18 +89,18 @@ Pre-SB 21 these were case-law questions. Post-SB 21 they are definitions:
 
 ## Exceptions
 
-- **Controlling stockholder transactions are carved out of § 144(a)** and routed to § 144(b) and (c), which are new in SB 21. Those subsections are assigned separately with [[In re Tesla Motors (Tesla 2)]] and get their own module.
+- **Controlling stockholder transactions are carved out of § 144(a)** and routed to § 144(b) and (c), which are new in SB 21. Those subsections are assigned separately with [[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]] and get their own module.
 - **§ 144(d)(6) savings clauses.** Nothing in (a), (b) or (c) limits: the right to seek equitable relief that a transaction "was not authorized or approved in compliance with the procedures set forth in this chapter," with the charter or bylaws, or with a governmental order; **judicial review for injunctive relief of anti-takeover devices** "designed or intended to deter, delay, or preclude a change of control"; or claims that a person "knowingly **aided and abetted** a breach of fiduciary duty."
 - **§ 144(d)(5)** limits a controlling stockholder's monetary liability to breaches of loyalty, acts not in good faith or involving intentional misconduct or knowing violation of law, and transactions producing an improper personal benefit — a controller-level analogue of [[Charter exculpation of director liability|§ 102(b)(7)]], but statutory rather than charter-adopted.
 - **§ 144(d)(7)** deems shares irrevocably accepted in a § 251(h) tender offer voted in favour, and disinterested shares not tendered voted against, for the (a)(2), (b)(2) and (c)(1) counts.
 
 ## Leading case
 
-[[Bayer v. Beran]] for the common-law default and what surviving rigorous scrutiny looks like — market compensation, arm's-length negotiation, no undue prominence, legitimate corporate purpose, full benefit received.
+[[Bayer v. Beran (1944)|Bayer v. Beran]] for the common-law default and what surviving rigorous scrutiny looks like — market compensation, arm's-length negotiation, no undue prominence, legitimate corporate purpose, full benefit received.
 
 ## Best counter-case
 
-[[In re Investors Bancorp]], assigned the same day, as the transaction that never reaches a safe harbour at all.
+[[In re Investors Bancorp (2017)|In re Investors Bancorp]], assigned the same day, as the transaction that never reaches a safe harbour at all.
 
 The distinguishing line: **a safe harbour protects what the approving body actually approved.** Bayer's directors defended the transaction on its merits and won. Investors Bancorp's directors pointed to a 96.25% stockholder vote that had approved parameters rather than awards, and the defence was unavailable. Under post-SB 21 § 144(a)(2) the same problem appears in statutory clothing — a vote ratifies "the act or transaction," not a category of future acts.
 

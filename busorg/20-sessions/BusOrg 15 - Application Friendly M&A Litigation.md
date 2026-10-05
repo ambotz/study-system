@@ -11,9 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[Kahn v. M&F Worldwide]]
+- [[Kahn v. M&F Worldwide (2014)|Kahn v. M&F Worldwide]]
 - 8 Del. C. 144(c) (post-SB 21) → [[Aiding and abetting a fiduciary breach - knowing participation]], [[Controller buyouts - the MFW dual protection structure]], [[Controlling stockholder safe harbours - 144(b) and (c)]]
-- [[Corwin v. KKR Financial Holdings]]
+- [[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]]
 
 ## Notes
 

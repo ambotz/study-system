@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[RBC Capital Markets v. Jervis]]
-- [[In re Mindbody, Inc., Stockholder Litigation]]
+- [[RBC Capital Markets v. Jervis (2015)|RBC Capital Markets v. Jervis]]
+- [[In re Mindbody, Inc., Stockholder Litigation (2024)|In re Mindbody, Inc., Stockholder Litigation]]
 
 ## Notes
 

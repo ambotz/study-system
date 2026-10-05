@@ -12,8 +12,8 @@ reconciled: false
 ## Readings
 
 - 8 Del. C. 141(d), 212, 216, 218 → [[Stockholder voting machinery - 212, 216, 141(d) and 228]], [[Oversight liability - Caremark and good faith]], [[Voting agreements and vote buying - 218 and the Schreiber test]]
-- [[Ringling Brothers v. Ringling]]
-- [[Hewlett v. Hewlett-Packard]]
+- [[Ringling Brothers v. Ringling (1947)|Ringling Brothers v. Ringling]]
+- [[Hewlett v. Hewlett-Packard (2002)|Hewlett v. Hewlett-Packard]]
 
 ## Notes
 

@@ -27,9 +27,9 @@ Enhanced scrutiny is an **intermediate** standard: not the deference of business
 The directors "must show that they had **reasonable grounds for believing that a danger to corporate policy and effectiveness existed** because of another person's stock ownership." They "satisfy that burden **by showing good faith and reasonable investigation**."
 
 - Proof is "**materially enhanced**... by the approval of a board comprised of a majority of outside independent directors."
-- **Process alone is not enough.** "[N]o matter how exemplary the board's process, or how independent the board, or how reasonable its investigation, to meet their burden under the first prong of Unocal defendants must actually **articulate some legitimate threat** to corporate policy and effectiveness." The process "has to lead to the finding of a threat" ([[Air Products v. Airgas]]).
+- **Process alone is not enough.** "[N]o matter how exemplary the board's process, or how independent the board, or how reasonable its investigation, to meet their burden under the first prong of Unocal defendants must actually **articulate some legitimate threat** to corporate policy and effectiveness." The process "has to lead to the finding of a threat" ([[Air Products v. Airgas (2011)|Air Products v. Airgas]]).
 - The threat that counts is the one **the board actually discussed**, not the ones litigation counsel assembles later.
-- **And that is a finding of fact, not a reading of the resolution.** In [[The Williams Companies Stockholder Litigation]] the board resolution, the press release and the proxy supplement all recited takeover deterrence; the court found from testimony and contemporaneous email that the real objective was insulation from activists, and judged the board on that. "They cannot justify their conduct based on threats that they never identified or beliefs they did not hold."
+- **And that is a finding of fact, not a reading of the resolution.** In [[The Williams Companies Stockholder Litigation (2021)|The Williams Companies Stockholder Litigation]] the board resolution, the press release and the proxy supplement all recited takeover deterrence; the court found from testimony and contemporaneous email that the real objective was insulation from activists, and judged the board on that. "They cannot justify their conduct based on threats that they never identified or beliefs they did not hold."
 - **Process and threat are separate halves, and a board can win one and lose the other.** Williams found nearly all independent outside directors, two meetings, outside counsel and bankers on hand, and "nothing about the process jumps out as unreasonable" — then struck the measure, because "[t]he real problem is not the process that Defendants followed, but the threats they identified."
 
 **Unocal's list of cognisable concerns**: "inadequacy of the price offered, nature and timing of the offer, questions of illegality, the impact on 'constituencies' other than shareholders (i.e., creditors, customers, employees, and perhaps even the community generally), the risk of nonconsummation, and the quality of securities being offered in the exchange." A board "may reasonably consider the basic stockholder interests at stake, including those of short term speculators."
@@ -38,13 +38,13 @@ The directors "must show that they had **reasonable grounds for believing that a
 
 | | What it is | Where it comes from | When it fails |
 |---|---|---|---|
-| **Structural coercion** | A two-tier, front-end-loaded offer that stampedes holders into tendering at the first tier out of fear of the back end | [[Unocal v. Mesa Petroleum]] | An all-cash, all-shares offer with an equal back end in the same currency |
-| **Opportunity loss** | A time-based threat that the offer forecloses a better alternative the board is pursuing | [[Paramount v. Time]] | Months have passed with no alternative on the table |
-| **Substantive coercion** | The risk that stockholders will **disbelieve the board's view of long-term value** and tender into an underpriced offer "in ignorance or a mistaken belief" | [[Paramount v. Time]], applied in [[Air Products v. Airgas]] | Rarely — this is the catch-all, and inadequate price alone now qualifies |
+| **Structural coercion** | A two-tier, front-end-loaded offer that stampedes holders into tendering at the first tier out of fear of the back end | [[Unocal v. Mesa Petroleum (1985)|Unocal v. Mesa Petroleum]] | An all-cash, all-shares offer with an equal back end in the same currency |
+| **Opportunity loss** | A time-based threat that the offer forecloses a better alternative the board is pursuing | [[Paramount v. Time (1990)|Paramount v. Time]] | Months have passed with no alternative on the table |
+| **Substantive coercion** | The risk that stockholders will **disbelieve the board's view of long-term value** and tender into an underpriced offer "in ignorance or a mistaken belief" | [[Paramount v. Time (1990)|Paramount v. Time]], applied in [[Air Products v. Airgas (2011)|Air Products v. Airgas]] | Rarely — this is the catch-all, and inadequate price alone now qualifies |
 
 ### What is NOT a cognisable threat
 
-A threat that reduces to "the stockholders will get it wrong" is not a threat. Directors "cannot justify their actions by arguing that 'without their intervention, the stockholders would vote erroneously out of ignorance or mistaken belief'"; "[t]he notion that directors know better than the stockholders about who should be on the board is no justification at all." [[The Williams Companies Stockholder Litigation]] supplies three applications:
+A threat that reduces to "the stockholders will get it wrong" is not a threat. Directors "cannot justify their actions by arguing that 'without their intervention, the stockholders would vote erroneously out of ignorance or mistaken belief'"; "[t]he notion that directors know better than the stockholders about who should be on the board is no justification at all." [[The Williams Companies Stockholder Litigation (2021)|The Williams Companies Stockholder Litigation]] supplies three applications:
 
 | Asserted threat | Status |
 |---|---|
@@ -83,7 +83,7 @@ Where defensive measures "are inextricably related, the principles of Unocal req
 
 ### The entrenchment floor
 
-Directors "may not have acted **solely or primarily** out of a desire to perpetuate themselves in office," and "inequitable action may not be taken under the guise of law." This is [[Cheff v. Mathes]]'s primary purpose test, retained as a limit rather than as the whole inquiry.
+Directors "may not have acted **solely or primarily** out of a desire to perpetuate themselves in office," and "inequitable action may not be taken under the guise of law." This is [[Cheff v. Mathes (1964)|Cheff v. Mathes]]'s primary purpose test, retained as a limit rather than as the whole inquiry.
 
 ### Who decides the time horizon
 
@@ -109,14 +109,14 @@ That dictum is what Chancellor Chandler treats as binding in Airgas, and it is t
 ## Exceptions
 
 - **Revlon supersedes where the company is being sold.** Once there is a change of control or a break-up, price becomes the only cognisable objective, and a measure defended on any other ground is disproportionate by definition. See [[Sale of control - Revlon and the duty to maximise price]]. Structural defences alone do **not** trigger Revlon; they get Unocal.
-- **Deal protections get Unocal even with no change of control.** See [[Deal protection devices - Unocal review of merger lock-ups]] and [[Omnicare v. NCS Healthcare]].
+- **Deal protections get Unocal even with no change of control.** See [[Deal protection devices - Unocal review of merger lock-ups]] and [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]].
 - **Post-closing, a fully informed and uncoerced disinterested vote restores business judgment review.** Unocal and Revlon "are primarily designed to give stockholders and the Court of Chancery the tool of injunctive relief... in real time, before closing." See [[Cleansing by stockholder vote - Corwin and the fully informed vote]].
 - **§ 144(d)(6)(b) preserves the remedy post-SB 21.** The controller safe harbours do not limit "judicial review for purposes of injunctive relief of provisions or devices designed or intended to deter, delay, or preclude a change of control."
 - **The franchise gets stronger protection than the tender offer.** Historically, board interference with a stockholder **vote** drew Blasius review and its "compelling justification" requirement, while interference with a tender offer drew only Unocal. Coster v. UIP Companies, assigned in session 21, appears to fold Blasius into a Unocal-shaped inquiry — threat to an important corporate interest, then reasonableness in relation to it.
 
 ## Leading case
 
-[[Unocal v. Mesa Petroleum]]. Mesa, holding 13%, launched a two-tier front-loaded offer at $54 for 37% with a junk-bond back end. Unocal's advisors put liquidation value above $60; its board — eight outside directors of fourteen, meeting separately before recommending — rejected the bid and adopted a self-tender for the remaining 49% at $72 in senior debt, **excluding Mesa**.
+[[Unocal v. Mesa Petroleum (1985)|Unocal v. Mesa Petroleum]]. Mesa, holding 13%, launched a two-tier front-loaded offer at $54 for 37% with a junk-bond back end. Unocal's advisors put liquidation value above $60; its board — eight outside directors of fourteen, meeting separately before recommending — rejected the bid and adopted a self-tender for the remaining 49% at $72 in senior debt, **excluding Mesa**.
 
 Both prongs were met. The threat was "a grossly inadequate two-tier coercive tender offer coupled with the threat of greenmail." The response was proportionate because including Mesa would mean Unocal financing Mesa's own $54 bid, and because Mesa "could not, by definition, fit within the class of shareholders being protected from its own coercive and inadequate tender offer."
 
@@ -126,13 +126,13 @@ Note that the **device** is obsolete even though the doctrine is not. The SEC's 
 
 ## Best counter-case
 
-[[Air Products v. Airgas]] is the case that shows how little prong one now constrains, and the best illustration of the standard's outer edge.
+[[Air Products v. Airgas (2011)|Air Products v. Airgas]] is the case that shows how little prong one now constrains, and the best illustration of the standard's outer edge.
 
 The distinguishing line: **Unocal's paradigm threat was a coercive structure; Airgas holds that inadequate price alone, as substantive coercion, is enough — even against a non-coercive, all-cash, fully financed, all-shares offer made to a concededly sophisticated and fully informed stockholder base.**
 
 The opinion is also its own counter-argument, which is why it is worth reading closely. Chandler finds "there seems to be no threat here," says the pill "has served its legitimate purpose," agrees with Allen's and Strine's narrower conception of substantive coercion, and holds for the board because he is "constrained" by Supreme Court precedent — chiefly Time's "deliberately conceived corporate plan" dictum and Selectica's holding that a classified board plus a pill is not preclusive.
 
-The other counterweight is [[Omnicare v. NCS Healthcare]], the rare case where prong one is satisfied and the board still loses. It shows that a well-founded threat and an exemplary process do not save a response that is preclusive or coercive — the draconian screen is absolute.
+The other counterweight is [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]], the rare case where prong one is satisfied and the board still loses. It shows that a well-founded threat and an exemplary process do not save a response that is preclusive or coercive — the draconian screen is absolute.
 
 ## Professor gloss
 
@@ -144,7 +144,7 @@ The other counterweight is [[Omnicare v. NCS Healthcare]], the rare case where p
 4. **Skipping the threat taxonomy.** Name which kind of coercion is at issue — structural, opportunity loss, or substantive. Airgas eliminates the first two and finds the third, and that sequence is the framework for any pill problem.
 5. **Confusing delay with preclusion.** Making control harder is not making it "realistically unattainable." A classified board plus a pill is not preclusive under Selectica, however long the wait.
 6. **Analysing defensive measures one at a time.** Where they are inextricably related, Unocal scrutinises the overall response as a unitary whole.
-7. **Treating entrenchment as the test.** It is a floor, inherited from Cheff, not the inquiry. A board can lose on proportionality with no entrenchment finding at all — Omnicare and [[Paramount v. QVC]] both do.
+7. **Treating entrenchment as the test.** It is a floor, inherited from Cheff, not the inquiry. A board can lose on proportionality with no entrenchment finding at all — Omnicare and [[Paramount v. QVC (1994)|Paramount v. QVC]] both do.
 8. **Applying Unocal post-closing.** It is an injunction standard. After closing, ask about Corwin cleansing instead.
 9. **Missing that Revlon displaces the second prong's content.** Once the company is being sold, price is the only legitimate objective, so a defence justified by strategy or culture fails automatically.
 10. **Treating good process as satisfying prong one.** It satisfies only half of it. The board must *also* articulate a legitimate threat, and Williams is the case where an unimpeachable process produced an illegitimate one.

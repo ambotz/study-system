@@ -13,7 +13,7 @@ last_drilled:
 
 ## Rule statement
 
-8 Del. C. § 141(a): "[t]he business and affairs of every corporation organized under this chapter shall be managed by or under the direction of a board of directors, **except as may be otherwise provided in this chapter or in its certificate of incorporation**." (Quoted from [[Gorman v. Salamone]] and [[West Palm Beach Firefighters v. Moelis & Co|Moelis]].)
+8 Del. C. § 141(a): "[t]he business and affairs of every corporation organized under this chapter shall be managed by or under the direction of a board of directors, **except as may be otherwise provided in this chapter or in its certificate of incorporation**." (Quoted from [[Gorman v. Salamone (2015)|Gorman v. Salamone]] and [[West Palm Beach Firefighters v. Moelis & Co (2024)|Moelis]].)
 
 That exception clause is the entire doctrine. An arrangement that removes board authority is valid if it sits in the **charter** and invalid if it sits anywhere else. Director primacy holds regardless of who holds the shares — it "remains the centerpiece of Delaware law, even when a controlling stockholder is present."
 
@@ -67,7 +67,7 @@ External commercial contracts constrain boards lawfully all the time — an excl
 
 ## Exceptions
 
-- **The charter.** § 141(a)'s own exception clause. Everything invalid in [[Gorman v. Salamone]] and [[West Palm Beach Firefighters v. Moelis & Co|Moelis]] would have been valid in the certificate of incorporation.
+- **The charter.** § 141(a)'s own exception clause. Everything invalid in [[Gorman v. Salamone (2015)|Gorman v. Salamone]] and [[West Palm Beach Firefighters v. Moelis & Co (2024)|Moelis]] would have been valid in the certificate of incorporation.
 - **Blank-check preferred.** A board may issue preferred stock — even "a single golden share" — carrying voting and director-appointment rights. The certificate of designations becomes part of the charter **as a matter of law**, at which point the rights comply with § 141(a).
 - **The doctrine of independent legal significance.** That the DGCL forbids one route to a result and permits another is deliberate. "Although some might find it bizarre that the DGCL would prohibit one means of accomplishing a goal while allowing another, that is what the doctrine of independent legal significance contemplates."
 - **8 Del. C. § 122(18)** — the legislature's answer to Moelis, assigned immediately after it. A corporation may, "**[n]otwithstanding § 141(a) of this title**, make contracts with 1 or more current or prospective stockholders (or 1 or more beneficial owners of stock), **in its or their capacity as such**," for minimum consideration determined by the board, "which may include inducing stockholders or beneficial owners of stock to take, or refrain from taking, 1 or more actions." Two limits carry the weight:
@@ -78,9 +78,9 @@ External commercial contracts constrain boards lawfully all the time — an excl
 
 ## Leading case
 
-[[West Palm Beach Firefighters v. Moelis & Co|Moelis]] — eighteen categories of pre-approval plus six board-composition provisions in a stockholder agreement signed the day before the IPO, held facially invalid in substantial part. "With the Pre-Approval Requirements in place, the Board is not really a board."
+[[West Palm Beach Firefighters v. Moelis & Co (2024)|Moelis]] — eighteen categories of pre-approval plus six board-composition provisions in a stockholder agreement signed the day before the IPO, held facially invalid in substantial part. "With the Pre-Approval Requirements in place, the Board is not really a board."
 
-Paired with [[Gorman v. Salamone]] for the bylaw branch: a stockholder-adopted bylaw permitting direct removal of officers without cause is invalid.
+Paired with [[Gorman v. Salamone (2015)|Gorman v. Salamone]] for the bylaw branch: a stockholder-adopted bylaw permitting direct removal of officers without cause is invalid.
 
 ## Best counter-case
 
@@ -97,4 +97,4 @@ The distinguishing line: **courts distinguish by prototype, not by definition.**
 3. **Stopping at invalidity.** The expected follow-up is always how to do it lawfully: the charter, or a golden share of preferred whose certificate of designations becomes part of the charter.
 4. **Taking a bylaw's self-description at face value.** "This bylaw only prescribes procedure" was Gorman's argument. Classification turns on context, purpose, intent and effect.
 5. **Forgetting § 141(c).** The Committee Composition Provision violated it independently of § 141(a), and committee composition questions carry their own subsection.
-6. **Missing the legislative pattern.** Court invalidates a market practice, General Assembly amends the DGCL. [[Smith v. Van Gorkom]] → § 102(b)(7); Moelis → § 122(18). Both pairs are assigned, which makes the pattern a likely theme rather than a coincidence.
+6. **Missing the legislative pattern.** Court invalidates a market practice, General Assembly amends the DGCL. [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]] → § 102(b)(7); Moelis → § 122(18). Both pairs are assigned, which makes the pattern a likely theme rather than a coincidence.

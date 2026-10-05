@@ -12,7 +12,7 @@ reconciled: false
 ## Readings
 
 - 8 Del. C. 220 (pre-SB 21) → [[Books and records inspection - 220 before and after SB 21]], [[Demand futility - Rule 23.1 and the Zuckerberg test]]
-- [[Amalgamated Bank v. Yahoo!]]
+- [[Amalgamated Bank v. Yahoo! (2016)|Amalgamated Bank v. Yahoo!]]
 - 8 Del. C. 220 (post-SB 21) → [[Books and records inspection - 220 before and after SB 21]], [[Demand futility - Rule 23.1 and the Zuckerberg test]]
 
 ## Notes

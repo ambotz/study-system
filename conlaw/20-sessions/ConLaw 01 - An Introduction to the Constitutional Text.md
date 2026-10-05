@@ -50,7 +50,7 @@ reconciled: false
 - Constitutional fights: higher order of law at a higher level of abstraction.
 - **Exam:** make constitutional arguments to a fact set.
 
-Source photos: [[ConLaw 01 p1.jpg]], [[ConLaw 01 p2.jpg]]
+Source photos: *ConLaw 01 p1.jpg*, *ConLaw 01 p2.jpg*
 
 ## Signals
 

@@ -58,7 +58,7 @@ reconciled: false
 - 3 step framework very famous in Separation of Power cases
 - This one is in the last step
 
-Source photos: [[ConLaw 02 p1.jpg]]
+Source photos: *ConLaw 02 p1.jpg*
 
 ## Signals
 

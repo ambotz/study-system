@@ -78,13 +78,13 @@ Only two routes, and the first requires **both** protections: approval "in accor
 
 ## Leading case
 
-[[In re Tesla Motors (Tesla 2)]] — decided under the **old** law, and the clearest demonstration of what the new subsections are for. The board conditioned the acquisition on majority-of-the-disinterested approval but formed **no special committee**. Under MFW that combination could not restore business judgment review, so Musk had to prove entire fairness at trial, and won. Under § 144(b) the vote alone would now suffice, and there would have been no trial.
+[[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]] — decided under the **old** law, and the clearest demonstration of what the new subsections are for. The board conditioned the acquisition on majority-of-the-disinterested approval but formed **no special committee**. Under MFW that combination could not restore business judgment review, so Musk had to prove entire fairness at trial, and won. Under § 144(b) the vote alone would now suffice, and there would have been no trial.
 
 Slights says as much himself: they "likely could have avoided this expensive and time-consuming litigation had they just adopted more objectively evident procedural protections... let this be a parable of unnecessary peril, despite the outcome."
 
 ## Best counter-case
 
-[[Kahn v. M&F Worldwide]], assigned in session 15, as the common-law baseline the statute departs from; the framework itself is in [[Controller buyouts - the MFW dual protection structure]].
+[[Kahn v. M&F Worldwide (2014)|Kahn v. M&F Worldwide]], assigned in session 15, as the common-law baseline the statute departs from; the framework itself is in [[Controller buyouts - the MFW dual protection structure]].
 
 The distinguishing line: **MFW required both protections, adopted from the outset, for any controller squeeze-out; § 144(b) requires one of three for an ordinary controller deal and reserves the two-prong requirement for going private under § 144(c).** On any fact pattern, establish first whether the deal is going private — that single classification decides how many protections are needed.
 
@@ -96,7 +96,7 @@ The distinguishing line: **MFW required both protections, adopted from the outse
 2. **Missing the going-private classification.** § 144(c) is the only place the two-prong rule survives, and § 144(e)(6) defines the category by reference to Rule 13e-3 or to cancellation of substantially all disinterested shares.
 3. **Forgetting the committee must be able to reject.** Negotiating authority alone does not satisfy § 144(b)(1). The delegation must include the power to say no.
 4. **Getting the timing of the vote condition wrong.** The condition must be in the terms "as in effect at the time it is submitted to stockholders" — looser than MFW's *ab initio* requirement, and a likely point of comparison.
-5. **Counting the wrong stockholders.** Majority of **votes cast** by **disinterested** stockholders, as defined in § 144(e)(5). In [[In re Tesla Motors (Tesla 1)]] the merger agreement excluded three people and left four interested directors in the tally.
+5. **Counting the wrong stockholders.** Majority of **votes cast** by **disinterested** stockholders, as defined in § 144(e)(5). In [[In re Tesla Motors (Tesla 1) (2018)|In re Tesla Motors (Tesla 1)]] the merger agreement excluded three people and left four interested directors in the tally.
 6. **Treating the safe harbour as total immunity.** § 144(d)(6) preserves procedural challenges, injunctive review of takeover defences, and aiding-and-abetting claims — which is why session 16 still has work to do.
 7. **Skipping the definitional gateway.** If the blockholder is not a controller under § 144(e)(2), the transaction runs through § 144(a) instead, and the analysis is different.
 8. **Reaching for [[Cleansing by stockholder vote - Corwin and the fully informed vote|Corwin]] on a controller deal.** Corwin cleanses only transactions not subject to entire fairness, so a controller on both sides takes the deal out of it. The vote route here is § 144(b)(2), not Corwin.

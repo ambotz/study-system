@@ -111,7 +111,7 @@ Chadha, an East Indian born in Kenya who held a British passport, was lawfully a
 - The narrower ground: "When Congress finds that a particular person does not satisfy the statutory criteria for permanent residence in this country it has assumed a judicial function."
 - "On its face, the House's action appears clearly adjudicatory. The House did not enact a general rule." Even mere review of INS findings is a function "ordinarily entrusted to the federal courts."
 - Congress adjudicating is unchecked power. It is bound by no substantive rules and gives none of the procedural safeguards of a court or agency, such as counsel and an impartial tribunal. "Congress is most accountable politically when it prescribes rules of general applicability"; individual rights decided by Congress are subject to "the tyranny of a shifting majority."
-- Marshall in [[Fletcher v. Peck]]: "It is the peculiar province of the legislature to prescribe general rules for the government of society; the application of those rules would seem to be the duty of other departments."
+- Marshall in *Fletcher v. Peck*: "It is the peculiar province of the legislature to prescribe general rules for the government of society; the application of those rules would seem to be the duty of other departments."
 
 **(White, J., dissenting)**
 

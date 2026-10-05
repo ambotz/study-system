@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[In re Motors Liquidation]]
-- [[Detroit Lions v. Argovitz]]
+- [[In re Motors Liquidation (2015)|In re Motors Liquidation]]
+- [[Detroit Lions v. Argovitz (1984)|Detroit Lions v. Argovitz]]
 
 ## Notes
 
@@ -63,7 +63,7 @@ Principal ----------------- 3rd party   <- External relationship
 - Agency terminated on principal's choice
 - Fiduciary duty → off the shelf but can be limited through indemnification [?]
 
-### [[In re Motors Liquidation]]
+### [[In re Motors Liquidation (2015)|In re Motors Liquidation]]
 
 **GM financings with JPM**
 
@@ -79,7 +79,7 @@ flowchart TB
     - Authority is limited. But principal can't confine scope of authority too nebulous or ambiguous.
     - Generally, when a lawyer files something on your behalf, you are legally binded.
 
-### [[Detroit Lions v. Argovitz]]
+### [[Detroit Lions v. Argovitz (1984)|Detroit Lions v. Argovitz]]
 
 **Lions, Sims, Gamblers**
 
@@ -103,7 +103,7 @@ flowchart LR
     - Normal rule: wrongdoer (agent) has to pay in breach of duty of loyalty/ca[re?] (fid. duty).
     - 3rd party typically gets the benefit of the bargain on agent.
 
-Source photos: [[BusOrg 02 p1.jpg]], [[BusOrg 02 p2.jpg]], [[BusOrg 02 p3.jpg]]
+Source photos: *BusOrg 02 p1.jpg*, *BusOrg 02 p2.jpg*, *BusOrg 02 p3.jpg*
 
 ## Signals
 

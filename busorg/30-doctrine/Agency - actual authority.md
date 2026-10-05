@@ -50,11 +50,11 @@ What does **not** defeat authority:
 
 ## Leading case
 
-[[In re Motors Liquidation]] — JPMorgan reviewed and assented to a UCC-3 termination statement that released a $1.5 billion security interest it never intended to touch. Because JPMorgan and its counsel manifested assent to the document, the filing was authorised and effective.
+[[In re Motors Liquidation (2015)|In re Motors Liquidation]] — JPMorgan reviewed and assented to a UCC-3 termination statement that released a $1.5 billion security interest it never intended to touch. Because JPMorgan and its counsel manifested assent to the document, the filing was authorised and effective.
 
 ## Best counter-case
 
-No true counter-case is assigned. The nearest contrast is [[Detroit Lions v. Argovitz]], which concerns an agent's **duties** rather than an agent's **power**.
+No true counter-case is assigned. The nearest contrast is [[Detroit Lions v. Argovitz (1984)|Detroit Lions v. Argovitz]], which concerns an agent's **duties** rather than an agent's **power**.
 
 The distinguishing line: **Motors Liquidation asks what the agent could do; Argovitz asks what the agent owed while doing it.** A fact pattern about whether the principal is bound is an authority question; a fact pattern about whether the agent must answer for the outcome is a loyalty question. Both can be live at once.
 
@@ -64,5 +64,5 @@ The distinguishing line: **Motors Liquidation asks what the agent could do; Argo
 
 1. **Arguing nobody meant it.** The court assumes throughout that nobody intended the result. Intention is the question the opinion sets aside in its first move, so an answer resting on it has restated the losing argument.
 2. **Confusing scope with duty.** An agent can have full authority to do something and still be liable to the principal for doing it. Separate the two.
-3. **Missing that silence is a manifestation.** Review without objection to a circulated document is the fact pattern that decides [[In re Motors Liquidation]], and it is the version most likely to reappear.
+3. **Missing that silence is a manifestation.** Review without objection to a circulated document is the fact pattern that decides [[In re Motors Liquidation (2015)|In re Motors Liquidation]], and it is the version most likely to reappear.
 4. **Forgetting apparent authority.** Where a fact pattern removes the principal's manifestation to the agent, check whether there was a manifestation to the third party instead.

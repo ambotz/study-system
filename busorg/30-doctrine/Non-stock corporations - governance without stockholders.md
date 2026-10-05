@@ -34,7 +34,7 @@ What remains is a **self-perpetuating board** and a **purpose clause**. The purp
 
 ### What remains
 
-- **§ 141(a) or its analogue, at full strength.** The University's Articles: "The management of the corporation shall be vested in a Board of Trustees... **The acts of the Board of Trustees shall be the acts of the corporation for all purposes**." No counterparty exists who could even attempt the constraining bylaw at issue in [[Gorman v. Salamone]] or the stockholder agreement in [[West Palm Beach Firefighters v. Moelis & Co]].
+- **§ 141(a) or its analogue, at full strength.** The University's Articles: "The management of the corporation shall be vested in a Board of Trustees... **The acts of the Board of Trustees shall be the acts of the corporation for all purposes**." No counterparty exists who could even attempt the constraining bylaw at issue in [[Gorman v. Salamone (2015)|Gorman v. Salamone]] or the stockholder agreement in [[West Palm Beach Firefighters v. Moelis & Co (2024)|West Palm Beach Firefighters v. Moelis & Co]].
 - **The purpose clause**, in the **enumerated powers** form that Delaware stock corporations abandoned — the same structure as the [[An Act to Incorporate the National Insurance Company|1815 National Insurance charter]] and [[Early corporate charters - enumerated powers]]. Modern stock charters say "any lawful act or activity"; a purpose-limited charter now survives chiefly in the non-stock world.
 - **Fiduciary duties of care and loyalty**, owed to the corporation — but enforced, if at all, by the state attorney general, donors enforcing gift restrictions, accreditors and tax authorities rather than by any private plaintiff with standing.
 - **Charter provisions as permanent commitments.** The University's 1890 anti-sectarian covenant survives verbatim through the 2010 restatement: "**No religious test or particular religious professions shall ever be held as a requisite** for elections to said Board or for admission to said University... or for election to any professorship."
@@ -89,7 +89,7 @@ In a stock corporation the charter is the one instrument the board cannot change
 - **Attorney general enforcement is real**, and is the principal external check on a self-perpetuating board.
 - **Donor restrictions are enforceable** as gift terms, and a corporation acting as trustee for restricted funds — as the University's Article 4 expressly contemplates — takes on trust obligations alongside its corporate ones.
 - **Tax law constrains distribution.** Not-for-profit status bars private inurement and excess benefit transactions, which polices the self-dealing that entire fairness would police in a stock corporation.
-- **The purpose clause is a real limit**, and the cleanest corporate-law statement of why is in [[New Enterprise Associates 14 v. Rich]]: a purpose clause **orients** a fiduciary relationship, and fiduciaries "cannot pick another path simply because they prefer it."
+- **The purpose clause is a real limit**, and the cleanest corporate-law statement of why is in [[New Enterprise Associates 14 v. Rich (2023)|New Enterprise Associates 14 v. Rich]]: a purpose clause **orients** a fiduciary relationship, and fiduciaries "cannot pick another path simply because they prefer it."
 
 ## Leading case
 
@@ -114,7 +114,7 @@ Run the comparison across four axes and the point is unmistakable:
 | Who may sue for breach | Stockholders, directly or derivatively | Effectively, the attorney general |
 | Purpose | Any lawful act or activity | A page of enumerated objects |
 
-The closing question the session poses is the one worth having an answer to: **if there are no residual claimants, for whose benefit do the trustees manage?** [[In re Trados]] gives the corporate answer — maximise value for the residual claimants, "not for the benefit of its contractual claimants" — and it has no referent here. The documents' answer is the purpose clause, enforced by everyone except a private plaintiff.
+The closing question the session poses is the one worth having an answer to: **if there are no residual claimants, for whose benefit do the trustees manage?** [[In re Trados (2013)|In re Trados]] gives the corporate answer — maximise value for the residual claimants, "not for the benefit of its contractual claimants" — and it has no referent here. The documents' answer is the purpose clause, enforced by everyone except a private plaintiff.
 
 ## Professor gloss
 

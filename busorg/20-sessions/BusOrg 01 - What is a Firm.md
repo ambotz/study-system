@@ -70,7 +70,7 @@ flowchart TB
 
 - **Course focus:** equity investors and the "box" of the entity (BoD and officers).
 
-Source photos: [[BusOrg 01 p1.jpg]]
+Source photos: *BusOrg 01 p1.jpg*
 
 ## Signals
 

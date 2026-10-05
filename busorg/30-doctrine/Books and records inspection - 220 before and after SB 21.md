@@ -107,7 +107,7 @@ Then, separately, that **each category of records is essential** to that purpose
 
 ## Leading case
 
-[[Amalgamated Bank v. Yahoo!]]. Amalgamated demanded records to investigate the hiring and firing of Yahoo's chief operating officer, Henrique de Castro, whose without-cause termination after fourteen months triggered $59.96 million in severance.
+[[Amalgamated Bank v. Yahoo! (2016)|Amalgamated Bank v. Yahoo!]]. Amalgamated demanded records to investigate the hiring and firing of Yahoo's chief operating officer, Henrique de Castro, whose without-cause termination after fourteen months triggered $59.96 million in severance.
 
 The opinion is the clearest statement of what the pre-SB 21 section actually required. On form and manner, brokerage statements dated three days before the demand sufficed, because Section 220 "must be applied with some appreciation of the practical considerations surrounding its use" and what it requires is documentation "sufficiently proximate in time to the date of the demand as to be consistent with and corroborate the averment." On proper purpose, the record was "troubling" and supported a credible basis to suspect both breach of fiduciary duty and waste, without any holding that wrongdoing occurred. On scope, email and other electronic documents are books and records, including material in Mayer's personal account, because "what matters is whether the record is essential and sufficient to satisfy the stockholder's proper purpose, **not its source**."
 

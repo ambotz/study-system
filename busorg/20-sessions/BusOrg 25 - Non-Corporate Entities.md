@@ -11,9 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[Elf Atochem North America v. Jaffari]]
+- [[Elf Atochem North America v. Jaffari (1999)|Elf Atochem North America v. Jaffari]]
 - [[Note on LLC default fiduciary duties]]
-- [[Miller v. HCP & Co]]
+- [[Miller v. HCP & Co (2018)|Miller v. HCP & Co]]
 
 ## Notes
 

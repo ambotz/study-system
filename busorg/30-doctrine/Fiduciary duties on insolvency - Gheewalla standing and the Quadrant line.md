@@ -82,13 +82,13 @@ But on insolvency "a transfer of value to the sole stockholder does not inure to
 
 ### The "reverse-Trados" theory, and its limit
 
-[[In re Trados]]: **solvent** company, directors loyal to **preferred** holders whose contract rights diverge from the **common** residual. Quadrant: **insolvent** company, directors loyal to the **equity** whose interests diverge from the **creditors** who are now primary residual claimants. Same structure, mirrored — and "[i]n a reverse of the situation in Trados, **the duty of loyalty to the common stockholders creates the conflict**."
+[[In re Trados (2013)|In re Trados]]: **solvent** company, directors loyal to **preferred** holders whose contract rights diverge from the **common** residual. Quadrant: **insolvent** company, directors loyal to the **equity** whose interests diverge from the **creditors** who are now primary residual claimants. Same structure, mirrored — and "[i]n a reverse of the situation in Trados, **the duty of loyalty to the common stockholders creates the conflict**."
 
 "The fault in this reasoning lies **not in the theory, but in its application** to business decisions that generally affect the value of the entity as a whole." The theory works for direct and specific benefits; it does not convert every strategic choice into an entire fairness case. Holding otherwise "would be inconsistent with the explanation the Delaware Supreme Court gave in Gheewalla."
 
 ### The equal treatment safe harbour
 
-From [[Sinclair Oil v. Levien]]: a distribution in which the controller "received nothing... to the exclusion of its minority stockholders" is not self-dealing and draws business judgment review; differential treatment is. "[E]qual treatment... operates as a **presumptive safe harbor**... even when those fiduciaries allegedly have divergent economic interests" — but it "is **not an absolute safe harbor**," because bad faith can still produce a loyalty breach where "the fiduciary intentionally acts with a purpose other than that of advancing the best interests of the corporation."
+From [[Sinclair Oil v. Levien (1971)|Sinclair Oil v. Levien]]: a distribution in which the controller "received nothing... to the exclusion of its minority stockholders" is not self-dealing and draws business judgment review; differential treatment is. "[E]qual treatment... operates as a **presumptive safe harbor**... even when those fiduciaries allegedly have divergent economic interests" — but it "is **not an absolute safe harbor**," because bad faith can still produce a loyalty breach where "the fiduciary intentionally acts with a purpose other than that of advancing the best interests of the corporation."
 
 "Greed is not the only human emotion that can pull one from the path of propriety; so might hatred, lust, envy, revenge,... shame or pride." But "[i]t is not enough... simply to argue **in the abstract** that a particular director has a conflict of interest or is acting in bad faith because she is affiliated with a particular type of institution."
 
@@ -117,15 +117,15 @@ The § 102(b)(7) point means creditor derivative suits, like stockholder ones, m
 
 ## Leading case
 
-[[NACEPF v. Gheewalla]]. A creditor holding FCC spectrum licences sued three Clearwire directors who served "at the behest of Goldman Sachs" and allegedly controlled the company because Goldman was its only source of funding. Crucially, NACEPF **did not plead any derivative claim** and asserted only direct claims.
+[[NACEPF v. Gheewalla (2007)|NACEPF v. Gheewalla]]. A creditor holding FCC spectrum licences sued three Clearwire directors who served "at the behest of Goldman Sachs" and allegedly controlled the company because Goldman was its only source of funding. Crucially, NACEPF **did not plead any derivative claim** and asserted only direct claims.
 
 Held: no direct claim in the zone of insolvency, and none in actual insolvency either. Derivative standing exists on insolvency because "[t]he corporation's insolvency 'makes the creditors the principal constituency injured by any fiduciary breaches that diminish the firm's value'," so "equitable considerations give creditors standing to pursue derivative claims."
 
-The case is a lesson in pleading as much as in doctrine. A derivative complaint on the same facts — directors favouring the controller's agenda at an insolvent company — is precisely what [[Quadrant Structured Products v. Vertin]] allows.
+The case is a lesson in pleading as much as in doctrine. A derivative complaint on the same facts — directors favouring the controller's agenda at an insolvent company — is precisely what [[Quadrant Structured Products v. Vertin (2014)|Quadrant Structured Products v. Vertin]] allows.
 
 ## Best counter-case
 
-[[Quadrant Structured Products v. Vertin]] is where the derivative claim actually works, and where its boundary is drawn.
+[[Quadrant Structured Products v. Vertin (2014)|Quadrant Structured Products v. Vertin]] is where the derivative claim actually works, and where its boundary is drawn.
 
 The distinguishing line: **Gheewalla tells you who may sue; Quadrant tells you what they can win, and the answer turns entirely on whether the decision conferred a direct and specific benefit on the controller.**
 

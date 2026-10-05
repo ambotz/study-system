@@ -128,7 +128,12 @@ def stem(r):
 def line(ix, r, style, have, midx=None):
     name = stem(r)
     label = r["case"] if r["case"] != name else None
-    link = f"[[{name}|{label}]]" if label else f"[[{name}]]"
+    # a reading with no note of its own is named, not linked: Obsidian renders a
+    # link to a missing note as a dead link, and statutes never get notes.
+    if name in have:
+        link = f"[[{name}|{label}]]" if label else f"[[{name}]]"
+    else:
+        link = f"*{label or name}*"
     bits = []
     if "start" in r:
         bits.append(f"pp. {r['start']}–{r['end']}")

@@ -12,8 +12,8 @@ reconciled: false
 ## Readings
 
 - 8 Del. C. 170, 154 → [[Controlling stockholder transactions - the self-dealing trigger]], [[Dividends and legal capital - 170 and 154]], [[Fiduciary duties on insolvency - Gheewalla standing and the Quadrant line]]
-- [[NACEPF v. Gheewalla]]
-- [[Quadrant Structured Products v. Vertin]]
+- [[NACEPF v. Gheewalla (2007)|NACEPF v. Gheewalla]]
+- [[Quadrant Structured Products v. Vertin (2014)|Quadrant Structured Products v. Vertin]]
 
 ## Notes
 

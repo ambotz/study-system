@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[Cheff v. Mathes]]
-- [[Unocal v. Mesa Petroleum]]
+- [[Cheff v. Mathes (1964)|Cheff v. Mathes]]
+- [[Unocal v. Mesa Petroleum (1985)|Unocal v. Mesa Petroleum]]
 
 ## Notes
 

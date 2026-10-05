@@ -22,7 +22,7 @@ Undercapitalisation and fragmentation of a business across many thinly financed 
 - **Enterprise entity** — the corporation is a fragment of a larger *corporate* combine that actually conducts the business. Only the **larger corporate entity** is reached. The shareholder is not.
 - **Dummy corporation** — the corporation is a facade for *individual* stockholders carrying on the business in their personal capacities for purely personal rather than corporate ends. The **stockholder** is personally liable.
 
-Pleading facts that fit the first while asking for the remedy available under the second is the error that decides [[Walkovzky v. Carlton]].
+Pleading facts that fit the first while asking for the remedy available under the second is the error that decides [[Walkovzky v. Carlton (1966)|Walkovzky v. Carlton]].
 
 **2. Particularised allegations of personal conduct.** The language the court supplies: the shareholder and his associates were "actually doing business in their individual capacities, shuttling their personal funds in and out of the corporations without regard to formality and to suit their immediate convenience." That is a "perversion of the privilege to do business in a corporate form."
 
@@ -60,7 +60,7 @@ Piercing "generally results not from a single factor, but rather some combinatio
 
 ## Leading case
 
-[[Walkovzky v. Carlton]] — a taxi fleet split across ten corporations of two cabs each, all carrying the $10,000 statutory minimum, and a complaint dismissed because it never alleged the shareholder was doing business personally.
+[[Walkovzky v. Carlton (1966)|Walkovzky v. Carlton]] — a taxi fleet split across ten corporations of two cabs each, all carrying the $10,000 statutory minimum, and a complaint dismissed because it never alleged the shareholder was doing business personally.
 
 ## Best counter-case
 
@@ -72,7 +72,7 @@ The distinguishing line: **the majority asks whose business was being conducted;
 
 ## Common trap
 
-1. **Mixing the two theories.** Enterprise entity reaches the combine; dummy corporation reaches the stockholder. The commonest error on [[Walkovzky v. Carlton]] is pleading one and demanding the other's remedy.
+1. **Mixing the two theories.** Enterprise entity reaches the combine; dummy corporation reaches the stockholder. The commonest error on [[Walkovzky v. Carlton (1966)|Walkovzky v. Carlton]] is pleading one and demanding the other's remedy.
 2. **Arguing unfairness.** The majority does not dispute that the structure exists to defeat recovery. It holds the remedy legislative. An answer built on the equities is answering the dissent.
 3. **Treating undercapitalisation as sufficient.** It was alleged in Walkovzky and was not enough. In Delaware it is one factor among five, and an overall element of injustice is required on top.
 4. **Forgetting the door is open.** The court says plainly that a valid cause of action against this defendant is possible and that the plaintiff simply has not pleaded one. The case is a drafting lesson, not a holding that the structure is lawful.

@@ -70,13 +70,13 @@ Both the dual protection structure and entire fairness converge on **price**. En
 
 ## Leading case
 
-[[Kahn v. M&F Worldwide]]. Perelman's MacAndrews & Forbes held roughly 43% of M&F Worldwide and offered in 2011 to buy the rest, stating in the opening offer letter that the deal would proceed only with both a special committee's approval and a non-waivable majority-of-the-minority vote, and that no tender offer would follow if the committee said no. An independent committee retained its own counsel and banker, negotiated the price up, and the minority approved. Summary judgment for the defendants, affirmed.
+[[Kahn v. M&F Worldwide (2014)|Kahn v. M&F Worldwide]]. Perelman's MacAndrews & Forbes held roughly 43% of M&F Worldwide and offered in 2011 to buy the rest, stating in the opening offer letter that the deal would proceed only with both a special committee's approval and a non-waivable majority-of-the-minority vote, and that no tender offer would follow if the committee said no. An independent committee retained its own counsel and banker, negotiated the price up, and the minority approved. Summary judgment for the defendants, affirmed.
 
 The appellants' objections and the court's answers are worth carrying. On the claim that independent directors may be inept or timid: directors who disregard their duties that way "are likely to be exceptional" — that is, rare — and Delaware's jurisprudence does not embrace so sceptical a view. On the claim that arbitrageurs approve any premium: that is "an editorial about the motives of investors" and does not show the vote was involuntary. The appellants also conceded below that the dual structure "is the optimal one for minority shareholders," which is the concession the incentive rationale rests on.
 
 ## Best counter-case
 
-[[In re Tesla Motors (Tesla 2)]]. Musk's board conditioned the SolarCity acquisition on a majority-of-the-disinterested vote but formed **no special committee**. Under MFW one protection cannot restore business judgment review, so entire fairness governed, and Musk had to win a full trial on price.
+[[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]]. Musk's board conditioned the SolarCity acquisition on a majority-of-the-disinterested vote but formed **no special committee**. Under MFW one protection cannot restore business judgment review, so entire fairness governed, and Musk had to win a full trial on price.
 
 The distinguishing line: **MFW is all-or-nothing on the structure, and the cost of missing one element is a trial.** Slights said as much — the defendants "likely could have avoided this expensive and time-consuming litigation had they just adopted more objectively evident procedural protections... let this be a parable of unnecessary peril, despite the outcome."
 

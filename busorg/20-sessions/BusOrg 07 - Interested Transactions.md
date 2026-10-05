@@ -12,8 +12,8 @@ reconciled: false
 ## Readings
 
 - 8 Del. C. 144(a) (pre-SB 21) → [[Director self-compensation and stockholder ratification - 141(h)]], [[Interested director and officer transactions - 144(a)]]
-- [[Bayer v. Beran]]
-- [[In re Investors Bancorp]]
+- [[Bayer v. Beran (1944)|Bayer v. Beran]]
+- [[In re Investors Bancorp (2017)|In re Investors Bancorp]]
 - 8 Del. C. 144(a),(d)(6),(e)(4),(5),(7),(8),(d)(2),(3) (post-SB 21) → [[Director self-compensation and stockholder ratification - 141(h)]], [[Interested director and officer transactions - 144(a)]], [[Books and records inspection - 220 before and after SB 21]]
 
 ## Notes

@@ -18,7 +18,7 @@ Stockholder ratification can restore deference — but **only for what the stock
 
 ## Elements
 
-**1. Legal authority to act.** § 141(h), plus whatever the stockholder-approved plan confers. Authority is rarely disputed; it is the first half of what [[In re Investors Bancorp]] calls the **"twice-tested"** inquiry.
+**1. Legal authority to act.** § 141(h), plus whatever the stockholder-approved plan confers. Authority is rarely disputed; it is the first half of what [[In re Investors Bancorp (2017)|In re Investors Bancorp]] calls the **"twice-tested"** inquiry.
 
 **2. The self-interest that strips the presumption.** A board fixing its own compensation is "deciding how much they should reward themselves for board service." Absent another factor, entire fairness.
 
@@ -36,9 +36,9 @@ Stockholder ratification can restore deference — but **only for what the stock
 
 **What does *not* save a discretionary plan**
 
-- **"Meaningful limits."** Caps and per-category ceilings were exactly what won dismissal in the Court of Chancery in [[In re Investors Bancorp]], and the Supreme Court reversed. The test is the **specificity of what was submitted**, not whether the discretion was bounded.
+- **"Meaningful limits."** Caps and per-category ceilings were exactly what won dismissal in the Court of Chancery in [[In re Investors Bancorp (2017)|In re Investors Bancorp]], and the Supreme Court reversed. The test is the **specificity of what was submitted**, not whether the discretion was bounded.
 - **A large approval margin.** 96.25% of voting shares approved the Investors Bancorp plan. Irrelevant, because the vote reached parameters and not awards.
-- **Retention of the benefit.** Compare [[Bayer v. Beran]], where acceptance and retention of benefits with full knowledge ratified informal board action. That works where the stockholders knew what the action was; it does not manufacture approval of "specific bargains not yet proposed."
+- **Retention of the benefit.** Compare [[Bayer v. Beran (1944)|Bayer v. Beran]], where acceptance and retention of benefits with full knowledge ratified informal board action. That works where the stockholders knew what the action was; it does not manufacture approval of "specific bargains not yet proposed."
 
 ## Standard of review / burden
 
@@ -58,11 +58,11 @@ Stockholder ratification can restore deference — but **only for what the stock
 
 ## Leading case
 
-[[In re Investors Bancorp]] — a plan capping non-employee directors at 30% of available shares, approved by 96.25% of voting shares, under which the board then awarded itself 7.8 million shares worth $51.6 million, taking each non-employee director from roughly $100,000–$200,000 to more than $2.1 million.
+[[In re Investors Bancorp (2017)|In re Investors Bancorp]] — a plan capping non-employee directors at 30% of available shares, approved by 96.25% of voting shares, under which the board then awarded itself 7.8 million shares worth $51.6 million, taking each non-employee director from roughly $100,000–$200,000 to more than $2.1 million.
 
 ## Best counter-case
 
-[[Bayer v. Beran]], where a conflicted transaction survived.
+[[Bayer v. Beran (1944)|Bayer v. Beran]], where a conflicted transaction survived.
 
 The distinguishing line: **the fiduciary in Bayer defended the transaction on its merits and met the burden; the fiduciaries in Investors Bancorp tried to avoid the burden with a vote that had not reached their awards.** A fact pattern where the conflicted party can show market terms, arm's-length process and full corporate benefit is a Bayer problem and can be won. A fact pattern where the defence rests on a prior approval is a ratification problem, and the question is only ever what that approval actually covered.
 

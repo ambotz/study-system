@@ -66,19 +66,26 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--class", dest="cls", required=True)
     ap.add_argument("--session-min", type=int, default=0)
+    ap.add_argument("--all", action="store_true",
+                    help="every .md in the class folder, not just the readings in the index")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
 
     base = os.path.join(VAULT, a.cls)
     ix = json.load(open(os.path.join(base, "99-meta", "case-index.json")))
     scope = set()
-    for s in ix["sessions"]:
-        if s["session"] < a.session_min:
-            continue
-        for r in s["readings"]:
-            p = os.path.join(base, "10-cases", r["case"] + ".md")
-            if os.path.exists(p):
-                scope.add(p)
+    if a.all:
+        for root, dirs, files in os.walk(base):
+            dirs[:] = [x for x in dirs if x not in ("00-source", "99-meta") and not x.startswith(".")]
+            scope |= {os.path.join(root, f) for f in files if f.endswith(".md")}
+    else:
+        for s in ix["sessions"]:
+            if s["session"] < a.session_min:
+                continue
+            for r in s["readings"]:
+                p = os.path.join(base, "10-cases", r["case"] + ".md")
+                if os.path.exists(p):
+                    scope.add(p)
 
     have = targets(base)
     changed = total = 0

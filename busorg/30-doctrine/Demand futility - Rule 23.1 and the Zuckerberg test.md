@@ -32,8 +32,8 @@ Demand is excused if half or more of the demand board answer yes to any of the t
 
 **4. Prong three — independence.** The assigned cases mark both ends of the line:
 
-- **Enough** ([[Marchand v. Barnhill]]): a director hired by the defendant's father as his administrative assistant, promoted to CFO, given a board seat, and honoured by a $450,000 family-led campaign naming a building after him — "very warm and thick personal ties of respect, loyalty, and affection." And independence is judged **against the decision at issue**: deciding whether to sue differs in kind from voting against someone.
-- **Not enough** ([[United Food (Tri-State) Pension Fund v. Zuckerberg]]): collegiality, gratitude, a policy waiver with nothing expected in return, and professional ties to deal advisors. Personal friendship alone is insufficient (*Beam*).
+- **Enough** ([[Marchand v. Barnhill (2019)|Marchand v. Barnhill]]): a director hired by the defendant's father as his administrative assistant, promoted to CFO, given a board seat, and honoured by a $450,000 family-led campaign naming a building after him — "very warm and thick personal ties of respect, loyalty, and affection." And independence is judged **against the decision at issue**: deciding whether to sue differs in kind from voting against someone.
+- **Not enough** ([[United Food (Tri-State) Pension Fund v. Zuckerberg (2021)|United Food (Tri-State) Pension Fund v. Zuckerberg]]): collegiality, gratitude, a policy waiver with nothing expected in return, and professional ties to deal advisors. Personal friendship alone is insufficient (*Beam*).
 
 **The operative distinction is between a relationship that creates a debt and one that creates warmth.**
 
@@ -61,11 +61,11 @@ Demand is excused if half or more of the demand board answer yes to any of the t
 
 ## Leading case
 
-[[United Food (Tri-State) Pension Fund v. Zuckerberg]] — the three-part test adopted, on facts where a nine-member demand board included two directors who had not yet joined the board when it approved the challenged reclassification.
+[[United Food (Tri-State) Pension Fund v. Zuckerberg (2021)|United Food (Tri-State) Pension Fund v. Zuckerberg]] — the three-part test adopted, on facts where a nine-member demand board included two directors who had not yet joined the board when it approved the challenged reclassification.
 
 ## Best counter-case
 
-[[Marchand v. Barnhill]] on prong three, where the same inquiry comes out the other way.
+[[Marchand v. Barnhill (2019)|Marchand v. Barnhill]] on prong three, where the same inquiry comes out the other way.
 
 The distinguishing line: **Rankin owed his career and a named building to the defendant's family; Bowles was collegial and grateful.** A relationship that would make suing feel like betrayal of a benefactor defeats independence; one that would merely make it awkward does not.
 

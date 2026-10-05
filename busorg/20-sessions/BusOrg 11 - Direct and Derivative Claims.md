@@ -11,10 +11,10 @@ reconciled: false
 
 ## Readings
 
-- [[Tooley v. Donaldson, Lufkin & Jenrette]]
-- [[In re Riverstone National]]
+- [[Tooley v. Donaldson, Lufkin & Jenrette (2004)|Tooley v. Donaldson, Lufkin & Jenrette]]
+- [[In re Riverstone National (2016)|In re Riverstone National]]
 - Del. Ct. Ch. R. 23.1 → [[Demand futility - Rule 23.1 and the Zuckerberg test]], [[Direct versus derivative claims - the Tooley test]], [[Special litigation committees - the Zapata two-step]]
-- [[United Food (Tri-State) Pension Fund v. Zuckerberg]]
+- [[United Food (Tri-State) Pension Fund v. Zuckerberg (2021)|United Food (Tri-State) Pension Fund v. Zuckerberg]]
 
 ## Notes
 

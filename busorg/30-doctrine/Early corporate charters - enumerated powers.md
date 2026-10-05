@@ -29,7 +29,7 @@ The modern Delaware **enabling statute** inverts the default. Corporate existenc
 - **Bylaw power, granted expressly and narrowly.** § VII lets the president and directors make by-laws that "shall not be repugnant to the constitution and laws of this state or of the United States."
 - **No limited liability by default.** § XIV makes the stockholders "responsible in their individual and private capacity to the extent of their respective shares" for debts contracted before the charter's expiry, and closes by making the president and directors personally responsible for losses caused by their negligence in the specified respect.
 
-**2. The enabling-statute world — what a charter does now.** Corporate power is general; the certificate of incorporation is where a corporation **opts out** of defaults rather than where it receives its powers. The clause that matters most in this course is § 141(a)'s own exception — the board manages "except as may be otherwise provided in this chapter **or in its certificate of incorporation**" — which is why the charter is the cure for both [[Gorman v. Salamone]] and [[West Palm Beach Firefighters v. Moelis & Co|Moelis]].
+**2. The enabling-statute world — what a charter does now.** Corporate power is general; the certificate of incorporation is where a corporation **opts out** of defaults rather than where it receives its powers. The clause that matters most in this course is § 141(a)'s own exception — the board manages "except as may be otherwise provided in this chapter **or in its certificate of incorporation**" — which is why the charter is the cure for both [[Gorman v. Salamone (2015)|Gorman v. Salamone]] and [[West Palm Beach Firefighters v. Moelis & Co (2024)|Moelis]].
 
 **3. The consequence for ultra vires.** Under a special act, acting outside the grant was unlawful as to the state and raised a forfeiture question. It did **not** automatically make directors liable to stockholders: [[Scott v. Depeyster (1832)]] holds that an honest misconstruction of the grant does not charge a trustee, that acquiescing stockholders are *in pari delicto*, and that liability still requires causation.
 
@@ -54,7 +54,7 @@ The modern Delaware **enabling statute** inverts the default. Corporate existenc
 
 ## Best counter-case
 
-[[West Palm Beach Firefighters v. Moelis & Co|Moelis]], read as the modern mirror image.
+[[West Palm Beach Firefighters v. Moelis & Co (2024)|Moelis]], read as the modern mirror image.
 
 The distinguishing line: **in 1815 the charter was the only place corporate power came from; today the charter is the only place board authority may be varied.** In both worlds the certificate is the privileged instrument — what changed is whether it grants power or withholds a default.
 

@@ -29,7 +29,7 @@ A properly motivated board with a legitimate threat "must **tailor its response 
 
 ### Why the franchise gets special treatment
 
-Two reasons, both from [[Blasius Industries v. Atlas Corp]], and they are different arguments.
+Two reasons, both from [[Blasius Industries v. Atlas Corp (1988)|Blasius Industries v. Atlas Corp]], and they are different arguments.
 
 **Legitimacy.** "The shareholder franchise is the **ideological underpinning** upon which the legitimacy of directorial power rests." Stockholders have only two protections against poor performance — sell, or vote to replace the board — and whether the vote is "an unimportant formalism, or... an important tool of discipline, it is clear that it is critical to the theory that legitimates the exercise of power by some (directors and officers) over **vast aggregations of property that they do not own**."
 
@@ -39,7 +39,7 @@ Two reasons, both from [[Blasius Industries v. Atlas Corp]], and they are differ
 
 - "The board, as a general matter, is **under no fiduciary obligation to suspend its active management** of the firm while the consent solicitation process goes forward."
 - Action taken "**completely independently** of the consent solicitation, which merely had an **incidental** impact," is "very unlikely" to be nullified.
-- [[Coster v. UIP Companies]] restates it: "[i]f the Atlas board had acted **on a clear day** to establish new seats and to fill the vacancies, the circumstances would have been different. But for the Atlas board, the skies were cloudy, and it was raining."
+- [[Coster v. UIP Companies (2023)|Coster v. UIP Companies]] restates it: "[i]f the Atlas board had acted **on a clear day** to establish new seats and to fill the vacancies, the circumstances would have been different. But for the Atlas board, the skies were cloudy, and it was raining."
 
 ### Persuasion versus preclusion
 
@@ -96,13 +96,13 @@ The entire-fairness row is the least intuitive and the most testable. In Coster 
 - **The clear day.** Independent action with merely incidental electoral effect is very unlikely to be nullified, and the board need not suspend management during a consent solicitation.
 - **Informing the electorate.** Spending corporate funds to persuade stockholders is legitimate.
 - **Outside contests for control**, the heightened inquiry does not apply; ordinary fiduciary tools govern.
-- **Preclusion is measured by what remains.** Coster lost a blocking half-interest and the court found no preclusion, because three equal owners not bound to vote together left her a **swing vote** and "[a] realistic path to control... negates the preclusive impact." Same move as Selectica and [[Air Products v. Airgas]] — delay and difficulty are not preclusion.
+- **Preclusion is measured by what remains.** Coster lost a blocking half-interest and the court found no preclusion, because three equal owners not bound to vote together left her a **swing vote** and "[a] realistic path to control... negates the preclusive impact." Same move as Selectica and [[Air Products v. Airgas (2011)|Air Products v. Airgas]] — delay and difficulty are not preclusion.
 - **Mixed motives are survivable** where the legitimate purposes are genuine and "stood alongside" the problematic ones, and are not "pretexts for entrenchment for selfish reasons" or post-hoc justifications.
 - **The Blasius/Unocal divide has collapsed.** The casebook note after Airgas observes that the sharp distinction between weakly protected tender offers and robustly protected voting rights "appears to have collapsed" in Coster. Both now run through [[Takeover defences - Unocal enhanced scrutiny]].
 
 ## Leading case
 
-[[Blasius Industries v. Atlas Corp]] remains the leading statement because of what the Chancellor **found in the board's favour** before ruling against it.
+[[Blasius Industries v. Atlas Corp (1988)|Blasius Industries v. Atlas Corp]] remains the leading statement because of what the Chancellor **found in the board's favour** before ruling against it.
 
 A 9.1% holder delivered a § 228(a) consent that would have expanded the board from seven to the charter maximum of fifteen and elected eight new directors in a single step. The next day, by emergency telephone meeting with a regular meeting a week away, the board expanded from seven to nine and filled both seats — turning one election into two.
 
@@ -114,7 +114,7 @@ None of it mattered, because the board's **principal motivation** was to preclud
 
 ## Best counter-case
 
-[[Coster v. UIP Companies]] is both the successor standard and the case where the board wins.
+[[Coster v. UIP Companies (2023)|Coster v. UIP Companies]] is both the successor standard and the case where the board wins.
 
 The distinguishing line: **Blasius had a real alternative and used the wrong one; the UIP board faced an existential threat and chose the narrowest response available.**
 
@@ -133,5 +133,5 @@ The lesson a plaintiff should take is that **overreach can supply the threat**. 
 5. **Ignoring the clear-day safe harbour.** No obligation to suspend management during a consent solicitation, and incidental electoral effects are very unlikely to be nullified. Ask when the plan was conceived.
 6. **Measuring preclusion by what the plaintiff lost.** Ask what path to control **remains**. A swing vote is a realistic path; losing a blocking position is not preclusion.
 7. **Reaching for this standard outside a control contest.** It is situationally specific, and Mercier warned against exporting it where ordinary tools suffice.
-8. **Missing the persuasion/preclusion line.** Spending corporate funds to inform is legitimate; spending power to foreclose is not. The same line decides [[Hewlett v. Hewlett-Packard]].
+8. **Missing the persuasion/preclusion line.** Spending corporate funds to inform is legitimate; spending power to foreclose is not. The same line decides [[Hewlett v. Hewlett-Packard (2002)|Hewlett v. Hewlett-Packard]].
 9. **Offering "the board knows better" as the threat.** It is the one justification Delaware has rejected continuously from 1988 to 2023.

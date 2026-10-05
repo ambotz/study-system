@@ -23,13 +23,13 @@ Four conditions, all necessary.
 
 1. **Entire fairness does not apply.** No controlling stockholder stands on the other side of the transaction, and no other entire-fairness trigger is present. This is the gateway, and it is checked first.
 2. **The vote is fully informed.** "[I]f troubling facts regarding director behavior were not disclosed that would have been material to a voting stockholder, then the business judgment rule is not invoked." In Corwin all objective facts about the board's interests, KKR's interests and the negotiation process were disclosed.
-3. **The vote is uncoerced.** A vote whose outcome was structurally predetermined is not an uncoerced vote — the [[Omnicare v. NCS Healthcare]] fait accompli analysis reappears here.
+3. **The vote is uncoerced.** A vote whose outcome was structurally predetermined is not an uncoerced vote — the [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]] fait accompli analysis reappears here.
 4. **The voters are disinterested.** Interested holders are excluded from the count.
 
 ### The rationale
 
 - **Function over label.** "Unocal and Revlon are primarily designed to give stockholders and the Court of Chancery the tool of **injunctive relief** to address important M&A decisions **in real time, before closing**." They were not built for post-closing damages claims.
-- **Standards mismatch.** Revlon's reasonableness inquiry does not line up with [[Smith v. Van Gorkom|Van Gorkom]]'s gross negligence standard for due care liability, and with exculpatory charter provisions prevalent, due care liability "is rarely even available."
+- **Standards mismatch.** Revlon's reasonableness inquiry does not line up with [[Smith v. Van Gorkom (1985)|Van Gorkom]]'s gross negligence standard for due care liability, and with exculpatory charter provisions prevalent, due care liability "is rarely even available."
 - **Institutional competence and cost.** Judges are poorly positioned to evaluate the wisdom of business decisions, while informed disinterested stockholders have an actual economic stake. Where the real parties in interest "can easily protect themselves at the ballot box by simply voting no," judicial review "promises more costs to stockholders in the form of litigation rents and inhibitions on risk-taking" than benefits.
 
 ### The controller gateway — who is a controller short of majority ownership
@@ -66,23 +66,23 @@ The doctrine stacks with [[Charter exculpation of director liability|§ 102(b)(7
 - **Pre-closing injunctions.** Revlon and Unocal remain fully available before closing, which is what [[Sale of control - Revlon and the duty to maximise price]] and [[Deal protection devices - Unocal review of merger lock-ups]] are for.
 - **Uninformed votes.** A material undisclosed fact about director behaviour defeats cleansing. The materiality standard is the one in [[Disclosure settlements in deal litigation - the give and the get]].
 - **Coerced votes.** Structural coercion of the Omnicare kind, or a vote whose outcome was fixed before it was taken.
-- **A paradigmatic Revlon claim.** Where a conflicted fiduciary concealed his machinations from the board, the board could not disclose what it did not know, so the vote is not fully informed. [[In re Mindbody, Inc., Stockholder Litigation]] endorses the generalisation that proving such a claim will ordinarily defeat the defence — the most reliable route around Corwin on a sale-process fact pattern.
+- **A paradigmatic Revlon claim.** Where a conflicted fiduciary concealed his machinations from the board, the board could not disclose what it did not know, so the vote is not fully informed. [[In re Mindbody, Inc., Stockholder Litigation (2024)|In re Mindbody, Inc., Stockholder Litigation]] endorses the generalisation that proving such a claim will ordinarily defeat the defence — the most reliable route around Corwin on a sale-process fact pattern.
 - **Waste.** A fully informed vote cannot ratify a transaction no person of ordinary sound business judgment could consider fair consideration.
 - **Bad faith.** Business judgment review is a presumption, not immunity. See [[Oversight liability - Caremark and good faith]].
 
 ## Leading case
 
-[[Corwin v. KKR Financial Holdings]]. A stock-for-stock merger between KKR and KKR Financial Holdings, challenged post-closing for damages. Two holdings in one short opinion: KKR was not a controlling stockholder on these facts, and with entire fairness out of the case the informed, uncoerced disinterested vote was outcome-determinative.
+[[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]]. A stock-for-stock merger between KKR and KKR Financial Holdings, challenged post-closing for damages. Two holdings in one short opinion: KKR was not a controlling stockholder on these facts, and with entire fairness out of the case the informed, uncoerced disinterested vote was outcome-determinative.
 
 The most useful move in the opinion is the refusal to decide the Revlon question at all — "it does not matter" — because the vote resolves the case whichever way Revlon would have come out. That is the sharpest possible statement of what cleansing does.
 
 ## Best counter-case
 
-[[Omnicare v. NCS Healthcare]] is the structural counterweight, and it is the reason condition three exists. NCS's public stockholders held 80% of the company and overwhelmingly preferred a superior bid, and the deal protection devices made their vote a formality: they "were required to accept it because it was a fait accompli." A vote robbed of its effectiveness by structural coercion cleanses nothing.
+[[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]] is the structural counterweight, and it is the reason condition three exists. NCS's public stockholders held 80% of the company and overwhelmingly preferred a superior bid, and the deal protection devices made their vote a formality: they "were required to accept it because it was a fait accompli." A vote robbed of its effectiveness by structural coercion cleanses nothing.
 
 The distinguishing line: **Corwin defers to a vote that could have gone the other way; Omnicare condemns a structure in which the vote could not.** On any fact pattern, ask whether voting no would have changed anything before asking whether the disclosure was adequate.
 
-[[In re Trulia]] supplies the other half of the attack. Because cleansing requires a fully informed vote, the whole contest moves to disclosure, and Trulia's materiality and fair-summary standards decide it.
+[[In re Trulia (2016)|In re Trulia]] supplies the other half of the attack. Because cleansing requires a fully informed vote, the whole contest moves to disclosure, and Trulia's materiality and fair-summary standards decide it.
 
 ## Professor gloss
 

@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[Meinhard v. Salmon]]
-- [[Walkovzky v. Carlton]]
+- [[Meinhard v. Salmon (1928)|Meinhard v. Salmon]]
+- [[Walkovzky v. Carlton (1966)|Walkovzky v. Carlton]]
 
 ## Notes
 
@@ -96,7 +96,7 @@ Equity
 - Fiduciary duties
 - Charter restrictions
 
-### [[Walkovzky v. Carlton]] (1966)
+### [[Walkovzky v. Carlton (1966)|Walkovzky v. Carlton]] (1966)
 
 - Why was Marchese an agent? Seon cab has respondeat superior for Marchese's actions.
 - Wouldn't Marchese (cab driver) have a rental agreement renting the cab from Carlton create less liability for Carlton?
@@ -115,7 +115,7 @@ Equity
 
 - Fix Notes creation format (include years)
 
-Source photos: [[BusOrg 03 p1.jpg]], [[BusOrg 03 p2.jpg]]
+Source photos: *BusOrg 03 p1.jpg*, *BusOrg 03 p2.jpg*
 
 ## Signals
 

@@ -14,7 +14,7 @@ last_drilled:
 
 A Delaware certificate of incorporation may contain a provision eliminating or limiting a director's personal liability to the corporation or its stockholders for **monetary damages** for breach of fiduciary duty as a director, subject to four carve-outs. Virtually every Delaware corporation has adopted such a provision.
 
-The practical effect is that a duty of care claim seeking damages is no longer viable standing alone. Section 102(b)(7) was the Delaware General Assembly's direct answer to [[Smith v. Van Gorkom]], adopted quickly after that decision alarmed directors and their insurers.
+The practical effect is that a duty of care claim seeking damages is no longer viable standing alone. Section 102(b)(7) was the Delaware General Assembly's direct answer to [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]], adopted quickly after that decision alarmed directors and their insurers.
 
 ## Elements
 
@@ -53,7 +53,7 @@ No such provision eliminates or limits liability for any act or omission occurri
 | What the plaintiff must plead | Self-interest adverse to stockholders, action advancing an interested party's interest, or bad faith |
 | Untouched | Injunctive relief; loyalty; bad faith; § 174; improper personal benefit |
 
-On a motion to dismiss against an exculpated director, a plaintiff survives only by "pleading facts supporting a rational inference that the director harbored self-interest adverse to the stockholders' interest, acted to advance the self-interest of an interested party from whom they could not be presumed to act independently, or acted in bad faith" ([[In re Cornerstone Therapeutics|Cornerstone]]). Where no such facts are pleaded against the independent directors, dismissal as to those directors is required.
+On a motion to dismiss against an exculpated director, a plaintiff survives only by "pleading facts supporting a rational inference that the director harbored self-interest adverse to the stockholders' interest, acted to advance the self-interest of an interested party from whom they could not be presumed to act independently, or acted in bad faith" (*Cornerstone*). Where no such facts are pleaded against the independent directors, dismissal as to those directors is required.
 
 ## Exceptions
 
@@ -63,13 +63,13 @@ On a motion to dismiss against an exculpated director, a plaintiff survives only
 
 ## Leading case
 
-No case construes § 102(b)(7) in the assigned reading for this session. The provision is assigned as statutory text alongside [[Smith v. Van Gorkom]], the decision that prompted it.
+No case construes § 102(b)(7) in the assigned reading for this session. The provision is assigned as statutory text alongside [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]], the decision that prompted it.
 
-The two cases named in the casebook note are [[Malpiede v. Townson]], for the proposition that a standalone care-damages claim is dismissed immediately where the corporation has adopted the provision, and [[In re Cornerstone Therapeutics|Cornerstone]], for what a plaintiff must plead to survive against an exculpated director.
+The two cases named in the casebook note are *Malpiede v. Townson*, for the proposition that a standalone care-damages claim is dismissed immediately where the corporation has adopted the provision, and *Cornerstone*, for what a plaintiff must plead to survive against an exculpated director.
 
 ## Best counter-case
 
-[[Smith v. Van Gorkom]] — the world before the provision, and the reason the provision exists.
+[[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]] — the world before the provision, and the reason the provision exists.
 
 The distinguishing line: **§ 102(b)(7) changes the remedy, not the standard.** Van Gorkom's process holding survives intact and still governs how boards must run a sale process and still supports injunctive relief. What does not survive is the money judgment against the outside directors. On any fact pattern, separate the question of whether the directors breached from the question of whether the plaintiff can collect.
 

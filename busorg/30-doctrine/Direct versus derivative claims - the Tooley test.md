@@ -40,7 +40,7 @@ The stockholder's claimed direct injury "must be **independent** of any alleged 
 
 And recovery "flows only to the corporation." A direct plaintiff faces none of this.
 
-**5. The merger pattern.** A merger extinguishes derivative standing, because continuous ownership fails. Where the merger was itself the vehicle for extinguishing a claim against the approving directors, [[In re Riverstone National]] reclassifies: the lost claim is a corporate asset and its loss is corporate harm, but **the failure to price it into the merger consideration is a direct harm to the former stockholders**. To plead it a plaintiff must allege the claim existed, would have **survived a motion to dismiss**, was threatened and known to the board, and was **material** to the directors.
+**5. The merger pattern.** A merger extinguishes derivative standing, because continuous ownership fails. Where the merger was itself the vehicle for extinguishing a claim against the approving directors, [[In re Riverstone National (2016)|In re Riverstone National]] reclassifies: the lost claim is a corporate asset and its loss is corporate harm, but **the failure to price it into the merger consideration is a direct harm to the former stockholders**. To plead it a plaintiff must allege the claim existed, would have **survived a motion to dismiss**, was threatened and known to the board, and was **material** to the directors.
 
 ## Standard of review / burden
 
@@ -60,11 +60,11 @@ And recovery "flows only to the corporation." A direct plaintiff faces none of t
 
 ## Leading case
 
-[[Tooley v. Donaldson, Lufkin & Jenrette]] — two questions, "special injury" disavowed, and the standard must be "clear, simple and consistently articulated" precisely because classification decides cases.
+[[Tooley v. Donaldson, Lufkin & Jenrette (2004)|Tooley v. Donaldson, Lufkin & Jenrette]] — two questions, "special injury" disavowed, and the standard must be "clear, simple and consistently articulated" precisely because classification decides cases.
 
 ## Best counter-case
 
-[[In re Riverstone National]] as the hard application rather than a conflict.
+[[In re Riverstone National (2016)|In re Riverstone National]] as the hard application rather than a conflict.
 
 The distinguishing line: **ask what the plaintiff must prove to win.** If proving the case requires showing the corporation was hurt, it is derivative. In Riverstone the plaintiffs had to show the **price they personally received** was too low — a claim they could win without proving corporate injury, because the corporation no longer existed independently of the deal.
 

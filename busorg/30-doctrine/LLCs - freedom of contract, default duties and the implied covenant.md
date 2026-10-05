@@ -32,7 +32,7 @@ Three consequences, in order:
 
 **That is the test.** Ask whom the provision protects. Provisions structuring the members' own relations are defaults; provisions safeguarding outsiders bind.
 
-What the members may contract around, on the authority of [[Elf Atochem North America v. Jaffari]]:
+What the members may contract around, on the authority of [[Elf Atochem North America v. Jaffari (1999)|Elf Atochem North America v. Jaffari]]:
 
 - The **Delaware forum**, including for **derivative** claims otherwise permitted by § 18-1001.
 - The **Chancery jurisdiction** conferred by §§ 18-110(a) and 18-111. "[F]or the purpose of designating a more convenient forum, we find no reason why the members cannot alter the default jurisdictional provisions of the statute."
@@ -110,16 +110,16 @@ The reason given is conceptual and worth quoting: "**It is the members who are t
 
 ## Exceptions
 
-- **The corporate form is the alternative, and the difference is stark.** "[I]f the parties had chosen to employ the **corporate form** here, with its common-law fiduciary duties, this matter would be subject to **entire fairness review**." Compare [[In re Trados]] — nearly identical economics, opposite result.
-- **Corporations cannot do this at the entity level.** Stockholders may not use the charter or bylaws to rearrange the board's § 141(a) authority — [[Gorman v. Salamone]], [[West Palm Beach Firefighters v. Moelis & Co]], [[Director primacy - limits on constraining the board]]. Gorman's footnote is the bridge: "a Delaware corporation is a **board-centric entity**. Other governance structures can be imposed on other entities, if that is what the stakeholders desire."
-- **Corporations can do something similar at the stockholder level.** [[New Enterprise Associates 14 v. Rich]] upholds a covenant not to sue in a stockholder-level agreement, while noting that this "does not turn corporations into LLCs," because "the fundamental differences... operate at the **basal level of their statutes and constitutive documents**."
+- **The corporate form is the alternative, and the difference is stark.** "[I]f the parties had chosen to employ the **corporate form** here, with its common-law fiduciary duties, this matter would be subject to **entire fairness review**." Compare [[In re Trados (2013)|In re Trados]] — nearly identical economics, opposite result.
+- **Corporations cannot do this at the entity level.** Stockholders may not use the charter or bylaws to rearrange the board's § 141(a) authority — [[Gorman v. Salamone (2015)|Gorman v. Salamone]], [[West Palm Beach Firefighters v. Moelis & Co (2024)|West Palm Beach Firefighters v. Moelis & Co]], [[Director primacy - limits on constraining the board]]. Gorman's footnote is the bridge: "a Delaware corporation is a **board-centric entity**. Other governance structures can be imposed on other entities, if that is what the stakeholders desire."
+- **Corporations can do something similar at the stockholder level.** [[New Enterprise Associates 14 v. Rich (2023)|New Enterprise Associates 14 v. Rich]] upholds a covenant not to sue in a stockholder-level agreement, while noting that this "does not turn corporations into LLCs," because "the fundamental differences... operate at the **basal level of their statutes and constitutive documents**."
 - **Intentional wrongdoing.** Rich holds that Delaware "generally prohibits contractual provisions that purport to exculpate a party for tort liability resulting from **intentional or reckless harm**," though corporate law extends the power to exculpate to recklessness, never to intent. The LLC Act's analogous limit is § 18-1101(c) — the implied covenant — and § 18-1101(e), which bars limiting liability for a **bad faith violation of the implied covenant**.
 - **Mandatory provisions protecting third parties** bind regardless of the agreement.
 - **Elf Atochem contracts away the forum, not the claim.** Elf could still litigate everything — in California, by arbitration or in court.
 
 ## Leading case
 
-[[Elf Atochem North America v. Jaffari]]. A two-member joint venture whose LLC agreement required arbitration in San Francisco and selected California courts, and which the LLC itself never signed. Elf sued in Chancery, individually and derivatively, alleging that Jaffari breached fiduciary duties, withdrew funds for personal use, pushed the LLC toward insolvency and interfered with business opportunities.
+[[Elf Atochem North America v. Jaffari (1999)|Elf Atochem North America v. Jaffari]]. A two-member joint venture whose LLC agreement required arbitration in San Francisco and selected California courts, and which the LLC itself never signed. Elf sued in Chancery, individually and derivatively, alleging that Jaffari breached fiduciary duties, withdrew funds for personal use, pushed the LLC toward insolvency and interfered with business opportunities.
 
 Dismissed for lack of subject matter jurisdiction, and affirmed. The LLC is bound because § 18-101(7) defines the agreement as one "of the member or members" and the members signed it. The derivative label is irrelevant because the clauses "do not distinguish between direct and derivative claims." Even counts pleaded under a separate Distributorship Agreement with no forum clause are swept in, because "all of plaintiff's claims revolve around Jaffari's conduct (or misconduct) as Malek's manager." And the statutory grants of Chancery jurisdiction are defaults members may alter.
 
@@ -127,7 +127,7 @@ The casebook's framing is the one to remember: a corporation "must have a board 
 
 ## Best counter-case
 
-[[Miller v. HCP & Co]] shows what the freedom costs the minority, and is the better case for the exam because it runs the implied covenant analysis end to end.
+[[Miller v. HCP & Co (2018)|Miller v. HCP & Co]] shows what the freedom costs the minority, and is the better case for the exam because it runs the implied covenant analysis end to end.
 
 The distinguishing line: **Elf Atochem lets members contract away the forum; Miller shows that once they also contract away fiduciary duties, the only surviving protection usually has no work to do.**
 

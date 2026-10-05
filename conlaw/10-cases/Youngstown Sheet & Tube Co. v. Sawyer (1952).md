@@ -37,7 +37,7 @@ Presidential power is **relative to Congress**. Where Congress has addressed the
 
 **Rejected**
 
-- *Past Presidents have seized private businesses in labor disputes without congressional authority, and that practice establishes the power.* Black: even if so, Congress "has not thereby lost its exclusive constitutional authority to make laws." Frankfurter takes the argument more seriously and still rejects it: a practice can gloss "executive Power" only if it is "systematic, unbroken," "long pursued to the knowledge of the Congress and never before questioned." Three seizures in six months of 1941 are not [[United States v. Midwest Oil|Midwest Oil]]'s 252 withdrawals over 80 years.
+- *Past Presidents have seized private businesses in labor disputes without congressional authority, and that practice establishes the power.* Black: even if so, Congress "has not thereby lost its exclusive constitutional authority to make laws." Frankfurter takes the argument more seriously and still rejects it: a practice can gloss "executive Power" only if it is "systematic, unbroken," "long pursued to the knowledge of the Congress and never before questioned." Three seizures in six months of 1941 are not *Midwest Oil*'s 252 withdrawals over 80 years.
 - *The aggregate of Article II powers, read together in a national emergency, supports the seizure.* Jackson: the Vesting Clause is not "a grant in bulk of all conceivable executive power"; if it were, the Framers would not have bothered listing "several specific items, including some trifling ones."
 - *Sending troops to Korea gives the President affirmative power to secure their supply.* Jackson calls this the most "sinister and alarming" doctrine the Court could adopt: a President could enlarge his domestic power by his own commitment of forces abroad.
 - *The President has inherent emergency power.* Jackson: the Framers "knew what emergencies were" and wrote only one emergency provision, the Suspension Clause. Emergency powers "would tend to kindle emergencies," and the Weimar experience shows where they lead.
@@ -49,13 +49,13 @@ Youngstown is the case every later separation-of-powers dispute reaches for, and
 
 - **Category one** (authorized): the War Powers material in Class 9 and the [[Modern Applications of the War Power|AUMF]] test whether a statute authorizes.
 - **Category two** (twilight): [[The Prize Cases (1863)|The Prize Cases]], where Lincoln acted before Congress met and Congress ratified afterwards.
-- **Category three** (lowest ebb): [[Zivotofsky v. Kerry]] (2015) is the only case in which the Court has upheld presidential action in category three, on the ground that recognition of foreign sovereigns is exclusive to the President. It shows what Jackson meant by "conclusive and preclusive."
+- **Category three** (lowest ebb): *Zivotofsky v. Kerry* (2015) is the only case in which the Court has upheld presidential action in category three, on the ground that recognition of foreign sovereigns is exclusive to the President. It shows what Jackson meant by "conclusive and preclusive."
 
 Black's opinion is the formalist pole. It maps each branch onto a function and asks whether the act is lawmaking. That style returns in [[INS v. Chadha (1983)]] and in Gorsuch's dissent in [[Gundy v. United States (2019)|Gundy v. United States]]. Frankfurter's opinion is the source of the **historical gloss** argument, which returns in the removal cases (the [[The Decision of 1789|Decision of 1789]]) and in [[United States v. Cox (1965)|United States v. Cox]] on prosecutorial discretion.
 
 Douglas's concurrence runs a separate, structural argument through the **Takings Clause**: a seizure is a taking, only Congress can appropriate compensation, so only Congress can authorize the taking. That argument links this case to the appropriations material in Class 5: [[United States v. Lovett (1946)]] and [[U.S. House of Representatives v. Burwell (2015)]].
 
-Justice Clark relied on [[Little v. Barreme]] (1804): where Congress prescribes how a power is to be exercised, the President must follow that method. Barreme is the earliest statement of the category-three principle.
+Justice Clark relied on *Little v. Barreme* (1804): where Congress prescribes how a power is to be exercised, the President must follow that method. Barreme is the earliest statement of the category-three principle.
 
 [[Trump v. United States (2024)|Trump v. United States]] (2024), on the Class 10 Canvas list, uses the Jackson framework to identify the President's "conclusive and preclusive" powers for immunity purposes. Read Class 10 back against the lowest-ebb category.
 
@@ -126,7 +126,7 @@ The steel industry's collective bargaining agreements expired at the end of 1951
 **(Clark, J., concurring in the judgment)**
 
 - The President has "extensive authority in times of grave and imperative national emergency."
-- Where Congress has laid down procedures for the type of crisis, the President must follow them. [[Little v. Barreme]] controls.
+- Where Congress has laid down procedures for the type of crisis, the President must follow them. *Little v. Barreme* controls.
 
 ### Dissent / concurrence
 

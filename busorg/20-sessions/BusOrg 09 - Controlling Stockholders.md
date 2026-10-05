@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[Sinclair Oil v. Levien]]
-- [[In re Tesla Motors (Tesla 1)]]
+- [[Sinclair Oil v. Levien (1971)|Sinclair Oil v. Levien]]
+- [[In re Tesla Motors (Tesla 1) (2018)|In re Tesla Motors (Tesla 1)]]
 
 ## Notes
 

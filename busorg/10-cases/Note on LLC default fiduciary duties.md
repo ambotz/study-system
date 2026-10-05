@@ -11,7 +11,7 @@ read_for: 2026-11-30
 
 ## What it is
 
-A two-page casebook note recounting how Delaware settled whether LLC managers owe **default** fiduciary duties — the question [[Elf Atochem North America v. Jaffari]] does not answer. It excerpts the Delaware Supreme Court's 2012 per curiam rebuke in **Gatz Properties, LLC v. Auriga Capital Corp.** and then reports the **2013 legislative answer**, an amendment to 6 Del. C. § 18-1104.
+A two-page casebook note recounting how Delaware settled whether LLC managers owe **default** fiduciary duties — the question [[Elf Atochem North America v. Jaffari (1999)|Elf Atochem North America v. Jaffari]] does not answer. It excerpts the Delaware Supreme Court's 2012 per curiam rebuke in **Gatz Properties, LLC v. Auriga Capital Corp.** and then reports the **2013 legislative answer**, an amendment to 6 Del. C. § 18-1104.
 
 The note matters less for the doctrine, which is now settled, than for what the episode shows about **who decides** questions of Delaware entity law, and how quickly the General Assembly moves when the courts leave a commercially important question open.
 
@@ -30,6 +30,6 @@ The note matters less for the doctrine, which is now settled, than for what the 
 ## Where it goes
 
 - [[LLCs - freedom of contract, default duties and the implied covenant]] — the module this note anchors, and the place the § 18-1104 and § 18-1101(c) text lives.
-- [[Elf Atochem North America v. Jaffari]] — establishes freedom of contract and the mandatory/default line, and leaves this question open.
-- [[Miller v. HCP & Co]] — the practical consequence. Because default duties exist, they must be **explicitly waived**, and once waived the implied covenant is all that remains.
+- [[Elf Atochem North America v. Jaffari (1999)|Elf Atochem North America v. Jaffari]] — establishes freedom of contract and the mandatory/default line, and leaves this question open.
+- [[Miller v. HCP & Co (2018)|Miller v. HCP & Co]] — the practical consequence. Because default duties exist, they must be **explicitly waived**, and once waived the implied covenant is all that remains.
 - The legislature-answers-the-court pattern running through the course, alongside Van Gorkom → § 102(b)(7), Moelis → § 122(18), MFW → § 144(c), and Yahoo! → § 220. This is the same move in the alternative entity statute, and the only one where the legislature resolves a question the Supreme Court had deliberately declined to reach.

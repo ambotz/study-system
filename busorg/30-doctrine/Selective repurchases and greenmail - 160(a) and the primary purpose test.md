@@ -78,12 +78,12 @@ Cuts both ways, which is what exposed the Vice Chancellor's error.
 - **Unocal added a second prong.** A selective repurchase today must also be "reasonable in relation to the threat posed," and post-Unitrin must survive the preclusive-or- coercive screen. Cheff's test standing alone is incomplete as modern law.
 - **The all-holders rule ended the device in its Unocal form.** SEC Rule 13e-4(f)(8) requires a self-tender to be open to all holders of the class, so an issuer tender offer excluding the bidder — the Unocal exchange offer — could not be structured today.
 - **Greenmail is taxed.** A federal excise tax on greenmail gains, combined with the rise of the poison pill, made paying off a raider largely obsolete in practice. The doctrine survives; the practice does not.
-- **The pill superseded the economics.** [[Moran v. Household International]] notes that a rights plan, unlike greenmail or a debt-financed self-tender, costs the corporation nothing — no outflow of money, no added debt, no dilution of earnings. See [[The poison pill - statutory authority and Unocal limits]].
+- **The pill superseded the economics.** [[Moran v. Household International (1985)|Moran v. Household International]] notes that a rights plan, unlike greenmail or a debt-financed self-tender, costs the corporation nothing — no outflow of money, no added debt, no dilution of earnings. See [[The poison pill - statutory authority and Unocal limits]].
 - **Revlon cuts it off at the sale.** Once the company is being sold, protecting anything other than price fails. See [[Sale of control - Revlon and the duty to maximise price]].
 
 ## Leading case
 
-[[Cheff v. Mathes]]. Holland Furnace paid $14.40 a share — above market, against a $20 book value — for Maremont's 155,000-share block, borrowing commercially to do it, after Maremont had disclaimed any interest in Holland and then bought steadily anyway, demanded a board seat, been refused, and bought more.
+[[Cheff v. Mathes (1964)|Cheff v. Mathes]]. Holland Furnace paid $14.40 a share — above market, against a $20 book value — for Maremont's 155,000-share block, borrowing commercially to do it, after Maremont had disclaimed any interest in Holland and then bought steadily anyway, demanded a board seat, been refused, and bought more.
 
 The board's fear was not only liquidation but "a **material change in Holland's sales policies**, which the board considered vital to its future success" — Holland employed its retail salesmen directly, uniquely in the furnace business, and Maremont thought furnaces could be sold "as he sold mufflers, through half a dozen salesmen in a wholesale way." Notice how far that is from price: a threat to the **business model** counts.
 
@@ -91,9 +91,9 @@ Nine items of unrebutted testimony carried the day, including the deception, the
 
 ## Best counter-case
 
-[[Unocal v. Mesa Petroleum]] — not because it disagrees, but because it shows what Cheff left out.
+[[Unocal v. Mesa Petroleum (1985)|Unocal v. Mesa Petroleum]] — not because it disagrees, but because it shows what Cheff left out.
 
-The distinguishing line: **Cheff asks only whether the board had good reason; Unocal asks that and then whether the response fit the threat.** A board today can clear Cheff's bar entirely and still lose on proportionality, and [[Omnicare v. NCS Healthcare]] is the clearest case of exactly that — an unimpeachable threat finding and a response held draconian.
+The distinguishing line: **Cheff asks only whether the board had good reason; Unocal asks that and then whether the response fit the threat.** A board today can clear Cheff's bar entirely and still lose on proportionality, and [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]] is the clearest case of exactly that — an unimpeachable threat finding and a response held draconian.
 
 Unocal also inverts Cheff's fact pattern. In Cheff the corporation paid a **premium to the raider** and the other holders got nothing; in Unocal the corporation paid a premium to **everyone but** the raider. The Supreme Court notes the irony that Mesa, "a corporate raider with a national reputation as a 'greenmailer'," was the one complaining about selective treatment, and says that selective repurchase "is neither unknown nor unauthorized — [t]he only difference is that heretofore the approved transaction was the payment of 'greenmail'."
 

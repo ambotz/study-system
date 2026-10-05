@@ -11,7 +11,7 @@ reconciled: false
 
 ## Readings
 
-- [[In re Tesla Motors (Tesla 2)]]
+- [[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]]
 - 8 Del. C. 144(b),(c),(e)(1),(2),(3) (post-SB 21) → [[Cleansing by stockholder vote - Corwin and the fully informed vote]], [[Controller buyouts - the MFW dual protection structure]], [[Controlling stockholder safe harbours - 144(b) and (c)]]
 
 ## Notes

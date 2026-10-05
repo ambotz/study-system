@@ -23,7 +23,7 @@ Fiduciary relationships of this kind can arise from the operative effect of the 
 
 **2. A managing role, which raises the weight of the duty.**
 
-The duty is not uniform across the venturers. In [[Meinhard v. Salmon]] both were coadventurers, but "[t]he heavier weight of duty rested, however, upon Salmon" because he held sole power to manage, lease, underlet and operate. Exclusive control generates the disclosure obligation, "since only through disclosure could opportunity be equalized."
+The duty is not uniform across the venturers. In [[Meinhard v. Salmon (1928)|Meinhard v. Salmon]] both were coadventurers, but "[t]he heavier weight of duty rested, however, upon Salmon" because he held sole power to manage, lease, underlet and operate. Exclusive control generates the disclosure obligation, "since only through disclosure could opportunity be equalized."
 
 **3. An opportunity that came to the manager as an incident of the management.**
 
@@ -56,16 +56,16 @@ The breach is the **exclusion from the chance to compete**, not the taking. The 
 ## Exceptions
 
 - **No nexus, no duty.** An opportunity unrelated to the venture's business belongs to the manager.
-- **Contractual displacement.** Andrews' dissent argued the written contract defined a limited object ending at a limited time, and that Meinhard's equity was in the one lease alone. That position substantially governs the modern LLC materials, where an operating agreement may displace default fiduciary duties — see [[Elf Atochem North America v. Jaffari]] and the note on LLC default fiduciary duties. **Meinhard is the default rule; the later material is about contracting out of it.**
+- **Contractual displacement.** Andrews' dissent argued the written contract defined a limited object ending at a limited time, and that Meinhard's equity was in the one lease alone. That position substantially governs the modern LLC materials, where an operating agreement may displace default fiduciary duties — see [[Elf Atochem North America v. Jaffari (1999)|Elf Atochem North America v. Jaffari]] and the note on LLC default fiduciary duties. **Meinhard is the default rule; the later material is about contracting out of it.**
 - **Remedial calibration.** The trust may attach to shares rather than the asset, with an extra share to the manager, where an even split would strip the control the venture's plan gave him.
 
 ## Leading case
 
-[[Meinhard v. Salmon]] — with four months left on a twenty-year lease, the managing coadventurer took for his own corporation a new lease over the enlarged tract, telling his partner nothing until it was signed.
+[[Meinhard v. Salmon (1928)|Meinhard v. Salmon]] — with four months left on a twenty-year lease, the managing coadventurer took for his own corporation a new lease over the enlarged tract, telling his partner nothing until it was signed.
 
 ## Best counter-case
 
-[[Walkovzky v. Carlton]], assigned the same day, as the structural opposite rather than a doctrinal conflict.
+[[Walkovzky v. Carlton (1966)|Walkovzky v. Carlton]], assigned the same day, as the structural opposite rather than a doctrinal conflict.
 
 The distinguishing line: **inside a fiduciary relationship the law demands the punctilio of an honor the most sensitive; outside one, a plaintiff cannot even reach the shareholder of a deliberately judgment-proof enterprise.** The presence or absence of the fiduciary relation is worth more than any other single fact in this part of the course.
 

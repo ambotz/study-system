@@ -3,7 +3,7 @@
 Constitutional Law I: Government Structure · Baude · Autumn 2026
 Meets Mon, Wed, Thu 1:30-2:35 pm. in-class, closed-book exam, plus participation (cold-calling; email by 11 a.m. to pass)
 
-Generated 2026-10-04 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
+Generated 2026-10-05 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
 
 ## Sources
 
@@ -93,7 +93,7 @@ Generated 2026-10-04 from `99-meta/case-index.json`. Do not edit; regenerate wit
     - Casebook caption: The Brig Amy Warwick (The Prize Cases). Includes 'Practice and Precedent', 305.
 - [[Declarations of War]] — pp. 314–316 · document
     - Declaration of War Against Japan; Gulf of Tonkin Resolution.
-- [[The War Powers Resolution]] — pp. 316–318 · statute · doctrine module
+- *The War Powers Resolution* — pp. 316–318 · statute · doctrine module
     - → [[War powers - Art. I § 8 cl. 11 and the Commander in Chief]]
 - [[Nixon, Veto of the War Powers Resolution]] — pp. 318–322 · document
     - Inside the syllabus's 'The War Powers Resolution' item; split out because a statute gets no note file.

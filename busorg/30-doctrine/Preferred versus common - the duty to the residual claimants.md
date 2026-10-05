@@ -92,13 +92,13 @@ Note what the cleansing devices do. Failing to use them is not itself a breach; 
 
 - **Preferred holders may vote their shares in their own interest.** "Stockholders in Delaware corporations have a right to control and vote their shares in their own interest... limited only by any fiduciary duty owed to other stockholders." The preferred voting for the deal is not evidence of unfair dealing.
 - **Failure to condition on a disinterested common vote is not itself unfair** — "it simply deprives the defendants of otherwise helpful **affirmative evidence** of fairness."
-- **The rule reverses on insolvency.** Once creditors become the primary residual claimants, directors loyal to the equity face the mirror conflict — the "**reverse-Trados theory**" of [[Quadrant Structured Products v. Vertin]]. And the limit is the same in both directions: the theory reaches transactions conferring **direct and specific benefits**, not decisions affecting the firm as a whole. See [[Fiduciary duties on insolvency - Gheewalla standing and the Quadrant line]].
-- **Contractual workarounds are available at the stockholder level.** A drag-along with a covenant not to sue is not facially invalid, within limits. See [[New Enterprise Associates 14 v. Rich]].
-- **Or choose a different entity.** An LLC operating agreement can waive fiduciary duties outright, and then the implied covenant is all that remains. See [[LLCs - freedom of contract, default duties and the implied covenant]] and [[Miller v. HCP & Co]].
+- **The rule reverses on insolvency.** Once creditors become the primary residual claimants, directors loyal to the equity face the mirror conflict — the "**reverse-Trados theory**" of [[Quadrant Structured Products v. Vertin (2014)|Quadrant Structured Products v. Vertin]]. And the limit is the same in both directions: the theory reaches transactions conferring **direct and specific benefits**, not decisions affecting the firm as a whole. See [[Fiduciary duties on insolvency - Gheewalla standing and the Quadrant line]].
+- **Contractual workarounds are available at the stockholder level.** A drag-along with a covenant not to sue is not facially invalid, within limits. See [[New Enterprise Associates 14 v. Rich (2023)|New Enterprise Associates 14 v. Rich]].
+- **Or choose a different entity.** An LLC operating agreement can waive fiduciary duties outright, and then the implied covenant is all that remains. See [[LLCs - freedom of contract, default duties and the implied covenant]] and [[Miller v. HCP & Co (2018)|Miller v. HCP & Co]].
 
 ## Leading case
 
-[[In re Trados]]. Six of seven directors were interested or conflicted — two by MIP payments and post-deal employment, three as dual fiduciaries for preferred-holding VC funds, one through a "sense of 'owingness'" to Sequoia plus a material payment — so entire fairness applied.
+[[In re Trados (2013)|In re Trados]]. Six of seven directors were interested or conflicted — two by MIP payments and post-deal employment, three as dual fiduciaries for preferred-holding VC funds, one through a "sense of 'owingness'" to Sequoia plus a material payment — so entire fairness applied.
 
 **Fair dealing weighed decisively against the defendants.** There was "no contemporaneous evidence suggesting that the directors set out to deal with the common stockholders in a procedurally fair manner." The sale was initiated by directors who wanted an exit; the MIP "**converted the management team from holders of equity interests aligned with the common stock to claimants whose return profile and incentives closely resembled those of the preferred**"; the board never discussed the common; there was no special committee, no fairness opinion, and no disinterested common vote. "**Conflict blindness and its lesser cousin, conflict denial, have long afflicted the financially sophisticated.**"
 
@@ -108,7 +108,7 @@ Note what the cleansing devices do. Failing to use them is not itself a breach; 
 
 ## Best counter-case
 
-[[New Enterprise Associates 14 v. Rich]] is the contractual answer to Trados, and the pair defines the space.
+[[New Enterprise Associates 14 v. Rich (2023)|New Enterprise Associates 14 v. Rich]] is the contractual answer to Trados, and the pair defines the space.
 
 The distinguishing line: **Trados denies preferred holders the board's discretion; Rich lets them buy a substitute for it at the stockholder level.** Loyalty "cannot be eliminated without destroying [the] fiduciary character" of the relationship, but it can be **oriented** by a purpose clause, and fiduciaries can be **authorised in advance** to take specific actions that would otherwise breach. And "through a private agreement, stockholders can agree to more constraints on their ability to exercise stockholder-level rights than corporate planners can impose through the charter or bylaws."
 

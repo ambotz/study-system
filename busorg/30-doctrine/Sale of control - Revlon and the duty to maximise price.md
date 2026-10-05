@@ -23,10 +23,10 @@ Revlon is not a separate standard of review. It is Unocal enhanced scrutiny appl
 The trigger is **objective**, not elective. A board does not avoid the duty by declining to announce a sale.
 
 1. **Break-up is inevitable and the board has embraced it.** In Revlon the escalating all-cash bids made the break-up a certainty, and the September 24 authorisation to negotiate with third parties was the board's own recognition that the company was for sale.
-2. **The company initiates an active bidding process seeking to sell itself.** The alternative formulation, recorded in [[Omnicare v. NCS Healthcare]], where the Chancery found NCS never started one and abandoned any sale effort on signing exclusivity.
+2. **The company initiates an active bidding process seeking to sell itself.** The alternative formulation, recorded in [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]], where the Chancery found NCS never started one and abandoned any sale effort on signing exclusivity.
 3. **A change of control.** Public stockholders are cashed out, or control passes to a controlling stockholder or group, so the stockholders permanently lose the ability to obtain a control premium in a later transaction.
 
-**The modern test is disjunctive.** [[Paramount v. QVC]] settles it: "when a corporation undertakes a transaction which will cause: (a) **a change in corporate control**; **or** (b) **a break-up** of the corporate entity, the directors' obligation is to seek the best value reasonably available to the stockholders." A break-up is **not** required, and the contrary reading of [[Paramount v. Time]] is "erroneous."
+**The modern test is disjunctive.** [[Paramount v. QVC (1994)|Paramount v. QVC]] settles it: "when a corporation undertakes a transaction which will cause: (a) **a change in corporate control**; **or** (b) **a break-up** of the corporate entity, the directors' obligation is to seek the best value reasonably available to the stockholders." A break-up is **not** required, and the contrary reading of [[Paramount v. Time (1990)|Paramount v. Time]] is "erroneous."
 
 **The control-premium rationale.** Control is an asset of the public stockholders that can be sold only once. While it sits with "the **fluid aggregation of unaffiliated stockholders**," every holder keeps the leverage to demand a premium in some future transaction; once it passes to one person or a cohesive group, "the current... stockholders will have **no leverage in the future** to demand another control premium." That is why enhanced scrutiny is "mandated by: (a) the threatened diminution of the current stockholders' voting power; (b) the fact that an asset belonging to public stockholders (a control premium) is being sold and may never be available again; and (c) the traditional concern of Delaware courts for actions which impair or impede stockholder voting rights."
 
@@ -34,12 +34,12 @@ Test any fact pattern by asking where control sits **before and after**. Dispers
 
 ### When the duty does not attach
 
-- A **stock-for-stock merger among dispersed holders**, where control stays in a fluid, unaffiliated market. [[Paramount v. Time]] holds that Time's original merger with Warner triggered no Revlon duty notwithstanding an unequal share exchange, and drew only business judgment review.
+- A **stock-for-stock merger among dispersed holders**, where control stays in a fluid, unaffiliated market. [[Paramount v. Time (1990)|Paramount v. Time]] holds that Time's original merger with Warner triggered no Revlon duty notwithstanding an unequal share exchange, and drew only business judgment review.
 - **Adoption of deal protection devices alone.** "The adoption of structural safety devices alone does not trigger Revlon. Rather... such devices are properly subject to a Unocal analysis." See [[Deal protection devices - Unocal review of merger lock-ups]].
 
 ### What enhanced scrutiny examines
 
-Two questions, restated in [[In re Mindbody, Inc., Stockholder Litigation]]:
+Two questions, restated in [[In re Mindbody, Inc., Stockholder Litigation (2024)|In re Mindbody, Inc., Stockholder Litigation]]:
 
 1. the **reasonableness of the decision-making process**, including the information on which the fiduciaries based the decision; and
 2. the **reasonableness of the action** in light of the circumstances then existing.
@@ -87,20 +87,20 @@ The doctrinal label in Revlon itself is unstable: Chancery found a **loyalty** b
 
 ## Exceptions
 
-- **Post-closing, a fully informed and uncoerced disinterested stockholder vote restores business judgment review**, whether or not Revlon applied. [[Corwin v. KKR Financial Holdings]] declines even to decide the Revlon question because "it does not matter."
+- **Post-closing, a fully informed and uncoerced disinterested stockholder vote restores business judgment review**, whether or not Revlon applied. [[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]] declines even to decide the Revlon question because "it does not matter."
 - **Exculpation.** Where the claim is recharacterised as due care and the charter carries a § 102(b)(7) provision, damages are unavailable and only injunctive relief remains.
 - **Bad faith framing survives both.** Lyondell Chemical v. Ryan asks not whether directors did everything they arguably should have to obtain the best price but whether they **utterly failed to attempt** to obtain it — a loyalty-flavoured claim that exculpation does not reach.
 - **§ 144(d)(6)(b) preserves the remedy post-SB 21.** The controller safe harbours do not limit injunctive review of devices "designed or intended to deter, delay, or preclude a change of control." See [[Controlling stockholder safe harbours - 144(b) and (c)]].
 
 ## Leading case
 
-[[Revlon v. MacAndrews & Forbes]]. The Rights Plan and the self-tender were upheld as proportionate responses to a grossly inadequate $45 bid — the pill drove the price from $42 to $58, which the court treats as the proper result of a pill. The lock-up, no-shop and cancellation fee failed, because by then Pantry Pride's $50 and $53 bids had made the break-up inevitable and the board's real objective was protecting noteholders whose rights were already fixed by contract, and with them the directors' own exposure.
+[[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes]]. The Rights Plan and the self-tender were upheld as proportionate responses to a grossly inadequate $45 bid — the pill drove the price from $42 to $58, which the court treats as the proper result of a pill. The lock-up, no-shop and cancellation fee failed, because by then Pantry Pride's $50 and $53 bids had made the break-up inevitable and the board's real objective was protecting noteholders whose rights were already fixed by contract, and with them the directors' own exposure.
 
 The noteholder point is the hinge. The Notes covenants expressly contemplated a waiver to permit a sale at a fair price, and the holders accepted that market risk, so there was nothing left to protect and therefore no rationally related benefit to stockholders.
 
 ## Best counter-case
 
-[[Paramount v. Time]]. Time entered a stock-for-stock merger with Warner on an unequal share exchange and adopted structural protections, and the Supreme Court held that no Revlon duty arose and that the original merger plan drew only business judgment review.
+[[Paramount v. Time (1990)|Paramount v. Time]]. Time entered a stock-for-stock merger with Warner on an unequal share exchange and adopted structural protections, and the Supreme Court held that no Revlon duty arose and that the original merger plan drew only business judgment review.
 
 The distinguishing line: **Revlon attaches when stockholders are being cashed out or control is passing to an identifiable holder; it does not attach to a stock-for-stock combination that leaves control in a fluid, unaffiliated market.** Test any fact pattern by asking what happens to the public stockholders' ability to obtain a control premium tomorrow — if that ability is extinguished today, Revlon applies.
 

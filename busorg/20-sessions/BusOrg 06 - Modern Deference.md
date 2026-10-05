@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[Shlensky v. Wrigley]]
-- [[Smith v. Van Gorkom]]
+- [[Shlensky v. Wrigley (1968)|Shlensky v. Wrigley]]
+- [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]]
 - 8 Del. C. 102(b)(7) → [[Aiding and abetting a fiduciary breach - knowing participation]], [[Charter exculpation of director liability]], [[Cleansing by stockholder vote - Corwin and the fully informed vote]]
 
 ## Notes

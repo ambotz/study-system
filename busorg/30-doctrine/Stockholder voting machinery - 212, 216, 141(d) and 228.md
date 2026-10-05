@@ -31,7 +31,7 @@ Every one of these provisions is a **default that the charter, and sometimes the
 - **(c)** Valid means of granting a proxy: a signed document; an electronic transmission containing or accompanied by information from which authorisation can be determined; or documentation, signature and delivery under § 116.
 - **(e) Irrevocable proxies.** "A duly executed proxy shall be **irrevocable if it states that it is irrevocable** and if, and only as long as, **it is coupled with an interest sufficient in law to support an irrevocable power**. A proxy may be made irrevocable regardless of whether the interest with which it is coupled is an interest **in the stock itself or an interest in the corporation generally**."
 
-The last clause is the drafting fix [[Ringling Brothers v. Ringling]] needed. The interest need not be in the shares, so a co-venturer's interest in the enterprise will support the power.
+The last clause is the drafting fix [[Ringling Brothers v. Ringling (1947)|Ringling Brothers v. Ringling]] needed. The interest need not be in the shares, so a co-venturer's interest in the enterprise will support the power.
 
 ### § 216 — quorum and required vote
 
@@ -57,7 +57,7 @@ Absent specification, the defaults are:
 - The charter may confer on one or more directors "**voting powers greater than or less than those of other directors**," applying in committee as well unless otherwise provided.
 - Where directors have unequal votes, every DGCL reference to a proportion of directors refers to that proportion **of the votes**.
 
-The classified board is the other half of the pill. A three-class board means two annual meetings to replace a majority, which is what makes a rights plan durable — see [[The poison pill - statutory authority and Unocal limits]] and [[Air Products v. Airgas]].
+The classified board is the other half of the pill. A three-class board means two annual meetings to replace a majority, which is what makes a rights plan durable — see [[The poison pill - statutory authority and Unocal limits]] and [[Air Products v. Airgas (2011)|Air Products v. Airgas]].
 
 ### § 228 — action by written consent
 
@@ -66,7 +66,7 @@ The classified board is the other half of the pill. A three-class board means tw
 - **(d)** Delivery must be to the principal place of business, to the officer or agent with custody of the minute book, to the registered office by hand or certified mail, or to a designated information processing system.
 - **(e)** On less-than-unanimous consent, **prompt notice** must go to the non-consenting stockholders of record.
 
-Consent action is why [[Blasius Industries v. Atlas Corp]] moved so fast. A majority could amend the bylaws, expand the board and elect eight directors **in a single step, with no meeting and no notice**, so the board's overnight addition of two seats was decisive rather than merely inconvenient. Most public companies opt out of § 228 in the charter for exactly this reason; Time's defences in [[Paramount v. Time]] included "restrictions on shareholders' ability to call a meeting or act by consent."
+Consent action is why [[Blasius Industries v. Atlas Corp (1988)|Blasius Industries v. Atlas Corp]] moved so fast. A majority could amend the bylaws, expand the board and elect eight directors **in a single step, with no meeting and no notice**, so the board's overnight addition of two seats was decisive rather than merely inconvenient. Most public companies opt out of § 228 in the charter for exactly this reason; Time's defences in [[Paramount v. Time (1990)|Paramount v. Time]] included "restrictions on shareholders' ability to call a meeting or act by consent."
 
 ## Standard of review / burden
 
@@ -80,27 +80,27 @@ Consent action is why [[Blasius Industries v. Atlas Corp]] moved so fast. A majo
 | Director-election vote bylaw | Once adopted by stockholders, **the board may not amend or repeal it** |
 | Compliance with the machinery | Necessary but **not sufficient** — equity still polices the purpose |
 
-The last row is the whole reason session 21 follows session 20. Perfect statutory compliance is where [[Schnell v. Chris-Craft Industries]] begins, not where it ends.
+The last row is the whole reason session 21 follows session 20. Perfect statutory compliance is where [[Schnell v. Chris-Craft Industries (1971)|Schnell v. Chris-Craft Industries]] begins, not where it ends.
 
 ## Exceptions
 
 - **Equity overrides form.** "[I]nequitable action does not become permissible simply because it is legally possible." See [[Interference with the franchise - Schnell, Blasius and the Coster standard]].
-- **Stockholders may bind their own votes but not take the board's power.** A pooling agreement under § 218(c) is fine; a bylaw purporting to let stockholders remove officers directly is not, because it "would unduly interfere with directors' management prerogatives" ([[Gorman v. Salamone]]).
+- **Stockholders may bind their own votes but not take the board's power.** A pooling agreement under § 218(c) is fine; a bylaw purporting to let stockholders remove officers directly is not, because it "would unduly interfere with directors' management prerogatives" ([[Gorman v. Salamone (2015)|Gorman v. Salamone]]).
 - **Formality can be jurisdictional.** A controller's informal assent is not a stockholder vote — the Espinoza v. Zuckerberg point excerpted after Schnell, and the mirror image of Schnell's own principle.
 - **The federal overlay.** Proxy solicitation for a public company runs through the Exchange Act and the SEC proxy rules, which the DGCL does not address. Session 22 takes that up.
 - **§ 141(d) classification is not available to a board acting alone**, which is why classified boards are almost always charter provisions and why declassification requires a charter amendment and therefore a stockholder vote.
 
 ## Leading case
 
-[[Blasius Industries v. Atlas Corp]] shows the machinery doing real work. A 9.1% holder used a **§ 228(a)** written consent to do three things at once — adopt a precatory resolution, amend the bylaws to expand the board from seven to the charter maximum of fifteen, and elect eight named directors. Had a majority joined, control would have changed **without a meeting, without prior notice and without a vote**.
+[[Blasius Industries v. Atlas Corp (1988)|Blasius Industries v. Atlas Corp]] shows the machinery doing real work. A 9.1% holder used a **§ 228(a)** written consent to do three things at once — adopt a precatory resolution, amend the bylaws to expand the board from seven to the charter maximum of fifteen, and elect eight named directors. Had a majority joined, control would have changed **without a meeting, without prior notice and without a vote**.
 
 The board's counter used the same machinery: expand from seven to nine and fill both seats, converting a one-step consent into a two-election problem. Everything in the case — the speed, the emergency telephone meeting, the decisiveness of two seats — follows from what § 228 permits.
 
-The second, less-noticed half of the opinion is also machinery: the judges of election "properly confined their count to the written 'ballots'... before them," made several errors, and the corrections did not change the outcome. Counting rules decide close contests, and [[Hewlett v. Hewlett-Packard]] is a case where the inspector had not yet certified at all.
+The second, less-noticed half of the opinion is also machinery: the judges of election "properly confined their count to the written 'ballots'... before them," made several errors, and the corrections did not change the outcome. Counting rules decide close contests, and [[Hewlett v. Hewlett-Packard (2002)|Hewlett v. Hewlett-Packard]] is a case where the inspector had not yet certified at all.
 
 ## Best counter-case
 
-[[Gorman v. Salamone]] marks the outer limit of what the voting machinery can accomplish. Gorman held a majority of the voting stock and used a **§ 228 written consent** to amend the bylaws to let stockholders remove and replace officers directly, then fired the chief executive and installed himself.
+[[Gorman v. Salamone (2015)|Gorman v. Salamone]] marks the outer limit of what the voting machinery can accomplish. Gorman held a majority of the voting stock and used a **§ 228 written consent** to amend the bylaws to let stockholders remove and replace officers directly, then fired the chief executive and installed himself.
 
 The distinguishing line: **§§ 212, 216 and 228 tell you how stockholders act; they do not enlarge what stockholders may decide.** "Delaware law does not allow stockholders to remove directly corporate officers through authority purportedly conferred by a bylaw. Such a bylaw would unduly interfere with directors' management prerogatives by preventing them from discharging one of their most important functions."
 

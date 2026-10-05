@@ -17,7 +17,7 @@ last_drilled:
 
 Stockholders may bind themselves to each other about how they will vote. A **voting trust** under § 218(a) transfers the stock to a trustee and must meet the statute's requirements; a **pooling agreement** under § 218(c) leaves ownership alone and is simply a contract.
 
-The limit is the one [[Ringling Brothers v. Ringling]] states: a stockholder may vote for any reason, "for personal profit, or determined by whims or caprice, **so long as he violates no duty owed his fellow shareholders**."
+The limit is the one [[Ringling Brothers v. Ringling (1947)|Ringling Brothers v. Ringling]] states: a stockholder may vote for any reason, "for personal profit, or determined by whims or caprice, **so long as he violates no duty owed his fellow shareholders**."
 
 **Vote buying** crosses that line. It is **illegal per se** where "the object or purpose is to defraud or in some way disenfranchise the other stockholders," and otherwise is "a **voidable transaction subject to a test for intrinsic fairness**."
 
@@ -88,15 +88,15 @@ The older rule — that vote buying was per se illegal as a matter of public pol
 
 ## Exceptions
 
-- **Stockholders cannot contract for the board's power.** A pooling agreement allocates the holders' own voting rights; a bylaw purporting to let stockholders remove officers directly is invalid, because it "would unduly interfere with directors' management prerogatives" ([[Gorman v. Salamone]]). See also [[Director primacy - limits on constraining the board]] and § 122(18).
-- **Irrevocable voting agreements can become deal protection devices.** Where an acquiror demands them as a condition precedent and the target is a party, they are scrutinised as part of the board's defensive response — [[Omnicare v. NCS Healthcare]] and [[Deal protection devices - Unocal review of merger lock-ups]].
+- **Stockholders cannot contract for the board's power.** A pooling agreement allocates the holders' own voting rights; a bylaw purporting to let stockholders remove officers directly is invalid, because it "would unduly interfere with directors' management prerogatives" ([[Gorman v. Salamone (2015)|Gorman v. Salamone]]). See also [[Director primacy - limits on constraining the board]] and § 122(18).
+- **Irrevocable voting agreements can become deal protection devices.** Where an acquiror demands them as a condition precedent and the target is a party, they are scrutinised as part of the board's defensive response — [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]] and [[Deal protection devices - Unocal review of merger lock-ups]].
 - **Management arrangements with salutary purposes survive.** "It is certainly possible for management to enter into vote-buying arrangements with salutary purposes," and Schreiber itself upheld one.
 - **A controller's informal assent is not a vote.** Espinoza v. Zuckerberg — the formality is what carries the legal effect.
 - **The three-year proxy limit.** A proxy may not be voted after three years from its date unless it provides for a longer period, § 212(b). Long-term arrangements need drafting attention.
 
 ## Leading case
 
-[[Ringling Brothers v. Ringling]]. Two of three stockholders, each holding 315 of 1,000 shares with cumulative voting for seven seats, agreed to consult, confer and act jointly, with deadlocks submitted to an arbitrator whose decision "shall be binding upon the parties." Acting together they could elect five directors; acting alone, two each.
+[[Ringling Brothers v. Ringling (1947)|Ringling Brothers v. Ringling]]. Two of three stockholders, each holding 315 of 1,000 shares with cumulative voting for seven seats, agreed to consult, confer and act jointly, with deadlocks submitted to an arbitrator whose decision "shall be binding upon the parties." Acting together they could elect five directors; acting alone, two each.
 
 The agreement was **valid** — not a voting trust, not an evasion, and a reasonable deadlock-breaking measure. But it was **unenforceable in the way the plaintiff needed**, because nothing in it empowered the arbitrator to vote the shares or either party to vote the other's. "[E]ach party promised the other to exercise **her own** voting rights in accordance with the arbitrator's decision."
 
@@ -104,7 +104,7 @@ So Mrs. Haley breached when her shares were cast (by Mr. Haley) 1,103 and 1,102 
 
 ## Best counter-case
 
-[[Hewlett v. Hewlett-Packard]] marks where the freedom ends.
+[[Hewlett v. Hewlett-Packard (2002)|Hewlett v. Hewlett-Packard]] marks where the freedom ends.
 
 The distinguishing line: **Ringling is stockholders binding their own votes to each other; Hewlett is management spending the stockholders' money to change how the vote comes out.**
 

@@ -25,12 +25,12 @@ A controller can dominate completely and still get business judgment review, pro
 
 ### Question 1 — controller status
 
-**Route A: more than 50% of voting power.** Straightforward, and usually conceded. [[Sinclair Oil v. Levien|Sinclair]] held 97%.
+**Route A: more than 50% of voting power.** Straightforward, and usually conceded. [[Sinclair Oil v. Levien (1971)|Sinclair]] held 97%.
 
 **Route B: less than 50%, plus actual control.** The test is "actual domination and control over ... [the] directors," with power "so potent that independent directors ... [could not] freely exercise their judgment." Two ways to plead it:
 
 - **Generally** — domination of the corporation or of a majority of the board at large.
-- **Transaction-specifically** — domination of the board or the deciding committee with respect to the challenged transaction. *This is the narrower and more commonly available theory, and the one [[In re Tesla Motors (Tesla 1)]] accepts.*
+- **Transaction-specifically** — domination of the board or the deciding committee with respect to the challenged transaction. *This is the narrower and more commonly available theory, and the one [[In re Tesla Motors (Tesla 1) (2018)|In re Tesla Motors (Tesla 1)]] accepts.*
 
 **There is no percentage threshold**, and no "linear, sliding scale approach whereby a larger share percentage makes it substantially more likely" that control is found. The reported range: 17.3% held reasonably conceivably controlling (*Zhongpin*); 23.1% held not controlling (*Larkin*); 33.7% described as an "aggressive" case (*Crimson Exploration*).
 
@@ -79,15 +79,15 @@ SB 21 replaces the open-ended inquiry above with definitions:
 
 - **Proportionality.** Value taken pro rata is not self-dealing however large, however motivated, and however dominated the board.
 - **No opportunity, no usurpation.** A corporate opportunity claim requires that the opportunity **came to** the subsidiary; allocating opportunities among subsidiaries is business judgment absent "gross and palpable overreaching."
-- **The safe harbours in § 144(b) and (c)** — new in SB 21 — supply statutory routes out for controller transactions, and are taken up with [[In re Tesla Motors (Tesla 2)]] in session
+- **The safe harbours in § 144(b) and (c)** — new in SB 21 — supply statutory routes out for controller transactions, and are taken up with [[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]] in session
   10. They will get their own module.
 - **A parent need not contract with its subsidiary at all**, but "[a]s Sinclair has received the benefits of this contract, so must it comply with the contractual duties."
 
 ## Leading case
 
-[[Sinclair Oil v. Levien]] for the trigger — 97% ownership, a concededly non-independent board, $108 million of dividends exceeding earnings by $38 million, and **two of three claims still reviewed under business judgment** because the money moved pro rata.
+[[Sinclair Oil v. Levien (1971)|Sinclair Oil v. Levien]] for the trigger — 97% ownership, a concededly non-independent board, $108 million of dividends exceeding earnings by $38 million, and **two of three claims still reviewed under business judgment** because the money moved pro rata.
 
-[[In re Tesla Motors (Tesla 1)]] for controller status — 22.1%, "a close call," decided on accumulation rather than any single factor.
+[[In re Tesla Motors (Tesla 1) (2018)|In re Tesla Motors (Tesla 1)]] for controller status — 22.1%, "a close call," decided on accumulation rather than any single factor.
 
 ## Best counter-case
 

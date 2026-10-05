@@ -87,16 +87,16 @@ conducted "in the usual manner pursued in other companies by prudent men careful
 ## Context
 
 The earliest ancestor in this course of what becomes the **oversight** line. Scott v. Depeyster asks the
-identical question [[In re Caremark International Inc. Derivative Litigation|Caremark]] asks — when do
+identical question [[In re Caremark International Inc. Derivative Litigation (1996)|Caremark]] asks — when do
 directors answer for wrongdoing they did not commit and did not detect — and answers it with an
 industry-practice benchmark rather than a good-faith one. Both opinions refuse to convert directors into
 guarantors; the modern doctrine moves the inquiry from *diligence* to *conscious disregard*, which is what
 makes oversight a **loyalty** problem today rather than a care problem.
 
 The case also supplies the deference half of the session title, a century and a half before
-[[Shlensky v. Wrigley]]. The reasoning is explicitly institutional and consequentialist: liability for
+[[Shlensky v. Wrigley (1968)|Shlensky v. Wrigley]]. The reasoning is explicitly institutional and consequentialist: liability for
 good-faith error would empty the boardroom of anyone capable or worthy. That is the same argument
-[[Smith v. Van Gorkom]] answers by requiring gross negligence rather than negligence.
+[[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]] answers by requiring gross negligence rather than negligence.
 
 On the charter side, this is the enumerated-powers world. Corporate power came from a specific legislative
 grant, and the grant's specification was an implied prohibition of everything else. The contrast with the
@@ -104,7 +104,7 @@ modern enabling statute is the point of the session — see [[Early corporate ch
 
 Note the acquiescence holding, which has no modern analogue in this form. The directors escape the ultra vires
 claim partly because the stockholders watched, took dividends, and re-elected them. Today that argument runs
-through ratification and through [[Corwin v. KKR Financial Holdings]] rather than through *in pari delicto*.
+through ratification and through [[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]] rather than through *in pari delicto*.
 
 
 ## Class layer

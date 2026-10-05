@@ -57,7 +57,7 @@ reconciled: false
 1. Line-drawing problems on how to enforce something else
 2. Major Questions Doctrine - Statutory interpretation doctrine that prevents executive discretion easily [?] on "major questions"
 
-Source photos: [[ConLaw 03 p1.jpg]], [[ConLaw 03 p2.jpg]]
+Source photos: *ConLaw 03 p1.jpg*, *ConLaw 03 p2.jpg*
 
 ## Signals
 

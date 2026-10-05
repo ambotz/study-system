@@ -11,9 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[In re Caremark International Inc. Derivative Litigation]]
-- [[Marchand v. Barnhill]]
-- [[Segway Inc. v. Cai]]
+- [[In re Caremark International Inc. Derivative Litigation (1996)|In re Caremark International Inc. Derivative Litigation]]
+- [[Marchand v. Barnhill (2019)|Marchand v. Barnhill]]
+- [[Segway Inc. v. Cai (2023)|Segway Inc. v. Cai]]
 
 ## Notes
 

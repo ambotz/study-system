@@ -28,7 +28,7 @@ The division of labour between the two instruments:
 **1. What the charter must or may carry.**
 
 - **Purpose** — § 102(a)(3). A general-purpose clause is now standard, which is the whole distance travelled from [[Early corporate charters - enumerated powers]].
-- **Capital structure**, including **blank-check preferred**: authority for the board to fix by resolution the designations, powers, preferences and rights of unissued series. This is the mechanism Laster points to in [[West Palm Beach Firefighters v. Moelis & Co|Moelis]] — a single golden share whose certificate of designations becomes part of the charter by law.
+- **Capital structure**, including **blank-check preferred**: authority for the board to fix by resolution the designations, powers, preferences and rights of unissued series. This is the mechanism Laster points to in [[West Palm Beach Firefighters v. Moelis & Co (2024)|Moelis]] — a single golden share whose certificate of designations becomes part of the charter by law.
 - **Variations on § 141(a)**, which is the only place they are permitted.
 - **§ 102(b)(7) exculpation**, which cannot live in the bylaws.
 - **Supermajority amendment thresholds**, entrenching the provisions above.
@@ -37,7 +37,7 @@ The division of labour between the two instruments:
 
 Bylaws in practice carry meeting mechanics, quorum, advance-notice and proxy-access procedure, officer roles, indemnification, and forum selection.
 
-**3. The § 109(b) ceiling.** Bylaws may not be inconsistent with law or with the charter, and under [[Gorman v. Salamone]] may not reach substance. A bylaw is tested by context and purpose, not by how it is drafted.
+**3. The § 109(b) ceiling.** Bylaws may not be inconsistent with law or with the charter, and under [[Gorman v. Salamone (2015)|Gorman v. Salamone]] may not reach substance. A bylaw is tested by context and purpose, not by how it is drafted.
 
 ## Worked example — NVIDIA
 
@@ -77,14 +77,14 @@ Read the charter as a list of elections, not as prose.
 
 ## Exceptions
 
-- **§ 122(18)**, added after [[West Palm Beach Firefighters v. Moelis & Co|Moelis]]: "Notwithstanding § 141(a) of this title," a corporation may make contracts with current or prospective stockholders in that capacity, for minimum consideration determined by the board, including to induce them to take or refrain from action — "provided that no provision of such contract shall be enforceable against the corporation to the extent such contract provision is contrary to the certificate of incorporation" or would be unlawful if included in it. Remedies are those of contract law. See [[Director primacy - limits on constraining the board]].
+- **§ 122(18)**, added after [[West Palm Beach Firefighters v. Moelis & Co (2024)|Moelis]]: "Notwithstanding § 141(a) of this title," a corporation may make contracts with current or prospective stockholders in that capacity, for minimum consideration determined by the board, including to induce them to take or refrain from action — "provided that no provision of such contract shall be enforceable against the corporation to the extent such contract provision is contrary to the certificate of incorporation" or would be unlawful if included in it. Remedies are those of contract law. See [[Director primacy - limits on constraining the board]].
 	- 122(18) is still limited by the Company's Charter. Corporation cannot contract internal agreements with stockholders that are in violation of its own Charter.
 	- Remedies limited to contract law.
 - **Quasi-California.** Cal. Corp. Code § 2115 can impose California governance rules on a Delaware corporation with sufficient California contacts, which is why NVIDIA's charter carries a conditional cumulative-voting article.
 
 ## Leading case
 
-[[Gorman v. Salamone]] for the bylaw ceiling; [[West Palm Beach Firefighters v. Moelis & Co|Moelis]] for the charter's privileged position. The NVIDIA documents are the specimen, not authority.
+[[Gorman v. Salamone (2015)|Gorman v. Salamone]] for the bylaw ceiling; [[West Palm Beach Firefighters v. Moelis & Co (2024)|Moelis]] for the charter's privileged position. The NVIDIA documents are the specimen, not authority.
 
 ## Best counter-case
 

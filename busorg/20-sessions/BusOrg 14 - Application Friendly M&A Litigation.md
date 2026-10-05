@@ -11,9 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[Revlon v. MacAndrews & Forbes]]
-- [[Omnicare v. NCS Healthcare]]
-- [[In re Trulia]]
+- [[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes]]
+- [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]]
+- [[In re Trulia (2016)|In re Trulia]]
 
 ## Notes
 

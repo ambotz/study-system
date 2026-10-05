@@ -21,7 +21,7 @@ Liability requires "a sustained or systematic failure of the board to exercise o
 
 **1. The claim is inaction, not decision.**
 
-[[In re Caremark International Inc. Derivative Litigation|Caremark]] divides director inattention into two contexts, and naming the right one selects everything downstream:
+[[In re Caremark International Inc. Derivative Litigation (1996)|Caremark]] divides director inattention into two contexts, and naming the right one selects everything downstream:
 
 - **A decision** that proves ill-advised → the business judgment rule, which is process-oriented. The **content** of the decision is never a ground for liability, however "stupid," "egregious" or "irrational," provided the process was rational or employed in a good faith effort. See [[Duty of care - informed decision]].
 - **Unconsidered inaction** → this module.
@@ -29,11 +29,11 @@ Liability requires "a sustained or systematic failure of the board to exercise o
 **2. Bad faith, established by one of two prongs.**
 
 - **Prong one — no system.** Fiduciaries "utterly fail to implement any reporting or information system or controls."
-- **Prong two — conscious disregard.** Having implemented a system, they "consciously fail to monitor or oversee its operations," disabling themselves from being informed of risks requiring attention. Prong two requires a **red flag**: conscious failure to act "after learning about evidence of **illegality**." Deteriorating financial metrics are not red flags ([[Segway Inc. v. Cai]]).
+- **Prong two — conscious disregard.** Having implemented a system, they "consciously fail to monitor or oversee its operations," disabling themselves from being informed of risks requiring attention. Prong two requires a **red flag**: conscious failure to act "after learning about evidence of **illegality**." Deteriorating financial metrics are not red flags ([[Segway Inc. v. Cai (2023)|Segway Inc. v. Cai]]).
 
 **3. For prong one, the system must address the company's central compliance risk.**
 
-This is the addition [[Marchand v. Barnhill]] makes. Caremark asks whether a system exists; Marchand asks **for what**. Blue Bell was "a monoline company that makes a single product," so "one of Blue Bell's central compliance issues is food safety," and a board that monitored everything except that had not tried.
+This is the addition [[Marchand v. Barnhill (2019)|Marchand v. Barnhill]] makes. Caremark asks whether a system exists; Marchand asks **for what**. Blue Bell was "a monoline company that makes a single product," so "one of Blue Bell's central compliance issues is food safety," and a board that monitored everything except that had not tried.
 
 The three pleaded absences that cleared the bar, worth carrying as a template:
 
@@ -47,7 +47,7 @@ A challenge to whether board-level monitoring **exists** states a claim. A chall
 
 **5. Who owes the duty.**
 
-Directors, and — since *McDonald's* — **officers**, whose duty is **remit-bound**, extending barring extreme facts only to matters within the officer's sphere of responsibility. The standard is identical: *McDonald's* extended the duty to officers, it "did not... craft a **lower** standard" ([[Segway Inc. v. Cai]]).
+Directors, and — since *McDonald's* — **officers**, whose duty is **remit-bound**, extending barring extreme facts only to matters within the officer's sphere of responsibility. The standard is identical: *McDonald's* extended the duty to officers, it "did not... craft a **lower** standard" ([[Segway Inc. v. Cai (2023)|Segway Inc. v. Cai]]).
 
 **What is not enough**
 
@@ -70,16 +70,16 @@ Directors, and — since *McDonald's* — **officers**, whose duty is **remit-bo
 ## Exceptions
 
 - **§ 102(b)(7) does not reach it.** Because oversight sits in loyalty and bad faith, an exculpatory charter provision cannot dispose of the claim. This is the entire reason plaintiffs plead oversight rather than care, and the reason courts police the boundary — see [[Charter exculpation of director liability]].
-- **Demand futility is where these claims usually die.** With no interested transaction, a derivative plaintiff must plead with particularity a **substantial likelihood of liability** to excuse demand. That the directors would have to sue themselves is not enough; *Aronson* calls that "bootstrap." Independence is judged against **the decision at issue**, and deciding whether to sue differs in kind from disagreeing on governance ([[Marchand v. Barnhill]]).
+- **Demand futility is where these claims usually die.** With no interested transaction, a derivative plaintiff must plead with particularity a **substantial likelihood of liability** to excuse demand. That the directors would have to sue themselves is not enough; *Aronson* calls that "bootstrap." Independence is judged against **the decision at issue**, and deciding whether to sue differs in kind from disagreeing on governance ([[Marchand v. Barnhill (2019)|Marchand v. Barnhill]]).
 - **Graham v. Allis-Chalmers**, confined. Its line that "absent cause for suspicion there is no duty upon the directors to install and operate a corporate system of espionage" means only that boards cannot be charged "simply for assuming the integrity of employees," not that no system is required.
 
 ## Leading case
 
-[[In re Caremark International Inc. Derivative Litigation|Caremark]] for the standard; [[Marchand v. Barnhill]] for what clears it. Blue Bell had years of regulatory findings and fifteen positive listeria tests over 2013–14 reaching management, and a board whose recorded response to a product recall was a resolution supporting management.
+[[In re Caremark International Inc. Derivative Litigation (1996)|Caremark]] for the standard; [[Marchand v. Barnhill (2019)|Marchand v. Barnhill]] for what clears it. Blue Bell had years of regulatory findings and fifteen positive listeria tests over 2013–14 reaching management, and a board whose recorded response to a product recall was a resolution supporting management.
 
 ## Best counter-case
 
-[[Segway Inc. v. Cai]] for what fails it.
+[[Segway Inc. v. Cai (2023)|Segway Inc. v. Cai]] for what fails it.
 
 The distinguishing line: **absence of a system for a risk that could destroy the company is bad faith; a functioning function that performed badly is a care claim at most.** A fact pattern with no alleged wrongdoing supplies no red flag, and without a red flag prong two is unavailable whatever the numbers look like.
 

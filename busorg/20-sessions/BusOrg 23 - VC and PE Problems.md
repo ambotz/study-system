@@ -11,8 +11,8 @@ reconciled: false
 
 ## Readings
 
-- [[In re Trados]]
-- [[New Enterprise Associates 14 v. Rich]]
+- [[In re Trados (2013)|In re Trados]]
+- [[New Enterprise Associates 14 v. Rich (2023)|New Enterprise Associates 14 v. Rich]]
 
 ## Notes
 

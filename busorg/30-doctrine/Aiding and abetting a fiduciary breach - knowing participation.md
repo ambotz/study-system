@@ -41,7 +41,7 @@ Element three is where every case is decided.
 
 The mental state is "knowingly, intentionally, or with reckless indifference," an "illicit state of mind." **It is the aider and abettor that must act with scienter**, and whether it did is a **factual** determination.
 
-The second requirement is the one that decides close cases. In [[In re Mindbody, Inc., Stockholder Litigation]] the buyer's internal scrubbing showed it knew its **sale-process** conduct "was not above suspicion" — and said nothing about whether it knew its **proxy silence** was improper, which was the conduct actually charged. Match the knowledge to the conduct pleaded.
+The second requirement is the one that decides close cases. In [[In re Mindbody, Inc., Stockholder Litigation (2024)|In re Mindbody, Inc., Stockholder Litigation]] the buyer's internal scrubbing showed it knew its **sale-process** conduct "was not above suspicion" — and said nothing about whether it knew its **proxy silence** was improper, which was the conduct actually charged. Match the knowledge to the conduct pleaded.
 
 ### Participation — substantial assistance under Restatement § 876(b)
 
@@ -96,7 +96,7 @@ The de novo point is not a technicality. In Mindbody the Supreme Court left ever
 
 ## Leading case
 
-[[RBC Capital Markets v. Jervis]]. RBC ran Rural/Metro's sale process while planning to use that engagement to win buy-side financing mandates on a competitor's simultaneous sale, favouring the bidders who were pursuing both. It never disclosed that interest, conducted back-channel communications with a bidder, modified its valuation analysis and delivered the modified version on the day of the board vote, and pressed for financing from the winning bidder while leading the price negotiations.
+[[RBC Capital Markets v. Jervis (2015)|RBC Capital Markets v. Jervis]]. RBC ran Rural/Metro's sale process while planning to use that engagement to win buy-side financing mandates on a competitor's simultaneous sale, favouring the bidders who were pursuing both. It never disclosed that interest, conducted back-channel communications with a bidder, modified its valuation analysis and delivered the modified version on the day of the board vote, and pressed for financing from the winning bidder while leading the price negotiations.
 
 The directors breached the duty of care and paid nothing, being exculpated and lacking scienter. RBC owed no fiduciary duty at all and paid, because it knew exactly what it was doing — "[t]he manifest intentionality of RBC's conduct" shown by the bankers' own internal communications.
 
@@ -104,7 +104,7 @@ The holding on the shield is the durable part: "[t]he literal language of Sectio
 
 ## Best counter-case
 
-[[In re Mindbody, Inc., Stockholder Litigation]], which reversed a finding of liability on facts that look superficially similar and is the better teaching case for where the line sits.
+[[In re Mindbody, Inc., Stockholder Litigation (2024)|In re Mindbody, Inc., Stockholder Litigation]], which reversed a finding of liability on facts that look superficially similar and is the better teaching case for where the line sits.
 
 The distinguishing line: **RBC created the informational vacuum; Vista walked past one that did not exist.** "In that case, RBC knew all of the relevant information and the board knew none of it." In Mindbody, "Stollmeyer knew everything that Vista knew," so Vista "did not create an informational vacuum, or purposely mislead Stollmeyer, or proximately cause his disclosure breach" — it "passively stood by."
 

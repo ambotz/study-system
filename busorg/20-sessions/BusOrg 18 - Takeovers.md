@@ -12,7 +12,7 @@ reconciled: false
 ## Readings
 
 - 8 Del. C. 151, 157 → [[Preferred versus common - the duty to the residual claimants]], [[The poison pill - statutory authority and Unocal limits]]
-- [[Moran v. Household International]]
+- [[Moran v. Household International (1985)|Moran v. Household International]]
 - Revlon v. MacAndrews & Forbes (redux) *(no reading file yet)*
 
 ## Notes

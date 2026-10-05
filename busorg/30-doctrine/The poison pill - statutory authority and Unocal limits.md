@@ -45,7 +45,7 @@ Two further features matter for a pill. **§ 157(d)** allows any provision of su
 
 The pill was built for one job and has been pointed at several others. Moran's plan answered the **front-end-loaded two-tier tender offer**. Then the flip-over gained a flip-in; triggers fell from 20% to 15% and in places to 10%; the device was repurposed to protect **net operating losses** (Selectica); and most recently it has been aimed at **stockholder activism**.
 
-[[The Williams Companies Stockholder Litigation]] is the limit on that last move, and its transportable holding is that the Unocal analysis does not travel unchanged with the device. "[T]he proportionality analysis is **tied to a pill's purpose, and with new purposes come new considerations**." So a defendant cannot answer a new-purpose pill by reciting Moran's screen — "no stockholder is precluded from launching a proxy contest" — because the conduct a new-purpose pill actually reaches may be the **pre-contest conversation** rather than the contest.
+[[The Williams Companies Stockholder Litigation (2021)|The Williams Companies Stockholder Litigation]] is the limit on that last move, and its transportable holding is that the Unocal analysis does not travel unchanged with the device. "[T]he proportionality analysis is **tied to a pill's purpose, and with new purposes come new considerations**." So a defendant cannot answer a new-purpose pill by reciting Moran's screen — "no stockholder is precluded from launching a proxy contest" — because the conduct a new-purpose pill actually reaches may be the **pre-contest conversation** rather than the contest.
 
 Three features drove the Williams result, and they are the ones to check on any anti-activist plan:
 
@@ -61,18 +61,18 @@ The gaps themselves have moved since 2021, and the argument moves with them — 
 
 ### Why the pill displaced everything else
 
-Moran's comparative point is the reason the device took over. A rights plan "does not destroy the assets of the corporation," produces no outflow of money, does not impair financial flexibility, does not dilute earnings per share, has no adverse tax consequences, and had not affected the market price. Every earlier defence cost real money — selling a prize asset, paying greenmail ([[Selective repurchases and greenmail - 160(a) and the primary purpose test]]), or the debt-financed discriminatory self-tender in [[Unocal v. Mesa Petroleum]].
+Moran's comparative point is the reason the device took over. A rights plan "does not destroy the assets of the corporation," produces no outflow of money, does not impair financial flexibility, does not dilute earnings per share, has no adverse tax consequences, and had not affected the market price. Every earlier defence cost real money — selling a prize asset, paying greenmail ([[Selective repurchases and greenmail - 160(a) and the primary purpose test]]), or the debt-financed discriminatory self-tender in [[Unocal v. Mesa Petroleum (1985)|Unocal v. Mesa Petroleum]].
 
 ### The limits
 
 | Limit | Content | Authority |
 |---|---|---|
-| **Redemption is reviewable** | A refusal to redeem against an actual offer is judged under Unocal at that time | [[Moran v. Household International]]; [[Air Products v. Airgas]] |
+| **Redemption is reviewable** | A refusal to redeem against an actual offer is judged under Unocal at that time | [[Moran v. Household International (1985)|Moran v. Household International]]; [[Air Products v. Airgas (2011)|Air Products v. Airgas]] |
 | **No dead hand** | A pill redeemable only by the directors who adopted it is invalid | Carmody v. Toll Brothers |
 | **No no-hand or slow-hand** | A pill no newly elected board may redeem, or may not redeem for a period, is draconian, coercive and preclusive | Mentor Graphics v. Quickturn |
 | **The election route must survive** | Bidders need an avenue to the stockholders that is not prohibitively expensive; stockholders need a mechanism to reverse the defence | Unitrin; Airgas |
 | **Pill plus staggered board is NOT preclusive** | Making control "more difficult" is not making it "realistically unattainable"; delay is not prevention | Versata v. Selectica |
-| **The threat must be real, not hypothetical** | A clear-day pill aimed at activism as a category, or at abstract "short-termism," fails prong one; a 5% trigger plus a parallel-conduct acting-in-concert provision fails prong two | [[The Williams Companies Stockholder Litigation]] |
+| **The threat must be real, not hypothetical** | A clear-day pill aimed at activism as a category, or at abstract "short-termism," fails prong one; a 5% trigger plus a parallel-conduct acting-in-concert provision fails prong two | [[The Williams Companies Stockholder Litigation (2021)|The Williams Companies Stockholder Litigation]] |
 
 The principle behind the dead-hand line is that "a pill that binds directors forever cannot be valid." That is what keeps "just say **never**" unlawful while leaving "just say no, for now" available.
 
@@ -92,13 +92,13 @@ The principle behind the dead-hand line is that "a pill that binds directors for
 
 - **The flip side of adoption is the annual meeting.** The pill's validity depends on the bidder's ability to replace the board. Remove that — through a dead-hand provision, or by manipulating the election — and the defence fails.
 - **Blasius and the franchise.** Board interference with a stockholder **vote** has drawn much stricter review than interference with a tender offer. Coster v. UIP Companies, assigned in session 21, appears to fold that inquiry into a Unocal-shaped test.
-- **Revlon.** Once the company is being sold, a pill maintained to protect anything other than price cannot survive. [[Revlon v. MacAndrews & Forbes]] upheld the pill's adoption and treated the board's own redemption resolutions as mooting it.
+- **Revlon.** Once the company is being sold, a pill maintained to protect anything other than price cannot survive. [[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes]] upheld the pill's adoption and treated the board's own redemption resolutions as mooting it.
 - **§ 144(d)(6)(b) preserves injunctive review post-SB 21** of "provisions or devices designed or intended to deter, delay, or preclude a change of control."
 - **Charter constraints.** Section 157(a) opens "[s]ubject to any provisions in the certificate of incorporation," and § 151(g) requires blank-check authority expressly vested by the charter. A charter that lacks authorised preferred, or that limits rights plans, limits the board.
 
 ## Leading case
 
-[[Moran v. Household International]]. Household adopted the plan fourteen to two, with no raider at the gates, "as a preventive mechanism to ward off future advances," after considering its vulnerability since February 1984. The court upheld it, resting authority on § 157 for the rights, § 151 for the underlying preferred, and § 141(a) as a backstop, and holding that advance adoption reduces "the risk that, under the pressure of a takeover bid, management will fail to exercise reasonable judgment."
+[[Moran v. Household International (1985)|Moran v. Household International]]. Household adopted the plan fourteen to two, with no raider at the gates, "as a preventive mechanism to ward off future advances," after considering its vulnerability since February 1984. The court upheld it, resting authority on § 157 for the rights, § 151 for the underlying preferred, and § 141(a) as a backstop, and holding that advance adoption reduces "the risk that, under the pressure of a takeover bid, management will fail to exercise reasonable judgment."
 
 The two reservations are where the later law lives. First, the board "does not now have unfettered discretion in refusing to redeem the Rights" — a refusal will be judged when it happens. Second, and this is the premise that failed, "there are **numerous methods** to successfully launch a hostile tender offer."
 
@@ -106,7 +106,7 @@ That second premise did not survive the **staggered board**. Acquirors answered 
 
 ## Best counter-case
 
-[[Air Products v. Airgas]] is where Moran's reservation was finally tested, and the board won.
+[[Air Products v. Airgas (2011)|Air Products v. Airgas]] is where Moran's reservation was finally tested, and the board won.
 
 The distinguishing line: **Moran upheld a pill nobody was yet using; Airgas upheld a refusal to redeem one against a structurally non-coercive, all-cash, fully financed, all-shares offer, sixteen months in, after the bidder had already won three board seats.**
 
@@ -114,7 +114,7 @@ What made it possible was the pairing. The pill alone would have bought a year; 
 
 The limits held even so. The court insists "this case does not endorse 'just say never'"; directors still owe duties to short-term as well as long-term holders; and pills cannot have set expiration dates precisely because the annual meeting supplies the real one.
 
-**The other pole is [[The Williams Companies Stockholder Litigation]]**, and the pair is the cleanest way to state where the line sits. Airgas: identified bidder, identified price, sixteen months of deliberation, a bidder's own nominees inside the boardroom — pill maintained. Williams: no bidder, no price, no specific activist, a pill adopted at an "urgent" meeting as the stock fell — pill enjoined. The variable is not the board's sincerity, which was intact in both. It is whether the threat was **particular**.
+**The other pole is [[The Williams Companies Stockholder Litigation (2021)|The Williams Companies Stockholder Litigation]]**, and the pair is the cleanest way to state where the line sits. Airgas: identified bidder, identified price, sixteen months of deliberation, a bidder's own nominees inside the boardroom — pill maintained. Williams: no bidder, no price, no specific activist, a pill adopted at an "urgent" meeting as the stock fell — pill enjoined. The variable is not the board's sincerity, which was intact in both. It is whether the threat was **particular**.
 
 Williams also shows that a board can win the *process* half of prong one and still lose. Nearly all independent outside directors, two meetings, outside legal and financial advisors, genuine deliberation — "nothing about the process jumps out as unreasonable." "The real problem is not the process that Defendants followed, but the threats they identified."
 

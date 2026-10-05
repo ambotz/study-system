@@ -11,9 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[Paramount v. Time]]
-- [[Paramount v. QVC]]
-- [[Air Products v. Airgas]]
+- [[Paramount v. Time (1990)|Paramount v. Time]]
+- [[Paramount v. QVC (1994)|Paramount v. QVC]]
+- [[Air Products v. Airgas (2011)|Air Products v. Airgas]]
 
 ## Notes
 

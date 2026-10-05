@@ -67,14 +67,14 @@ Claims challenging the sale process that remain in the case are tested at the pl
 
 ## Exceptions
 
-- **Meritorious deal litigation is unaffected.** Trulia expressly notes that such litigation "has generated meaningful economic benefits for stockholders" where a sale process was corrupted by conflicts. [[Omnicare v. NCS Healthcare]] is the same docket working properly.
+- **Meritorious deal litigation is unaffected.** Trulia expressly notes that such litigation "has generated meaningful economic benefits for stockholders" where a sale process was corrupted by conflicts. [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]] is the same docket working properly.
 - **Monetary settlements are not disclosure settlements.** The give-and-get analysis is about a release purchased with information of no value.
 - **Forum shopping has an answer.** A Delaware corporation may enact a **forum selection bylaw** to keep the litigation at home.
 - **The claims did not disappear; they relocated.** After Trulia the practice migrated to mootness fee applications and to federal court under § 14(a), which is the second channel the opinion itself identified as acceptable.
 
 ## Leading case
 
-[[In re Trulia]]. Four supplemental disclosures, all concerning J.P. Morgan's financial analysis — synergy figures, comparable transaction multiples, public trading multiples, and implied terminal EBITDA multiples. The proxy already ran 224 pages and summarised the banker's opinion in ten single-spaced pages.
+[[In re Trulia (2016)|In re Trulia]]. Four supplemental disclosures, all concerning J.P. Morgan's financial analysis — synergy figures, comparable transaction multiples, public trading multiples, and implied terminal EBITDA multiples. The proxy already ran 224 pages and summarised the banker's opinion in ten single-spaced pages.
 
 The record was thin enough to show what the process had become: no motions decided, not even a motion to expedite; fewer than 3,000 pages produced; three depositions, one of them confirmatory. The injunction brief pleaded price, process and preclusive terms but argued only disclosure, and the release would have extinguished everything. The only money changing hands was a $375,000 fee that defendants agreed not to oppose. Approval denied.
 
@@ -82,7 +82,7 @@ The incentive diagnosis is the durable part. Plaintiffs' leverage is the threat 
 
 ## Best counter-case
 
-**Rural/Metro**, described within Trulia itself, is the case that proves the stakes run the other way as well. The Court of Chancery called it a "very close call" to reject a disclosure settlement whose release would have extinguished claims that later produced over $100 million for stockholders, most of it from a post-trial judgment after new counsel took over. The same litigation is assigned in session 16 as [[RBC Capital Markets v. Jervis]].
+**Rural/Metro**, described within Trulia itself, is the case that proves the stakes run the other way as well. The Court of Chancery called it a "very close call" to reject a disclosure settlement whose release would have extinguished claims that later produced over $100 million for stockholders, most of it from a post-trial judgment after new counsel took over. The same litigation is assigned in session 16 as [[RBC Capital Markets v. Jervis (2015)|RBC Capital Markets v. Jervis]].
 
 The distinguishing line: **the harm from a disclosure settlement is not only that the class gets nothing, but that the release extinguishes claims nobody investigated.** A settlement whose "get" is worthless and whose "give" is unbounded fails on both halves of the test, and Rural/Metro shows the second half is where the real money is.
 

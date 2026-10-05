@@ -55,11 +55,11 @@ The question is whether "material considerations other than the best interests o
 
 ## Leading case
 
-[[In re Oracle Corp. Derivative Litigation]] — two Stanford professors recruited to the board in summer 2001 and then asked to investigate a fellow Stanford professor and two university benefactors, one of whom was contemplating a very large gift to Stanford while they were being courted. "[A] social atmosphere painted in too much vivid Stanford Cardinal red."
+[[In re Oracle Corp. Derivative Litigation (2003)|In re Oracle Corp. Derivative Litigation]] — two Stanford professors recruited to the board in summer 2001 and then asked to investigate a fellow Stanford professor and two university benefactors, one of whom was contemplating a very large gift to Stanford while they were being courted. "[A] social atmosphere painted in too much vivid Stanford Cardinal red."
 
 ## Best counter-case
 
-[[United Food (Tri-State) Pension Fund v. Zuckerberg]] on independence, and the contrast is about **who must prove what**.
+[[United Food (Tri-State) Pension Fund v. Zuckerberg (2021)|United Food (Tri-State) Pension Fund v. Zuckerberg]] on independence, and the contrast is about **who must prove what**.
 
 The distinguishing line: **under Zapata the corporation must prove independence; under Rule 23.1 the plaintiff must plead facts creating reasonable doubt about it.** The same relationships can therefore produce opposite results depending on which motion is before the court. Allocation of the burden is doing at least as much work as the underlying facts.
 

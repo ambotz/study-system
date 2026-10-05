@@ -21,7 +21,7 @@ The transaction is then voidable at the principal's election. The fairness of th
 
 **2. An interest in the transaction adverse to the principal's.**
 
-Ownership, compensation, or exposure on the other side of the deal. In [[Detroit Lions v. Argovitz|Argovitz]] the agent held 29% of the counterparty, drew a $275,000 salary from it, took 5% of its cash flow, and carried personal liability on 29% of its letter of credit.
+Ownership, compensation, or exposure on the other side of the deal. In [[Detroit Lions v. Argovitz (1984)|Argovitz]] the agent held 29% of the counterparty, drew a $275,000 salary from it, took 5% of its cash flow, and carried personal liability on 29% of its letter of credit.
 
 **3. Failure to carry the shifted burden.** The agent must show **both**:
 
@@ -54,11 +54,11 @@ Disclosing the bare existence of a conflict is not enough. The agent "must infor
 
 ## Leading case
 
-[[Detroit Lions v. Argovitz]] — an agent negotiated his client's contract with a football club he partly owned, never called the competing bidder for a final offer, and never sought for his client the contract terms an independent agent had extracted from the same club for a lesser player.
+[[Detroit Lions v. Argovitz (1984)|Detroit Lions v. Argovitz]] — an agent negotiated his client's contract with a football club he partly owned, never called the competing bidder for a final offer, and never sought for his client the contract terms an independent agent had extracted from the same club for a lesser player.
 
 ## Best counter-case
 
-No assigned case comes out the other way on these facts. The instructive contrast is the corporate line that develops the same architecture with **cleansing mechanisms** attached — 8 Del. C. § 144, [[Sinclair Oil v. Levien]], and [[Kahn v. M&F Worldwide]].
+No assigned case comes out the other way on these facts. The instructive contrast is the corporate line that develops the same architecture with **cleansing mechanisms** attached — 8 Del. C. § 144, [[Sinclair Oil v. Levien (1971)|Sinclair Oil v. Levien]], and [[Kahn v. M&F Worldwide (2014)|Kahn v. M&F Worldwide]].
 
 The distinguishing line: **Argovitz offers a fiduciary only one way out — disclosure plus free consent — while Delaware corporate law adds disinterested director approval, informed stockholder approval, and the post-SB 21 statutory safe harbours.** A fact pattern that supplies a cleansing device is a corporate problem; one that supplies only silence is this problem.
 
