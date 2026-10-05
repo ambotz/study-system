@@ -13,10 +13,7 @@ posture_drove_outcome: false
 
 ## Rule
 
-Stockholders may not use a **bylaw** to take a core managerial function from the board. Bylaws may define the
-**process and procedures** by which board decisions are made; they may not mandate how the board decides
-substantive business questions, and a facially procedural bylaw still fails if its intent and effect intrude
-on board authority.
+Stockholders may not use a **bylaw** to take a core managerial function from the board. Bylaws may define the **process and procedures** by which board decisions are made; they may not mandate how the board decides substantive business questions, and a facially procedural bylaw still fails if its intent and effect intrude on board authority.
 
 ## Facts
 
@@ -70,19 +67,19 @@ on board authority.
 
 Paired with [[West Palm Beach Firefighters v. Moelis & Co|Moelis]] as the two halves of the same § 141(a)
 limit. Gorman concerns a **bylaw**; Moelis concerns a **stockholder agreement**. Both fail for the same reason
-and both are rescued by the same instrument — the certificate of incorporation, which § 141(a) itself names as
-the place where board authority may be varied.
+and both are rescued by the same instrument — ==the certificate of incorporation, which § 141(a) itself names as==
+==the place where board authority may be varied.==
 
 The three-tier hierarchy the session is built around: **charter** can displace board authority because §
 141(a) says so; **bylaws** can regulate process but not substance; **contracts among stockholders** cannot do
 internal governance at all. Everything in this part of the course is an application of that ordering.
 
-Footnote 13's "infinite loop" point is the structural argument and is worth keeping: stockholders remove an
+Footnote 13's "infinite loop" point is the structural argument and is worth keeping: the Bylaw would allow stockholders to remove an
 officer and appoint a successor, the board replaces that successor, the stockholders repeat. A governance rule
 with no stable equilibrium is evidence the rule sits in the wrong instrument.
 
 Footnote 14 leaves open whether a bylaw could let stockholders fill **vacant** offices directly — a narrower
-question than removal without cause, and a plausible exam variation.
+question than removal without cause, and **a plausible exam variation**.
 
 ## Professor gloss
 
@@ -95,16 +92,6 @@ question than removal without cause, and a plausible exam variation.
 - Delaware Court of Chancery, on the validity of a bylaw amendment and the written consents taken under it.
 - The casebook presents the opinion in heavily edited form with bracketed editorial summary, so the procedural
   detail is thin.
-
-### Facts
-
-Westech Capital Corp. had a controlling stockholder in John Gorman, who held a majority of its voting stock.
-Rather than act through the board, Gorman amended the company's bylaws by written consent to give stockholders
-the power to remove and replace corporate officers, and then used that power at once — terminating Salamone as
-CEO and installing himself in the role.
-
-The dispute is therefore not about whether Gorman had the votes. He did. It is about whether the corporate
-form permits a stockholder, however large, to reach past the board and operate the company directly.
 
 ### Issue
 
@@ -150,16 +137,6 @@ form permits a stockholder, however large, to reach past the board and operate t
   removals could compel a board to act against its own considered judgment of the company's interest.
 - The private-ordering answer is jurisdictional rather than dismissive. Delaware does not deny that
   stakeholders may want stockholder management; it says that desire belongs in a different entity form.
-
-### Dissent / concurrence
-
-- None.
-- The pressure point, in short: Delaware invalidates a governance arrangement that the holder of a voting
-  majority actually adopted, on the basis of a default rule in § 141(a) that the charter itself is allowed to
-  displace. The answer is formal — put it in the charter — which makes the rule look like one about
-  **instrument choice** rather than about substance. Moelis confronts the same objection directly and answers
-  it with the doctrine of independent legal significance.
-
 ### Cold-call notes
 
 - **Expect to be asked how Gorman could have achieved this lawfully.** Put it in the certificate of

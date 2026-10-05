@@ -55,12 +55,12 @@ The distinction that carries the weight:
 ## Exceptions
 
 - **Known bad character** at the time of appointment removes the protection.
-- **Fraud or wilful disregard of duty** is outside the doctrine entirely; the complainant in [[Scott v. Depeyster]] expressly abandoned that theory.
+- **Fraud or wilful disregard of duty** is outside the doctrine entirely; the complainant in [[Scott v. Depeyster (1832)]] expressly abandoned that theory.
 - **Self-dealing** is a loyalty problem and is never excused as honest error — see [[Agent duty of loyalty - self-dealing]].
 
 ## Leading case
 
-[[Scott v. Depeyster]] — a secretary altered signed checks from five, seven and nine dollars into thousands, took roughly $179,000 over three years, and passed six semi-annual director examinations undetected. The directors were not charged, because their examinations matched industry practice.
+[[Scott v. Depeyster (1832)]] — a secretary altered signed checks from five, seven and nine dollars into thousands, took roughly $179,000 over three years, and passed six semi-annual director examinations undetected. The directors were not charged, because their examinations matched industry practice.
 
 ## Best counter-case
 
@@ -74,5 +74,5 @@ The distinguishing line: **Scott measures oversight against what comparable inst
 
 1. **Answering with what the directors could have done.** One trip to the bank, or one comparison of cancelled checks to the check book, would have exposed the fraud, and the court says so. It is still not the test.
 2. **Treating industry practice as a safe harbour in the modern law.** It was essentially dispositive in 1832. After Caremark and [[Marchand v. Barnhill]], conformity to industry practice does not answer whether a board made a good-faith effort to implement a reporting system.
-3. **Collapsing the three grounds.** [[Scott v. Depeyster]] gives independent answers — honest error, acquiescence, no causation — and the causation analysis is the most transferable of the three.
+3. **Collapsing the three grounds.** [[Scott v. Depeyster (1832)]] gives independent answers — honest error, acquiescence, no causation — and the causation analysis is the most transferable of the three.
 4. **Missing that this is a care case, not a loyalty case.** That classification is what determines whether an exculpatory charter provision would dispose of it today.

@@ -11,6 +11,9 @@ blank lines are left exactly as found; a wikilink is never split across a line.
 """
 import argparse, os, re, sys
 
+HERE = os.path.dirname(os.path.abspath(__file__))
+VAULT = os.path.abspath(os.path.join(HERE, "..", ".."))
+
 FENCE = re.compile(r"^\s*(```|~~~)")
 SKIP = re.compile(r"^\s*(#{1,6}\s|\||>|---\s*$|===)")
 BULLET = re.compile(r"^(\s*)([-*+]|\d+[.)])\s+")
@@ -95,14 +98,30 @@ def process(txt, width):
 
 def main():
     a = argparse.ArgumentParser()
-    a.add_argument("--path", required=True)
+    a.add_argument("--path", default="")
     a.add_argument("--width", type=int, default=0, help="0 = unwrap fully")
     a.add_argument("--out")
     a.add_argument("--only")
+    a.add_argument("--class", dest="cls", help="limit to one class's 10-cases, with --session-min")
+    a.add_argument("--session-min", type=int, default=0)
     args = a.parse_args()
-    files = ([args.path] if args.path.endswith(".md")
-             else [os.path.join(args.path, f) for f in sorted(os.listdir(args.path))
-                   if f.endswith(".md") and (not args.only or args.only in f)])
+    if args.cls:
+        import json
+        base = os.path.join(VAULT, args.cls)
+        ix = json.load(open(os.path.join(base, "99-meta", "case-index.json"), encoding="utf-8"))
+        files = []
+        for sess in ix["sessions"]:
+            if sess["session"] < args.session_min:
+                continue
+            for r in sess["readings"]:
+                f = os.path.join(base, "10-cases", (r.get("case") or "") + ".md")
+                if os.path.exists(f) and f not in files:
+                    files.append(f)
+        files.sort()
+    else:
+        files = ([args.path] if args.path.endswith(".md")
+                 else [os.path.join(args.path, f) for f in sorted(os.listdir(args.path))
+                       if f.endswith(".md") and (not args.only or args.only in f)])
     if args.out:
         os.makedirs(args.out, exist_ok=True)
     n = 0

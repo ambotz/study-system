@@ -21,7 +21,7 @@ Under the modern enabling statute the charter no longer **grants** corporate pow
 The division of labour between the two instruments:
 
 - **Certificate of incorporation** — the only instrument that can displace board authority under § 141(a), and the only home for exculpation under § 102(b)(7).
-- **Bylaws** — "any provision, not inconsistent with law or with the certificate of incorporation, relating to the business of the corporation, the conduct of its affairs, and its rights or powers or the rights or powers of its stockholders, directors, officers or employees" (§ 109(b)). Process, not substance.
+- **Bylaws** — "any provision, not inconsistent with law or with the certificate of incorporation, relating to the business of the corporation, the conduct of its affairs, and its rights or powers or the rights or powers of its stockholders, directors, officers or employees" (§ 109(b)). ==Process==, not substance.
 
 ## Elements
 
@@ -33,7 +33,7 @@ The division of labour between the two instruments:
 - **§ 102(b)(7) exculpation**, which cannot live in the bylaws.
 - **Supermajority amendment thresholds**, entrenching the provisions above.
 
-**2. What the bylaws carry.** Under § 109(a) the power to adopt, amend or repeal bylaws sits with the stockholders once the corporation has received any payment for its stock, **but** a corporation may by its certificate confer that power on directors — and doing so "shall not divest the stockholders ... of the power." Hence the standard pattern: both hold the power, with a supermajority imposed on the stockholders.
+**2. What the bylaws carry.** Under § 109(a) **the power to adopt, amend or repeal bylaws sits with the stockholders** once the corporation has received any payment for its stock, **but** a corporation may by its certificate confer that power on directors — and doing so "shall not divest the stockholders ... of the power." Hence the standard pattern: both hold the power, with a supermajority imposed on the stockholders.
 
 Bylaws in practice carry meeting mechanics, quorum, advance-notice and proxy-access procedure, officer roles, indemnification, and forum selection.
 
@@ -78,6 +78,8 @@ Read the charter as a list of elections, not as prose.
 ## Exceptions
 
 - **§ 122(18)**, added after [[West Palm Beach Firefighters v. Moelis & Co|Moelis]]: "Notwithstanding § 141(a) of this title," a corporation may make contracts with current or prospective stockholders in that capacity, for minimum consideration determined by the board, including to induce them to take or refrain from action — "provided that no provision of such contract shall be enforceable against the corporation to the extent such contract provision is contrary to the certificate of incorporation" or would be unlawful if included in it. Remedies are those of contract law. See [[Director primacy - limits on constraining the board]].
+	- 122(18) is still limited by the Company's Charter. Corporation cannot contract internal agreements with stockholders that are in violation of its own Charter.
+	- Remedies limited to contract law.
 - **Quasi-California.** Cal. Corp. Code § 2115 can impose California governance rules on a Delaware corporation with sufficient California contacts, which is why NVIDIA's charter carries a conditional cumulative-voting article.
 
 ## Leading case
@@ -86,7 +88,7 @@ Read the charter as a list of elections, not as prose.
 
 ## Best counter-case
 
-[[Scott v. Depeyster]] and the 1815 National Insurance charter.
+[[Scott v. Depeyster (1832)]] and the 1815 National Insurance charter.
 
 The distinguishing line: **in 1815 the charter enumerated what the corporation could do; today it enumerates what the corporation declines to do by default.** Anything in a modern charter is there because someone chose to displace a statutory default — which is why reading a charter means asking, at each article, "what would happen without this?"
 

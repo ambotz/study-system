@@ -204,11 +204,14 @@ Repeated from `CLAUDE.md` because violating these is the most common failure.
   words, each one sentence of fact plus at most one short italic line on why it is pivotal.
   Class layer: one paragraph, roughly 100–150 words. A memorable figure or date that decides
   nothing belongs in Cold-call notes, not Facts.
-- **Wrapping is per course.** Con Law reading files are not hard-wrapped: each paragraph and
-  each bullet is a single line, and only new or nested bullets start new lines. BusOrg case
-  briefs are hard-wrapped at 110 columns, with continuation lines indented to the bullet's
-  text, because those files are printed and annotated in the right margin. Match the course
-  you are writing for; `.claude/scripts/rewrap.py` converts either way and is lossless.
+- **Do not hard-wrap prose.** Each paragraph and each bullet is a single line; only new and
+  nested bullets start new lines. This holds for Con Law throughout and for BusOrg from
+  Class 6. Hard-wrapping at any width leaves a short stub on a paragraph's last line, which
+  reads as a sentence ending early — the defect that retired the 110-column BusOrg wrap.
+  The annotation margin printing needs comes from the PDF export margin setting, not from
+  line breaks baked into the file. BusOrg Classes 1-5 keep their 110-column wrap because
+  those packets are already printed and marked up; convert one with
+  `.claude/scripts/rewrap.py --class busorg --session-min N --width 0` if that changes.
 - **Never let a wikilink wrap across a line break.** Obsidian will not resolve a
   link containing a newline, and the failure is silent.
 

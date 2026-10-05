@@ -13,57 +13,34 @@ posture_drove_outcome: false
 
 ## Rule
 
-A **managing** coadventurer who receives an opportunity that comes to him as an incident of managing the
-venture must disclose it to his coadventurer. Taking it "in secrecy and silence" extends a constructive trust
-over what he took, even where the venture was about to end and even absent any intent to defraud.
+A **managing** coadventurer who receives an opportunity that comes to him as an incident of managing the venture must disclose it to his coadventurer. Taking it "in secrecy and silence" extends a constructive trust over what he took, even where the venture was about to end and even absent any intent to defraud.
 
 ## Facts
 
-- Salmon leased the Hotel Bristol for twenty years and funded the conversion to shops and offices with
-  Meinhard's money — Meinhard paying half the cost, taking 40% of net profits for five years and 50% after,
-  and bearing half of any losses.
-- **Salmon held the sole power to "manage, lease, underlet and operate."** *This asymmetry is the case.
-  Meinhard put in money; Salmon put in money, labour, and control.*
-- The lease ran in Salmon's own name. **To an observer Salmon held it as owner in his own right**, which is
-  why Gerry approached Salmon alone. *Had the lease run in the venture's name, Gerry would have laid the plan
-  before both.*
+- Salmon leased the Hotel Bristol for twenty years and funded the conversion to shops and offices with Meinhard's money — Meinhard paying half the cost, taking 40% of net profits for five years and 50% after, and bearing half of any losses.
+- **Salmon held the sole power to "manage, lease, underlet and operate."** *This asymmetry is the case. Meinhard put in money; Salmon put in money, labour, and control.*
+- The lease ran in Salmon's own name. **To an observer Salmon held it as owner in his own right**, which is why Gerry approached Salmon alone. *Had the lease run in the venture's name, Gerry would have laid the plan before both.*
 - Gerry, owner of the reversion and of five adjoining lots, had tried and failed to place a large
-  redevelopment with several capitalists and dealers. He then turned to the man in possession of the keystone
-  parcel.
-- With **less than four months left** on the Bristol lease, Salmon's wholly owned Midpoint Realty took a new
-  lease over the whole tract — up to eighty years by renewal, a $3,000,000 building, rent rising from $55,000
-  to between $350,000 and $475,000.
-- **Salmon told Meinhard nothing.** Meinhard learned of the lease in February, after it was signed, and did
-  not know a project even existed.
-- The new lease covered an **extension and enlargement of the same subject-matter** — the Bristol site was the
-  keystone of the assembled tract. *A proposal for a building far removed would have been Salmon's to keep.*
-- Salmon had made the venture a success and Meinhard had contributed money but neither time nor labour.
-  *Argued and rejected — the court concedes the equities and holds them irrelevant to a managing fiduciary.*
+  redevelopment with several capitalists and dealers. He then turned to the man in possession of the keystone parcel.
+- With **less than four months left** on the Bristol lease, Salmon's wholly owned Midpoint Realty took a new lease over the whole tract — up to eighty years by renewal, a $3,000,000 building, rent rising from $55,000 to between $350,000 and $475,000.
+- **Salmon told Meinhard nothing.** Meinhard learned of the lease in February, after it was signed, and did not know a project even existed.
+- The new lease covered an **extension and enlargement of the same subject-matter** — the Bristol site was the keystone of the assembled tract. *A proposal for a building far removed would have been Salmon's to keep.*
+- Salmon had made the venture a success and Meinhard had contributed money but neither time nor labour. *Argued and rejected — the court concedes the equities and holds them irrelevant to a managing fiduciary.*
 
 ## Court Ruling
 
 **Held**
 
-- Joint adventurers, like copartners, owe one another "the duty of the finest loyalty" while the enterprise
-  continues. The standard is "not honesty alone, but the punctilio of an honor the most sensitive."
-- The heavier weight of that duty rested on Salmon **because he was manager**. The opportunity reached him "by
-  virtue of his agency."
-- The breach is the exclusion, not the taking. Salmon "might have warned Meinhard that the plan had been
-  submitted, and that either would be free to compete." What he could not do was cut off the chance to
-  compete. "This chance, if nothing more, he was under a duty to concede."
-- No finding of conscious fraud is required. The court expressly assumes Salmon acted in good faith and holds
-  him liable anyway.
-- Remedy: a constructive trust over half the new lease — at Salmon's option attaching instead to the Midpoint
-  shares, with one extra share to Salmon so he keeps control, and with Meinhard assuming the corresponding
-  obligations.
+- Joint adventurers, like copartners, owe one another "the duty of the finest loyalty" while the enterprise continues. The standard is "not honesty alone, but the punctilio of an honor the most sensitive."
+- The heavier weight of that duty rested on Salmon **because he was manager**. The opportunity reached him "by virtue of his agency."
+- The breach is the exclusion, not the taking. Salmon "might have warned Meinhard that the plan had been submitted, and that either would be free to compete." What he could not do was cut off the chance to compete. "This chance, if nothing more, he was under a duty to concede."
+- No finding of conscious fraud is required. The court expressly assumes Salmon acted in good faith and holds him liable anyway.
+- Remedy: a constructive trust over half the new lease — at Salmon's option attaching instead to the Midpoint shares, with one extra share to Salmon so he keeps control, and with Meinhard assuming the corresponding obligations.
 
 **Rejected**
 
-- *The chance would have been worth little to Meinhard even if offered.* "Such a calculus of probabilities is
-  beyond the science of the chancery." Meinhard might have offered better terms, allied with other capital, or
-  persuaded Gerry to renew the Bristol lease alone.
-- *The venture was four months from its end, so the duty had effectively expired.* If Salmon could take the
-  renewal with four months to run, "he might do so with equal right while there remained as many years." The
+- *The chance would have been worth little to Meinhard even if offered.* "Such a calculus of probabilities is beyond the science of the chancery." Meinhard might have offered better terms, allied with other capital, or persuaded Gerry to renew the Bristol lease alone.
+- *The venture was four months from its end, so the duty had effectively expired.* If Salmon could take the renewal with four months to run, "he might do so with equal right while there remained as many years." The
   duty does not thin out as the term runs down.
 - *Meinhard had already been richly paid and was grasping for more.* The court accepts the characterisation —
   "There might seem to be something grasping in his insistence upon more" — and holds that such recriminations

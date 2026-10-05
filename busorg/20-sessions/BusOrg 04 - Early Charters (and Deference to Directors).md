@@ -12,7 +12,7 @@ reconciled: false
 ## Readings
 
 - [[An Act to Incorporate the National Insurance Company]]
-- [[Scott v. Depeyster]]
+- [[Scott v. Depeyster (1832)]]
 
 ## Notes
 

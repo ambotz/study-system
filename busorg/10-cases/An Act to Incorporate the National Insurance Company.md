@@ -16,7 +16,7 @@ named corporation. Before general incorporation statutes, this was how a corpora
 legislature, one company, one act, sitting in the session laws between an act about highways in Mamaroneck and
 one about a turnpike company.
 
-It is the corporation whose directors were sued in [[Scott v. Depeyster]] seventeen years later, so the
+It is the corporation whose directors were sued in [[Scott v. Depeyster (1832)]] seventeen years later, so the
 charter and the case are a matched pair: this document is the grant of power, and the case is about what
 happened when the directors went outside it.
 
@@ -30,7 +30,7 @@ it was not given**, and almost all of it has since migrated into the DGCL as a d
 - **§ I — a twenty-year life.** The company is a body corporate "until the first day of May one thousand eight
   hundred and thirty-five." Perpetual existence is now the default; here it had to be granted, and it expired.
 - **§ II — capital fixed by statute.** Shares of $100, not more than five thousand of them, total capital not
-  to exceed $500,000. The actual paid-in capital was $301,800, which matters in [[Scott v. Depeyster]] because
+  to exceed $500,000. The actual paid-in capital was $301,800, which matters in [[Scott v. Depeyster (1832)]] because
   the secretary stole more than half of it.
 - **§ III — management fixed by statute.** "[T]he stock, property, affairs and concerns" of the company
   managed by **nineteen directors**, elected annually on the second Monday in January, public notice in at
@@ -43,7 +43,7 @@ it was not given**, and almost all of it has since migrated into the DGCL as a d
   laws." Compare § 109(b), which grants the power generally and imposes the same consistency limit.
 - **§ VIII — enumerated business powers.** Insurance on inland transportation of goods, marine insurance,
   insurance on lives (by tontine or otherwise), and lending on bottomry and respondentia. **Nothing else.**
-  This list is what the court in [[Scott v. Depeyster]] reads as an implied prohibition on discounting notes.
+  This list is what the court in [[Scott v. Depeyster (1832)]] reads as an implied prohibition on discounting notes.
 - **§ IX — mandatory capital maintenance.** Dividends semi-annually, out of profits only, and **no dividend
   after a loss diminishes the capital until the capital is restored.** Compare §§ 154 and 170.
 - **§ X — real estate restricted.** The company may hold only land "requisite for its immediate accommodation"
@@ -72,4 +72,4 @@ question about the terms of a statutory privilege rather than about a natural at
 
 - [[Early corporate charters - enumerated powers]] — the specimen for the whole module
 - [[Director oversight - honest mistake and ordinary diligence]] — § XIV's negligence clause
-- [[Scott v. Depeyster]] — the litigation over §§ VIII and XI
+- [[Scott v. Depeyster (1832)]] — the litigation over §§ VIII and XI

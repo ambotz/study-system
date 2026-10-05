@@ -26,7 +26,7 @@ Generated 2026-09-23 from `99-meta/case-index.json`. Do not edit; regenerate wit
 ### Class 4 — Early Charters (and Deference to Directors) · Mon 2026-10-05
 
 - [[An Act to Incorporate the National Insurance Company]] — Canvas: National Insurance Company - Charter.pdf · document
-- [[Scott v. Depeyster]] — pp. 2–10 · case
+- [[Scott v. Depeyster (1832)]] — pp. 2–10 · case
 
 ### Class 5 — Modern Charters · Wed 2026-10-07
 

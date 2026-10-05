@@ -106,9 +106,6 @@ Note the acquiescence holding, which has no modern analogue in this form. The di
 claim partly because the stockholders watched, took dividends, and re-elected them. Today that argument runs
 through ratification and through [[Corwin v. KKR Financial Holdings]] rather than through *in pari delicto*.
 
-## Professor gloss
-
----
 
 ## Class layer
 
@@ -193,8 +190,7 @@ paid-in capital of about $301,800 — well over half the company's capital.
 
 ### Dissent / concurrence
 
-- None; single Vice-Chancellor.
-- The genuine tension is internal to the opinion and worth two lines. The court concedes it is "almost
+- None; The genuine tension is internal to the opinion and worth two lines. The court concedes it is "almost
   incredible" that Kane escaped the 1826 and July 1827 committees if those committees used ordinary diligence,
   and concedes that one trip to the bank would have exposed him. Having said that, it excuses them on industry
   usage — which means the standard is calibrated to what the industry actually does rather than to what would

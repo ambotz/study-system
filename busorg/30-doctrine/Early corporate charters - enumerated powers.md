@@ -11,7 +11,7 @@ last_drilled:
 
 ## Rule statement
 
-Under a **special-act charter**, a corporation possessed only the powers the legislature granted it. Specification of certain powers "operates to restrain a corporation to the object of such powers and is an implied prohibition of the exercise of other and distinct powers" ([[Scott v. Depeyster]], following *People v. Utica Insurance Co.*).
+Under a **special-act charter**, a corporation possessed only the powers the legislature granted it. Specification of certain powers "operates to restrain a corporation to the object of such powers and is an implied prohibition of the exercise of other and distinct powers" ([[Scott v. Depeyster (1832)]], following *People v. Utica Insurance Co.*).
 
 The modern Delaware **enabling statute** inverts the default. Corporate existence comes from filing rather than from a legislative grant, powers are broad and general rather than enumerated, and the charter's function shifts from *conferring* power to *varying* default rules — most importantly the § 141(a) default that the board manages the corporation.
 
@@ -31,7 +31,7 @@ The modern Delaware **enabling statute** inverts the default. Corporate existenc
 
 **2. The enabling-statute world — what a charter does now.** Corporate power is general; the certificate of incorporation is where a corporation **opts out** of defaults rather than where it receives its powers. The clause that matters most in this course is § 141(a)'s own exception — the board manages "except as may be otherwise provided in this chapter **or in its certificate of incorporation**" — which is why the charter is the cure for both [[Gorman v. Salamone]] and [[West Palm Beach Firefighters v. Moelis & Co|Moelis]].
 
-**3. The consequence for ultra vires.** Under a special act, acting outside the grant was unlawful as to the state and raised a forfeiture question. It did **not** automatically make directors liable to stockholders: [[Scott v. Depeyster]] holds that an honest misconstruction of the grant does not charge a trustee, that acquiescing stockholders are *in pari delicto*, and that liability still requires causation.
+**3. The consequence for ultra vires.** Under a special act, acting outside the grant was unlawful as to the state and raised a forfeiture question. It did **not** automatically make directors liable to stockholders: [[Scott v. Depeyster (1832)]] holds that an honest misconstruction of the grant does not charge a trustee, that acquiescing stockholders are *in pari delicto*, and that liability still requires causation.
 
 ## Standard of review / burden
 
@@ -50,7 +50,7 @@ The modern Delaware **enabling statute** inverts the default. Corporate existenc
 
 ## Leading case
 
-[[Scott v. Depeyster]] — the National Insurance Company discounted notes averaging $290,000 a year under an insurance charter, which the court held beyond its powers and, separately, held not to create director liability.
+[[Scott v. Depeyster (1832)]] — the National Insurance Company discounted notes averaging $290,000 a year under an insurance charter, which the court held beyond its powers and, separately, held not to create director liability.
 
 ## Best counter-case
 
@@ -64,5 +64,5 @@ The distinguishing line: **in 1815 the charter was the only place corporate powe
 
 1. **Reading the 1815 charter as quaint.** Its provisions did not disappear; they migrated. Capital maintenance became §§ 154 and 170, director election became §§ 211–212, bylaw power became § 109, and the twenty-year life became perpetual existence by default. The session is about where each function now lives.
 2. **Assuming limited liability is intrinsic to incorporation.** The 1815 charter expressly imposed shareholder liability to the extent of their shares. Limited liability is a statutory choice, which is what makes [[Limited liability - piercing the corporate veil]] a question about the terms of a privilege rather than about a natural right.
-3. **Equating ultra vires with liability.** [[Scott v. Depeyster]] finds the conduct unauthorised and imposes nothing, on three independent grounds.
+3. **Equating ultra vires with liability.** [[Scott v. Depeyster (1832)]] finds the conduct unauthorised and imposes nothing, on three independent grounds.
 4. **Missing why enumerated powers mattered.** The specification is an implied prohibition. That inferential move is the whole of the doctrine, and it is what the enabling statute abolishes.
