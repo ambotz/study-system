@@ -16,11 +16,11 @@ Source of truth is [[Presidential power - Art. II and the Youngstown categories]
 
 **Presidential power - Art. II and the Youngstown categories** — State the rule.
 ?
-The President needs authority from a statute or from the Constitution itself, and when he relies on the Constitution alone, the strength of his claim depends on what Congress has said. Under Justice Jackson's concurrence in [[Youngstown Sheet & Tube Co. v.
+The President needs authority from a statute or from the Constitution itself, and when he relies on the Constitution alone, the strength of his claim depends on what Congress has said.
 
 **Presidential power - Art. II and the Youngstown categories** — Where is that rule contested, or what is the competing formulation? (1 of 2)
 ?
-Sawyer (1952)|Youngstown]], which supplies the operative framework, authorization puts him at his "maximum," silence leaves him in a "zone of twilight," and action against Congress's express or implied will puts him at his "lowest ebb." At the lowest ebb a court can sustain him only by holding the power "conclusive and preclusive," which disables Congress from acting on the subject.
+Under Justice Jackson's concurrence in [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]], which supplies the operative framework, authorization puts him at his "maximum," silence leaves him in a "zone of twilight," and action against Congress's express or implied will puts him at his "lowest ebb." At the lowest ebb a court can sustain him only by holding the power "conclusive and preclusive," which disables Congress from acting on the subject.
 
 **Presidential power - Art. II and the Youngstown categories** — Where is that rule contested, or what is the competing formulation? (2 of 2)
 ?

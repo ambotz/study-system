@@ -16,11 +16,11 @@ Source of truth is [[Nondelegation - Art. I § 1 and the intelligible principle]
 
 **Nondelegation - Art. I § 1 and the intelligible principle** — State the rule.
 ?
-Congress may give the executive broad discretion in carrying out a statute, but it may not hand over the power to make the law itself. A delegation is valid if Congress "lay[s] down by legislative act an ==intelligible principle== to which the person or body authorized to [exercise the delegated authority] is directed to conform" ([[J. W. Hampton, Jr., & Co. v. United States|J.W. Hampton]], restated in [[Gundy v.
+Congress may give the executive broad discretion in carrying out a statute, but it may not hand over the power to make the law itself.
 
 **Nondelegation - Art. I § 1 and the intelligible principle** — Where is that rule contested, or what is the competing formulation? (1 of 2)
 ?
-United States (2019)|Gundy v. United States]]).
+A delegation is valid if Congress "lay[s] down by legislative act an ==intelligible principle== to which the person or body authorized to [exercise the delegated authority] is directed to conform" ([[J. W. Hampton, Jr., & Co. v. United States|J.W. Hampton]], restated in [[Gundy v. United States (2019)|Gundy v. United States]]).
 
 **Nondelegation - Art. I § 1 and the intelligible principle** — Where is that rule contested, or what is the competing formulation? (2 of 2)
 ?

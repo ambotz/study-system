@@ -66,6 +66,39 @@ def harvest_schedules(path):
 
 CAP = 70          # words; an answer longer than this cannot be self-graded
 
+ABBR = {"co","corp","inc","ltd","llc","llp","assn","bros","no","nos","art","cl","u.s","s.ct",
+        "f","supp","ch","r","jr","sr","mr","mrs","ms","dr","st","rev","op","o.l.c","stat","cir",
+        "ct","const","amend","v","vs","cf","e.g","i.e","al","ed","ex","re","pp","p","n",
+        "jan","feb","mar","apr","jun","jul","aug","sept","sep","oct","nov","dec"}
+
+
+def sentences(text):
+    """Split into sentences without cutting a case name or a wikilink.
+
+    A naive split on [.?!] breaks "Youngstown Sheet & Tube Co. v. Sawyer" after
+    "Co.", which severs a wikilink and drops a card boundary inside it. So
+    wikilinks are masked out first, and a break that follows a known legal
+    abbreviation or a lone initial is stitched back up.
+    """
+    links = []
+
+    def mask(m):
+        links.append(m.group(0))
+        return "\x00%d\x00" % (len(links) - 1)
+
+    t = re.sub(r"\[\[[^\]]*\]\]", mask, text)
+    raw = re.split(r"(?<=[.?!])\s+", t)
+    out = []
+    for piece in raw:
+        if out:
+            last = out[-1]
+            w = re.sub(r"[^A-Za-z.]", "", last.split()[-1] if last.split() else "").rstrip(".").lower()
+            if w in ABBR or len(w) == 1:
+                out[-1] = last + " " + piece
+                continue
+        out.append(piece)
+    return [re.sub(r"\x00(\d+)\x00", lambda m: links[int(m.group(1))], x) for x in out]
+
 
 def bullets(sec):
     """Top-level bullets of a section, each with its sub-bullets folded in."""
@@ -115,7 +148,7 @@ def cards_for(body, name):
         if prose:
             # The schema puts the operative rule first and the contest after it, so a
             # long rule splits at that seam rather than being truncated.
-            sents = re.split(r"(?<=[.?!])\s+", " ".join(x.strip() for x in prose))
+            sents = sentences(" ".join(x.strip() for x in prose))
             head, n = [], 0
             for sv in sents:
                 if head and n + len(sv.split()) > CAP:
