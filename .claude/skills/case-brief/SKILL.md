@@ -199,7 +199,7 @@ Repeated from `CLAUDE.md` because violating these is the most common failure.
   the noun is longer.
 - **Wikilink every case and module name**, everywhere, including cases not on the
   syllabus. The graph view is how doctrine connects to cases. Use a display alias
-  for long names — `[[In re Caremark International Inc. Derivative Litigation|Caremark]]`.
+  for long names — `[[In re Caremark International Inc. Derivative Litigation (1996)|Caremark]]`.
 - **Keep both Facts sections brief-length.** Brief layer: 4–6 bullets, roughly 120–180
   words, each one sentence of fact plus at most one short italic line on why it is pivotal.
   Class layer: one paragraph, roughly 100–150 words. A memorable figure or date that decides

@@ -27,3 +27,10 @@
 # Generated from case-index.json by .claude/scripts/index_to_xlsx.py.
 # Regenerated on demand; a tracked binary would churn on every regeneration.
 */99-meta/case-index.xlsx
+
+# Photographed class notes (session-capture skill). The inbox and the archived
+# photos stay on disk and in the OneDrive mirror, never in git; the session file's
+# Notes are the tracked record.
+_inbox/*/*
+!_inbox/*/.gitkeep
+*/20-sessions/_photos/

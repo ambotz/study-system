@@ -21,6 +21,7 @@ The President needs authority from a statute or from the Constitution itself, an
 **Presidential power - Art. II and the Youngstown categories** — Where is that rule contested, or what is the competing formulation? (1 of 2)
 ?
 Under Justice Jackson's concurrence in [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]], which supplies the operative framework, authorization puts him at his "maximum," silence leaves him in a "zone of twilight," and action against Congress's express or implied will puts him at his "lowest ebb." At the lowest ebb a court can sustain him only by holding the power "conclusive and preclusive," which disables Congress from acting on the subject.
+<!--SR:!2026-10-06,1,230-->
 
 **Presidential power - Art. II and the Youngstown categories** — Where is that rule contested, or what is the competing formulation? (2 of 2)
 ?
@@ -56,6 +57,7 @@ The contest is textual, because Article II vests "the executive Power" without A
 - Test each clause, as Jackson did, by asking whether Congress is disabled from acting on the subject at all.
 - Commander in Chief: the President is not "Commander in Chief of the country, its industries and its inhabitants."
 - Take Care: the clause "refutes the idea that he is to be a lawmaker" (Black) and is matched by the Due Process Clause (Jackson).
+<!--SR:!2026-10-06,1,230-->
 
 **Presidential power - Art. II and the Youngstown categories** — Step 5 is *In category two, does executive practice supply a "gloss" on executive power*. What must be shown?
 ?
@@ -96,6 +98,7 @@ The contest is textual, because Article II vests "the executive Power" without A
 **Presidential power - Art. II and the Youngstown categories** — Carve-out 4 of 4?
 ?
 - **Enforcement discretion in particular cases.** Declining to prosecute is executive and unreviewable ([[United States v. Cox (1965)|United States v. Cox]]); the limit is a general policy that amounts to "an abdication of its statutory duty" ([[Adams v. Richardson (1973)|Adams v. Richardson]]). See [[Enforcement discretion - Art. II § 3 Take Care]].
+<!--SR:!2026-10-06,1,230-->
 
 **Presidential power - Art. II and the Youngstown categories** — Trap 1 of 4 — the wrong answer that sounds right?
 ?

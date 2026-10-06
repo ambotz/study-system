@@ -75,9 +75,9 @@ Congress cannot do through the purse what the Bill of Attainder Clause forbids i
 
 ## Where it sits
 
-**The purse against individuals.** Lovett answers the casebook's first question for this unit — how Congress can use the purse to limit the executive — with a limit on Congress instead: the Appropriations Clause gives no license to evade the Attainder Clause two clauses away. [[U.S. House of Representatives v. Burwell|Burwell]] takes the second question, enforcement.
+**The purse against individuals.** Lovett answers the casebook's first question for this unit — how Congress can use the purse to limit the executive — with a limit on Congress instead: the Appropriations Clause gives no license to evade the Attainder Clause two clauses away. [[U.S. House of Representatives v. Burwell (2015)|Burwell]] takes the second question, enforcement.
 
-**Removal, avoided.** Read as the Court reads it, § 304 is Congress removing executive employees — which is what Congress does when it cannot remove directly. The Court ducked it; Frankfurter named it. Runs to [[The Decision of 1789]], [[Humphrey's Executor v. United States]] and Class 7's [[Trump v. Slaughter]].
+**Removal, avoided.** Read as the Court reads it, § 304 is Congress removing executive employees — which is what Congress does when it cannot remove directly. The Court ducked it; Frankfurter named it. Runs to [[The Decision of 1789]], [[Humphrey's Executor v. United States (1935)|Humphrey's Executor v. United States]] and Class 7's [[Trump v. Slaughter (2026)|Trump v. Slaughter]].
 
 **The attainder line.** Cummings and Garland (1867) are the foundation. Later cases refine the test: Brown (1965) struck a bar on Communists serving as union officers; Nixon v. Administrator of General Services (1977) upheld a statute aimed at one former President's papers, asking whether the burden is punitive in history, function and motive. Naming one person is not by itself enough.
 
@@ -99,9 +99,9 @@ The casebook prints no notes after Lovett. These three follow [[Obama, Statement
 
 - Court: sever. Lovett strikes § 304 and leaves the Act standing, which avoids defunding the government to cure one rider.
 - President: veto, or comply and object. Roosevelt took the second.
-- The clause is the trap, not decoration. It closes the third option — spending unappropriated money — so the President's remedy is never self-help from the Treasury. That is exactly what [[U.S. House of Representatives v. Burwell|Burwell]] alleges the executive did.
+- The clause is the trap, not decoration. It closes the third option — spending unappropriated money — so the President's remedy is never self-help from the Treasury. That is exactly what [[U.S. House of Representatives v. Burwell (2015)|Burwell]] alleges the executive did.
 
-**Note 3. "Is there a difference between this kind of signing statement and the 'line item veto' forbidden in [[Clinton v. City of New York|Clinton v. City of New York]]?"**
+**Note 3. "Is there a difference between this kind of signing statement and the 'line item veto' forbidden in [[Clinton v. City of New York (1998)|Clinton v. City of New York]]?"**
 
 - Formally, yes. The Line Item Veto Act stripped a provision of "legal force or effect." A signing statement changes nothing; the provision stays on the books for a court to apply.
 - Functionally the objection bites: both let the President keep what he likes and neutralize what he does not, without returning to Congress.

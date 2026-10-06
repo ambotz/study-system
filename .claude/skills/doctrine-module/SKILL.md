@@ -141,7 +141,7 @@ Modules are long-lived and get edited far more often than they get created.
 - One idea per bullet. MECE.
 - Name the antecedent rather than writing "it," "this," or "that."
 - **Wikilink every case name and every module name**, with a display alias for
-  long names: `[[In re Caremark International Inc. Derivative Litigation|Caremark]]`.
+  long names: `[[In re Caremark International Inc. Derivative Litigation (1996)|Caremark]]`.
   Backlinks are how the graph connects doctrine to cases, and that graph is the
   point of keeping these files in Obsidian.
 - **Never let a wikilink wrap across a line break.** Obsidian silently fails to

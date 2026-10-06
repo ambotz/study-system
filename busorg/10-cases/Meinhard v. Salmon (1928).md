@@ -73,18 +73,11 @@ The dissent's position — that the parties' written contract defined a limited 
 
 In 1902 Louisa Gerry leased the Hotel Bristol at Forty-Second and Fifth to Walter Salmon for twenty years. Salmon undertook to convert the hotel to shops and offices at a cost of $200,000, with the alterations accreting to the land. While negotiating the lease he was simultaneously negotiating with Meinhard for the money.
 
-Their written agreement made Meinhard responsible for half the funds to reconstruct, alter, manage and
-operate, gave him 40% of net profits for five years and 50% thereafter, split losses equally, and reserved
-sole management to Salmon. The early years lost money — "for each the venture had its phases of fair weather
-and of foul" — and later the profits became large.
+Their written agreement made Meinhard responsible for half the funds to reconstruct, alter, manage and operate, gave him 40% of net profits for five years and 50% thereafter, split losses equally, and reserved sole management to Salmon. The early years lost money — "for each the venture had its phases of fair weather and of foul" — and later the profits became large.
 
-By 1921 Elbridge Gerry owned the reversion plus one adjoining Fifth Avenue lot and four on Forty-Second
-Street, and wanted the whole tract redeveloped under a single long lease. He shopped the project to
-capitalists and dealers without success. In January 1922 he went to Salmon.
+By 1921 Elbridge Gerry owned the reversion plus one adjoining Fifth Avenue lot and four on Forty-Second Street, and wanted the whole tract redeveloped under a single long lease. He shopped the project to capitalists and dealers without success. In January 1922 he went to Salmon.
 
-The resulting lease to Salmon's Midpoint Realty ran twenty years with renewals to eighty, allowed the existing
-buildings to stand seven years before demolition, and required a $3,000,000 replacement. Salmon personally
-guaranteed performance until the new building was complete and paid for. It was signed January 25, 1922.
+The resulting lease to Salmon's Midpoint Realty ran twenty years with renewals to eighty, allowed the existingbuildings to stand seven years before demolition, and required a $3,000,000 replacement. Salmon personally guaranteed performance until the new building was complete and paid for. It was signed January 25, 1922.
 Meinhard heard about it in February.
 
 ### Issue

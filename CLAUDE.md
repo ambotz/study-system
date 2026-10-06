@@ -241,7 +241,7 @@ the file is still doing its job.
    facts a hypothetical can be built on, which is what makes this section the
    input to line-drawing drills.
    A fact the court discussed and then explained away still belongs here, with
-   its fate noted in italics — the premium in [[Smith v. Van Gorkom]] lost, but a
+   its fate noted in italics — the premium in [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]] lost, but a
    hypothetical in which the board had both a premium and a valuation comes out
    differently, so the premium is pivotal.
    Background, narrative, and good-to-know detail go to the class layer instead.
@@ -369,7 +369,7 @@ creation is `reconciled`.
 - **Generated files are never hand-edited.** Outlines and PDFs are regenerated
   from source. Editing a generated file means the next regeneration silently
   discards the edit.
-- **Wikilinks over paths.** `[[Meinhard v. Salmon]]`, not a relative path. Every
+- **Wikilinks over paths.** `[[Meinhard v. Salmon (1928)|Meinhard v. Salmon]]`, not a relative path. Every
   case name and every module name mentioned in any file is a wikilink. The graph
   view is how doctrine connects to cases, and an unlinked mention is invisible
   to the graph.

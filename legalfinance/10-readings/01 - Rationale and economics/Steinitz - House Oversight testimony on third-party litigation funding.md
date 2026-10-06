@@ -38,21 +38,22 @@ access: open
 - Start from the fact that the harms and benefits **run in every direction at once**, and
   are not distributed the way either lobby says.
   - **Plaintiffs** gain access, better counsel, corporate finance for businesses, venture
-    capital for firms, and impact litigation across the ideological spectrum — and face
-    predatory rates, interference in the attorney–client relationship, loss of settlement
-    autonomy, and funder–client conflicts.
-  - **Defendants** face non-meritorious cases funded inside portfolios, protracted
-    litigation, due process problems where the funder is undisclosed, and settlements
+    capital for firms, and impact litigation across the ideological spectrum — ==and face==
+    ==predatory rates, interference in the attorney–client relationship, loss of settlement==
+    ==autonomy, and funder–client conflicts.==
+  - **Defendants face non-meritorious cases funded inside portfolios, protracted**
+    **litigation**, due process problems where the funder is undisclosed, and settlements
     blocked by someone who is not at the table.
+	  - For defendants acquiring funding: funder can structure a reverse-fee arrangement (to set a maximum bar for settlement, pocketing the difference between that maximum and a negotiated minimum --> if above max, can't recover)
   - **Courts and the public** have an interest because "how, why, and to whose benefit
     judicial resources, as taxpayer funded resources, are used is a matter of public
     concern" (p. 7).
-- Because the same instrument produces all of this depending on **who is funding what and
-  why**, a uniform rule will be wrong in most applications. The balancing test takes six
-  factors: type of plaintiff and funding motivation, type of funder and its incentives,
-  nature of the case, forum and precedential effect, financing structure, and procedural
-  posture.
-- The three structural recommendations:
+- Balancing Test: Because the same instrument produces all of this depending on **who is funding what and
+  why**, a uniform rule will be wrong in most applications. ==The balancing test takes six==
+  ==factors: type of plaintiff and funding motivation, type of funder and its incentives,==
+  ==nature of the case, forum and precedential effect, financing structure, and procedural==
+  ==posture.==
+- **The three structural recommendations**:
   - **Fiduciary duties** on funders "to act in the best interests of the funded client"
     (p. 10), analogised to Arizona's application of professional conduct rules to
     nonlawyers holding economic interests in law firms.

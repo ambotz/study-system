@@ -39,13 +39,13 @@ access: open
 - **Establish the growth.** Global TPLF investment hit USD 17bn in 2021, up 16% year on
   year, with the US at 52% of it and a projected USD 31bn by 2028 at an 8.7% CAGR.
 - **Establish the returns.** Funder IRRs run far above conventional asset classes, which
-  makes the capital inflow self-reinforcing and means the money must come from somewhere.
+  makes the capital inflow self-reinforcing and means the money must come from somewhere. (leads to insurance claims rising)
 - **Establish the verdict trend.** Large awards are getting larger and more frequent
   across general liability, vehicle negligence and trucking.
 - **Connect the two by mechanism, not by proof.** Four channels are asserted: funded cases
   run longer; funding pays for attorney advertising, expanded discovery and mock trials;
   longer cases with compounding finance cost more; and the funder's economics reward
-  pushing for a larger award rather than an early resolution.
+  pushing for a larger award rather than an early resolution. 
 - **Reframe the claimant's position.** If more of the pot goes to lawyers and funders, the
   access-to-justice defence collapses on its own terms.
 - **Then prescribe.** Disclosure to expose the arrangements, usury caps to price-protect

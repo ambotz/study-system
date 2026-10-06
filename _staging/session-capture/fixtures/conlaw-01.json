@@ -1,0 +1,53 @@
+{
+  "sessions": [
+    {
+      "header": "Class 1 - 9/28",
+      "class_number": 1,
+      "date": "2026-09-28",
+      "pages": ["session1-conlaw-1.jpg", "session1-conlaw-2.jpg"],
+      "blocks": [
+        {"type": "heading", "text": "Timeline"},
+        {"type": "bullet", "text": "1776 (Declaration of Independence) → 1781 (AoC) → 1787 (amendment committee in Philly) → [the arrow continues with no endpoint written]", "level": 0},
+        {"type": "heading", "text": "Provisions noted"},
+        {"type": "bullet", "text": "14A, Section 2: must let the person vote, or (les) [?], will lose the ability to count them for representation purposes.", "level": 0},
+        {"type": "bullet", "text": "Art. 3, Section 3: Treason: levying war against US / adhering to enemies.", "level": 0},
+        {"type": "bullet", "text": "Treason is the only crime defined in the Constitution.", "level": 1},
+        {"type": "bullet", "text": "Art. 4, Section 3: WV/Virginia, Maine and Massachusetts, etc. were formed from previous states' jurisdiction.", "level": 0},
+        {"type": "bullet", "text": "Solution: \"consent\" of the legislature and the states [check: the text requires the consent of the legislatures of the states concerned as well as of Congress].", "level": 1},
+        {"type": "bullet", "text": "Punctuation and capitalization may not necessarily have too much meaning.", "level": 1},
+        {"type": "bullet", "text": "Art. 1, Section 2, Clause 3: \"indentured servants\" = significance of slavery without mentioning slavery [check: the text reads \"those bound to Service for a Term of Years\"].", "level": 0},
+        {"type": "bullet", "text": "Art. 2 [check: the impeachment-trial oath is Art. I, §3, cl. 6], Section 3, Clause 6: impeachments require \"oath or affirmation\".", "level": 0},
+        {"type": "bullet", "text": "Art. VI, cl. 3 already mentions the oath.", "level": 1},
+        {"type": "heading", "text": "The Constitution does three major things"},
+        {"type": "numbered", "text": "Rights: Bill of Rights (Amendments 1-10) and same in the Constitution (treason and habeas corpus [?]).", "level": 0},
+        {"type": "numbered", "text": "Separation of powers: Legislative (I), Executive (II), Judicial (III).", "level": 0},
+        {"type": "numbered", "text": "Federalism:", "level": 0},
+        {"type": "bullet", "text": "Art. IV", "level": 1},
+        {"type": "bullet", "text": "Art. VI", "level": 1},
+        {"type": "bullet", "text": "Amendment 10: \"question begging\" since it only reserves states' powers.", "level": 1},
+        {"type": "bullet", "text": "Art. 1, Section 8 (enumerated powers)", "level": 1},
+        {"type": "heading", "text": "Nature of constitutional law"},
+        {"type": "numbered", "text": "Supreme over statutes and other regulations; more fundamental.", "level": 0},
+        {"type": "numbered", "text": "More ambiguous.", "level": 0},
+        {"type": "bullet", "text": "\"Secret Congress\": legislation tucked away in an omnibus spending bill that no one will take credit for → avoids blame and animosity.", "level": 0},
+        {"type": "bullet", "text": "Constitutional fights: higher order of law at a higher level of abstraction.", "level": 0},
+        {"type": "bullet", "text": "**Exam:** make constitutional arguments to a fact set.", "level": 0}
+      ],
+      "signals": {
+        "doctrine": "The Constitution's three functions (rights, separation of powers, federalism); constitutional law as supreme and more ambiguous than statutes.",
+        "hypo": "—",
+        "pushback": "—",
+        "hard_case": "—",
+        "doesnt_matter": "Punctuation and capitalization in the text may not carry much meaning.",
+        "exam_signal": "Make constitutional arguments to a fact set."
+      },
+      "flags": [
+        {"quote": "or (les)", "reason": "unclear word; possibly \"or less\""},
+        {"quote": "habeas corpus", "reason": "the line runs off the edge of the page"},
+        {"quote": "consent of the legislature and the states", "reason": "text says the legislatures of the states concerned and Congress"},
+        {"quote": "indentured servants", "reason": "the clause's own words are \"those bound to Service for a Term of Years\""},
+        {"quote": "Art. 2 ... Clause 6", "reason": "the impeachment-trial oath is Art. I, §3, cl. 6"}
+      ]
+    }
+  ]
+}

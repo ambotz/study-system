@@ -1,0 +1,45 @@
+{
+  "sessions": [
+    {
+      "header": "9/28",
+      "class_number": null,
+      "date": "2026-09-28",
+      "pages": ["session1-busorg.jpg"],
+      "blocks": [
+        {"type": "heading", "text": "Firm"},
+        {"type": "bullet", "text": "Firm: an entity with legal duties, obligations, and rights.", "level": 0},
+        {"type": "bullet", "text": "Equity partners and owners are the main focus of the course.", "level": 0},
+        {"type": "bullet", "text": "\"Enterprise\" or \"business\" is not a legal term.", "level": 0},
+        {"type": "bullet", "text": "\"Entity\" is a legal term.", "level": 0},
+        {"type": "diagram", "form": "mermaid", "title": "Personal ownership vs. business ownership",
+         "code": "flowchart TB\n  subgraph personal[\"Personal ownership\"]\n    OWN[\"Owner (Eq.)\"]\n    OWN ---|\"contractual relationships\"| CITY[\"City\"]\n    OWN --- BANK[\"Bank\"]\n    OWN --- EMP[\"E (employees)\"]\n    OWN <-->|\"$\"| CUST[\"Customers\"]\n    OWN --- AST1[\"Assets\"]\n  end\n  subgraph business[\"Business ownership\"]\n    YM[\"Yourman\"] --- INC[\"Inc.\"]\n    INC --- AST2[\"Assets\"]\n  end"},
+        {"type": "heading", "text": "Equity partner and bank"},
+        {"type": "bullet", "text": "Equity partner: obligated [check: entitled?] to the upside, but does not get a fixed amount at any time period.", "level": 0},
+        {"type": "bullet", "text": "Bank: provides capital for money in the future (principal + interest).", "level": 0},
+        {"type": "bullet", "text": "Debt is limited to the amount of assets the debtor has.", "level": 0},
+        {"type": "bullet", "text": "No concrete assets = likely have to raise equity against a debtor's idea [?].", "level": 1},
+        {"type": "heading", "text": "Who is part of the firm"},
+        {"type": "bullet", "text": "**Is someone or something part of the firm? The more someone has made a \"durable investment\" into the firm, the more they are part of the firm.**", "level": 0},
+        {"type": "bullet", "text": "Equity partner > bank, in terms of being \"part\" of the entity.", "level": 0},
+        {"type": "heading", "text": "Entity"},
+        {"type": "bullet", "text": "Entity = the rules on opening the box and how to manage the box.", "level": 0},
+        {"type": "bullet", "text": "Box = what the entity has.", "level": 0},
+        {"type": "diagram", "form": "text", "title": "The box (schematic)",
+         "code": " ┌───┬───┬───┐\n │ $ │ $ │   │\n ├───┼───┼───┤\n │   │ $ │   │\n └───┴───┴───┘\n   └─ contracts ─┘"},
+        {"type": "bullet", "text": "**Course focus:** equity investors and the \"box\" of the entity (BoD and officers).", "level": 0}
+      ],
+      "signals": {
+        "doctrine": "What a firm and an entity are; equity partner versus bank as parts of the firm (durable investment).",
+        "hypo": "Yourman holding assets personally versus through Inc. What he was fishing for: —",
+        "pushback": "—",
+        "hard_case": "—",
+        "doesnt_matter": "—",
+        "exam_signal": "—"
+      },
+      "flags": [
+        {"quote": "obligated to the upside", "reason": "an equity partner is entitled to the upside; the word may be a slip"},
+        {"quote": "a debtor's idea", "reason": "word unclear on the page"}
+      ]
+    }
+  ]
+}

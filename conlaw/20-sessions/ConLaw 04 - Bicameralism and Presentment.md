@@ -16,6 +16,10 @@ reconciled: false
 
 ## Notes
 
+Professor: "What counts as legilsative vs. executive power"
+- INS (law passed) -- Chada must leave 
+- IJ/AH (executive branch) -- Stay
+- 
 
 ## Signals
 
