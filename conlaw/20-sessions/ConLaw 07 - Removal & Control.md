@@ -2,7 +2,7 @@
 class: conlaw
 session: 7
 title: "Removal & Control"
-date: 
+date: 2026-10-12
 professor: Baude
 reconciled: false
 ---

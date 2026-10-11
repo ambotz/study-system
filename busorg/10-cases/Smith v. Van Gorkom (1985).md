@@ -15,7 +15,12 @@ posture_drove_outcome: false
 
 The business judgment rule protects only an **informed** decision, and the measure of whether directors informed themselves of all material information reasonably available is **gross negligence** — a test of the board's process, applied without any inquiry into whether the price was in fact fair.
 
+BJR --> presumption of informed decisions --> defeated by conflict of interest, fraud, or illegality. But here, BJR was never reached, since there was no informed decision made. 
+
+What is the BJR? presumption that the Board makes informed decisions.
 When does BJR apply? When an informed decision is made.
+
+Duty of Care requires the Board to make informed decisions. Uninformed decision = Duty of care breach.
 
 ## Facts
 
@@ -72,13 +77,13 @@ Worth holding onto for the merger sequence later in the course: Van Gorkom is a 
 
 Trans Union was a publicly traded holding company whose earnings came mainly from railcar leasing. It generated hundreds of millions in annual cash flow and had accumulated large investment tax credits it could not use, because depreciation deductions left it without enough taxable income to absorb them. Lobbying Congress had gone nowhere, and acquiring smaller companies with taxable income had not solved the problem either. Selling Trans Union to a buyer with taxable income was one of several alternatives senior management floated in late August 1980.
 
-Jerome Van Gorkom had been chief executive for 17 years and chairman for 2, owned 75,000 shares, and was approaching mandatory retirement at 65. At a September 5 management meeting he said he would be willing to take $55 for his own shares, and he vetoed a management-led buyout as a conflict of interest. Romans had run rough numbers at $50 and $60, which indicated $50 would be easy and $60 difficult — never a valuation, only a test of what debt the cash flow could carry.
+Jerome Van Gorkom had been chief executive for 17 years and chairman for 2, owned 75,000 shares, and was approaching mandatory retirement at 65. At a September 5 management meeting he said he would be willing to take $55 for his own shares, and he vetoed a management-led buyout as a conflict of interest. Romans (CFO) had run rough numbers at $50 and $60, which indicated $50 would be easy and $60 difficult — never a valuation, only a test of what debt the cash flow could carry.
 
 Van Gorkom moved on the idea alone from there. He had the controller test a buyout at $55, was disappointed to learn $50–80 million would remain outstanding after five years, and met Pritzker at his home on September 13 anyway. Pritzker mentioned $50 as more attractive; the price was never renegotiated. Pritzker demanded a decision within three days and the right to buy one million treasury shares at $38, seventy-five cents above market.
 
 Senior management's reaction on the morning of September 20 was uniformly negative — no officer other than Chelberg and Peterson supported the proposal. Van Gorkom went to the board meeting at noon regardless. He executed the merger agreement that evening at a social event he was hosting for the opening of the Chicago Lyric Opera; no director had read it.
 
-Dissent among senior officers became widespread within ten days and produced the October amendments, which the board also approved without reading. Salomon Brothers' three-month solicitation produced two interested parties, GE Credit and Kohlberg Kravis Roberts, both of which withdrew. On February 10 the stockholders approved the merger, 69.9% of outstanding shares in favor, 7.25% against, and 22.85% not voted.
+Dissent among senior officers became widespread within ten days and produced the October amendments (allowing solicitation of other offers), which the board also approved without reading. Salomon Brothers' three-month solicitation produced two interested parties, GE Credit and Kohlberg Kravis Roberts, both of which withdrew. On February 10 the stockholders approved the merger, 69.9% of outstanding shares in favor, 7.25% against, and 22.85% not voted.
 
 ### Issue
 
@@ -101,7 +106,7 @@ Dissent among senior officers became widespread within ten days and produced the
 - The standard for that failure is **gross negligence**, not ordinary negligence.
 - The duty to reach an informed judgment is a duty of **care**, expressly distinct from the duty of loyalty.
 - Under § 141(e) directors may rely in good faith on officer reports, but a report must be pertinent to the matter before the board and must merit good-faith rather than blind reliance.
-- In a merger, § 251(b) requires informed and deliberate action before the agreement goes to stockholders, and the board may not discharge that duty by passing the question to the stockholders.
+- In a merger, ==§ 251(b) requires informed and deliberate action before the agreement goes to stockholders==, and the board may not discharge that duty by passing the question to the stockholders.
 
 ### Reasoning
 
@@ -109,26 +114,26 @@ Dissent among senior officers became widespread within ten days and produced the
 
 - Section 141(a) vests management of the corporation in the board, and the business judgment rule exists to protect the full and free exercise of that managerial power. The rule is therefore a presumption, and the attacker must rebut it.
 - The presumption fails on informedness where directors did not gather material information reasonably available to them. Gross negligence is the measure because directors are not insurers of good outcomes, but neither does the rule shelter "an unintelligent or unadvised judgment."
-- Fulfillment of the fiduciary function "requires more than the mere absence of bad faith or fraud" — the absence of self-dealing does not answer a care claim.
+- <u>Fulfillment of the fiduciary function</u> "requires more than the mere absence of bad faith or fraud" — t<u>he absence of self-dealing does not answer a care claim</u>.
 - Van Gorkom's twenty-minute presentation could not qualify as a § 141(e) report because Van Gorkom was uninformed about the essential provisions of the document he described. Romans' statement could not qualify because Romans' study was avowedly not a valuation.
-- The directors were entitled to give **some** credence to their chairman's view of value, provided that view rested on a sound basis. Had the directors asked, they would have learned the $55 figure was derived solely from leveraged-buyout feasibility, and could not then have relied on it in good faith. The breach is located in the failure to ask.
+- The directors were entitled to give **some** credence to their chairman's view of value, provided that view rested on a sound basis. Had the directors asked, they would have learned the $55 figure was derived solely from leveraged-buyout feasibility, and could not then have relied on it in good faith. ==The breach is located in the failure to ask.==
 - On the merger-specific duty, a board cannot convert an uninformed decision into a shareholder question; § 251(b) requires the board to deliberate first.
 
 ### Dissent / concurrence
 
 *(McNeilly, J.)*
 
-- The five inside directors had 116 years of collective employment at Trans Union and 68 combined years of board service; the five outside directors had 78 combined years as chief executives and 53 years of service on the Trans Union board.
+- The five inside directors (those who also worked for the company) had 116 years of collective employment at Trans Union and 68 combined years of board service; the five outside directors (independent businesspeople who did not work for the company) had 78 combined years as chief executives and 53 years of service on the Trans Union board.
 - "Directors of this caliber are not ordinarily taken in by a 'fast shuffle'."
 - These directors "knew Trans Union like the back of their hands" and were qualified to make informed judgments on the spot, including on a sale of the entire corporation.
 - The corporate world operates on "the fast track," and the majority's timetable objection mistakes ordinary deal speed for negligence.
-- Read McNeilly as the real argument for a substance test over a process test. Note that the majority never disputes the board's quality — the majority disputes that quality substitutes for information.
+- Read McNeilly as the real argument for a substance test over a process test. **Note that the majority never disputes the board's quality** — the majority disputes that quality substitutes for information.
 
 ### Cold-call notes
 
 - **If asked what the board should have done:** ask Romans for a valuation, or ask whether the finance department could produce one inside the 36 hours available. The answer is not "obtain a fairness opinion" — the court says twice that no fairness opinion is required as a matter of law, and repeating that requirement back is the most common wrong answer in this case.
-- **The trap in the question "was $55 unfair?":** the court never holds that $55 was unfair. The court holds that nobody on the board knew whether $55 was fair. Keep the answer on information, not on price.
+- **The trap in the question "was $55 unfair?":** the court never holds that $55 was unfair. The court holds that nobody on the board knew whether $55 was fair (this is what causes the breach of duty of care ---> informed business judgement was not made). Keep the answer on information, not on price.
 - **Be ready to be pushed on the standard.** The standard academic attack, and McNeilly's real thrust, is that this conduct looks like ordinary negligence relabelled as gross negligence because the court disliked what happened. The honest answer is that "gross" is doing work here mostly through the accumulation of failures — no notice, no documents, no valuation, no questions, no reading — rather than through any single one of them.
-- **Be ready for the § 102(b)(7) follow-up.** If asked whether this case would come out the same way today: the liability holding would not survive an exculpatory charter provision, because the claim is care and the remedy sought is damages. The process holding survives intact and still governs injunctive relief and still shapes how boards run sale processes.
-- **Have the timeline ready.** August 27 management meeting, September 5 the $55 figure surfaces, September 13 the meeting at Pritzker's home, September 20 the board meeting and signing at the opera, October 8 amendments approved sight unseen, October 10 amendments executed, February 10 stockholder approval. Buccola can ask where in that sequence the breach crystallizes, and the answer is September 20, with October 8 and 10 as failed cures.
+- **Be ready for the § 102(b)(7) follow-up.** If asked whether this case would come out the same way today: the liability holding would not survive an exculpatory charter provision, ==because the claim is care and the remedy sought is damages==. The process holding survives intact and still governs injunctive relief and still shapes how boards run sale processes.
+- **Have the timeline ready.** August 27 management meeting, September 5 the $55 figure surfaces, September 13 the meeting at Pritzker's home, September 20 the board meeting and signing at the opera, October 8 amendments approved sight unseen, October 10 amendments executed, February 10 stockholder approval. Buccola can ask where in that sequence the breach crystallizes, **and the answer is September 20, with October 8 and 10 as failed cures.**
 - **Know the dissent's numbers.** 116 years, 68 years, 78 years. The specificity is the argument, and quoting it is the fastest way to show the counter-position is understood.

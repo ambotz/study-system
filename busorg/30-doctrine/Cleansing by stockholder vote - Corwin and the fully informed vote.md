@@ -76,6 +76,14 @@ The doctrine stacks with [[Charter exculpation of director liability|§ 102(b)(7
 
 The most useful move in the opinion is the refusal to decide the Revlon question at all — "it does not matter" — because the vote resolves the case whichever way Revlon would have come out. That is the sharpest possible statement of what cleansing does.
 
+**<u>**Overview**</u>**: if a plaintiff group sues a board post-closing, claiming the directors failed to get the best price under _Revlon_ or acted disproportionately under _Unocal_, the board can use **Corwin**
+
+If the board can show that a majority of disinterested stockholders were fully informed and uncoerced when they voted to approve the transaction, _Corwin_ wipes away the heightened _Revlon_ or _Unocal_ standards completely, resetting the court's view back to the standard Business Judgment Rule for dismissal. 
+
+Revlon, Unocal, and Corwin are used in M&A decisions.
+
+Hostile Threat Appears ] ──► [ Unocal Shield ] ──► (Defends board's anti-takeover tactics) │ [ Board Agrees to Sell ] ──► [ Revlon Gavel ] ──► (Forces board to get the absolute highest price) │ [ Deal Closes / Shareholders Sue ] ──► [ Corwin Cleanse ] ──► (Dismisses the lawsuit if shareholders voted 'Yes')
+
 ## Best counter-case
 
 [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]] is the structural counterweight, and it is the reason condition three exists. NCS's public stockholders held 80% of the company and overwhelmingly preferred a superior bid, and the deal protection devices made their vote a formality: they "were required to accept it because it was a fait accompli." A vote robbed of its effectiveness by structural coercion cleanses nothing.
@@ -88,7 +96,7 @@ The distinguishing line: **Corwin defers to a vote that could have gone the othe
 
 ## Common trap
 
-1. **Applying Corwin to a controller transaction.** The doctrine is expressly limited to transactions "with a party other than a controlling stockholder." Check the gateway first, every time.
+1. **Applying Corwin to a controller transaction.** The doctrine is expressly limited to transactions "with a party other than a controlling stockholder." Check the gateway first, every time. Use 144(a) or (b) for controller transactions
 2. **Saying a stockholder vote ratifies the breach.** It changes the standard of review. Waste and bad faith claims survive, and the plaintiff can still plead into them.
 3. **Applying Corwin pre-closing.** The doctrine is a post-closing damages rule, and Corwin itself says Unocal and Revlon exist for real-time injunctive relief. The remedy sought changes the answer.
 4. **Announcing that Revlon is dead.** Revlon governs injunctions and survives intact there. What Corwin kills is the post-closing Revlon damages claim against a non-controller board whose stockholders were properly informed.

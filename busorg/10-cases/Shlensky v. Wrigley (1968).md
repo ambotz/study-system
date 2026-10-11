@@ -13,7 +13,7 @@ posture_drove_outcome: true
 
 ## Rule
 
-A court will not review the **substance** of a board's business decision. Absent conduct that at least borders on fraud, illegality, or conflict of interest, the directors' judgment is accepted as final and carries a presumption that it was formed in good faith to promote the corporation's best interests.
+A court will not review the **substance** of a board's business decision. Absent conduct that at least borders on fraud, illegality, or conflict of interest, (ceilings on the review of substance) the directors' judgment is accepted as final and carries a presumption that it was formed in good faith to promote the corporation's best interests.
 
 What is the scope of the protection? Process failure that borders on fraud, illegality, or conflict of interest.
 
@@ -78,21 +78,21 @@ Shlensky's theory was that Wrigley refused lights for reasons of his own: a conv
 
 ### Issue
 
-- Whether a stockholder's derivative complaint states a cause of action against directors where it alleges that a business decision was made for the dominant shareholder's personal, non-corporate reasons, but alleges no fraud, illegality, or conflict of interest.
+- Whether a stockholder's derivative complaint states a cause of action against directors where it alleges that a business decision was **made for the dominant shareholder's personal, non-corporate reasons, but alleges no fraud, illegality, or conflict of interest.**
 - Whether directors are negligent in declining to follow a practice adopted by nearly every other corporation in their industry.
 
 ### Holding
 
-- **On the derivative claim: no cause of action.** A complaint must allege conduct that at least borders on fraud, illegality, or conflict of interest before a court will examine a business decision. Wrigley's alleged motives failed that test because the neighborhood and attendance rationale is one a director could legitimately hold in the corporation's interest, and because Wrigley derived no personal benefit from the refusal.
+- **On the derivative claim: no cause of action.** A complaint must allege conduct that at least borders on fraud, illegality, or conflict of interest before a court will examine a business decision. Wrigley's alleged motives failed that test because the neighborhood and attendance rationale is one a director could legitimately hold in the corporation's interest, and <u>because Wrigley derived no personal benefit from the refusal.</u>
 - **On the industry-practice claim: not negligent.** Directors are elected for their own business judgment and cannot be compelled to adopt the judgment of other companies' boards, even when the corporation is losing money. "Mere failure to 'follow the crowd'" is not dereliction of duty.
 - **Disposition:** order of dismissal affirmed.
 
 ### Rule
 
-- Courts will not resolve questions of business policy and management for a corporation; the directors are chosen to decide those questions.
+- Courts <u>will not resolve questions of business policy and management </u>for a corporation; the directors are chosen to decide those questions.
 - Director judgment carries a presumption that it was formed in good faith and designed to promote the corporation's best interests.
-- That judgment is accepted as final unless shown to be tainted by fraud.
-- A court will intervene only where the directors' conduct at least borders on fraud, illegality, or conflict of interest.
+- That judgment is accepted as final <u>unless</u> shown to be <u>tainted by fraud.</u>
+- A court will intervene only where the directors' conduct at least borders on <u>fraud, illegality, or conflict of interest.</u> FOR SUBSTANCE
 - A director may weigh long-run and indirect corporate interests — including the condition of the neighborhood surrounding corporate property — without leaving the rule's protection.
 - Departure from industry practice is not, by itself, negligence.
 

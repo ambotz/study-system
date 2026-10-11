@@ -14,7 +14,7 @@ last_drilled:
 
 A Delaware certificate of incorporation may contain a provision eliminating or limiting a director's personal liability to the corporation or its stockholders for **monetary damages** for breach of fiduciary duty as a director, subject to four carve-outs. Virtually every Delaware corporation has adopted such a provision.
 
-The practical effect is that a duty of care claim seeking damages is no longer viable standing alone. Section 102(b)(7) was the Delaware General Assembly's direct answer to [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]], adopted quickly after that decision alarmed directors and their insurers.
+The practical effect is that a duty of care claim seeking damages is no longer viable standing alone. Section 102(b)(7) was the Delaware General Assembly's direct answer to [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]], adopted quickly after (1986) that decision alarmed directors and their insurers.
 
 ## Elements
 
