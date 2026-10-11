@@ -69,6 +69,20 @@
         "file": "SDFL Settlement Signed_Class 5.pdf",
         "label": "Settlement (Canvas)"
       }
+    ],
+    "Trump v. Slaughter (2026)": [
+      {
+        "file": "Trump v Slaughter and Trump v Cook.pdf",
+        "pages": "1-13",
+        "label": "609 U.S. 422 (Canvas excerpt)"
+      }
+    ],
+    "Trump v. Cook (2026)": [
+      {
+        "file": "Trump v Slaughter and Trump v Cook.pdf",
+        "pages": "13-18",
+        "label": "609 U.S. 528 (Canvas excerpt)"
+      }
     ]
   }
 }

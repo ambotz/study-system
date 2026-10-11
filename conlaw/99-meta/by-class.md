@@ -1,9 +1,9 @@
 # conlaw — readings by class
 
 Constitutional Law I: Government Structure · Baude · Autumn 2026
-Meets Mon, Wed, Thu 1:30-2:35 pm. in-class, closed-book exam, plus participation (cold-calling; email by 11 a.m. to pass)
+Meets Mon, Wed, Thu 1:30-2:35 pm. in-class, closed-book exam (no outline permitted), plus participation (cold-calling; email by 11 a.m. to pass)
 
-Generated 2026-10-05 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
+Generated 2026-10-10 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
 
 ## Sources
 
@@ -70,7 +70,7 @@ Generated 2026-10-05 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[Humphrey's Executor v. United States (1935)]] — pp. 212–214 · case
     - Syllabus says 'v. FEC'; the case is Humphrey's Executor v. United States (1935).
 
-### Class 7 — Removal & Control
+### Class 7 — Removal & Control · Mon 2026-10-12
 *Class 6 materials continued.*
 
 - [[Trump v. Slaughter (2026)]] — Canvas · case

@@ -106,7 +106,7 @@ Every one of the 31 passes:
 - **Power of the Purse — additional materials** — the one index entry the xlsx still reports as missing a file.
 - **Pork Producers' Kavanaugh opinion** — never retrieved; his Privileges and Immunities discussion is the passage that would most help the Art. IV module.
 - **Trump v. Slaughter / Trump v. Cook dissents** (Sotomayor, Alito, Barrett) — not retrievable; Removal and Separation of powers attribute dissent positions only as the majority characterizes them.
-- **Class 7 dissents and Trump v. United States separate opinions** — flagged in-file, pending Canvas.
+- **Trump v. United States separate opinions** — flagged in-file, pending Canvas. (Class 7 dissents checked against Canvas 2026-10-10.)
 - **Senate Report on Court Packing** — quotations from reproductions, pending a Canvas check.
 - **Print packets vs. library scanning** — recommendation still open: EPUB-derived per-class packets with dual page labels (4th ed. p. N · 5th ed. ≈ p. M).
 - **Past exams and prior outlines** — you have them; prior outlines go in `conlaw/_prior/`, not `00-source/`. Now is the natural moment, since the modules are the thing an outline compresses.
