@@ -12,105 +12,159 @@ feeds_module:
   - "[[Impeachment - Art. II § 4 high crimes and misdemeanors]]"
   - "[[Removal - Art. II § 1 and the Humphrey's exception]]"
   - "[[Enforcement discretion - Art. II § 3 Take Care]]"
-read_for: null
+read_for: 2026-10-19
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — Majority and syllabus are from the opinion. Quotations from the separate opinions (Sotomayor, Barrett, Thomas, Jackson) come from published reproductions, not the slip opinion. Check against the Canvas version.
+> [!note] Source — Checked against the Canvas excerpt (Class 10 packet, pp. 24–44): Roberts's opinion Parts I–V in part, Barrett's partial concurrence, Sotomayor's dissent in part, and the casebook's Notes 1–3 and 5–7. The editors omit Thomas's concurrence and Jackson's dissent; what is said about them below comes from the full opinion.
 
 ## Snapshot
 
-A former President was indicted for conduct in office — efforts to reverse the 2020 election through the Justice Department, the Vice President, alternate electors and public statements. The lower courts rejected his immunity claim and the Court took the case before trial. The Court held that a former President is absolutely immune for acts within his conclusive and preclusive authority, presumptively immune for other official acts, and not immune for unofficial ones. Article II's vesting of executive power, read through Youngstown's third category, does the work.
+A former President was indicted for conduct in office — efforts to reverse the 2020 election through the Justice Department, the Vice President, alternate electors and public statements. The lower courts rejected his immunity claim and the Court took the case before trial. The Court held that a former President is absolutely immune for acts within his conclusive and preclusive authority, at least presumptively immune for other official acts, and not immune for unofficial ones. Article II's vesting of executive power, read through Youngstown's third category, does the work.
 
 ## Issue
 
 - Does a former President have immunity from criminal prosecution for conduct while in office, and if so of what scope?
-- Must impeachment and Senate conviction precede any criminal prosecution of a President?
+- How are official acts to be told from unofficial ones, and how do the four groups of alleged conduct fare?
 - May evidence of immune official conduct be introduced in a prosecution for unofficial conduct?
-- How do the four groups of alleged conduct fare?
+- Must impeachment and Senate conviction precede any criminal prosecution of a President?
 
 ## Rule
 
-A former President has absolute immunity from criminal prosecution for conduct within his conclusive and preclusive constitutional authority, at least presumptive immunity for other official acts, and no immunity for unofficial acts. The presumption falls only if the Government shows that prosecution would pose no danger of intrusion on the Executive.
+A former President has absolute immunity from criminal prosecution for conduct within his conclusive and preclusive constitutional authority, at least presumptive immunity for other official acts, and no immunity for unofficial acts. Official conduct reaches the "outer perimeter" of his responsibilities, sorted without regard to motive or to whether the act broke the law.
 
-- The three tiers in the Court's words: "[a]bsolute immunity from criminal prosecution for actions within his conclusive and preclusive constitutional authority," "at least presumptive immunity from prosecution for all his official acts," and "no immunity for unofficial acts."
-- The presumption holds "unless the Government can show that applying a criminal prohibition to that act would pose no 'dangers of intrusion on the authority and functions of the Executive Branch.'" "It is ultimately the Government's burden to rebut the presumption of immunity."
-- "[C]ourts may not inquire into the President's motives." "Nor may courts deem an action unofficial merely because it allegedly violates a generally applicable law."
+- **Core powers.** "Congress cannot act on, and courts cannot examine, the President's actions on subjects within his 'conclusive and preclusive' constitutional authority," so "the President is absolutely immune from criminal prosecution for conduct within his exclusive sphere of constitutional authority."
+- **Other official acts.** "At a minimum, the President must . . . be immune from prosecution for an official act unless the Government can show that applying a criminal prohibition to that act would pose no 'dangers of intrusion on the authority and functions of the Executive Branch.'" Whether this immunity is presumptive or absolute is left open.
+- **Unofficial acts.** "As for a President's unofficial acts, there is no immunity"; "the nature of the function performed, not the identity of the actor," controls (*Forrester v. White*).
+- **Sorting.** Immunity covers acts "not manifestly or palpably beyond [his] authority." "[C]ourts may not inquire into the President's motives," "[n]or may courts deem an action unofficial merely because it allegedly violates a generally applicable law."
+- **Evidence.** Immune conduct may not be used to prove liability on any charge (Part III-C, five Justices), though the prosecutor "may point to the public record to show the fact that the President performed the official act."
+- In the Court's summary: "he is entitled, at a minimum, to a presumptive immunity from prosecution for all his official acts."
 
 ## Operative facts
 
-- **After losing the 2020 election, Trump discussed investigating fraud claims with Justice Department officials and sending letters to States, and threatened to replace the Acting Attorney General.** *Investigation, prosecution and removal are core executive powers, so this group drew absolute immunity.*
-- **He pressed Vice President Pence to reject or delay the counting of electoral votes.** *The certification role belongs to the President of the Senate, so the President has no exclusive power over it; but the two routinely confer, which makes the conversations official and the immunity presumptive.*
-- **He worked with state officials and private parties to assemble alternate slates of electors.** *The President has no official role in how States appoint electors, which is why Barrett would find no immunity here and the majority sent the question back.*
-- **He made public statements and social-media posts, including on January 6, 2021.** *Official or unofficial turns on "the content and context of each," a "necessarily factbound analysis" the Court left to the District Court.*
-- **The House impeached him over the January 6 events and the Senate acquitted him.** *The predicate for his argument that only a President convicted by the Senate may afterwards be prosecuted.*
-- **In August 2023 a grand jury returned a four-count indictment obtained by a Special Counsel appointed by the Attorney General, charging conspiracy to defraud the United States, conspiracy to obstruct and obstruction of an official proceeding, and conspiracy against rights.** *At stake was the criminal liability of the President himself, not a subpoena for evidence as in [[United States v. Nixon (1974)|Nixon]]; the appointment is what Thomas's concurrence questions.*
-- **Trump moved to dismiss on the ground that a President is absolutely immune for official acts; the District Court (Chutkan, J.) denied the motion and the D.C. Circuit affirmed on February 6, 2024.** *Immunity is resolved before trial and may be appealed before trial, which is how the case arrived with no trial record.*
-- **The Court granted certiorari, heard argument on April 25 and decided on July 1, 2024.** *With no findings below, every group but the Justice Department conduct had to go back for classification.*
+- **After losing the 2020 election, Trump discussed investigating fraud claims and sending a Justice Department letter to States with the Acting Attorney General and other officials, and repeatedly threatened to replace the Acting Attorney General when he resisted.** *Investigation, prosecution and removal are core executive powers, so this group drew absolute immunity.*
+- **He pressed Vice President Pence to reject States' electoral votes or send them back to state legislatures at the January 6 certification.** *Presiding over the count is the Vice President's constitutional and statutory duty, not the President's, but the two confer about official duties as a matter of course, which makes the conversations official and the immunity presumptive.*
+- **He and his campaign staff pressed state legislators and election officials in five States and organized slates of "fraudulent electors" in seven, whose ballots were mailed to the President of the Senate and the Archivist.** *The President has no official role in how States appoint electors, which is why Barrett would find no immunity here and the majority sent the question back.*
+- **He posted to his "nearly 89 million followers" urging supporters to come to Washington, then told the January 6 crowd to go to the Capitol, which it breached.** *Most presidential speech is "likely to fall comfortably within the outer perimeter," but a President may speak "as a candidate for office or party leader," so the classification turns on "content, form, and context."*
+- **The House impeached him over the January 6 events and the Senate acquitted him; his impeachment counsel told Senators a former President "can be tried in a court of law."** *The predicate for his argument that only a President convicted by the Senate may be prosecuted, and for Sotomayor's point that "the tune has changed."*
+- **In August 2023 a grand jury returned a four-count indictment, obtained by a Special Counsel, including conspiracy to defraud the United States under 18 U.S.C. § 371.** *This is the first criminal prosecution of a former President for acts in office, and it charges the President himself rather than seeking evidence from him as in [[United States v. Nixon (1974)|Nixon]].*
+- **The District Court denied his motion to dismiss without deciding whether the conduct was official, and the D.C. Circuit affirmed.** *With no findings on classification, every group but the Justice Department conduct had to go back.*
+- **The Court granted certiorari and decided on July 1, 2024. After Trump won the 2024 election, the Special Counsel moved to dismiss under the Justice Department's policy against prosecuting a sitting President, and the District Court granted the motion.** *The tiers were never applied to a full record.*
 
 ## Holding and reasoning
 
-**Held** (6–3; Roberts, C.J., for the Court, joined by Thomas, Alito, Gorsuch and Kavanaugh, JJ., and by Barrett, J., except as to Part III-C; Thomas and Barrett, JJ., concurring; Sotomayor, J., dissenting with Kagan and Jackson, JJ.; Jackson, J., dissenting)
+**Held** (6–3; Roberts, C.J., for the Court, joined by Thomas, Alito, Gorsuch and Kavanaugh, JJ., and by Barrett, J., except as to Part III-C; Thomas, J., concurring; Barrett, J., concurring in part; Sotomayor, J., dissenting, joined by Kagan and Jackson, JJ.; Jackson, J., dissenting)
 
-- **Three tiers.** "Congress cannot act on, and courts cannot examine, the President's actions on subjects within his 'conclusive and preclusive' constitutional authority," so prosecution for those acts is barred absolutely; other official acts carry presumptive immunity, and unofficial acts none.
-- **Impeachment is not a precondition.** Senate conviction need not come first.
-- **Immune conduct is inadmissible** (Part III-C, five Justices); the contrary rule "threatens to eviscerate the immunity."
-- **Application.** Absolutely immune as to the Justice Department discussions, presumptively immune as to the Vice President conduct, the rest remanded; 91 F. 4th 1173 vacated.
+- **Three tiers.** Absolute immunity for core powers, at least presumptive immunity for other official acts, none for unofficial acts.
+- **Application.** Absolutely immune for the Justice Department conduct; presumptively immune for the Vice President conduct; the state-official, elector and January 6 speech conduct remanded for classification.
+- **Immune conduct is inadmissible** (Part III-C); the contrary rule "threatens to eviscerate the immunity."
+- **Impeachment is not a precondition.** Vacated and remanded.
 
 **Roberts, C.J., for the Court**
 
-- **Youngstown as foundation.** Presidential authority "stem[s] either from an act of Congress or from the Constitution itself," and where it rests on the Constitution alone it is "sometimes 'conclusive and preclusive.'"
-- **Removal and pardon.** The "power to remove — and thus supervise — those who wield executive power on his behalf" follows from Article II, as does the pardon.
-- **The Justice Department conduct.** The Executive has "exclusive authority and absolute discretion" over whom to prosecute, and the "threatened removal of the Acting Attorney General likewise implicates 'conclusive and preclusive' Presidential authority."
-
-**Thomas, J., concurring**
-
-- Joins in full, adding that the Special Counsel's appointment may violate the Appointments Clause: "If there is no law establishing the office that the Special Counsel occupies, then he cannot proceed."
+- **Method.** The Court must not confuse "the issue of a power's validity with the cause it is invoked to promote," and must focus on the "enduring consequences upon the balanced power structure of our Republic" (Youngstown, Jackson, J.).
+- **Core powers from Youngstown.** Authority resting on the Constitution alone is "sometimes 'conclusive and preclusive,'" and the courts have "no power to control [the President's] discretion" there ([[Marbury v. Madison (1803)|Marbury]]).
+- **The examples.**
+    - The pardon: *Klein* (1872) struck a statute that "impair[ed] the effect of a pardon."
+    - Removal: Seila Law and *Myers*.
+    - Recognition of foreign governments: *Zivotofsky*.
+    - From these: "an Act of Congress — either a specific one targeted at the President or a generally applicable one — may not criminalize the President's actions within his exclusive constitutional power."
+- **The presumptive tier.** The President "occupies a unique position," as "the only person who alone composes a branch of government" (*Mazars*). *Fitzgerald* gave absolute civil immunity to avoid chilling "bold and unhesitating action," and prosecution "poses a far greater threat" than the subpoenas rejected in *Burr* and Nixon. But "[t]he President, charged with enforcing federal criminal laws, is not above them," so the Court settles on "at least a presumptive immunity."
+- **The Justice Department conduct.** "[I]nvestigation and prosecution of crimes is a quintessentially executive function" (*Morrison*, Scalia, J., dissenting); the Executive has "exclusive authority and absolute discretion" over whom to prosecute (Nixon). Threatened removal of the Acting Attorney General is likewise core, and allegations that the investigations were "sham[s]" do not change that: "Trump is therefore absolutely immune."
+- **Public speech.** The President has "extraordinary power to speak to his fellow citizens and on their behalf" (*Trump v. Hawaii*) and the "bully pulpit," but "there is not always a clear line between [the President's] personal and official affairs."
+- **Evidence.** Using immune acts to prove liability "would permit a prosecutor to do indirectly what he cannot do directly," and "[t]he Constitution deals with substance, not shadows" (*Cummings*). Limiting instructions are inadequate because the immunity protects "not the President himself, but the institution of the Presidency."
+- **Text.** "[A] specific textual basis has not been considered a prerequisite to the recognition of immunity" (*Fitzgerald* n.31). "True, there is no 'Presidential immunity clause' in the Constitution. But there is no 'separation of powers clause' either."
+- **The dissents' fears.** They "strike a tone of chilling doom." The likelier danger is "an Executive Branch that cannibalizes itself, with each successive President free to prosecute his predecessors" — § 371 can reach any President criticized for under-enforcing drug, gun, immigration or environmental law.
+- **Conclusion.** "The President enjoys no immunity for his unofficial acts, and not everything the President does is official. The President is not above the law." The immunity "applies equally to all occupants of the Oval Office, regardless of politics, policy, or party."
 
 **Barrett, J., concurring in part**
 
-- Agrees that Congress may not criminalize core Article II powers "and closely related conduct," but frames this as an as-applied challenge to the statute, not an immunity.
-- On the electors: "A President has no legal authority — and thus no official capacity — to influence how the States appoint their electors." Dissenting from Part III-C, she would not blind juries to "the circumstances surrounding conduct for which Presidents can be held liable."
+- **"Immunity" is shorthand.** It stands for two propositions: the President may challenge a criminal statute as applied to his official acts, and he may obtain interlocutory review of the ruling (*MacDonald*).
+- **She would decide now.** The Constitution "does not vest every exercise of executive power in the President's sole discretion"; Congress has concurrent authority and may regulate official conduct "including by criminal statute."
+- **Two steps for non-core official acts.**
+    - Does the statute reach the conduct? Not every broad statute does — the murder statute covers only "unlawful" killings, which OLC reads to exclude authorized military and law-enforcement action.
+    - Would applying it pose a "dange[r] of intrusion" on the Executive? Pressing the Arizona House Speaker poses none, because the President has no authority over state legislatures.
+- **Footnote 1.** Supervising and removing high-ranking Justice Department officials is core, but she does not read the Court to hold "that all exercises of the Take Care power fall within the core executive power," and agrees with the dissent that the Constitution would not justify that.
+- **Footnote 2, the electors.** "[A] President has no legal authority — and thus no official capacity — to influence how the States appoint their electors"; that conduct is private.
+- **Against Part III-C.** In a bribery case, "excluding from trial any mention of the official act connected to the bribe would hamstring the prosecution": "the jury must be allowed to hear about both the quid and the quo." The rules of evidence can manage prejudice.
+
+**Majority's reply to Barrett (n.3)**
+
+- The prosecutor may prove the official act from the public record and may prove what the President demanded or accepted in return. What he may not do is "admit testimony or private records of the President or his advisers probing the official act itself."
 
 **Sotomayor, J., dissenting (joined by Kagan and Jackson, JJ.)**
 
-- "In every use of official power, the President is now a king above the law," which "makes a mockery of the principle . . . that no man is above the law."
-- The Impeachment Judgment Clause "cuts against" the majority, since it contemplates prosecution for conduct "such as 'Bribery' . . . which implicates official acts almost by definition."
+- **Framing.** The decision "makes a mockery of the principle . . . that no man is above the law," and gives Trump "all the immunity he asked for and more."
+- **Text, three ways.**
+    - The Framers knew how to grant immunity and gave legislators a narrow one in the Speech or Debate Clause, not the President.
+    - Some state constitutions gave governors express criminal immunity; the Constitution did not.
+    - The Impeachment Judgment Clause "presumes the availability of criminal process as a backstop," including for "Bribery," "which implicates official acts almost by definition."
+- **History.** Hamilton: a former President would be "liable to prosecution and punishment in the ordinary course of law," unlike a King "sacred and inviolable" (Federalist No. 69). Madison proposed considering "what privileges ought to be allowed to the Executive," and there is no record of any discussion. Pinckney: "No privilege . . . was intended for [the] Executive."
+- **Practice.** Ford's pardon and Nixon's acceptance "rested on the understanding that the former President faced potential criminal liability." Trump's impeachment counsel told Senators, "[a]fter he is out of office, you go and arrest him."
+- **The presumption is absolute in all but name.** It requires showing "no dangers" of intrusion: "No dangers, none at all."
+- **The core tier is beside the point.** "Feel free to skip over those pages." Trump was not charged with misusing the pardon, veto, appointment or removal power; if removal was the worry, the Court "could simply have said" the threatened firing cannot be charged as an overt act.
+- **The evidence rule.** A President announces in an official speech that he will stop a rival "no matter what it takes," then hires a hitman: under Part III-C the murder indictment could not use the speech to prove intent. The First Amendment allows evidentiary use of protected speech (*Wisconsin v. Mitchell*), and limiting instructions work everywhere else.
+- **Consequences.** The immunity "lies about like a loaded weapon" (*Korematsu*, Jackson, J., dissenting). "Orders the Navy's Seal Team 6 to assassinate a political rival? Immune. Organizes a military coup to hold onto power? Immune. Takes a bribe in exchange for a pardon? Immune. Immune, immune, immune." "In every use of official power, the President is now a king above the law."
 
-**Jackson, J., dissenting**
+**Thomas, J., concurring** (omitted from the excerpt)
 
-- "The Court has now declared for the first time in history that the most powerful official in the United States can . . . become a law unto himself."
+- Questions whether the Special Counsel's office was "established by Law" as the Appointments Clause requires.
+
+**Jackson, J., dissenting** (omitted from the excerpt)
+
+- Objects that the Court has made the President potentially "a law unto himself."
 
 ## Arguments rejected
 
-- *No text provides Presidential immunity, unlike the Speech or Debate Clause, so the President stands before the criminal law like anyone else.* Roberts: that premise was "rejected decades ago as 'unpersuasive'" in *Nixon v. Fitzgerald*; the immunity follows from Article II's structure and the need for "bold and unhesitating action."
-- *The Impeachment Judgment Clause settles the matter — for the Government, by showing the Framers expected prosecution for official acts such as bribery; for Trump, by requiring conviction first.* Roberts: the Clause "does not address whether and on what conduct a President may be prosecuted if he was never impeached and convicted," and a conviction precondition finds little support in text or structure.
-- *All official acts are absolutely immune.* Roberts gives that only to conclusive and preclusive powers.
-- *Official conduct, even if immune, should be admissible to prove intent in a prosecution for unofficial acts.* Roberts: that "threatens to eviscerate the immunity." Barrett disagrees.
-- *The majority makes the President "a king above the law."* Roberts: the dissents "strike a tone of chilling doom . . . disproportionate to what the Court actually does today."
+- *No text provides Presidential immunity, unlike the Speech or Debate Clause.* Roberts: a specific textual basis has never been required, and there is no separation of powers clause either; Sotomayor replies that the majority attacks "an argument that has not been made."
+- *Official conduct, even if immune, should be admissible to prove knowledge or intent.* Roberts: that "threatens to eviscerate the immunity," and evidentiary rulings and jury instructions are "prosaic tools" inadequate to the risk of jurors judging a President's policies. Barrett and the dissent disagree.
+- *An act is unofficial if it violates the law or was done for an improper motive.* Roberts: either rule would expose "even the most obvious instances of official conduct" to trial "on the mere allegation of improper purpose."
+- *(Trump) The Impeachment Judgment Clause requires Senate conviction before prosecution.* Roberts: the Clause "limits the consequences of an impeachment judgment" and permits later prosecution, but "does not address whether and on what conduct a President may be prosecuted if he was never impeached and convicted."
+- *The majority makes the President a king above the law.* Roberts: the dissents engage in "fear mongering on the basis of extreme hypotheticals" and leave the separation of powers "to the good faith of prosecutors."
 
 ## Where it sits
 
 **Youngstown's third category, repurposed.** [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]] supplies the frame: authority resting on the Constitution alone is "sometimes 'conclusive and preclusive.'" Jackson asked whether the President may act against Congress's will; Roberts asks whether Congress may punish the act.
 
-**The removal line.** The examples of conclusive power begin with removal, citing *Myers v. United States*, and run to the pardon and the choice of whom to prosecute ([[United States v. Cox (1965)|Cox]], [[The Thompson Memo]]). [[Humphrey's Executor v. United States (1935)|Humphrey's]] narrowed removal and [[Trump v. Slaughter (2026)|Slaughter]] restored it for all officers exercising executive power, widening the absolutely immune zone. [[The Decision of 1789]] stands behind both.
+**The removal line.** The examples of conclusive power begin with removal, citing *Myers* and *Seila Law*, and run to the pardon (*Klein*), recognition (*Zivotofsky*) and the choice of whom to prosecute ([[United States v. Cox (1965)|Cox]], [[The Thompson Memo]]). [[Trump v. Slaughter (2026)|Slaughter]] later extended at-will removal to every officer exercising executive power, which widens the zone Trump treats as absolutely immune. [[The Decision of 1789]] stands behind both.
 
-**The immunity precedents.** *Nixon v. Fitzgerald* gave absolute civil immunity for acts within the "outer perimeter" of official responsibility; *Clinton v. Jones* and *Trump v. Vance* denied immunity for unofficial conduct; *United States v. Burr* and [[United States v. Nixon (1974)|United States v. Nixon]] denied an absolute privilege against a subpoena. The Court reads the last two as rejecting immunity from criminal process, not for official acts.
+**The immunity precedents.** *Nixon v. Fitzgerald* gave absolute civil immunity for acts within the "outer perimeter" of official responsibility; *Clinton v. Jones* and *Trump v. Vance* denied immunity for unofficial conduct; *United States v. Burr* and [[United States v. Nixon (1974)|United States v. Nixon]] denied an absolute privilege against a subpoena. The Court reads the last two as about evidence, not liability.
 
-**Aftermath.** On remand the Special Counsel obtained a superseding indictment in August 2024 omitting the Justice Department allegations, and the case was dismissed without prejudice that November.
+**Impeachment as the remaining check.** The Impeachment Judgment Clause frames both sides: the majority reads it as silent about the unimpeached, the dissent as presupposing prosecution. [[The Impeachment of Andrew Johnson]] shows how rarely the political check removes anyone.
+
+**Aftermath.** On remand the Special Counsel obtained a superseding indictment in August 2024 omitting the Justice Department allegations; after the election the charges were dismissed (casebook Note 7).
 
 ## Professor gloss
 
 ## Cold-call notes
 
-The casebook notes for this reading were not available; these questions are drawn from the opinion.
+These questions follow the casebook's Notes in the Canvas excerpt.
 
-- **Map the three tiers onto Youngstown.** Jackson's category three asked whether the President could act against Congress's will, and answered yes only for conclusive and preclusive powers. Trump asks instead whether he can be punished under a general criminal statute: the move is from "Congress cannot forbid this act" to "Congress cannot punish this act." Sotomayor's reply is that such a law punishes misuse — a pardon sold for a bribe — rather than regulating the power's subject.
-- **Why is the Justice Department conduct absolutely immune?** Because prosecutorial choice and the removal of the Acting Attorney General are both core — compare [[United States v. Cox (1965)|Cox]] and [[The Thompson Memo]] on discretion, [[Trump v. Slaughter (2026)|Slaughter]] on removal. Hypo: the President fires the Attorney General for refusing to indict a rival. That firing is lawful after Slaughter and cannot ground a prosecution after Trump, so the only check is impeachment.
-- **Why is the Vice President conduct only presumptive?** The certification role is legislative, so the President holds no exclusive power over it, yet the two confer as a matter of course, so the conversations are official. Vary it: pressure routed through a private lawyer moves toward unofficial.
-- **Where do the electors sit?** Barrett says the President has no official role in how States appoint electors, so no immunity attaches; the majority remands instead. Which is more faithful to the Court's own tier test?
-- **Impeachment as the alternative check.** The structure leaves it as the main remedy for abuse of core powers, and [[The Impeachment of Andrew Johnson|the Johnson impeachment]] shows how hard it is to use — 35–19, one vote short. Hypo: a President convicted of selling pardons is "nevertheless" liable to indictment, yet the pardon is a conclusive power, so is he immune? Part III-C makes that prosecution harder still, which is Barrett's objection.
-- **Nixon against Trump.** [[United States v. Nixon (1974)|Nixon]] balanced privilege against criminal justice and held for the courts; Trump holds for the President on core powers and shifts the burden to the Government for the rest. The distinguishing fact is whose liability is at stake: evidence for another's trial against his own prosecution.
-- **Originalism against structure.** No text grants the immunity; the Court reasons from structure, energy ([[The Federalist No. 70]]) and precedent. The dissent's best originalist evidence is the Impeachment Judgment Clause and the contrast with a King who could do no wrong. The Framers chose a limited political remedy — did they also mean the ordinary criminal law to apply?
+- **The stakes (Note 1).** State each side's danger as strongly as you can.
+    - Majority: a President who fears prosecution by his successor loses the "bold and unhesitating" energy Article II requires, and the Executive "cannibalizes itself" as each administration prosecutes the last.
+    - Dissent: a President who knows he cannot be prosecuted for official acts can use those acts "for evil ends" — the Seal Team 6, coup and pardon-for-bribe hypotheticals.
+    - Both are predictions about future behavior, which sets up Notes 2 and 3.
+- **What did 1789 decide? (Note 2).** Did the ratifiers fix presumptive or absolute immunity for official acts, and what counts as official? If not, the majority's position comes from something other than text, history and structure.
+    - The dissent's answer: it comes from *Nixon v. Fitzgerald* (1982), two centuries later.
+    - The majority's reply: no clause names the separation of powers either, and *Fitzgerald* n.31 says text is not required.
+    - The hard question: even if the majority's prediction is right that a President without immunity would be timid, does it follow that the Constitution grants the immunity?
+- **Does novelty undercut the dissent? (Note 3).** No former President had been prosecuted, so why expect history to have answered the question? The dissent's history — Federalist No. 69, Pinckney, the Ford pardon — shows people assumed liability, not that anyone decided it. If that is all the history shows, the dissent also rests on a prediction about how Presidents will behave now. Does either side's constitutional conclusion survive without its prediction?
+- **Majority against Barrett (Note 5).** What is the daylight, and how much does it matter?
+    - On the core: she agrees, but calls it an as-applied challenge plus interlocutory review rather than an "immunity."
+    - On the presumptive tier: she would decide now that Congress can criminalize much official conduct, using a two-step statutory and constitutional test.
+    - On the electors: private, so no protection; the majority remands.
+    - On evidence: she would admit the quo in a bribery case, and the majority's footnote 3 concedes only the public record.
+    - The practical answer: on these facts, the evidence rule and the elector classification are where cases would actually be won or lost.
+- **Does presumptive versus absolute matter? (Note 6).** If official acts are read broadly and made absolutely immune, the President is nearly immune — but can he do much alone? Subordinates who carry out his orders can still be prosecuted, so fear of prosecution constrains them, and through them him. Does the majority's logic stop with the President? The *Fitzgerald* reasoning about chilling "bold and unhesitating action" applies to anyone who executes his orders.
+- **Map the tiers onto Youngstown.** Jackson's category three asked whether the President could act against Congress's will, and answered yes only for conclusive and preclusive powers. Trump asks whether he can be punished under a general criminal statute: the move is from "Congress cannot forbid this act" to "Congress cannot punish this act." Sotomayor's reply is that such a law punishes misuse — a pardon sold for a bribe — rather than regulating the power's subject.
+- **Why is the Justice Department conduct absolutely immune?** Prosecutorial choice and removal of the Acting Attorney General are both core — compare [[United States v. Cox (1965)|Cox]] and [[The Thompson Memo]] on discretion, [[Trump v. Slaughter (2026)|Slaughter]] on removal. Barrett agrees on supervision and removal of top officials but not on "all exercises of the Take Care power." Hypo: the President fires the Attorney General for refusing to indict a rival. That firing is lawful after Slaughter and cannot ground a prosecution after Trump, so the only check is impeachment.
+- **Why is the Vice President conduct only presumptive?** The certification role belongs to the Vice President as President of the Senate, so the President holds no exclusive power over it, yet the two confer as a matter of course, so the conversations are official. Vary it: pressure routed through a private lawyer moves toward unofficial.
+- **Bribery, the hard case.** Bribery is an enumerated impeachable offense, and the Impeachment Judgment Clause says the convicted party is "nevertheless" liable to indictment. Hypo: a President sells a pardon. The pardon is conclusive and preclusive, so is he immune? The majority's footnote 3 says the prosecutor may prove the demand from the record but not probe the pardon itself; Barrett says the jury must hear "both the quid and the quo."
+- **Nixon against Trump.** [[United States v. Nixon (1974)|Nixon]] balanced privilege against criminal justice and held for the courts; Trump holds for the President on core powers and puts the burden on the Government for the rest. The distinguishing fact is whose liability is at stake: evidence for another's trial against his own prosecution.
 - **Formalism and functionalism.** The absolute tier is formalist, a category of exclusive power; the presumptive tier is functional, turning on the danger of intrusion. The motive and evidence rules are prophylactic, guarding against evasion by pleading.
-- **Memorable lines.** "[C]onclusive and preclusive." "The President is not above the law." "With fear for our democracy, I dissent."
+- **Memorable lines.**
+    - "[C]onclusive and preclusive" (Youngstown, Jackson, J., adopted in Trump).
+    - "The Constitution deals with substance, not shadows" (Trump, Roberts, quoting *Cummings*).
+    - "[C]annibalizes itself" and "a tone of chilling doom" (Trump, Roberts).
+    - "[B]oth the quid and the quo" (Trump, Barrett, J.).
+    - "Immune, immune, immune" and "a king above the law" (Trump, Sotomayor, J., dissenting).

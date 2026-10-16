@@ -55,6 +55,17 @@
           188
         ]
       ]
+    },
+    "10": {
+      "file": "Con law 1 - Class 10 (Impeachment, Removal, Prosecution) - pp 349-361.pdf",
+      "label": "5th ed.",
+      "runs": [
+        [
+          2,
+          14,
+          347
+        ]
+      ]
     }
   },
   "readings": {
@@ -82,6 +93,18 @@
         "file": "Trump v Slaughter and Trump v Cook.pdf",
         "pages": "13-18",
         "label": "609 U.S. 528 (Canvas excerpt)"
+      }
+    ],
+    "United States v. Nixon (1974)": [
+      {
+        "file": "US v Nixon.pdf",
+        "label": "418 U.S. 683 (Canvas excerpt)"
+      }
+    ],
+    "Trump v. United States (2024)": [
+      {
+        "file": "Trump v United States.pdf",
+        "label": "603 U.S. 593 (Canvas excerpt)"
       }
     ]
   }

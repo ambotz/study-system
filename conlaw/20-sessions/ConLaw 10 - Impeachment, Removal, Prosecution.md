@@ -2,7 +2,7 @@
 class: conlaw
 session: 10
 title: "Impeachment, Removal, Prosecution"
-date: 
+date: 2026-10-19
 professor: Baude
 reconciled: false
 ---
@@ -12,6 +12,7 @@ reconciled: false
 ## Readings
 
 - [[The Impeachment of Andrew Johnson]]
+- [[Law Professors' Letter on the Clinton Impeachment]]
 - [[United States v. Nixon (1974)|United States v. Nixon]]
 - [[Trump v. United States (2024)|Trump v. United States]]
 

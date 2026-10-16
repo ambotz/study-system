@@ -453,7 +453,7 @@
   },
   {
    "session": 10,
-   "date": null,
+   "date": "2026-10-19",
    "title": "Impeachment, Removal, Prosecution",
    "readings": [
     {
@@ -464,6 +464,15 @@
      "end": 357,
      "syllabus_pp": "349–358",
      "flag": "David Currie on the Impeachment of Andrew Johnson."
+    },
+    {
+     "case": "Law Professors' Letter on the Clinton Impeachment",
+     "kind": "document",
+     "source": "scan5",
+     "start": 356,
+     "end": 358,
+     "syllabus_pp": "349–358",
+     "flag": "In the 5th ed. only (Nov. 6, 1998). Hyde's reply follows on pp. 358–360, past the syllabus range."
     },
     {
      "case": "United States v. Nixon (1974)",

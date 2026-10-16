@@ -3,7 +3,7 @@
 Constitutional Law I: Government Structure · Baude · Autumn 2026
 Meets Mon, Wed, Thu 1:30-2:35 pm. in-class, closed-book exam (no outline permitted), plus participation (cold-calling; email by 11 a.m. to pass)
 
-Generated 2026-10-10 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
+Generated 2026-10-16 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class conlaw`.
 
 ## Sources
 
@@ -105,10 +105,12 @@ Generated 2026-10-10 from `99-meta/case-index.json`. Do not edit; regenerate wit
     - Preliminary (326) and Final (327) Proclamations.
 - [[Lincoln, Order of Retaliation]] — pp. 328–329 · document
 
-### Class 10 — Impeachment, Removal, Prosecution
+### Class 10 — Impeachment, Removal, Prosecution · Mon 2026-10-19
 
 - [[The Impeachment of Andrew Johnson]] — pp. 350–357 · document
     - David Currie on the Impeachment of Andrew Johnson.
+- [[Law Professors' Letter on the Clinton Impeachment]] — pp. 356–358 · document
+    - In the 5th ed. only (Nov. 6, 1998). Hyde's reply follows on pp. 358–360, past the syllabus range.
 - [[United States v. Nixon (1974)]] — Canvas · case
 - [[Trump v. United States (2024)]] — Canvas · case
 
