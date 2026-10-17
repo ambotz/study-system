@@ -11,8 +11,6 @@ feeds_module:
 read_for: null
 ---
 
-> [!caution] Source check — Not named on the syllabus, but inside its page range for Class 9 (5th ed. pp. 300–302, 4th ed. pp. 300–302), where it closes the foreign-affairs section before the war materials begin. The 5th ed. updates the Iran paragraph through 2021; both editions are reflected below.
-
 ## What it is
 
 Two short casebook notes that end the foreign-affairs section: "A Note on Executive Agreements" and "A Note on the Iranian Nuclear Agreement." They ask what the President can commit the United States to without the Senate, and what such a commitment does to state and federal law.

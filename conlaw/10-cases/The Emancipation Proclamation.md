@@ -39,7 +39,6 @@ Lincoln's two proclamations freeing slaves in the rebelling states: the Prelimin
   - Congress countermanding: Congress has power to "make Rules concerning Captures" and to govern the forces, so on the Barreme principle (*Little v. Barreme*) a statute could control the conduct of war. Whether it could re-enslave persons already freed is a different question: the Proclamation declared them free, and a statute undoing that would operate on persons, not on the conduct of war.
   - The Court holding it unconstitutional: whether the President must comply raises departmentalism, which returns with [[Marbury v. Madison (1803)|Marbury v. Madison]] and [[Ex parte Merryman (1861)|Ex parte Merryman]].
 - **"Sincerely believed to be an act of justice, warranted by the Constitution, upon military necessity."** The closing sentence names both justifications and puts constitutional warrant on "military necessity," not on justice.
-
 ## Where it goes
 
 - [[War powers - Art. I § 8 cl. 11 and the Commander in Chief]] — the Commander in Chief's power over enemy property and persons in the conduct of war.

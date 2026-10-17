@@ -71,4 +71,4 @@ The distinguishing line: **under Zapata the corporation must prove independence;
 2. **Arguing the SLC members were biased or dishonest.** Oracle expressly disclaims that. The word is **situated**.
 3. **Assessing connections one at a time.** The inquiry is cumulative, and each Stanford tie was individually weak.
 4. **Forgetting who bears the burden.** The corporation does, which is the opposite of nearly every other motion in the course.
-5. **Assuming an SLC is available in every case.** It is the corporation's move after demand is excused, and appointing one concedes that the litigation is worth taking seriously.
+5. **Assuming an SLC is available in every case.** It is the corporation's move after demand is excused, and <u>appointing one concedes that the litigation is worth taking seriously.</u>

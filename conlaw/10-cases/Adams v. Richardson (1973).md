@@ -92,10 +92,10 @@ Agency action is presumptively reviewable under the APA; the committed-to-discre
 - On the funding ground, yes: money moving where Congress forbade it, the mirror image of [[U.S. House of Representatives v. Burwell (2015)]].
 - Limited to funding, it says nothing about criminal non-enforcement; unlimited, it is a general duty to enforce mandatory statutes — the reading *Heckler* declined to bless.
 
-**Note 4. "Twelve years later, the Supreme Court decided Heckler v. Chaney . . . 'an agency's decision not to prosecute or enforce . . . is a decision generally committed to an agency's absolute discretion.' . . . 'Nor do we have a situation where . . . the agency has "consciously and expressly adopted a general policy" that is so extreme as to amount to an abdication.'"**
+**Note 4. "Twelve years later, the Supreme Court decided Heckler v. Chaney (1985) . . . 'an agency's decision not to prosecute or enforce . . . is a decision generally committed to an agency's absolute discretion.' . . . 'Nor do we have a situation where . . . the agency has "consciously and expressly adopted a general policy" that is so extreme as to amount to an abdication.'"**
 
-- Heckler reverses the presumption and keeps Adams alive as its exception: the quoted phrase is Adams's own, and the footnote adds that such a statute might indicate the decision was not committed to agency discretion
-- The surviving rule is narrow and statute-dependent: Adams wins on Title VI's mandatory text; on a permissive statute the same facts lose. The Supreme Court has twice declined to adopt or reject it.
+- Heckler reverses the presumption and keeps Adams alive as its <u>exception</u>: the quoted phrase is Adams's own, and the footnote adds that such a statute might indicate the decision was not committed to agency discretion
+- The surviving rule is narrow and statute-dependent: Adams wins on Title VI's mandatory text; on a <u>permissive</u> statute the same facts <u>lose</u>. The Supreme Court has twice declined to adopt or reject it.
 
 ### Further drilling
 

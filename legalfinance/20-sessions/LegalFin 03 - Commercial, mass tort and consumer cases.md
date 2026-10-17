@@ -18,6 +18,13 @@ professor: Kelley
 
 ## Notes
 
+Guest lectures next week:
+* Ami Guisy -- Omni Bridgeway
+* Kelly Davy -- Celsuis
+
+
+
+
 
 ## Signals
 

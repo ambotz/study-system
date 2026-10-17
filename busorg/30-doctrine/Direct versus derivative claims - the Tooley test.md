@@ -56,7 +56,7 @@ And recovery "flows only to the corporation." A direct plaintiff faces none of t
 ## Exceptions
 
 - **Extinguishment by merger** converts what is left into a direct fairness claim on the Riverstone conditions.
-- **Contractual stockholder rights** — voting, or rights existing independently of any corporate right — remain the clearest direct claims, even though the "special injury" label describing them is gone.
+- **Contractual stockholder rights** — <u>voting</u>, or rights existing independently of any corporate right — remain the clearest direct claims (non-corporate injury claims)
 
 ## Leading case
 

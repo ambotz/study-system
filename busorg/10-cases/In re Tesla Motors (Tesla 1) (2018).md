@@ -10,7 +10,6 @@ feeds_module: "[[Controlling stockholder transactions - the self-dealing trigger
 read_for: 2026-10-15
 posture_drove_outcome: true
 ---
-
 ## Rule
 
 A stockholder is a controller if the stockholder owns more than 50% of the voting power **or** owns less and "exercises control over the business affairs of the corporation." For a minority blockholder the question is whether the stockholder "exercised **actual domination and control** over... [the] directors," with power "so potent that independent directors... [could not] freely exercise their judgment."
@@ -34,7 +33,7 @@ Control may be pleaded **generally** or **transaction-specifically** — either 
 **Held**
 
 - Motion to dismiss **denied**. It is "reasonably conceivable that Musk, as a controlling stockholder, controlled the Tesla Board in connection with the Acquisition," so entire fairness applies and the claims survive against all defendants.
-- **The *Kahn v. Lynch* framework**: a controller either owns more than 50% of voting power, or owns less but exercises control over the business affairs of the corporation.
+- **The *Kahn v. Lynch* framework**: a controller either owns more than 50% of voting power, <u>or owns less but exercises control over the business affairs of the corporation</u>.
 - **Two routes for a minority blockholder**: actual domination and control of the corporation, board or deciding committee **as to the challenged transaction**, or actual domination and control of the **majority of the board generally**.
 - **There is no percentage threshold.** "[T]here is no absolute percentage of voting power that is required," and "[a]ctual control over business affairs may stem from sources extraneous to stock ownership." *Crimson Exploration* found **no** "linear, sliding scale approach whereby a larger share percentage makes it substantially more likely" a controller will be found — the decisions range from a 17.3% controller (*Zhongpin*) to a 33.7% stake being an "aggressive" case, and 23.1% held **not** controlling (*Larkin*).
 - Control is "intensely factual [and] a difficult [question] to resolve on the pleadings," and the plaintiff's burden is only to "show it is **reasonably conceivable**" that Musk controlled Tesla.
@@ -50,7 +49,7 @@ Control may be pleaded **generally** or **transaction-specifically** — either 
 
 The companion to [[Sinclair Oil v. Levien (1971)|Sinclair Oil v. Levien]] and the reason the syllabus pairs them. Sinclair asks **what a conceded controller may do**; Tesla asks **who is a controller at all**. Sinclair held 97% and conceded the point; Musk held 22.1% and litigated it to a close call.
 
-**SB 21 rewrites this inquiry**, which is why the syllabus returns to it in session 10 with [[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]] and § 144(b), (c) and (e). Post-SB 21 § 144(e)(2) defines a controlling stockholder by three specified routes — majority voting power; a contractual right to elect a board majority; or **at least one-third** of voting power **plus** "power to exercise managerial authority over the business and affairs." That floor replaces the open-ended, factor-driven inquiry this opinion applies, and it is worth asking directly whether Musk at 22.1% would qualify under the statute at all.
+**SB 21 rewrites this inquiry**, which is why the syllabus returns to it in session 10 with [[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]] and § 144(b), (c) and (e). Post-SB 21 § 144(e)(2) defines a controlling stockholder by three specified routes — (1) majority voting power; (2) a contractual right to elect a board majority; or (3) **at least one-third** of voting power **plus** "power to exercise managerial authority over the business and affairs." That floor replaces the open-ended, factor-driven inquiry this opinion applies, and it is worth asking directly whether Musk at 22.1% would qualify under the statute at all.
 
 The cleansing point runs forward too. The complaint also attacked the vote because the exclusion list was drawn too narrowly (a point the court did not reach), and post-SB 21 § 144(e)(5) now defines a **disinterested stockholder** as one without a material interest in the transaction or a material relationship with the controller — a statutory answer to exactly the question of who should have been excluded.
 

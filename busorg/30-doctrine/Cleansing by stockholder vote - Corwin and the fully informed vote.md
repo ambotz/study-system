@@ -70,6 +70,12 @@ The doctrine stacks with [[Charter exculpation of director liability|§ 102(b)(7
 - **Waste.** A fully informed vote cannot ratify a transaction no person of ordinary sound business judgment could consider fair consideration.
 - **Bad faith.** Business judgment review is a presumption, not immunity. See [[Oversight liability - Caremark and good faith]].
 
+
+Analysis Order:
+1. Is there a conflict, either a controller transaction or a conflicted director or officer? If so, run § 144(a), (b), or (c).
+2. If there is no conflict and the claim is an enhanced-scrutiny damages claim, run Corwin
+
+When there is no conflict or controller, § 144 does not apply. Then, use *Corwin*, *Revlon*, and *Unocal*. 
 ## Leading case
 
 [[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]]. A stock-for-stock merger between KKR and KKR Financial Holdings, challenged post-closing for damages. Two holdings in one short opinion: KKR was not a controlling stockholder on these facts, and with entire fairness out of the case the informed, uncoerced disinterested vote was outcome-determinative.

@@ -17,7 +17,7 @@ A special litigation committee moving to terminate a derivative action **bears t
 
 ## Facts
 
-- The derivative claims alleged **insider trading** by four Oracle directors who sold while holding material non-public information that Oracle would miss its Q3 FY2001 guidance.
+- The derivative claims alleged **insider trading** by four Oracle directors (Ellison, Henley, Lucas, and Boskin) who sold while holding material non-public information that Oracle would miss its Q3 FY2001 guidance.
 - **Ellison** was Chairman, CEO, and largest stockholder with nearly **25%** of the voting shares, "one of the wealthiest men in America," with "regular access to a great deal of information about how Oracle is performing on a week-to-week basis." **Henley** was CFO and a director, whose "finger [was] on the pulse of Oracle's performance constantly."
 - **The SLC was two Stanford professors**, recruited to the Oracle board in summer 2001 and then "soon asked to investigate a fellow professor and two benefactors of the University."
 - The Stanford web: defendant **Boskin** was a Stanford professor who had taught one of the SLC members; defendant **Lucas** was a Stanford donor; and **Ellison was considering an enormous donation to Stanford at the very time the two professors were being courted for the Oracle board**.
@@ -83,7 +83,7 @@ None of this involved payments by the defendants to the SLC members or business 
 ### Rule
 
 - An SLC may move to terminate a derivative action.
-- **Zapata step one**: the corporation bears the burden of proving the committee's independence, good faith, and the reasonableness of its investigation. Failure means denial.
+- **Zapata step one**: the corporation bears the burden of proving: (1) the committee's independence, (2) good faith, and (3) the reasonableness of its investigation. Failure means denial.
 - **Zapata step two**: if the burden is met, the court applies **its own independent business judgment** to the motion, and may deny it even where the committee was independent and acted in good faith.
 - The SLC must show there is no material issue of fact calling its independence into doubt.
 - Independence is judged on all the facts together, asking whether material considerations other than the corporation's best interests could have influenced the committee.

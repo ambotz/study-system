@@ -14,9 +14,6 @@ feeds_module:
 read_for: 2026-10-19
 posture_drove_outcome: false
 ---
-
-> [!note] Source — Checked against the Canvas excerpt (Class 10 packet, pp. 15–23): Burger's opinion Parts I, II and IV-A to IV-C in part, with the casebook's Notes 1–5. The editors summarize Part III (Rule 17(c)) and the weighing in Part IV-C in brackets, so the "demonstrated, specific need" holding, the candor-chilling reply and the reserved settings below come from the full opinion.
-
 ## Snapshot
 
 A grand jury investigating Watergate indicted seven of the President's former aides and named the President an unindicted coconspirator. The Special Prosecutor subpoenaed tapes of the President's conversations for their trial, the President moved to quash on executive privilege and lost, and the case came up on certiorari before judgment. The Court held the privilege constitutionally based but qualified: a generalized claim of confidentiality yields to a specific need for criminal evidence. Article II's executive power meets Article III's duty to do justice.
@@ -37,9 +34,11 @@ The President has a constitutionally based privilege for confidential communicat
 - "[T]he legitimate needs of the judicial process may outweigh Presidential privilege"; in the full opinion, "[t]he generalized assertion of privilege must yield to the demonstrated, specific need for evidence in a pending criminal trial."
 - "So long as this regulation remains in force the Executive Branch is bound by it."
 
+Order is reviewable based on the appointment of a Special Prosecutor. 
+
 ## Operative facts
 
-- **After the 1972 Watergate break-in, the Acting Attorney General appointed a Special Prosecutor under a Justice Department regulation giving him "plenary authority" over offenses arising out of the 1972 election and "allegations involving the President."** *The delegation makes this a case rather than an internal argument; a dispute with an ordinary at-will subordinate would have been the President's alone to resolve.*
+- **After the 1972 Watergate break-in, the Acting Attorney General appointed a Special Prosecutor under a Justice Department regulation giving him "plenary authority" over offenses arising out of the 1972 election and "allegations involving the President."** *The delegation makes this a case rather than an internal argument; a dispute with an ordinary at-will subordinate would have been the President's alone to resolve.* Appointment Cl: Art. 2, Sec. 2 (*Morrisson* held that Special Prosecutors are not a violation of the Seperation of Powers)
 - **The regulation gave him "full authority . . . to contest the assertion of 'Executive Privilege,'" barred the Attorney General from countermanding his decisions, and allowed removal only "for extraordinary improprieties" and only with the "consensus" of eight congressional leaders — a limit adopted on the President's own assurances.** *Decisive on justiciability: the Executive had bound itself, and the Court holds it to that.*
 - **In March 1974 a grand jury indicted seven men, including Mitchell, Haldeman and Ehrlichman, for conspiracy to defraud the United States and to obstruct justice, and named the President an unindicted coconspirator.** *It tied the President's own conversations to the charged conspiracy, which bears on relevance under Rule 17(c).*
 - **The Special Prosecutor obtained a Rule 17(c) subpoena for tapes and documents of "precisely identified meetings" between the President and others, returnable before the September 9 trial date.** *The evidence was sought for someone else's criminal trial, which is why the holding is confined to criminal prosecutions.*

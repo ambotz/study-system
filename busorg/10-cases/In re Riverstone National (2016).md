@@ -19,10 +19,11 @@ Where a merger **extinguishes** a derivative claim against the directors who app
 
 - Riverstone was the nation's second largest privately owned apartment property management company. CAS Capital, controlled by Nicholas and Peter Gould, was the **majority stockholder**; the Goulds also sat on the five-member board alongside Pearson, Danner (CEO) and Wanich (COO).
 - After 2008 Riverstone moved toward single-family rentals and did business with Invitation Homes, which became the largest single-family rental company in the country.
-- **Riverstone never received an ownership interest in Invitation Homes. Many of its directors and officers did.** At an October 2012 special meeting the board "acknowledged that certain members of the Board, officers and executives... may elect to acquire ownership interests in Invitation Homes," and in approving the acquisitions "purported to **waive any actual or potential conflict of interest**."
+- **Riverstone never received an ownership interest in Invitation Homes. Many of its directors and officers did.** At an October 2012 special meeting the board "acknowledged that certain members of the Board, officers and executives... may elect to acquire ownership interests in Invitation Homes," and in approving the acquisitions "purported to **waive any actual or potential conflict of interest**." (Duty of Loyalty Claim)
 - **20 May 2014** — the plaintiffs told Riverstone the directors and officers had usurped the Invitation Homes opportunity and demanded the interests be assigned to the company.
 - **30 May 2014** — the plaintiffs filed a **§ 220** books-and-records action. **The same day**, Riverstone executed the merger agreement with Greystar. *The day before, CAS Capital had already delivered its written consent as majority stockholder.* **The timing is the case.**
 - The merger converted all shares into the right to receive a pro rata share of a **$94 million** purchase price, less adjustments.
+	- CAS Capital (majority stockholder) signed off on merger and so did board; so merger above law as per DCGL 251(b)—(c)
 - **The merger agreement provided that the acquirer would release the usurpation claims**, and the board, CAS Capital and Greystar were all aware of those claims.
 - The directors received the same per-share consideration as everyone else. *Argued as proportionality and rejected — they also received something nobody else did.*
 
@@ -31,9 +32,10 @@ Where a merger **extinguishes** a derivative claim against the directors who app
 **Held**
 
 - The complaint adequately pleads five linked propositions: a **chose in action** existed pre-merger for usurpation of corporate opportunity; a derivative claim on that ground "would have withstood a motion to dismiss"; the claim was **threatened and known to the board** when the merger was negotiated; the implied liability was **material** to the directors threatened; and the merger both eliminated the derivative suit **by operation of law** and eliminated pursuit of the claim as a corporate asset **by contract**.
-- Therefore "a majority of the Defendant directors received a material benefit from the merger not shared by the common stockholders."
+- Therefore "a majority of the Defendant directors received a <u>material benefit</u> from the merger not shared by the common stockholders."
 - That majority being **interested**, they "must demonstrate that the merger was entirely fair to the stockholders, in light of a plausible allegation of unfair price."
 - **The surviving claim is direct.** "Any potential derivative actions have been extinguished; what remains are the Plaintiffs' allegations that the Defendant directors were interested in the merger and that the price was unfair, a direct claim belonging to the Plaintiffs."
+	- Derivative actions extinguished because plaintiffs don't own underlying stock of Riverstone anymore
 - Motions to dismiss largely denied.
 
 **Rejected**
@@ -43,7 +45,7 @@ Where a merger **extinguishes** a derivative claim against the directors who app
 
 ## Context
 
-[[Tooley v. Donaldson, Lufkin & Jenrette (2004)|Tooley]] applied to the hardest recurring pattern in derivative litigation. A merger strips a stockholder of standing to sue derivatively, because standing requires continuous ownership under [[Demand futility - Rule 23.1 and the Zuckerberg test|Rule 23.1]]. If that were the end of it, a conflicted board could extinguish claims against itself by selling the company — and the buyer, as Greystar did here, could contract away the claim as part of the price.
+[[Tooley v. Donaldson, Lufkin & Jenrette (2004)|Tooley]] applied to the hardest recurring pattern in derivative litigation. <u>A merger strips a stockholder of standing to sue derivatively</u>, because standing requires continuous ownership under [[Demand futility - Rule 23.1 and the Zuckerberg test|Rule 23.1]]. If that were the end of it, a conflicted board could extinguish claims against itself by selling the company — and the buyer, as Greystar did here, could contract away the claim as part of the price.
 
 Riverstone closes that gap by **reclassifying**. The corporate asset is gone, so the derivative claim is gone; but the failure to value that asset in the merger consideration is a harm to the stockholders that does not depend on showing corporate injury. That satisfies Tooley's first question, and the recovery would flow to the former stockholders, which satisfies the second.
 

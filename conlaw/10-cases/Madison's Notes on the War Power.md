@@ -10,7 +10,6 @@ feeds_module:
   - "[[Modes of constitutional argument]]"
 read_for: null
 ---
-
 ## What it is
 
 Madison's record of the Convention debate of August 17, 1787 on the draft clause giving the Legislature power "To make War." Madison and Gerry moved to substitute "declare" for "make," "leaving to the Executive the power to repel sudden attacks," and the motion carried. The casebook prints the entire debate and frames it with an opening survey (Starting War, Text, Historical Context) that opens the war-powers unit (Assignment 14).

@@ -47,7 +47,6 @@ The casebook prints it after [[The Impeachment of Andrew Johnson|the Johnson imp
     - The overlap and the hard case is bribery: a corrupt use of an official act, an enumerated impeachable offense, and the subject of the Trump majority's footnote 3 and Barrett's "quid and the quo."
 - **Clinton v. Jones as the backstory.** The perjury charge came from Clinton's deposition in the Paula Jones suit, which proceeded only because *Clinton v. Jones* (1997) denied a sitting President temporary immunity from civil suits over unofficial conduct. The case that refused immunity produced the impeachment.
 - **Who should decide?** The professors argue as constitutional interpreters to Congress, not to a court. Is a letter of 430 law professors a legitimate input into that interpretation, or an interest group's? Trumbull's and Fessenden's votes are the Senate's own version of the same argument.
-
 ## Where it goes
 
 - [[Impeachment - Art. II § 4 high crimes and misdemeanors]] — the official-abuse reading of "high Crimes and Misdemeanors," between the indictable-offense and political-offense readings of 1867.

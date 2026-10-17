@@ -111,11 +111,6 @@ Separately, in 1961 Sinclair formed International to consolidate its foreign cru
 - On expansion the court adds a second, independent answer: even assuming error, allocating opportunities among many subsidiaries is a judgment no court is equipped to second-guess, and no evidence showed Sinven uniquely able to exploit them.
 - On the contract, self-dealing is found almost summarily — the products went to Sinclair and the minority could not share in them — and the burden then does all the remaining work. Sinclair loses not because the contract was unfair but because it could not **prove** that non-enforcement was fair.
 
-### Dissent / concurrence
-
-- None; unanimous.
-- The tension worth two lines: the Chancellor found Sinclair drained Sinven of cash precisely so that it could not expand, and pursued a company-wide growth strategy from which Sinven was deliberately excluded. Those findings stand, and the minority still loses, because the harm is real but not **disproportionate**. That is the cost of choosing an administrable test over an inquiry into motive.
-
 ### Cold-call notes
 
 - **Expect the question: why did the dividends survive and the contract not?** One sentence: the dividends were pro rata and the products were not. Proportionality is the whole case.

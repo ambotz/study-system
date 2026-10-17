@@ -13,7 +13,7 @@ posture_drove_outcome: false
 
 ## Rule
 
-Whether a claim is direct or derivative "must be based **solely** on the following questions: **Who suffered the alleged harm** — the corporation or the suing stockholder individually — **and who would receive the benefit of the recovery** or other remedy?"
+Whether a claim is direct or derivative "must be based **solely** on the following questions: (1) **Who suffered the alleged harm** — the corporation or the suing stockholder individually — (2) **and who would receive the benefit of the recovery** or other remedy?"
 
 The concept of **"special injury" is disavowed**.
 
@@ -44,6 +44,7 @@ The casebook excerpt carries the legal holding rather than the underlying disput
 The gateway to the whole of derivative litigation, and the reason it is assigned first. The classification carries three consequences the opinion lists: a derivative plaintiff must **retain ownership** throughout the litigation, must **make presuit demand** on the board (or plead futility), and must obtain **court approval of any settlement** — all under [[Demand futility - Rule 23.1 and the Zuckerberg test|Rule 23.1]]. And "the recovery, if any, flows only to the corporation."
 
 That last point is why the test is more consequential than it looks. A stockholder who wins a derivative claim receives nothing directly; the corporation is made whole and the stockholder benefits only pro rata through share value. A plaintiff with a direct claim recovers personally and never faces demand futility at all.
+* Even if the remedy is to the corporation and the wrongdoers control a majority of the corp., they are at a net loss, since they don't own a 100% of the corp. so they are paying more than they are receiving back. 
 
 [[In re Riverstone National (2016)|In re Riverstone National]], assigned the same day, is Tooley applied to the hardest recurring pattern: a merger that extinguishes a derivative claim, where the classification determines whether anything survives at all.
 
@@ -102,5 +103,5 @@ The excerpt gives no sustained factual narrative. What matters is the doctrinal 
 
 - **Have the two questions verbatim.** Who suffered the harm; who receives the benefit of recovery. Any answer that begins elsewhere is already off track.
 - **The trap is "special injury."** It is the natural thing to say and it is precisely what Tooley abolishes. If a hypothetical invites you to ask whether this stockholder was hurt differently from the others, that is the wrong question.
-- **Know why it matters practically.** Derivative means Rule 23.1 — continuous ownership, demand or futility, court-approved settlement — and recovery to the corporation. Direct means none of that.
+- **Know why it matters practically.** Derivative means Rule 23.1 — (1) continuous ownership, (2) demand or futility, (3) court-approved settlement — and recovery to the corporation. Direct means none of that.
 - **Be ready for the hard middle.** Claims that look like both are the exam's favourite ground, and [[In re Riverstone National (2016)|In re Riverstone National]] is the assigned example: a merger extinguishes the derivative claim, and what survives is a direct attack on price.

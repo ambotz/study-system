@@ -30,7 +30,7 @@ A director's obligation includes "a duty to attempt in good faith to assure that
 
 **Held**
 
-- **Two distinct contexts for inattention liability.** First, a board **decision** that proves ill-advised — reviewed under the business judgment rule, and here Allen is categorical: compliance with the duty of care "can never appropriately be judicially determined by reference to the **content** of the board decision," apart from the good faith or rationality of the process. Substantive second-guessing by "ill-equipped judges or juries" would injure investors. Second, **unconsidered inaction** — the oversight claim.
+- **Two distinct contexts for inattention liability.** First, a board **decision** that proves ill-advised — reviewed under the business judgment rule, and here Allen is categorical: compliance with the duty of care "can never appropriately be judicially determined by reference to the **content** of the board decision," apart from the good faith or rationality of the process. Substantive second-guessing by "ill-equipped judges or juries" would injure investors. Second, **unconsidered inaction** — the oversight claim (good faith; duty of loyalty).
 - **Graham v. Allis-Chalmers is read narrowly.** Its line that "absent cause for suspicion there is no duty upon the directors to install and operate a corporate system of espionage" cannot mean a board has no responsibility to assure information systems exist. Graham stands only for the proposition that, absent grounds to suspect deception, boards and senior officers cannot be charged "simply for assuming the integrity of employees."
 - **Three reasons the broader reading fails in 1996**: Delaware's increasing seriousness about the board's role; "relevant and timely information is an essential predicate for satisfaction of the board's supervisory and monitoring role under **Section 141**"; and the **federal Organizational Sentencing Guidelines**, which create powerful incentives to have compliance programmes in place.
 - **The duty, stated.** The board must "exercise a good faith judgment that the corporation's information and reporting system is **in concept and design adequate**." The level of detail "is a question of business judgment," and no system "will remove the possibility that the corporation will violate laws."
@@ -89,7 +89,7 @@ The investigation ran four years across HHS, DOJ, and multiple federal and state
 - For decisions, the business judgment rule is process-oriented; the content of the decision is not a ground for liability however wrong it proves, provided the process was rational or employed in a good faith effort to advance corporate interests.
 - Boards must assure that information and reporting systems exist that are "reasonably designed to provide to senior management and to the board itself timely, accurate information" on both legal compliance and business performance.
 - The **level of detail** of such a system is a question of business judgment.
-- Liability requires a sustained or systematic failure to exercise oversight, such as an utter failure to attempt to assure a reasonable system exists, evidencing lack of good faith.
+- Liability requires a sustained or systematic failure to exercise oversight, such as an utter failure to attempt to assure a reasonable system exists, evidencing lack of good faith. --> Oversight is later channeled to duty of loyalty under *Stone v. Ritter*
 - The plaintiff must show the directors knew or should have known of violations, took no good faith steps to prevent or remedy them, and that the failure proximately caused the loss.
 - Neither the scale of a loss nor the fact that it arose from criminal conduct creates a breach.
 
@@ -103,16 +103,11 @@ The investigation ran four years across HHS, DOJ, and multiple federal and state
 - The standard's height is defended openly as a policy choice: a demanding test "is probably beneficial to corporate shareholders as a class."
 - Note what the opinion does **not** do. It never says the system must work. It requires a good faith judgment that the system is "in concept and design adequate," and concedes no system will prevent all violations.
 
-### Dissent / concurrence
-
-- None; single Chancellor, on settlement approval.
-- The tension worth noting: the standard is announced in an opinion that decides no facts and approves a settlement Allen himself calls "very modest," delivering changes that "do not impress one as very significant" because the board already had a compliance committee. The most consequential passage in modern Delaware oversight law is, strictly, dicta in a fairness hearing.
-
 ### Cold-call notes
 
 - **Expect to be asked what the Caremark board did right.** Have the list: the Guide revised five times under legal review, Zone President approval of every contract, an internal audit plan, a Big Six outside auditor finding no material weaknesses, an ethics manual, a confidential hotline, mandatory training, and a designated compliance officer. The case is a picture of adequacy, which is why it is assigned before [[Marchand v. Barnhill (2019)|Marchand v. Barnhill]].
 - **The trap** is arguing from the $250 million. Allen addresses it directly and it earns nothing. Magnitude of loss is not evidence of breach.
 - **Keep the two branches apart.** Decision versus inaction. Naming which branch a fact pattern occupies before analysing it is the single most valuable move here, because it selects the standard.
 - **Know that the word "utter" is doing the work.** Not "inadequate," not "ineffective" — an *utter failure to attempt*. [[Marchand v. Barnhill (2019)|Marchand v. Barnhill]] is what clearing that bar actually requires, and [[Segway Inc. v. Cai (2023)|Segway Inc. v. Cai]] is what failing it looks like.
-- **Be ready on posture.** If pressed on why a settlement opinion became the governing standard, the answer is that the Supreme Court adopted it in *Stone v. Ritter*, which also relocated oversight into the duty of loyalty.
+- **Be ready on posture.** If pressed on why a settlement opinion became the governing standard, the answer is that the Supreme Court adopted it in *Stone v. Ritter*, <u>which also relocated oversight into the duty of loyalty.</u>
 - **Numbers:** 7,000 employees, 90 branches, ~$250 million total payments, one felony count of mail fraud, $1.1 million to a single physician, a 47-page indictment, four years of investigation.

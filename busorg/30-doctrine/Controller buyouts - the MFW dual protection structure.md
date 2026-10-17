@@ -13,7 +13,7 @@ last_drilled:
 
 ## Rule statement
 
-In a controller buyout, business judgment review applies **if and only if** the transaction is conditioned **ab initio** on both an independent, adequately empowered special committee that meets its duty of care and the uncoerced, informed vote of a majority of the minority.
+In a controller <u>**buyout**</u> (going private), business judgment review applies **if and only if** the transaction is conditioned **ab initio** on both an independent, adequately empowered special committee that meets its duty of care and the uncoerced, informed vote of a majority of the minority.
 
 A controller that supplies only **one** protection gets nothing more than **burden-shifting** within entire fairness — the Kahn v. Lynch rule, undisturbed.
 
@@ -90,6 +90,6 @@ The same facts under § 144(b) come out differently: the disinterested vote alon
 2. **Dropping element (iii).** The committee must be able to select its own advisors **and to say no definitively**. Negotiating authority alone is not enough. Tesla 2 failed more basically, with no special committee at all.
 3. **Confusing burden-shifting with standard-shifting.** One protection shifts the burden inside entire fairness. Both change the standard to business judgment.
 4. **Ignoring ab initio.** A majority-of-the-minority condition added late buys nothing under MFW. Say why: it becomes a deal-closer rather than a constraint on price.
-5. **Applying Corwin to a controller buyout.** Corwin is expressly limited to transactions not subject to entire fairness. Order the analysis: controller first, then MFW or § 144; no controller, then Corwin.
+5. **Applying Corwin to a controller buyout.** <u>Corwin is expressly limited to transactions not subject to entire fairness.</u> Order the analysis: controller first, then MFW or § 144; no controller, then Corwin.
 6. **Treating the six elements as a balancing test.** The holding is "if and only if," and a conceivable pleading that any single element failed defeats dismissal.
 7. **Forgetting that an effective protection can still fail.** A triable issue about whether an established protection was **effective** sends the case to an entire fairness trial, not merely to a burden shift.

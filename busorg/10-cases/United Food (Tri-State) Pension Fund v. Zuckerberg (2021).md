@@ -102,6 +102,8 @@ The committee — chaired by Desmond-Hellman, with Andreessen and Bowles — neg
 *(Montgomery-Reeves, J.)*
 
 - The opinion's central insight is historical. Aronson's second prong was a proxy: in 1984, doubt about business judgment review implied care exposure. § 102(b)(7) broke the proxy, so the test now asks about exposure directly.
+	- Second prong of Aronson: allowed plaintiffs to excuse demand if they raised a reasonable doubt that a transaction was a valid exercise of business judgment.
+		- 102(b)(7) made it so that that plaintiffs needed to plead non-exculpated breach
 - Board turnover supplies the second reason. Aronson asks about the board that **made the decision**; Rales asks about the board that must **consider the demand**. With two directors who were not present for the vote, the Aronson frame does not fit, and the Chancery synthesis resolves it by making Rales the general test.
 - The adoption is framed as continuity rather than change — "cases properly applying those holdings remain good law" — which preserves the accumulated case law while replacing the frame.
 - On independence the court is exacting about what an allegation must contain: not that a relationship exists, but that something was expected in return, or that the benefit was material to the director.
@@ -113,9 +115,9 @@ The committee — chaired by Desmond-Hellman, with Andreessen and Bowles — neg
 
 ### Cold-call notes
 
-- **Have the three prongs verbatim and in order.** Material personal benefit; substantial likelihood of liability; lack of independence from someone in either category. Director by director, against the **demand board**.
-- **The most likely follow-up is why Aronson needed fixing.** Two reasons: § 102(b)(7) severed the link between losing business judgment review and facing liability, and Aronson fails where the board has turned over.
-- **Know the exculpation consequence.** A care claim at a company with a § 102(b)(7) provision cannot excuse demand. This is the same fact that pushes plaintiffs toward [[Oversight liability - Caremark and good faith|oversight]] and loyalty theories.
+- **Have the three prongs verbatim and in order.** Material personal benefit; substantial likelihood of liability; lack of independence from someone in either category. Director by director, against the **demand board** (board at time of complaint filing)
+- **The most likely follow-up is why Aronson needed fixing.** Two reasons: § 102(b)(7) severed the link between losing business judgment review and facing liability (via exculpation), and Aronson fails where the board has turned over.
+- **Know the exculpation consequence.** <u>A care claim at a company with a § 102(b)(7) provision cannot excuse demand.</u> This is the same fact that pushes plaintiffs toward [[Oversight liability - Caremark and good faith|oversight]] and loyalty theories.
 - **Be ready to line this up against Marchand.** Same question, opposite results. Rankin owed his career and a building to the Kruse family; Bowles was collegial and grateful. Debt versus warmth.
 - **The memorable facts** are the $522 million Google settlement the lawyers flagged in advance, and Bowles telling Zuckerberg he was "proud to be a small part of [his] life."
 - **Numbers:** $2–3 billion a year planned, $3–4 billion of headroom, $522 million Google settlement, nine-member demand board, two directors who joined after the vote.

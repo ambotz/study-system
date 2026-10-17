@@ -33,7 +33,7 @@ Post-SB 21, a controlling stockholder transaction "may not be the subject of equ
 
 Any **one** of three suffices.
 
-**(b)(1) — committee.** The material facts as to the transaction, "including the controlling stockholder's or control group's interest therein," are disclosed to or known by **all members** of a committee of the board "to which the board of directors has expressly delegated the authority to **negotiate (or oversee the negotiation of) and to reject**" the transaction; and the transaction is approved or recommended "in good faith and **without gross negligence** by a majority of the disinterested directors then serving on the committee"; and the committee "consists of 2 or more directors, each of whom the board of directors has determined to be a disinterested director."
+**(b)(1) — committee.** The material facts as to the transaction, "including the controlling stockholder's or control group's interest therein," are disclosed to or known by **all members** of a committee of the board "to which the board of directors has expressly delegated the authority to **negotiate (or oversee the negotiation of) and to reject**" the transaction; and the transaction is approved or recommended "in good faith and **without gross negligence** by a majority of the disinterested directors then serving on the committee"; and the committee "consists of 2 or more directors, <u>each of whom the board of directors has determined to be a disinterested director.</u>"
 
 *The power to **reject** is the operative word.* A committee that can negotiate but not walk away is not a § 144(b)(1) committee.
 
@@ -49,12 +49,22 @@ Only two routes, and the first requires **both** protections: approval "in accor
 
 **This is MFW, codified — and confined to going private.** Delaware kept the two-prong requirement exactly where the squeeze-out risk is greatest and relaxed it everywhere else.
 
-**§ 144(e)(6) — what counts as going private.** For a company with equity securities subject to § 12(g) or § 15(d) of the Exchange Act or listed on a national exchange, a **Rule 13e-3 transaction**. For any other corporation, any controller transaction under which "all or substantially all of the shares of the corporation's capital stock held by the disinterested stockholders (but not those of the controlling stockholder or control group) are cancelled, converted, purchased, or otherwise acquired or cease to be outstanding."
+
+§ 144(e)(2) — Controlling stockholder defintion:
+
+a. Owns or controls a majority in voting power of the outstanding stock of the corporation entitled to vote generally in the election of directors or in the election of directors who have a majority in voting power of the votes of all directors on the board of directors;
+
+b. Has the right, by contract or otherwise, to cause the election of nominees who are selected at the discretion of such person and who constitute either a majority of the members of the board of directors or directors entitled to cast a majority in voting power of the votes of all directors on the board of directors; or
+
+c. Has the power functionally equivalent to that of a stockholder that owns or controls a majority in voting power of the outstanding stock of the corporation entitled to vote generally in the election of directors by virtue of ownership or control of at least one-third in voting power of the outstanding stock of the corporation entitled to vote generally in the election of directors or in the election of directors who have a majority in voting power of the votes of all directors on the board of directors and power to exercise managerial authority over the business and affairs of the corporation.
+
+
+**§ 144(e)(6) — what counts as going private.** For a company with equity securities subject to § 12(g) or § 15(d) of the Exchange Act of 1934 or listed on a national exchange, a **Rule 13e-3 transaction**. For any other corporation, any controller transaction under which "all or substantially all of the shares of the corporation's capital stock held by the disinterested stockholders (but not those of the controlling stockholder or control group) are cancelled, converted, purchased, or otherwise acquired or cease to be outstanding."
 
 ### Who is protected, and who is not
 
 - The safe harbour runs to **directors, officers, the controlling stockholder, and members of a control group**.
-- **§ 144(d)(5)** independently limits a controller's monetary liability *in that capacity* to breaches of the duty of loyalty; acts not in good faith, involving intentional misconduct, or a knowing violation of law; and transactions producing an improper personal benefit. A controller-level analogue of [[Charter exculpation of director liability|§ 102(b)(7)]] — but statutory, not adopted by charter.
+- **§ 144(d)(5)** independently limits a controller's monetary liability *in that capacity* to breaches, except for breach of of the duty of loyalty, acts not in good faith, involving intentional misconduct, or a knowing violation of law; and transactions producing an improper personal benefit. A controller-level analogue of [[Charter exculpation of director liability|§ 102(b)(7)]] — but statutory, not adopted by charter.
 - **§ 144(d)(7)** counts shares for a § 251(h) tender offer: shares irrevocably accepted are deemed voted **in favour**, and disinterested shares not tendered are deemed voted **against**.
 
 ## Standard of review / burden
@@ -74,7 +84,7 @@ Only two routes, and the first requires **both** protections: approval "in accor
 
 - **§ 144(d)(6) savings clauses**, which survive any safe harbour. Nothing in (a), (b) or (c) limits: the right to seek equitable relief that the transaction "was not authorized or approved in compliance with the procedures set forth in this chapter," with the charter or bylaws, or with a governmental order; **injunctive review of anti-takeover devices** "designed or intended to deter, delay, or preclude a change of control"; or claims that a person "knowingly **aided and abetted** a breach of fiduciary duty."
 - **The definitional gateway.** § 144(e)(2) requires majority voting power, a right, "by contract or otherwise," to elect a board majority, or **at least one-third** of voting power **plus** managerial authority. A blockholder below that floor is not a controller, so none of this applies — see [[Controlling stockholder transactions - the self-dealing trigger]].
-- **Control groups.** § 144(e)(1) reaches two or more non-controllers who, "by virtue of an agreement, arrangement, or understanding," together constitute a controlling stockholder.
+- **Control groups.** <u>§ 144(e)(1)</u> reaches two or more non-controllers who, "by virtue of an agreement, arrangement, or understanding," together constitute a controlling stockholder.
 
 ## Leading case
 

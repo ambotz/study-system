@@ -120,11 +120,6 @@ In early March health authorities linked Kansas infections to Blue Bell's Texas 
 - On independence, the Court reasons from ordinary human experience rather than from formal criteria, quoting *Oracle*'s warning against "a reductionist view of human nature." The $450,000 building is treated as the capstone rather than the core; the core is a career.
 - The decision-specificity point is the most transferable holding in the case: suing someone "might plausibly endanger a relationship" in a way a governance vote does not.
 
-### Dissent / concurrence
-
-- None; unanimous.
-- The pressure point worth two lines: nearly every fact supporting the oversight inference is an **absence** — no committee, no protocol, no minutes entry. Proving a negative at the pleading stage is easy and proving it false is hard, so the decision gives plaintiffs a template that any board without a dedicated committee for its main risk will struggle to answer. The Court's answer is mission criticality, which limits the template to risks central to the business rather than to every risk a company faces.
-
 ### Cold-call notes
 
 - **Expect to be asked what distinguishes this from Caremark**, and answer structurally, not by degree. Caremark's board had a compliance committee, an audit plan, an outside auditor, a hotline and a compliance officer. Blue Bell's board had **nothing** on the one risk that mattered. Existence versus effectiveness is the vocabulary.

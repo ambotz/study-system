@@ -107,11 +107,6 @@ The campaign was never put to a formal board meeting. The directorate was small,
 - The closing note is a warning rather than a holding — the directors "have allowed themselves to be placed in a position where their motives concerning future decisions on radio advertising may be impugned," and "[t]he free mind should be ever jealous of its freedom."
 - On formality, the court is candid that regular procedure "is something more than what has, at times, thoughtlessly been termed red tape," while declining to impose liability for its absence.
 
-### Dissent / concurrence
-
-- None; single judge.
-- The tension worth two lines: the court finds the other directors did not know the president's wife would be paid until after they approved the campaign, and treats that as exonerating. It is equally an argument the other way — the disinterested directors approved without the material fact, which is the precise defect § 144(a)(1) now addresses by requiring the material facts to be "disclosed or... known to **all** members of the board."
-
 ### Cold-call notes
 
 - **The likely opening question** is what triggers the heightened scrutiny, and the answer is not self-dealing. Dreyfus took nothing. The trigger is a **close relation** whose advantage "might influence, consciously or unconsciously," the fiduciary's judgment. That is a structural test, and § 144(e)(8) now codifies it as "material relationship."

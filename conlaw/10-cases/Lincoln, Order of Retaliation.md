@@ -34,7 +34,6 @@ Lincoln's order of July 30, 1863 threatening retaliation on Confederate prisoner
   - Retaliation by torture or killing of prisoners in a modern conflict: modern law of war prohibits reprisals against prisoners of war; the 1863 order's authority depended on the law of war as it then stood, so the same legal theory would produce the opposite answer today.
   - Retaliation against enemy civilians: outside the order's terms, and the law-of-war rationale ("public enemies" in arms) does not reach them.
 - **What the order shows about the war power.** The Commander in Chief power is bounded by and enforced through the law of war. That connects Lincoln to *Hamdi v. Rumsfeld*, where detention of enemy combatants was upheld as part of the war power subject to limits, and it contrasts with *Korematsu v. United States*, where the war power was turned inward against citizens, the direction Jackson in [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]] treated as most dangerous.
-
 ## Where it goes
 
 - [[War powers - Art. I § 8 cl. 11 and the Commander in Chief]] — the conduct of war, the law of war as a limit, and Congress's Captures and Rules Clauses.

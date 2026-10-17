@@ -97,11 +97,6 @@ The business declined throughout. Headquarters closed in 2020, most employees we
 - The red-flag analysis is where the case is decided, and it turns on absence rather than degree. Not that the flags were small; that there were none, because nothing unlawful is alleged.
 - The closing framing places oversight where Caremark put it: reserved for "the extraordinary case" producing "a corporate trauma," not a remedy for ordinary commercial disappointment.
 
-### Dissent / concurrence
-
-- None.
-- Worth two lines on the other side: Segway's underlying grievance is real — more than $5 million of unreconcilable receivables, reported by an officer who was also the company's accountant, who then declined to help sort it out. The court's answer is that this describes a **care** claim, which Segway expressly abandoned. The case is therefore as much about pleading strategy as about oversight doctrine.
-
 ### Cold-call notes
 
 - **The likely question is why Segway lost**, and the best answer is one sentence: it pleaded loyalty when its facts described care, and loyalty requires bad faith it could not allege.

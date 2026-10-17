@@ -11,13 +11,12 @@ exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
-
 ## Rule statement
 
 Two questions, in order, and conflating them is the commonest error:
 
-1. **Is there a controller?** At common law, a stockholder owning more than 50% of voting power, or owning less but who "exercises control over the business affairs of the corporation."
-2. **Is the transaction self-dealing?** Fiduciary duty alone "will not evoke the intrinsic fairness standard." The standard applies only where the duty is accompanied by self-dealing — where the controller "receives something from the subsidiary **to the exclusion of, and detriment to**, the minority stockholders."
+1. **Is there a controller?** At common law, a stockholder owning more than 50% of voting power, or owning less but who "exercises control over the business affairs of the corporation." Post SB-21, this is defined under § 144(e)(2).
+2. **Is the transaction self-dealing?** Fiduciary duty alone "will not evoke the intrinsic fairness standard." The standard applies only where the duty is accompanied by self-dealing — where the controller "receives something from the subsidiary **to the exclusion of, and detriment to**, the minority stockholders." Post SB-21 this is defined under § 144(e)(3).
 
 A controller can dominate completely and still get business judgment review, provided value moves **proportionately**.
 
@@ -79,8 +78,7 @@ SB 21 replaces the open-ended inquiry above with definitions:
 
 - **Proportionality.** Value taken pro rata is not self-dealing however large, however motivated, and however dominated the board.
 - **No opportunity, no usurpation.** A corporate opportunity claim requires that the opportunity **came to** the subsidiary; allocating opportunities among subsidiaries is business judgment absent "gross and palpable overreaching."
-- **The safe harbours in § 144(b) and (c)** — new in SB 21 — supply statutory routes out for controller transactions, and are taken up with [[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]] in session
-  10. They will get their own module.
+- **The safe harbours in § 144(b) and (c)** — new in SB 21 — supply statutory routes out for controller transactions, and are taken up with [[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]] 
 - **A parent need not contract with its subsidiary at all**, but "[a]s Sinclair has received the benefits of this contract, so must it comply with the contractual duties."
 
 ## Leading case
@@ -99,10 +97,10 @@ The distinguishing line: **Sinclair shows that total control without disproporti
 
 ## Common trap
 
-1. **Collapsing the two questions.** Controller status and self-dealing are separate. Sinclair had status and lost the trigger on two claims; a fact pattern can supply a 60% holder and still get business judgment if the transaction is proportionate.
+1. **Collapsing the two questions.** Controller status and self-dealing <u>are separate.</u> Sinclair had status and lost the trigger on two claims; a fact pattern can supply a 60% holder and still get business judgment if the transaction is proportionate.
 2. **Arguing from the percentage alone.** 17.3% has been a controller and 23.1% has not. Citing that spread is the answer; picking a number is not.
 3. **Arguing the controller's motive.** Immaterial absent waste. Sinclair took $38 million over earnings because it needed cash, and won that claim.
-4. **Treating § 170 compliance as a defence to fiduciary duty.** It answers legality only.
+4. **Treating § 170 compliance as a defence to fiduciary duty.** It answers legality only. A dividend can be lawful (from surplus or net profits for the fiscal year) but still be a breach of fiduciary duty if its non-ratable (i.e., dividend only on the controller's class of stock.)
 5. **Forgetting the pleading posture.** Tesla 1 finds nothing; it holds control "reasonably conceivable." The consequence is entire fairness plus discovery, which is where these cases settle — so surviving dismissal is most of the game.
 6. **Missing the vote-exclusion problem.** Tesla's merger agreement excluded three people from the vote and left in four interested directors and every other SolarCity-owning holder. Post-SB 21 § 144(e)(5) now defines a **disinterested stockholder** for exactly this purpose.
 7. **Applying the common-law test to a post-March 2025 transaction.** § 144(e)(2) supplies a definition with a one-third floor. Establish which regime governs before running the analysis.

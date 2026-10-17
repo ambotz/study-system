@@ -53,7 +53,7 @@ The casebook's last war-initiation materials (pp. 322–325): the text of the Au
   - A strike killing a senior official of a foreign state's armed forces, with high retaliation risk: the second OLC factor weakens because escalation is foreseeable (Soleimani).
   - A months-long air campaign: OLC's own reservation that "prolonged and substantial engagements" may require authorization is triggered, and the WPR 60-day clock runs.
   - A ground invasion to remove a government: OLC's reasoning does not reach it; Panama 1989 is the executive's precedent, and it is contested.
-- **The Youngstown frame throughout.** Every episode here is external force, where Jackson gave the President his widest latitude. The limit comes from the Declare War Clause, not from the inward/outward line: outward force is where the President is strongest to command, but the Convention placed the decision to begin in Congress.
+- **The Youngstown frame throughout.** Every episode here is <u>external force</u>, where Jackson gave the President his widest latitude. The limit comes from the Declare War Clause, not from the inward/outward line: outward force is where the President is strongest to command, but the Convention placed the decision to begin in Congress.
 - **After the casebook (verified).** In December 2025 the National Defense Authorization Act for Fiscal Year 2026 repealed the 1991 Gulf War and 2002 Iraq AUMFs, removing the statutory basis claimed for the Soleimani strike. In June 2025 the United States struck Iranian nuclear facilities without congressional authorization, and on June 27, 2025 the Senate rejected a war powers resolution directed at further hostilities with Iran. None of these events is in either edition of the casebook.
 
 ## Where it goes

@@ -13,7 +13,7 @@ posture_drove_outcome: true
 
 ## Rule
 
-Entire fairness has two components, **fair dealing and fair price**, and the test is composite rather than bifurcated. But "[t]he paramount consideration ... is whether the price was a fair one" — "all roads in the realm of entire fairness ultimately lead to fair price." A defective process can be survived by a demonstrably fair price; a price within the range of fairness cannot rescue a process that was "beyond unfair."
+Entire fairness has two components, **fair dealing and fair price**, and the test is composite rather than bifurcated. But "[t]he paramount consideration ... is whether the price was a fair one" — "all roads in the realm of entire fairness ultimately lead to fair price." A defective process can be survived by a demonstrably fair price; a price within the range of fairness cannot rescue a process that was "beyond unfair." --> two aspects 'bleed' into each other.
 
 ## Facts
 
