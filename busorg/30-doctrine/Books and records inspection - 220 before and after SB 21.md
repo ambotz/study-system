@@ -23,6 +23,14 @@ A stockholder may inspect a Delaware corporation's books and records on a writte
 
 ## Elements
 
+### The two steps — demand under § 220(b), enforcement under § 220(c)
+
+- **Step one, the demand.** The stockholder makes a written demand under oath on the corporation. Form, manner and (post-SB 21) the § 220(b)(2) gates govern this step, and the corporation can comply voluntarily without any court involvement.
+- **Step two, the § 220(c) application.** Where the corporation refuses, or does not reply within **5 business days**, the stockholder applies to the **Court of Chancery**, which has **exclusive** jurisdiction. Section 220(c) is the enforcement vehicle, not the way to request records.
+- **Nature of the § 220(c) proceeding.** Summary, and to be "managed expeditiously."
+- **Burden in the § 220(c) proceeding.** On the corporation to establish an improper purpose for the stock ledger and stockholder list; on the stockholder for all other records.
+- **Who uses it.** Stockholders under § 220(c); directors have a separate inspection right under § 220(d).
+
 ### The pre-SB 21 structure
 
 **Threshold showing, by a preponderance of the evidence**, that the plaintiff:
@@ -43,27 +51,28 @@ Then, separately, that **each category of records is essential** to that purpose
 
 **§ 220(a)(1) — "books and records" is now a closed list of nine categories.**
 
-| | Category | Time limit |
-|---|---|---|
-| a | Certificate of incorporation, including agreements incorporated by reference | — |
-| b | Bylaws then in effect, including agreements incorporated by reference | — |
-| c | Minutes of stockholder meetings and signed consents | **3 years** |
-| d | Communications in writing or by electronic transmission to stockholders generally | **3 years** |
-| e | Minutes of board and committee meetings, and records of board and committee action | — |
-| f | Materials provided to the board or a committee **in connection with actions taken** | — |
-| g | Annual financial statements | **3 years** |
-| h | Any agreement entered into under § 122(18) | — |
-| i | Director and officer independence questionnaires | — |
+|     | Category                                                                                                     | Time limit  |
+| --- | ------------------------------------------------------------------------------------------------------------ | ----------- |
+| a   | Certificate of incorporation, including agreements incorporated by reference                                 | —           |
+| b   | Bylaws then in effect, including agreements incorporated by reference                                        | —           |
+| c   | Minutes of stockholder meetings and signed consents                                                          | **3 years** |
+| d   | Communications in writing or by electronic transmission to stockholders generally                            | **3 years** |
+| e   | Minutes of board and committee meetings, and records of board and committee action                           | —           |
+| f   | Materials provided to the board or a committee **in connection with actions taken**                          | —           |
+| g   | Annual financial statements                                                                                  | **3 years** |
+| h   | Any agreement entered into under § 122(18) (allows Corp. to make agreements with stockholders; *see Moelis*) | —           |
+| i   | Director and officer independence questionnaires                                                             | —           |
 
 **§ 220(b)(2) — three cumulative gates.** A stockholder may inspect "only if all of the following apply":
 
 - a. the demand is made **in good faith** and for a proper purpose;
-- b. the demand describes **with reasonable particularity** both the purpose and the records sought; and
+- b. the demand describes ==🟡**with reasonable particularity**== both the purpose and the records sought; and
 - c. the records sought are **specifically related** to that purpose.
 
 **§ 220(b)(3) — what the corporation may impose.** Reasonable restrictions on confidentiality, use or distribution; a condition that any information in the records "is deemed **incorporated by reference** in any complaint filed by or at the direction of the stockholder"; and **redaction** of portions "not specifically related to the stockholder's purpose."
+	The incorporation condition makes the produced information part of the complaint. The court may read the produced records against the complaint's allegations, so a plaintiff cannot plead from selected excerpts.
 
-**§ 220(e), (f), (g) — the scope ceiling and the two escape hatches.**
+**§ 220(e), (f), (g) — the scope ceiling and the two escape hatches.** (§220f and §220g)
 
 | | |
 |---|---|
@@ -103,6 +112,7 @@ Then, separately, that **each category of records is essential** to that purpose
 - **Electronic records count.** Section 224 recognises records kept in "any information storage device," and limiting books and records to paper "could cause Section 220 to become obsolete or ineffective." Records held in a personal email account remain corporate records: "rights of shareholders secured by § 220 cannot be defeated simply by having another entity hold the records." Post-SB 21 this material is outside (a)(1) and runs through (g).
 - **Subsidiary records** are reachable where the corporation has actual possession and control, or could obtain them through control, subject to the two provisos in § 220(b)(2)b. (pre) and § 220(b)(1)b. (post).
 - **§ 220(b)(4) savings clause (post-SB 21).** The section does not affect a stockholder's discovery rights in litigation with the corporation, nor a court's independent power to compel production — though for (a)(1) records demanded by a stockholder, the (b) requirements must still be met.
+	- § 220(b) governs inspection <u>before</u> litigation ensues
 - **The tools at hand.** Section 220 is the front door to a derivative suit. The Delaware Supreme Court's practice of directing plaintiffs to use the "tools at hand" before pleading demand futility makes a § 220 demand effectively a precondition to a well-pleaded complaint. See [[Demand futility - Rule 23.1 and the Zuckerberg test]].
 
 ## Leading case

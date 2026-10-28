@@ -56,6 +56,7 @@ A court deciding a case must treat the Constitution as "a superior, paramount la
 - **Remedy.** The laws afford one. "The very essence of civil liberty certainly consists in the right of every individual to claim the protection of the laws, whenever he receives an injury."
 - **Mandamus is the proper writ.** It lies for a duty "not depending on executive discretion," whatever the respondent's "exalted station." "This, then, is a plain case for a mandamus."
 - **But not from this Court.** Mandamus "to an officer for the delivery of a paper" is original, not appellate, so § 13 is "not . . . warranted by the constitution."
+	- The Judiciary Act of 1789, which gives Marbury a jurisdictional hook, is unconstitutional.
 - **An unconstitutional statute cannot be applied.** "[A] law repugnant to the constitution is void; and . . . courts, as well as other departments, are bound by that instrument." "The rule must be discharged."
 
 **Marshall, C.J., for the Court**
@@ -64,14 +65,14 @@ A court deciding a case must treat the Constitution as "a superior, paramount la
 - **Right.** Appointing (§ 2) and commissioning (§ 3) sit in "two separate and distinct sections of the constitution"; after the signature the Secretary's duties are fixed by law, and sealing and recording are "a ministerial act."
 - **Remedy.** "The government of the United States has been emphatically termed a government of laws, and not of men." Examinability "must always depend on the nature of that act," and "[t]he question whether a right has vested or not, is, on its nature, judicial."
 - **Section 13 and Article III.** The Secretary of State "is precisely within the letter of the description," so if the writ cannot issue "it must be because the law is unconstitutional." Free reapportionment would leave the clause "mere surplusage" and "form without substance."
-- **Judicial review.** The legislature's powers "are defined, and limited; and that those limits may not be mistaken, or forgotten, the constitution is written." Four texts: the judicial power over cases "arising under the constitution"; the two-witness rule, "addressed especially to the courts"; the judicial oath, "worse than solemn mockery" otherwise; and the Supremacy Clause's "in pursuance" language.
+- **Judicial review.** The legislature's powers "are defined, and limited; and that those limits may not be mistaken, or forgotten, the constitution is written." Four texts: the judicial power over cases "arising under the constitution" (Art. 3, Sec. 2) is language prescribed to courts specifically; the two-witness rule "addressed especially to the courts" (Art. 3, Sec. 3); the judicial oath, "worse than solemn mockery" otherwise; and the Supremacy Clause's "in pursuance" language.
 
 ## Arguments rejected
 
 - *The appointment was incomplete until the commission was delivered and accepted.* Transmission "is a practice directed by convenience, but not by law."
 - *Delivering or withholding a commission is a political act for the executive alone.* An officer charged by law with a duty on which rights depend "cannot at his discretion sport away the vested rights of others."
 - *An order to a cabinet officer intrudes into the cabinet and intermeddles "with the prerogatives of the executive."* The Court disclaims such jurisdiction as "[a]n extravagance, so absurd and excessive," but this case concerns "a paper, which, according to law, is upon record."
-- *Article III's original-jurisdiction clause has no negative words, so Congress may add cases within the judicial power* (argued "at the bar"). "[A]ffirmative words are often, in their operation, negative of other objects than those affirmed." Nor is the writ appellate: appellate jurisdiction "revises and corrects the proceedings in a cause already instituted."
+- *Article III's original-jurisdiction clause has no negative words, so Congress may add cases within the judicial power* (argued "at the bar"). "<u>[A]ffirmative words are often, in their operation, negative of other objects than those affirmed.</u>" Nor is the writ appellate: appellate jurisdiction "revises and corrects the proceedings in a cause already instituted."
 - *A statute beyond Congress's power still binds the courts, which must "close their eyes on the constitution, and see only the law."* That reduces to nothing "the greatest improvement on political institutions—a written constitution."
 
 ## Where it sits
@@ -99,14 +100,56 @@ A court deciding a case must treat the Constitution as "a superior, paramount la
 **Note 3. "Did the Act purport to confer 'original jurisdiction' . . . whenever someone seeks a writ of mandamus? Or . . . [is] mandamus a writ the Court may grant as a remedy?"**
 
 - The second is better: the clause sits in § 13's appellate sentence, after the remedial grant of "writs of prohibition to the district courts," so Marbury loses on the statute and judicial review never arises.
+- Instead, Marshall read § 13's mandamus clause as a freestanding grant of original jurisdiction to the Court. It authorized mandamus "to any courts appointed, or persons holding office, under the authority of the United States," and Marshall applied it to the Secretary of State. That reading created the conflict with Article III's closed list of original jurisdiction, so he held § 13 void. He did not treat the mandamus clause as confined to the appellate sentence.
+	- § 13 was used as a jurisdictional hook to bring Marbury's case
 
 **Note 4. "Is he right that Congress may not increase the Supreme Court's original jurisdiction? Is there any other plausible reading?"**
 
-- Exclusive both ways, or the distribution is "form without substance." The rival reading is a floor: those cases are guaranteed a forum, not a ceiling.
+- Exclusive both ways, or the distribution is "form without substance." The rival reading is a floor: those cases are guaranteed a forum, not a ceiling as to what SCOTUS has original jurisdiction over.
 
 **Note 5. "Is Marbury's argument one of judicial supremacy over the other branches, or of the Constitution's supremacy over all of them?"**
 
-- The live one; subparts (a)–(e) run it against the President, Congress and the states. "[C]ourts, as well as other departments, are bound by that instrument" is the departmentalist reading, and Marbury's first half is itself review of executive action.
+- **Overall answer.** The major premise (the Constitution prevails over any contrary government act) and the minor premise (no branch is bound by another branch's constitutional views) yield review of Congress by the courts, review of the President by the courts, and review of Congress by the President. They do not yield judicial supremacy, because the minor premise binds the Court as much as it frees it. The step to supremacy is [[Cooper v. Aaron (1958)|Cooper v. Aaron]]'s, taken in 1958 in dictum.
+- **Textual bridge to the other branches.** "Those who apply the rule to particular cases, must of necessity expound and interpret that rule" ties interpretation to application, so any officer who applies the Constitution in his own function interprets it. Marshall's closing line, "courts, as well as other departments, are bound by that instrument," names the Constitution, not the Court, as the supreme authority.
+
+**(a) Unconstitutional acts of the President**
+
+- **Yes, and Marbury's first half does it.** Madison's withholding of the commission is "violative of a vested legal right," and the Court says so before declining jurisdiction.
+- **The limit Marshall draws is discretion.** "Questions, in their nature political, or which are, by the constitution and laws, submitted to the executive, can never be made in this court." Review reaches ministerial duties on which individual rights depend, not the President's own discretion.
+- **Both edges of that line recur.** [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]] (Black, J.) voids a seizure the President ordered without statutory authority. [[United States v. Nixon (1974)|United States v. Nixon]] (Burger, C.J.) cites Marbury's "province and duty" line to reject the President's claim to define his own privilege. [[Trump v. United States (2024)|Trump v. United States]] (Roberts, C.J.) cites Marbury for the converse: courts have "no power to control [the President's] discretion" over conclusive and preclusive powers.
+- **Remedy gap.** Marshall found a right and a remedy and issued no order, so Jefferson had nothing to defy.
+
+**(b) Presidential duty to disregard unconstitutional statutes**
+
+- **The logic transfers.** The President's own oath (Art. II, § 1, cl. 8) is to "preserve, protect and defend" the Constitution, and the minor premise needs nothing judge-specific. Each officer swears to support the Constitution "as he understands it, and not as it is understood by others" ([[Jackson, Veto Message on the Bank]]).
+- **Capacity matters.** Jackson claims independence only "when acting in their legislative capacities," as in a veto. Refusing to execute an enacted statute is harder because of Take Care ("the Laws be faithfully executed") and the suspending-and-dispensing objection ([[Enforcement discretion - Art. II § 3 Take Care]]).
+- **Strongest case for refusal: the statute invades a power the Constitution gives the President alone.** Jefferson halted Sedition Act prosecutions and pardoned those convicted on his own constitutional judgment ([[The Lincoln-Douglas Debates]]). Prosecuting and pardoning are his powers, so no one else's judgment was displaced.
+- **Weaker case: a statute that merely restricts him.** In [[Obama, Statement on H.R. 1473]] the President signs, objects to §§ 1112–13 and announces no refusal, then says of § 2262 that the executive "will construe section 2262 not to abrogate" his prerogatives. That construction is nonenforcement under another name.
+- **Counterargument.** A statute is a "Law" under Take Care. If the President may decline whatever he thinks unconstitutional, a statute binds him only until he disagrees.
+
+**(c) President facing a judicial decision he thinks unconstitutional**
+
+- **Three positions.** Opinion supremacy (Douglas; Cooper)—Court reasoning is binding and controls all future actions, judgment supremacy (Lincoln in 1858; Baude)—Only Court's decision is binding so Court controls the parties at hand, but not anything further, and executive coordinacy reaching judgments (Paulsen; Lincoln's administration in [[Ex parte Merryman (1861)|Ex parte Merryman]]) ([[Judicial supremacy and departmentalism - Art. VI oath]])—the decision is not binding.
+- **Hypothetical: *Dred Scott*.** Lincoln accepts the judgment as to Dred Scott ("we, as a mob," will not decide him free) but rejects the opinion as a political rule binding Congress and the President, so he signs the 1862 territorial ban.
+- **Hypothetical: *Merryman*.** Taney orders a detainee released. Lincoln does not comply, and Taney files his record and sends it to the President.
+- **Best answer.** The President must obey a judgment against the parties on every view but Paulsen's. He need not treat the opinion as binding on his own future legislative or executive judgments. Baude conditions obedience on the court having had jurisdiction.
+- **Marbury never tests this.** Marshall issued no order.
+
+**(d) Congress**
+
+- **Congress has an independent duty when it legislates.** Jackson's claim runs to the legislative capacity, and the Court's authority "must not . . . be permitted to control the Congress or the Executive" there.
+- **Congress's tools against the President:** impeachment (Bates: the President answers "before the high court of impeachment, and before no other human tribunal"), appropriations, advice and consent, and override ([[Bates, Opinion on the Suspension of Habeas Corpus]]).
+- **Congress's tools against the courts:** impeachment ([[The Impeachment of Justice Chase]]), Article III exceptions, Court size and Article V ([[Congressional control of the courts - Art. III jurisdiction and court size]]). The 1802 Repeal Act and [[Stuart v. Laird (1803)|Stuart v. Laird]] are Congress using these against Marshall's own Court.
+- **What Congress should do when the President or Court flagrantly violates the Constitution** is political. No court can compel it, and impeachment needs votes.
+- **Is Marbury's argument judicial supremacy or constitutional supremacy?** Constitutional supremacy. Marshall's reason for the Court's independence is that no branch is bound by another's reading, and that reasoning applies equally to the President and Congress. Supremacy needs a further premise that the Court's reading binds non-parties. Cooper supplies it, and the Art. VI oath does not: the oath names the Constitution as its object, not who expounds it.
+
+**(e) States**
+
+- **The logic does not carry over.** States are not coordinate departments of one government. Art. VI, cl. 2 sets a hierarchy and binds "the Judges in every State," and [[Martin v. Hunter's Lessee]] puts state-court judgments on federal questions under Supreme Court review.
+- **Cooper's line.** "No state legislator or executive or judicial officer can war against the Constitution without violating his undertaking to support it."
+- **Virginia and Kentucky rest on a different ground.** Madison and Jefferson grounded the States' independent judgment in the compact theory (the States as parties may judge infractions and "interpose"), not in the oath ([[Nature of the Union - compact theory, nationalism and secession]]).
+- **Speech versus resistance.** Declaring the Alien and Sedition Acts unconstitutional and appealing to sister States is political petition, and it is proper. Claiming a power to void the Acts within the State is the step that collides with the Supremacy Clause. Madison's own gloss was that interposition was declaratory, with no legal effect.
+- **The remedy the Acts' critics actually used was electoral.** Jefferson won in 1800, ended the prosecutions and pardoned the convicted.
 - The logic extends to Jackson on the Bank ([[McCulloch v. Maryland (1819)|McCulloch v. Maryland]]) and [[Obama, Statement on H.R. 1473]]; a defied judgment is Class 13, [[Cooper v. Aaron (1958)|Cooper v. Aaron]] against [[Ex parte Merryman (1861)|Ex parte Merryman]].
 
 **Note 6, with the notes after [[Stuart v. Laird (1803)|Stuart v. Laird]], covering both readings.** "Was the Court's decision a capitulation? . . . should the Court consider the risk to its institutional standing and authority?"

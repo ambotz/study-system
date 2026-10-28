@@ -23,7 +23,7 @@ A stockholder investigating wrongdoing under § 220 need show only a **credible 
 - The Committee "did not receive any materials that illustrated" how the interlocking vesting provisions, the six-month tail and the Specified Percentage would pay out under different departure scenarios — at any of the meetings. The compensation consequences "were not self-evident," so the absence of the modelling is what makes the approval uninformed.
 - The Committee approved the without-cause termination **by written consent without meeting**, on a resolution whose only recitation was that management had "discussed with the Committee the termination without cause." There is no evidence the Committee evaluated a for-cause alternative or saw a calculation of the severance.
 - The Committee did not discuss the **reasons** for the termination until February 27, six weeks after approving it.
-- A for-cause termination was potentially available: advertising revenue declined in every quarter after de Castro started, Mayer took his advertising team away from him within a year, and she later told the Committee he "still failed to correct or improve his performance." The without-cause characterisation cost $59.96 million.
+- A for-cause termination was potentially available: advertising revenue declined in every quarter after de Castro started, Mayer took his advertising team away from him within a year, and she later told the Committee he "still failed to correct or improve his performance." <u>The without-cause characterisation cost $59.96 million.</u>
 - Yahoo's production was limited to **board-level materials** and excluded documents Mayer reviewed that never went to the Board or a committee. The gap between what the fiduciary saw and what the board saw is the whole dispute about scope.
 - Amalgamated's demand attached account statements dated **three days before** the demand. *Argued and rejected — Section 220 requires documentation sufficiently proximate in time, not a same-day record.*
 - Yahoo has a § 102(b)(7) exculpatory provision. *Argued and rejected — exculpation does not foreclose an otherwise proper purpose.*
@@ -61,8 +61,9 @@ A stockholder investigating wrongdoing under § 220 need show only a **credible 
 The case is assigned between the two versions of the statute, and the comparison is the point of the session. Yahoo! states the pre-SB 21 law at its most stockholder-friendly, and **SB 21 adopted half of it and reversed the other half**.
 
 The half Delaware kept: the Incorporation Condition is now **8 Del. C. § 220(b)(3)**, and it belongs to the corporation as of right rather than to the court as a matter of discretion, alongside a matching right to redact portions "not specifically related to the stockholder's purpose."
+	If a document is referenced in a complaint, the whole production (including that document) is 'incorporated' into the complaint. The court treats the whole document as part of the pleading when it decides a motion to dismiss.
 
-The half Delaware reversed: the personal-email holding. Post-SB 21, "books and records" is the closed nine-category list in § 220(a)(1), emails and texts are not on it, and § 220(e) forbids the court from ordering anything else except through § 220(f) functional equivalents or § 220(g), which demands a **compelling need** proved by **clear and convincing evidence**. Run the same demand today and the board minutes and committee materials come out under (a)(1)e. and f.; the Mayer Documents become a § 220(g) fight. The full comparison is in [[Books and records inspection - 220 before and after SB 21]].
+The half Delaware reversed: the personal-email holding. Post-SB 21, "books and records" is the closed nine-category list in § 220(a)(1), emails and texts are not on it, and § 220(e) forbids the court from ordering anything else except through § 220(f) functional equivalents or § 220(g), which demands a **compelling need** proved by **clear and convincing evidence**. Run the same demand today and the board minutes and committee materials come out under (a)(1)e. and f.; the Mayer Documents become a § 220(g) fight. 
 
 Laster's analogy to Disney frames the whole opinion — "history may not repeat itself, but it often rhymes." Disney also involved a chief executive hiring a number two at munificent compensation, poor performance, and a no-fault termination after about a year conferring dynastic wealth where cause might have been available. Disney is also the procedural moral: the first complaint was dismissed for failure to plead demand futility, the Supreme Court called it "a very troubling case on the merits" and pointed the plaintiffs to the **"tools at hand"**, they took the hint, used § 220, and the amended complaint survived. Then the defendants won at trial anyway — which is why the credible basis standard is not a prediction about the merits.
 
@@ -90,7 +91,7 @@ Marissa Mayer became Yahoo's chief executive in July 2012. Henrique de Castro, t
 
 The Committee met again on September 23 with a term sheet, still without a name, and authorised further negotiation. On September 24 it met for thirty minutes, finally learned the candidate was de Castro, and approved an Original Offer Letter carrying a $600,000 base salary, a bonus targeted at 90% of base, a $1 million signing bonus, and three types of equity awards with a total target value of $56 million. The letter's without-cause provisions accelerated vesting through a six-month tail cut back by a Specified Percentage, with different mechanics for each award type. Nobody gave the directors any modelling of what those provisions paid out in any given scenario. The Committee delegated non-material changes to its chair, Maynard Webb, reserving material changes to itself.
 
-The full Board then met and received the same letter and nothing else. Mayer described de Castro's background, his Google role, his visa position, his reputation for ethics and integrity, and his insight into display advertising. Counsel summarised the economics in figures that did not match the letter, and Webb reported the Committee's approval and his own delegated authority. The Board approved resolutions authorising the letter "substantially in the form attached."
+The full Board then approved resolutions authorising the letter "substantially in the form attached."
 
 De Castro wanted more: acceleration on a twelve-month tail with no Specified Percentage cutback. At the October 13 Committee meeting Mayer described what the Committee had previously approved and described it incorrectly, suggesting that some of what de Castro was asking for was already in the deal. She said her concern about the larger termination payout "was less in the termination without cause scenario since that will be under her and the Board's control," and nobody examined the definition of cause in light of that remark. The Committee approved removing the Specified Percentage. Afterwards Mayer prepared the Final Offer Letter with additional changes that materially increased the package and that the Committee never saw.
 
@@ -104,13 +105,15 @@ Amalgamated had served its demand on February 24, seeking to investigate excessi
 
 - Whether documentary evidence of beneficial ownership dated three days before the demand satisfies § 220's form and manner requirements.
 - Whether Amalgamated established a credible basis to infer possible mismanagement in the hiring and firing of de Castro, and whether Yahoo's exculpatory charter provision defeats that purpose.
-- Whether email and other electronically stored documents, including material in a chief executive's personal account, are books and records subject to inspection.
+- Whether email and other electronically stored documents, including material in a chief executive's personal account, are books and records subject to inspection.**
 - Whether the court may condition production on the stockholder agreeing that the entire production is incorporated by reference in any derivative complaint.
 
 ### Holding
 
 - **On form and manner: satisfied.** Documentation must be sufficiently proximate in time to corroborate the averment of ownership, and recent brokerage statements do that.
+	- Amalgamated wasn't a recorded holder (attached documents 3 days old that proved it was a holder; but did not attach documents they day of)
 - **On proper purpose: established, on three grounds.** Credible bases exist to suspect breach of fiduciary duty in the hiring, breach in the firing, and waste, and investigating director disinterestedness and independence is independently proper. Exculpation does not foreclose any of them.
+	- Stockholder can use the facts supplied by this approved § 220 in a derivative suit complaint under Rule 23.1
 - **On scope: electronic records are included.** Books and records are defined by content, not by medium or custodian, so responsive material in Mayer's personal account must be produced.
 - **On conditions: the Incorporation Condition is imposed.** Production is conditioned on the entire production being deemed incorporated by reference in any derivative complaint on the subject matter of the demand, which changes no pleading standard.
 - **Disposition:** tailored production ordered within thirty days, subject to the condition.
@@ -137,12 +140,6 @@ Amalgamated had served its demand on February 24, seeking to investigate excessi
 - On exculpation, the court separates the **use** of the information from the **claim**. Because information supports proxy fights, resolutions and board engagement as well as litigation, an exculpatory charter cannot foreclose the purpose; and because § 102(b)(7) reaches directors only, the officer claim against Mayer survives regardless.
 - On electronic records, the reasoning is functional and anti-formalist: § 224 already contemplates electronic storage, over 90% of business documents are electronic, and a rule keyed to medium or custodian would let a corporation defeat the statute by choosing where to keep its files.
 - The Incorporation Condition is built out of the existing incorporation-by- reference doctrine rather than invented. That doctrine already stops a plaintiff from quoting a document and preventing the court from reading it; the condition extends the same logic to the rest of the production, and the opinion's long disclaimer about Rules 12(b)(6) and 23.1 is what keeps the extension from altering the pleading balance.
-
-### Dissent / concurrence
-
-- Single-judge Chancery opinion; no dissent.
-
-The condition does carry a real cost the opinion acknowledges only obliquely. Laster's closing instruction is that Amalgamated should plead "as if the Incorporation Condition had not been imposed" and that defendants must supply only the limited documents necessary to defeat a particular inference. That instruction is doing a great deal of work: the difference between a targeted rebuttal and a motion to dismiss argued across an entire production is judicial discipline rather than anything in the condition itself. Section 220(b)(3) has since made the condition a statutory entitlement of the corporation, without carrying that instruction along with it.
 
 ### Cold-call notes
 

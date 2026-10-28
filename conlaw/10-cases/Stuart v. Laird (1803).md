@@ -15,8 +15,6 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — The excerpt states neither the formal disposition nor that Marshall recused (he had decided the case below on circuit).
-
 ## Snapshot
 
 The Jeffersonian Congress repealed the Judiciary Act of 1801, abolishing sixteen life-tenured circuit judgeships and returning the Justices to circuit duty. It came up as a bond dispute: a new circuit court had entered judgment on a forthcoming bond given in a cause pending in the court Congress destroyed. The Court sustained the reorganization — Congress may create inferior tribunals and transfer causes among them, and practice since 1789 fixes that Justices may sit as circuit judges. The Appointments Clause and good-behaviour tenure went undiscussed.

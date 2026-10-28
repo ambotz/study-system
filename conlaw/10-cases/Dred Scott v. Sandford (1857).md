@@ -15,11 +15,11 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — The 4th ed. mislabels the Territories Clause as "Art. I, § 3" (p. 724); it is Art. IV, § 3. The 7–2 vote is inferred, as the excerpt gives no count.
+> Source check — The 4th ed. mislabels the Territories Clause as "Art. I, § 3" (p. 724); it is Art. IV, § 3. The 7–2 vote is inferred, as the excerpt gives no count.
 
 ## Snapshot
 
-Dred Scott, held as a slave in free Illinois and in territory where the Missouri Compromise barred slavery, sued the New York man who claimed him in federal court on diversity, for his family's freedom. The Court held that no person of African descent could be a "citizen" under Article III, so there was no jurisdiction, then voided the Compromise because the Fifth Amendment protected slave property there. Article III, § 2, Article IV, § 3 and the Due Process Clause are in play.
+Dred Scott, held as a slave in free Illinois and in territory where the Missouri Compromise barred slavery, sued the New York man who claimed him in federal court on diversity, for his family's freedom. The Court held that no person of African descent could be a "citizen" under Article III, so there was no jurisdiction, then voided the Compromise because the Fifth Amendment protected slave property there. Article III, § 2, Article IV, § 3 and the 5A Due Process Clause are in play.
 
 ## Issue
 
@@ -27,8 +27,8 @@ The casebook asks whether Congress could "prohibit slavery in . . . the territor
 
 - Can a free person of African descent be a State "citizen" under Article III?
 - Having found no jurisdiction, may the Court reach the merits?
-- Could Congress ban slavery at Fort Snelling, a question reached only after the citizenship holding?
-- Did Scott's Illinois residence free him on his return?
+- Could Congress ban slavery at Fort Snelling, a question reached only after the citizenship holding? (Is the Missouri Compromise Constitutional)
+- Did Scott's Illinois residence free him on his return (or did Missouri's slave law still apply to him)? Does IL law allowing, freeing Dred Scott, apply if he came back to Missouri?
 
 ## Rule
 
@@ -48,13 +48,14 @@ Now repudiated: no person of African descent whose ancestors were enslaved could
 - **Scott's lawyers filed a fresh federal suit as a citizen of Missouri, holding the state case open.** *Taney calls it "an attempt to evade the law," a direct writ of error being barred by § 25 of the Judiciary Act.*
 - **Sanford's plea in abatement rested only on Scott's African descent and his ancestors' enslavement; the Circuit Court rejected it and gave judgment for Sanford.** *The writ of error put the bare question of race and citizenship to the Court — Curtis: "this plaintiff has the right to the judgment of the court."*
 - **The Court heard argument twice, the second in 1856, and decided in March 1857.** *The reargument is where the case changed: Nelson's narrow draft was dropped once the dissenters signalled they would reach the Compromise.*
+- Missouri Compromise: admitted Missouri as a slave state, Maine as a free state, and banned slavery across the remaining Louisiana Purchase lands north of the 36°30′ parallel. 
 
 ## Holding and reasoning
 
 **Held** (7–2; Taney, C.J., for the Court; Wayne, Nelson, Grier, Daniel, Campbell and Catron, JJ., each writing separately; McLean and Curtis, JJ., dissenting)
 
 - **No citizenship, so no jurisdiction.** Descendants of imported slaves were "not included . . . under the word “citizens” in the Constitution."
-- **The merits are open.** An error "patent on the record" may be corrected, lest it "be drawn into precedent."
+- **The merits are open.** An error "patent on the record" may be corrected, lest it "be drawn into precedent." Taney is ruling on the merits (even if jurisdiction is not reach). Adivsory??
 - **The Missouri Compromise is void** — reached only after the citizenship holding, and a second ground for the same judgment: there was "no jurisdiction, when . . . the plaintiff was a slave, and not a citizen."
 - **Illinois residence did not free him.** His status on return "depended on the laws of Missouri, and not of Illinois."
 - **Disposition.** Judgment reversed, the suit "to be dismissed for want of jurisdiction."
@@ -67,6 +68,8 @@ Now repudiated: no person of African descent whose ancestors were enslaved could
 **Nelson, J., concurring**
 
 - Decides the Illinois question only: whether Missouri gives Illinois law effect "is a question for her to determine."
+- IL law may well have freed Scott in IL. Still, Missouri Court ruled Scott a slave, and they must be able to designed their own law.
+- Doesn't comment on Missouri Compromise. 
 
 **Curtis, J., dissenting**
 
@@ -110,7 +113,7 @@ Now repudiated: no person of African descent whose ancestors were enslaved could
 
 **Note 3. "How would you describe . . . Taney's interpretive method? Was it originalist? . . . Did [Curtis] think the Court followed the original meaning . . . too closely, or disregarded it?"**
 
-- Taney asks who was "in the minds of the framers," treating founding-era conduct as controlling against words that "would seem to embrace the whole human family" — expected application, not original meaning. Curtis asks what the words meant in law, and concludes that the Court disregarded it ([[Types of Constitutional Argument]]).
+- Taney asks who was "in the minds of the framers," treating founding-era conduct as controlling against words that "would seem to embrace the whole human family" — expected application (original intent), not original meaning. Curtis asks what the words meant in law, and concludes that the Court disregarded it ([[Types of Constitutional Argument]]).
 
 **Note 4. "The Court's decision produced the strongest and most sustained backlash against the authority of the Supreme Court's decisions in our nation's history."**
 

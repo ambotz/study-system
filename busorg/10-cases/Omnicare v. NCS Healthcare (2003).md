@@ -13,12 +13,12 @@ posture_drove_outcome: true
 
 ## Rule
 
-Deal protection devices adopted to lock up a merger are subject to **Unocal** enhanced scrutiny even where the merger works no change of control, and a combination of devices that makes a superior competing proposal mathematically impossible is preclusive and coercive, and therefore invalid regardless of how reasonable the board's process was.
+Deal protection devices adopted to lock up a merger are subject to **Unocal** enhanced scrutiny even where the merger works no change of control, and a combination of devices that makes a superior competing proposal mathematically impossible is preclusive and coercive, and therefore <u>invalid</u> regardless of how reasonable the board's process was.
 
 ## Facts
 
 - NCS was insolvent and in default on roughly $350 million of debt, including $206 million of senior bank debt and $102 million of convertible subordinated Notes. Full creditor recovery was remote and stockholder recovery seemed impossible. That baseline is what made the Genesis deal look like the only value-creating option available.
-- Genesis had previously lost a last-minute bidding war to Omnicare, and its bitterness over that loss drove its insistence on exclusivity and a "bulletproof" lock-up. The Independent Committee was told as much: Genesis "wanted to have a pretty much bulletproof deal or they were not going to go forward."
+- Genesis had previously lost a last-minute bidding war to Omnicare in a different transaction, and its bitterness over that loss drove its insistence on exclusivity and a "bulletproof" lock-up. The Independent Committee was told as much: Genesis "wanted to have a pretty much bulletproof deal or they were not going to go forward."
 - The merger agreement contained a § 251(c) force-the-vote provision requiring NCS to submit the agreement to stockholders **even if the board withdrew its recommendation**.
 - At Genesis's insistence the merger agreement omitted any effective fiduciary out clause.
 - Outcalt (chairman) and Shaw (chief executive), who between them held a majority of NCS's voting power, signed irrevocable voting agreements committing all their shares to the merger, granting Genesis an irrevocable proxy, and specifically enforceable by Genesis. NCS itself was required to be a party.
@@ -35,6 +35,11 @@ Deal protection devices adopted to lock up a merger are subject to **Unocal** en
 **Held**
 
 - A board's decision to adopt defensive devices protecting a merger agreement is reviewed under **Unocal**, not the business judgment rule, even where the merger itself works no change of control and therefore triggers no Revlon duty. Paramount v. Time settles that structural safety devices do not themselves trigger Revlon but are properly subject to Unocal.
+	- Unocal standards:
+		- 1. Legally cognizable threat to control or defensive device protecting a transaction (structural safety devices)
+		- 2. Reasonable response to the threat
+			- Draconian screen: preclusive or coercive? not reasonable 
+			- range of reasonableness depends on the specific nature of the threat, otherwise
 - Stockholder voting agreements are not immune from that review when they are inextricably intertwined with the board's defensive scheme. Genesis made the voting agreements a non-negotiable condition of the merger agreement, and NCS was required to be a party, so the voting agreements were the linchpin of a single tripartite defence and are scrutinised collectively.
 - Under Unocal's second stage the court asks first whether the devices are preclusive or coercive, and only if they are neither does the proportionality inquiry proceed. The analysis is **disjunctive**: either quality alone makes a measure draconian.
 - The devices were **coercive**. The public stockholders who held 80% of NCS and favoured Omnicare were forced to accept the Genesis merger, so any stockholder vote "would have been robbed of its effectiveness by the impermissible coercion that predetermined the outcome."
@@ -46,6 +51,8 @@ Deal protection devices adopted to lock up a merger are subject to **Unocal** en
 **Rejected**
 
 - *Revlon governed, because the board effectively sold the company.* The Court of Chancery held the stock-for-stock merger worked no change of control and that NCS never started an active bidding process, abandoning any sale effort when it signed the exclusivity agreement. The Supreme Court does not disturb that conclusion, resolving the case entirely under Unocal instead.
+	- Change of control: stockholders are cashed out or a new controlling stockholder emerges
+	- Still, since a structural device was in play, Unocal applies
 - *Voting agreements are private stockholder conduct and cannot be deal protection devices, because stockholders may vote their own interest.* True in isolation, but these agreements were demanded by the acquiror as a condition precedent to the merger, were executed simultaneously with it, made NCS a party, and were the element without which the other two devices gave Genesis nothing. Their legal character follows their function within the board's defensive scheme.
 - *The board acted in good faith on a reasonable investigation and faced a real threat of losing the only deal available.* The first Unocal stage was satisfied; the case is decided at the second. A preclusive or coercive response is outside the range of reasonableness however well-founded the threat.
 - *Genesis bargained for certainty and Delaware should honour the contract.* The protection of a counterparty's contractual expectations "must yield to the supervening responsibility of the directors to discharge their fiduciary duties on a continuing basis," and a sophisticated counterparty that demands unreasonable terms from a board acting in violation of its duties acquires no vested rights in them.
@@ -56,7 +63,7 @@ Omnicare is the far end of the deal protection spectrum, and everything interest
 
 Statutory update worth noting. The force-the-vote authority Omnicare calls § 251(c) now lives in **8 Del. C. § 146**, added in 2003, which lets a board submit a matter to stockholders notwithstanding a later withdrawal of its recommendation. Nothing in the 2003 amendment disturbs the holding, but a current answer should cite § 146 rather than § 251(c).
 
-The relationship to [[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes]] is the structural point. Revlon and Omnicare both enjoin lock-ups and both apply Unocal, but they get to Unocal by different routes. Revlon reaches it because the company was being sold, so price was the only cognisable objective; Omnicare reaches it because defensive devices always get enhanced scrutiny, sale or no sale. That is why Omnicare matters more in practice: it governs the ordinary strategic merger where Revlon is nowhere in sight.
+The relationship to [[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes]] is the structural point. Revlon and Omnicare both enjoin lock-ups and both apply Unocal, but they get to Unocal by different routes. Revlon reaches it because the company was being sold, so price was the only cognisable objective; Omnicare reaches it because defensive devices always get enhanced scrutiny, sale or no sale. <u>That is why Omnicare matters more in practice</u>: it governs the ordinary strategic merger where Revlon is nowhere in sight.
 
 The relationship to [[Kahn v. M&F Worldwide (2014)|Kahn v. M&F Worldwide]] and [[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]] runs through the franchise. All three cases turn on whether the minority stockholders had a real choice. MFW rewards a controller who genuinely disables itself; Corwin defers to a vote that was fully informed and uncoerced; Omnicare condemns a structure in which the vote was predetermined before it was taken. A vote that cannot change anything cleanses nothing, which is the through-line.
 
@@ -72,7 +79,7 @@ The dissents are unusually important. Two of the five justices, including the Ch
 
 ### Posture
 
-- Omnicare, a disappointed competing bidder, sought to enjoin the NCS–Genesis merger; NCS stockholders brought parallel fiduciary claims.
+- Omnicare, a disappointed competing bidder, sought to enjoin the NCS–Genesis merger; NCS stockholders brought parallel fiduciary claims (likely direct claims).
 - The Court of Chancery declined to enjoin, finding the deal protections reasonable and proportionate under Unocal. The Delaware Supreme Court reversed, 3–2.
 - The 3–2 split is itself a fact about the case. The Delaware Supreme Court rarely divides, and both dissenters wrote separately.
 

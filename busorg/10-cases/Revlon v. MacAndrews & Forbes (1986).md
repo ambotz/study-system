@@ -13,19 +13,44 @@ posture_drove_outcome: true
 
 ## Rule
 
-Once the break-up of the company is inevitable and the board has recognised that the company is for sale, the board's duty shifts from preserving the corporate entity to **maximising the price stockholders receive**, and a defensive measure that ends an active auction on an insubstantial basis cannot survive Unocal scrutiny.
+Once the break-up of the company is <u>inevitable</u> and the board has recognised that the company is for sale, the board's duty shifts from preserving the corporate entity to **maximising the price stockholders receive**, and a defensive measure that ends an active auction on an insubstantial basis cannot survive Unocal scrutiny.
 
+Unocal: (1) Threat on reasonable grounds and (2) proportionate response.
+
+Revlon: Once it become clear that the threat is inevitable to stop, the only thing proportional response left is to do is get the 'best value reasonably available'
+
+Ways to bring a Revlon Claim
+
+| Route                                        | How it works                                                                                                                                                                                                                                                     |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pre-closing injunction (the main remedy)** | _Revlon_ and _Unocal_ are "primarily designed to give stockholders and the Court of Chancery the tool of injunctive relief... in real time, before closing." Exculpation covers damages only, so it doesn't block this. Post-SB 21, § 144(d)(6)(b) preserves it. |
+| **Damages, pleaded as loyalty**              | The paradigm claim is "a conflicted fiduciary who is insufficiently checked by the board and who tilts the sale process toward his own personal interests." Loyalty claims aren't exculpated.                                                                    |
+| **Damages, pleaded as bad faith**            | The _Lyondell_ theory above.                                                                                                                                                                                                                                     |
+**Direct, not Derivative**: Revlon claims are direct claims, since the Company doesn't exist anymore. A claim that the sale price was too low is an injury to the stockholders' recovery, and the stockholders would receive any remedy under *Tooley*. So: no demand futility would apply. 
 ## Facts
 
+- Defensive measures before Pantry Pride's hostile measures conducted by Revlon: (1) repurchase of outstanding shares and (2) Note Purchase Rights Plan --> These were targeted at Revlon continuing to keep control.
 - Pantry Pride's bids climbed from $47.50 to $50 to $53 to $56.25 to $58, each in cash for any and all shares. The escalation is what made the break-up of Revlon inevitable and moved the case out of ordinary defensive territory.
-- On September 24 the Revlon board authorised management to negotiate a merger or buyout with other parties. That authorisation was the board's own recognition that Revlon was for sale, and it is the fact that triggers the change in duty.
-- Revlon's exchange offer had issued Notes whose covenants limited additional debt, asset sales and dividends unless the independent directors waived them. Announcement of the Forstmann merger and the impending waiver dropped the Notes from roughly par to 87.50, producing a "deluge" of calls from irate noteholders and reported threats of litigation.
+- On September 24 the Revlon board authorised management to negotiate a merger or buyout with <u>other parties</u>. That authorisation was the board's own recognition that Revlon was for sale, and it is the fact that triggers the change in duty.
+- Revlon's exchange offer had issued Notes whose covenants limited additional debt, asset sales, and dividends unless the independent directors waived them. Announcement of the Forstmann merger and the impending waiver dropped the Notes from roughly par to 87.50, producing a "deluge" of calls from irate noteholders and reported threats of litigation.
 - The October 12 lock-up option let Forstmann buy the Vision Care and National Health Laboratories divisions for $525 million, **$100–$175 million below** the value Lazard Freres ascribed to those divisions, exercisable if any other acquiror obtained 40% of Revlon's shares. The below-value price is what made the option auction-ending rather than auction-inducing.
 - Forstmann had twice been given access to Revlon financial data that Pantry Pride was denied, along with management cooperation and exclusive access to the board. The two bidders were not negotiating on equal terms.
 - Forstmann's $57.25 exceeded Pantry Pride's $56.25 by one dollar on its face, and by less than that once discounted for the delay to closing. The auction was ended in exchange for very little actual improvement in price.
 - In return for the lock-up, Forstmann agreed to support the Notes at par by an exchange of new notes. The directors thereby extinguished their own exposure to a class of creditors, which the court identifies as the principal benefit the transaction produced.
-- The Rights Plan was adopted against a $45 bid that Lazard Freres advised was grossly inadequate, and the Plan drove the bidding from $42 to an eventual $58. *Argued and upheld — valid when adopted, and mooted by the October 3 and October 12 redemption resolutions.*
+	- The court held a lock-up is lawful when it draws a bidder into a contest and unlawful when it ends one. This one ended the auction, because Forstmann was already in the contest on a preferred basis and the price was well below value.
+	- Forstmann agreed to support the Notes at par. That protected the directors from noteholder claims, which the court identified as the main benefit of the deal, and that is why it was a loyalty problem.
+- The Rights Plan was adopted against a $45 bid that Lazard Freres advised was grossly inadequate, and the Plan drove the bidding from $42 to an eventual $58. *Argued and upheld — valid when adopted, and mooted by the October 3 and October 12 redemption resolutions.
+	- **Note Purchase Rights Plan (the poison pill).**
+	    - Each share carried a right to exchange a common share for a $65 one-year note at 12%.
+	    - The trigger was 20% beneficial ownership, and the acquiror couldn't use the right.
+	    - The board could redeem the rights for ten cents before the trigger.
+	    - It worked: it drove the bidding from $42 to $58, which the court called the proper result of a pill. The board's later decision to redeem the rights mooted it.*
 - The self-tender exchange offer for 10 million shares was adopted against a $47.50 bid the board reasonably concluded was grossly inadequate. *Argued and upheld under Unocal.*
+	-  **Self-tender exchange offer.**
+	    - Revlon offered to swap each tendered share for a $47.50 Senior Subordinated Note at 11.75%, plus a tenth of a share of $9 preferred stock.
+	    - 87% of shares were tendered, and Revlon took 10 million pro rata.
+	    - The Notes' covenants limited new debt, asset sales and dividends unless the independent directors waived them. Those covenants stood in Pantry Pride's way, and later became the noteholder problem.
+	    - Authority was § 160(a), and the court held it a proper Unocal response to a grossly inadequate bid.
 - The noteholders' rights were fixed by contract, and the Notes covenants expressly contemplated a waiver to permit a sale of the company at a fair price. *Argued and rejected — the holders accepted that market risk when they took the Notes, so nothing remained for Revlon to protect.*
 
 ## Court Ruling
@@ -35,7 +60,7 @@ Once the break-up of the company is inevitable and the board has recognised that
 - Adoption of the Rights Plan was a valid defensive measure. The board acted in good faith and on reasonable investigation against a price it reasonably found grossly inadequate, and far from being a showstopper the Plan spurred the bidding to new heights. The Plan's continued usefulness was mooted once the board resolved to redeem the Rights in connection with any cash proposal at $57.25 or more.
 - The company's own exchange offer for 10 million shares was likewise a proper Unocal response to a grossly inadequate bid, supported by the board's specific authority to deal in its own stock under 8 Del. C. § 160(a).
 - When Pantry Pride raised its bid to $50 and then $53, the break-up of Revlon became inevitable. The board's authorisation to negotiate with third parties was a recognition that the company was for sale, and the duty accordingly changed from preservation of Revlon as a corporate entity to maximisation of the company's value at a sale. "The directors' role changed from defenders of the corporate bastion to **auctioneers** charged with getting the best price for the stockholders at a sale of the company."
-- Making support of the Notes an integral part of the Forstmann deal was inconsistent with that duty. A board may have regard for non-stockholder constituencies only where **rationally related benefits accrue to the stockholders**, and such concern is inappropriate once an auction among active bidders is in progress.
+- <u>Making support of the Notes an integral part of the Forstmann dea</u>l was inconsistent with that duty. A board may have regard for non-stockholder constituencies only where **rationally related benefits accrue to the stockholders**, and such concern is inappropriate once an auction among active bidders is in progress.
 - A lock-up is not per se illegal. An option that entices a new bidder into the contest creates an auction and benefits stockholders; an option that ends an active auction and forecloses further bidding harms them. Forstmann had already been drawn in on a preferred basis, so the lock-up could only destroy bidding.
 - Where a board ends an intense bidding contest on an insubstantial basis and a significant byproduct of that action is protecting the directors against perceived personal liability, the action cannot withstand Unocal's enhanced scrutiny.
 - The no-shop provision, also not per se illegal, is impermissible once the board's primary duty is that of an auctioneer, because an agreement to negotiate only with Forstmann ended rather than intensified the bidding.
@@ -58,15 +83,14 @@ Revlon is a **Unocal case**, not a separate standard bolted onto Unocal. The opi
 
 The trigger is the hard part, and Delaware spent the following decade narrowing it. [[Paramount v. Time (1990)|Paramount v. Time]], excerpted immediately after this case, holds that entering a stock-for-stock merger with Warner did **not** put Time up for sale even with an unequal share exchange, so no Revlon duty arose and the original merger plan drew only business judgment review. [[Paramount v. QVC (1994)|Paramount v. QVC]] then holds the opposite where the transaction hands a controlling stockholder the company, because the public stockholders permanently lose the control premium. The working line is **cash-out or change of control triggers Revlon; stock-for-stock among dispersed holders does not**.
 
+* Board action in response to a perceived threat to control, or any device protecting a transaction—Unocal enhanced scrutiny (Unocal enhanced scrutiny)
+* Change of control, break-up, or active sale process—Revlon applies (Unocal enhanced scrutiny)
+
 Two things Revlon does not hold, both of which are commonly misstated. Revlon does not require an auction — [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]] records the Chancery's premise that Revlon attaches when a company "initiates an active bidding process seeking to sell itself," and later cases make clear that the obligation is reasonableness in pursuit of the best value reasonably available, not any single blueprint. Revlon also does not create a freestanding cause of action for damages: [[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]] explains that Unocal and Revlon "are primarily designed to give stockholders and the Court of Chancery the tool of **injunctive relief**... in real time, before closing," which is why a fully informed stockholder vote washes out a post-closing Revlon claim.
 
 The opinion's own doctrinal labels are unstable and worth noticing rather than smoothing over. The Court of Chancery found a breach of the **duty of loyalty**; the Supreme Court says the directors "breached their primary duty of loyalty," then concludes two pages later that no defensive measure survives "when it represents a breach of the directors' fundamental duty of **care**." The substance is a conflict — directors buying off their own noteholder exposure with stockholder money — and the care language is a vestige of the Chancery's alternative framing.
 
 [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]] is the immediate ancestor. Van Gorkom is a sale of control decided before either Unocal or Revlon existed, and the informational failure Van Gorkom describes is the raw material these standards operationalise.
-
-## Professor gloss
-
----
 
 ## Class layer
 
@@ -119,12 +143,8 @@ The covenant waiver sank the Notes, the noteholders threatened suit, and on Octo
 - The Rights Plan cleared that burden on the facts of its adoption, and the court measures the Plan by what the Plan actually did: it raised the price from $42 to $58, which is the proper result of a pill rather than an abuse of one.
 - The inevitability of break-up is treated as an objective fact the board had accepted, not as a legal election the board made. That framing matters, because it means a board cannot avoid Revlon by declining to announce an auction.
 - Once price is the only objective, the noteholder rationale collapses on its own terms. The noteholders held contract rights that contemplated exactly the waiver that occurred, so protecting them produced no benefit to stockholders and therefore no rationally related benefit at all.
-- The court then locates the real interest served: the directors avoided personal liability to a class of creditors to whom they owed no further duty. That is the sentence doing the work in the holding, and it is why the case is in substance a loyalty case.
+- The court then locates the real interest served: the<u> directors avoided personal liability to a class of creditors to whom they owed no further duty</u>. That is the sentence doing the work in the holding, and it is why the case is in substance a loyalty case.
 - On the lock-up specifically, the court distinguishes by effect rather than by form. The same instrument is lawful when it brings a bidder in and unlawful when it shuts an auction down, which is why "lock-ups are not per se illegal" and the Forstmann lock-up was still enjoined.
-
-### Dissent / concurrence
-
-- Unanimous.
 
 ### Cold-call notes
 
@@ -134,4 +154,6 @@ The covenant waiver sank the Notes, the noteholders threatened suit, and on Octo
 - **Know why the Rights Plan survived.** A common error is to read Revlon as hostile to pills. The pill is upheld, and the court praises the pill for having raised the price by $16 a share. What failed was the lock-up granted after the company was already for sale.
 - **Have the constituency limit precise.** Other constituencies may be considered where there are rationally related benefits accruing to stockholders, and not at all once an auction among active bidders is in progress. Buccola may push on whether this is a real limit or a nullity; the honest answer is that the rationally-related-benefit qualifier does most of the work and almost never favours the non-stockholder group.
 - **The noteholder point is the one students miss.** The Notes covenants contemplated waiver for a sale at a fair price, so the noteholders were not wronged and there was nothing left to protect. Without that fact the board's rationale is at least coherent, which makes it a good place for a hypothetical.
+	- Supporting the Notes at par was a benefit to creditors. It was paid for by giving Forstmann the lock-up, no-shop and cancellation fee, which ended the auction for a $1 improvement. The cost fell on the people who still held common stock and would have gotten a better price. The directors also got relief from the threatened noteholder litigation.
+	- The court's point is that the noteholders were owed nothing more, since the covenants contemplated the waiver. Protecting them gave stockholders no benefit. It only benefited the creditors and, through them, the directors.
 - **Numbers worth holding.** $45 hostile threat, $47.50 first tender, $58 final Pantry Pride bid, $57.25 Forstmann, $525 million lock-up price against a $625–700 million valuation, $25 million cancellation fee, 40% trigger.

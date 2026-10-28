@@ -29,7 +29,13 @@ In a controller buyout, business judgment review applies **if and only if** the 
 **Held**
 
 - Business judgment is the standard of review for a merger between a controlling stockholder and its subsidiary where the merger is conditioned **ab initio** upon both the approval of an independent, adequately empowered special committee that fulfils its duty of care and the uncoerced, informed vote of a majority of the minority.
-- The elements, stated as a closed list: (i) the controller conditions the transaction on approval of both a special committee and a majority of the minority; (ii) the special committee is independent; (iii) the special committee is empowered to freely select its own advisors and to say no definitively; (iv) the special committee meets its duty of care in negotiating a fair price; (v) the vote of the minority is informed; and (vi) there is no coercion of the minority.
+- The elements, stated as a closed list: 
+	- (i) the controller conditions the transaction on approval of both a special committee and a majority of the minority;
+	- (ii) the special committee is independent; 
+	- (iii) the special committee is empowered to freely select its own advisors and to say no definitively;
+	- (iv) the special committee meets its duty of care in negotiating a fair price; 
+	- (v) the vote of the minority is informed; and 
+	- (vi) there is no coercion of the minority.
 - A plaintiff who pleads a reasonably conceivable set of facts showing that **any** of those conditions did not exist states a claim and proceeds to discovery.
 - If triable issues remain after discovery about whether either protection was established, or whether an established protection was effective, the case goes to trial under entire fairness.
 - A controller that employs or establishes only **one** of the two protections continues to receive nothing more than burden-shifting within entire fairness.
@@ -39,7 +45,7 @@ In a controller buyout, business judgment review applies **if and only if** the 
 
 **Rejected**
 
-- *Kahn v. Lynch and its progeny establish that entire fairness always governs a controller merger, however many protections are used.* Lynch held only that **either** protection shifts the burden, and did not involve a merger conditioned on both. In Lynch, Southern Peru and Tremont the controller never surrendered its voting power through a non-waivable majority-of-the-minority condition, which is the distinction that decides this case.
+- *Kahn v. Lynch and its progeny establish that entire fairness always governs a controller merger, however many protections are used.* Lynch held only that **either** protection shifts the burden, and did not involve a merger conditioned on both. In Lynch, Southern Peru and Tremont the controller never surrendered its voting power through a <u>non-waivable</u> majority-of-the-minority condition, which is the distinction that decides this case.
 - *Special committee protection is illusory because independent directors may be inept or timid.* Directors with little regard for their duties or for how institutional investors perceive them are likely to be exceptional, and Delaware's jurisprudence does not embrace so sceptical a view of the independent director.
 - *The minority vote is unreliable because arbitrageurs favour any premium.* Plaintiffs did not argue that minority holders vote out of fear of retribution. The argument that investors like premiums and that long-term holders sell into them is an observation about motive, not a showing that the vote is involuntary, and a majority-of-the-minority condition still gives minority investors a free opportunity to decide what is fair for themselves.
 
@@ -55,8 +61,8 @@ The underlying transaction is not in the assigned excerpt, which is confined to 
 
 [[In re Tesla Motors (Tesla 2) (2022)|In re Tesla Motors (Tesla 2)]] is the clearest illustration of the old rule's cost. Musk's board conditioned the SolarCity acquisition on a majority-of-the- disinterested vote but formed no special committee, which under MFW left entire fairness in place and forced a full trial that Musk ultimately won on price.
 
-The relationship to [[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]], assigned the same day, is complementary rather than overlapping. Corwin cleanses only transactions **not subject to entire fairness**, which is to say deals with no controller on the other side. MFW is the route back to business judgment when a controller **is** on the other side. Get the order right: ask first whether a controller stands on both sides, then apply MFW if so and Corwin if not.
-
+The relationship to [[Corwin v. KKR Financial Holdings (2015)|Corwin v. KKR Financial Holdings]], assigned the same day, is complementary rather than overlapping. Corwin cleanses only transactions **not subject to entire fairness**, which is to say <u>deals with no controller on the other side</u>. MFW is the route back to business judgment when a controller **is** on the other side. Get the order right: ask first whether a controller stands on both sides, then apply MFW if so and Corwin if not.
+<u></u>
 ## Professor gloss
 
 ---
@@ -112,12 +118,6 @@ The transaction itself, drawn from the full opinion rather than the assigned exc
 - The convergence argument closes the gap. Because entire fairness in a non-fraudulent transaction treats price as potentially "the preponderant consideration," and because the dual structure forces two independent determinations about price, the structure reaches the same destination by a cheaper route.
 - The ab initio requirement is doing bargaining-power work, not formal work. Its function is to deny the controller the ability to hold the vote condition in reserve and spend it instead of raising the price.
 
-### Dissent / concurrence
-
-- Unanimous.
-
-The opinion's weakest link is the one the appellants identified and the court answered mainly by assertion. Whether independent directors are as reliable as the court supposes is an empirical claim, and the answer given — that inattentive directors "are likely to be exceptional" and that Delaware's jurisprudence does not embrace a sceptical view — is a statement of judicial policy rather than evidence. The response to the arbitrageur objection is stronger, because it correctly separates the motive behind a vote from the voluntariness of it.
-
 ### Cold-call notes
 
 - **Recite all six elements, in order.** The holding is expressly "if and only if," and the opinion lists them as a closed set. Dropping element (iii) — the power to select advisors and to say no definitively — is the most common omission. Tesla 2 fails earlier, at element (i), because no special committee was formed at all.
@@ -125,5 +125,5 @@ The opinion's weakest link is the one the appellants identified and the court an
 - **Distinguish burden-shifting from standard-shifting.** One protection shifts the burden of proving entire fairness to the plaintiff. Both protections change the standard itself to business judgment. Students blur these constantly.
 - **Have the pleading gate ready.** A plaintiff who conceivably pleads that any one element was absent survives dismissal and gets discovery. That is why MFW compliance is litigated on the facts far more often than the rule's clean structure suggests.
 - **Lead the post-SB 21 comparison with classification.** Ask first whether the deal is going private. If it is, § 144(c) requires both protections and MFW is effectively codified. If it is not, § 144(b) requires only one of three routes and reciting MFW is a wrong answer.
-- **Do not confuse MFW with Corwin.** Corwin cleanses only where entire fairness does not apply, so a controller standing on both sides takes it out of Corwin entirely. MFW is the controller route; Corwin is the non-controller route.
+- **Do not confuse MFW with Corwin.** Corwin cleanses <u>only where entire fairness does not </u><u>apply</u>, so a controller standing on both sides takes it out of Corwin entirely. **MFW is the controller route; Corwin is the non-controller route.**
 - **Know the teenager analogy well enough to use it.** It is the most quotable thing in the assignment and it states the entire rationale: a reward for doing one assignment produces one assignment.

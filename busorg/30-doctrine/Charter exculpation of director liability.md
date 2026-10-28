@@ -43,6 +43,14 @@ Section 102(b)(7) addresses director liability for monetary damages and therefor
 
 No such provision eliminates or limits liability for any act or omission occurring before the provision became effective.
 
+**Overview**
+
+|Claim|Director|Officer|
+|---|---|---|
+|Care claim, damages, **direct** stockholder suit|Can be exculpated|Can be exculpated|
+|Care claim, damages, **derivative** suit|Can be exculpated|**Cannot be exculpated**|
+|Loyalty, bad faith, § 174, improper personal benefit|Never exculpated|Never exculpated|
+
 ## Standard of review / burden
 
 | | |

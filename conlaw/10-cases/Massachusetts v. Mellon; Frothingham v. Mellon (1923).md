@@ -15,8 +15,6 @@ read_for: null
 posture_drove_outcome: true
 ---
 
-> [!caution] Source check — Both editions garble the opinion's last sentence identically ("to assume a position of authority over plainly we do not possess," 5th ed. p. 425), so only the clean fragment is quoted. The U.S. Reports reads "authority over the governmental acts of another and co-equal department, an authority which plainly we do not possess."
-
 ## Snapshot
 
 Congress offered money to States that accepted the Maternity Act's conditions. Massachusetts, having refused it, sued the Treasury Secretary in an original action; Frothingham, a federal taxpayer, came up on appeal from the District of Columbia. Both failed on jurisdiction: a State's Tenth Amendment complaint about an optional grant is political, a State cannot be parens patriae against the United States, and a federal taxpayer's stake in the Treasury is too diffuse for equity. Article III, § 2 and the Tenth Amendment are in play.
@@ -29,7 +27,7 @@ Congress offered money to States that accepted the Maternity Act's conditions. M
 
 ## Rule
 
-Neither a State nor a federal taxpayer can challenge a federal spending statute merely by alleging that Congress exceeded its powers. A State suing for itself needs injury to proprietary, territorial or quasi-sovereign rights; it cannot sue as parens patriae against the United States; a federal taxpayer's interest in the Treasury is too minute and diffuse for equity.
+Neither a State nor a federal taxpayer can challenge a federal spending statute merely by alleging that Congress exceeded its powers. A State suing for itself needs injury to proprietary, territorial or quasi-sovereign rights; it cannot sue as parens patriae (on behalf of one of its citizens) against the United States; a federal taxpayer's interest in the Treasury is too minute and diffuse for equity.
 
 - A State's presence confers original jurisdiction only "where it is a party to a proceeding of judicial cognizance"; proprietary rights, quasi-sovereign rights "actually invaded or threatened" and boundaries fix "the jurisdictional line of demarcation" ([[Texas v. White (1869)|Texas v. White]]).
 - "It cannot be conceded that a state, as parens patriae, may institute judicial proceedings to protect citizens of the United States from the operation of the statutes thereof."
@@ -40,7 +38,7 @@ Neither a State nor a federal taxpayer can challenge a federal spending statute 
 - **The Act of November 23, 1921, the Maternity Act, appropriated money for five years among "such of the several states as shall accept and comply with its provisions," to cut maternal and infant mortality.** *Conditional and optional, which drains the coercion claim: it "imposes no obligation but simply extends an option which the state is free to accept or reject."*
 - **A federal bureau administered it with state agencies, which reported their expenditures, and payments could be withheld from a State that misspent funds.** *Every federal lever reaches only a State that has taken the money: inside the program, a proprietary injury; outside it, nothing.*
 - **Massachusetts never accepted the Act.** *The fact that decides the case. Having refused the money the State lost nothing, and any purpose to tempt it "may be effectively frustrated by the simple expedient of not yielding."*
-- **Massachusetts filed an original suit in the Supreme Court against the Secretary of the Treasury and other federal officers to enjoin the Act's operation.** *Original jurisdiction turns on the proceeding, not the party: being a State does not supply a case.*
+- **Massachusetts filed an original suit in the Supreme Court against the Secretary of the Treasury (Mellon) and other federal officers to enjoin the Act's operation.** *Original jurisdiction turns on the proceeding, not the party: being a State does not supply a case.*
 - **Its bill alleged that the appropriations were local rather than national, usurped powers reserved by the Tenth Amendment, and forced on the State an option "either to yield to the federal government a part of its reserved rights or lose the share" of the money.** *Reduced to its terms this is "the naked contention that Congress has usurped the reserved powers of the several states by the mere enactment of the statute" — political, not judicial.*
 - **Frothingham brought a taxpayer's bill in the Supreme Court of the District of Columbia; it was dismissed, the District Court of Appeals affirmed, and the case came here on appeal.** *A judgment to review rather than original jurisdiction — the only difference between the suits, and it changes nothing.*
 - **She repeated the attack and added that, as a federal taxpayer, the appropriations would increase future taxation and take her property without due process.** *Her share of the Treasury is "shared with millions of others," "comparatively minute and indeterminable"; a municipal taxpayer could have sued.*
@@ -53,7 +51,7 @@ Neither a State nor a federal taxpayer can challenge a federal spending statute 
 - **Both cases dismissed** "for want of jurisdiction, without considering the merits of the constitutional questions."
 - **Massachusetts on its own behalf: no justiciable controversy.** The bill presents "not rights of person or property, not rights of dominion over physical domain, not quasi sovereign rights actually invaded or threatened, but abstract questions of political power, of sovereignty, of government."
 - **Massachusetts as parens patriae: no.** In relations with the federal government "it is the United States, and not the state, which represents them as parens patriae."
-- **Frothingham: no standing.** Her interest is too remote for equity, and the suit is "essentially a matter of public and not of individual concern."
+- **Frothingham: no standing.** Her interest is too remote for equity, and the suit is "essentially a matter of public and not of individual concern." 
 
 **Sutherland, for the Court**
 
@@ -104,7 +102,7 @@ Neither a State nor a federal taxpayer can challenge a federal spending statute 
 **Note 4. "The general rule against taxpayer standing . . . was abandoned for lawsuits alleging a violation of the Establishment Clause in . . . Flast v. Cohen . . . . This distinction is not convincing . . . ."**
 
 - Flast rested on the injury to conscience in being taxed even a trifle to support a disagreeable faith — purpose, not size of stake.
-- The casebook's objection: conscience cannot be the line, since the objector taxed for war suffers the same injury and has no standing. Hein and Winn narrowed Flast to congressional appropriations, leaving the exception nearly formal.
+- The casebook's objection: conscience cannot be the line, since the objector taxed for war suffers the same injury and has no standing. Hein and Winn narrowed Flast to congressional appropriations**, leaving the exception nearly formal.
 
 ### Further drilling
 

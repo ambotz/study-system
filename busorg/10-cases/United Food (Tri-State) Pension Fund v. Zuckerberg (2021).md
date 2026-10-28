@@ -21,6 +21,8 @@ Demand futility is assessed **director by director**, on three questions:
 
 **Exculpated claims do not satisfy prong two**, because they do not expose directors to a substantial likelihood of liability.
 
+Demand is excused if half or more of the demand board answers yes to any one of the three
+
 ## Facts
 
 - Zuckerberg took the **Giving Pledge** in December 2010 and by March 2015 was working on an accelerated plan to donate **$2–3 billion of Facebook stock annually**.

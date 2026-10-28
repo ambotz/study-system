@@ -13,9 +13,6 @@ feeds_module:
 read_for: null
 posture_drove_outcome: true
 ---
-
-> [!caution] Source check — Both editions cut the disposition line (5th ed. p. 420); "the motion failed" paraphrases it.
-
 ## Snapshot
 
 Congress let Justices retire on full salary while Hugo Black sat in the Senate; Van Devanter took the option, and Roosevelt gave Black the seat. Levitt, a lawyer, moved for an order requiring Black to show cause why he should be permitted to serve: the appointment was void under the Ineligibility Clause of Article I, § 6, cl. 2, and no lawful vacancy existed. One paragraph per curiam: a citizen and member of the Court's bar shows no direct injury, so the merits went unreached.
@@ -28,7 +25,7 @@ Congress let Justices retire on full salary while Hugo Black sat in the Senate; 
 
 ## Rule
 
-A private individual invoking the judicial power against executive or legislative action must show a direct injury, sustained or immediately threatened; an interest shared with every citizen will not do, and membership in the bar of the Court adds nothing to it. The requirement holds however clear the violation and however high the office, so a clause protecting the public generally can go unenforced.
+A private individual invoking the judicial power against executive or legislative action must show a direct injury, sustained or immediately threatened; <u>an interest shared with every citizen will not do</u>, and membership in the bar of the Court adds nothing to it. The requirement holds however clear the violation and however high the office, so a clause protecting the public generally can go unenforced.
 
 - "The motion papers disclose no interest upon the part of the petitioner other than that of a citizen and a member of the bar of this Court. That is insufficient."
 - To "invoke the judicial power . . . he must show that he has sustained, or is immediately in danger of sustaining, a direct injury as the result of that action."
@@ -41,9 +38,9 @@ A private individual invoking the judicial power against executive or legislativ
 - **Roosevelt nominated Black; he and his Attorney General received extensive legal advice, and the Senate debated the constitutional question at length before confirming.** *The political branches did decide it, in Black's favour — Note 4 weighs that against the Court's silence.*
 - **Levitt, a lawyer, moved in the Supreme Court for leave to file a petition for an order requiring Black to show cause why he should be permitted to serve.** *A head-on attack rather than a defense to something Black had done to Levitt. Raised defensively by a sanctioned party, the same claim would look like the appointments cases.*
 - **The grounds were that the appointment and confirmation "were null and void by reason of his ineligibility under article 1, § 6, cl. 2," and "because there was no vacancy for which the appointment could lawfully be made."** *Both grounds are stated and neither examined.*
-- **The motion papers "disclose no interest upon the part of the petitioner other than that of a citizen and a member of the bar of this Court."** *The decisive fact. Change it — a litigant whose case Black helped decide — and the result changes.*
-- **The Court disposed of the motion in a one-paragraph per curiam resting on *Fairchild v. Hughes* (1922) and Massachusetts v. Mellon (1923).** *Treated as settled: the citation is the reasoning.*
-- **Black then sat for 34 years, and the question "was only raised a few more times, and the Court never ruled on it."** *The ruling ended the matter rather than deferring it; the clause was left to the political branches.*
+- **The motion papers "disclose no interest upon the part of the petitioner other than that of a citizen and a member of the bar of this Court."** 
+- **The Court disposed of the motion in a one-paragraph per curiam resting on *Fairchild v. Hughes* (1922) and Massachusetts v. Mellon (1923).
+- **Black then sat for 34 years, and the question "was only raised a few more times, and the Court never ruled on it."** Left to the political branches.
 
 ## Holding and reasoning
 
@@ -56,7 +53,7 @@ A private individual invoking the judicial power against executive or legislativ
 
 - **The grounds are recited, then set aside.** The opinion states both constitutional theories — ineligibility under art. 1, § 6, cl. 2, and the absence of a vacancy — before turning to the papers. Nothing in it engages either.
 - **The holding turns entirely on the petitioner's interest.** What the papers "disclose" is the only fact that matters: being a citizen, and being a member of the Court's bar. The second adds nothing to the first. Levitt's professional position — he practises before the Court and is bound by its judgments in other people's cases — is folded into the public's interest without separate discussion.
-- **The rule is "an established principle," not a new one.** The authorities are *Fairchild v. Hughes* (1922), where citizens had "only the right, possessed by every citizen, to require that the government be administered according to law," and Massachusetts v. Mellon (1923), cited at 262 U.S. 488, which refused a State and a federal taxpayer the same kind of claim. The injury requirement is stated in the disjunctive — sustained, or "immediately in danger of sustaining" — and is the ancestor of the modern injury, traceability and redressability test.
+- **The rule is "an established principle," not a new one.** The authorities are *Fairchild v. Hughes* (1922), where citizens had "only the right, possessed by every citizen, to require that the government be administered according to law," and Massachusetts v. Mellon (1923), cited at 262 U.S. 488, which refused a State and a federal taxpayer the same kind of claim. The injury requirement is stated in the disjunctive — sustained, or "immediately in danger of sustaining" — and is the ancestor of the modern<u> injury, traceability and redressability</u> test.
 - **The consequence is left standing.** Because the Ineligibility Clause protects the public at large, its violation injures no one in particular, so no private party can raise it. The per curiam neither denies that nor names a substitute enforcer. The doctrine filters not weak claims but a kind of claim: the more public the violation, the less likely anyone shows the particularized harm the rule demands.
 
 ## Arguments rejected
@@ -68,7 +65,7 @@ A private individual invoking the judicial power against executive or legislativ
 
 **The showcase of an unenforceable clause.** The Ineligibility Clause protects the public in general, so a violation injures no one in particular. Tocqueville admitted the cost: some laws "can never give rise to that exact species of contestation which is termed a lawsuit" ([[Tocqueville on the American Judiciary]]).
 
-**The contrast with the appointments cases.** Note 2 lines it up against [[Buckley v. Valeo (1976)|Buckley v. Valeo]], *NLRB v. Noel Canning*, *Morrison v. Olson* and *Seila Law*. In each the challenger was a party the officer was regulating, investigating or suing. Structural provisions get enforced as a defense by someone the government is acting against; Levitt was not.
+**The contrast with the appointments cases.** Note 2 lines it up against [[Buckley v. Valeo (1976)|Buckley v. Valeo]], *NLRB v. Noel Canning*, *Morrison v. Olson* and *Seila Law*. In each the challenger was a party the officer was regulating, investigating or suing. <u>Structural provisions get enforced as a defense by someone the government is acting against</u>; Levitt was not.
 
 **The same result later.** *Schlesinger v. Reservists Committee to Stop the War* (1974) denied citizen and taxpayer standing to enforce the Incompatibility Clause; *Rodearmel v. Clinton* (D.D.C. 2009), on Secretary Clinton's appointment after a "Saxbe fix," went the same way.
 
@@ -105,4 +102,3 @@ A private individual invoking the judicial power against executive or legislativ
 - **Vary the plaintiff: Van Devanter.** A judge asserting his retirement was invalid and his seat never vacant has a stake in his own office; standing is satisfied and the result changes.
 - **Vary the statute.** A citizen-suit provision would not help: injury, traceability and redressability "must be satisfied in every single federal case" ([[Standing, Mootness, and Ripeness]]).
 - **Formal rule, political enforcement.** As bright a rule as the Constitution contains, enforced only by the branches it restrains. Is it less of a law?
-- **Memorable.** One paragraph. "That is insufficient." Thirty-four years; the Court "never ruled on it."

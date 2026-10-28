@@ -101,6 +101,6 @@ State officials may not delay compliance with a desegregation decree because of 
 ### Further drilling
 
 - **Was the passage necessary?** No, on the Court's own account, and it is the only part anyone remembers. Know the sentence that concedes it.
-- **Hypo: Arkansas enacts segregation in a district party to no suit.** On judgment supremacy, no decree binds those officials and they must be sued; on Cooper, the statute is void and enforcing it violates the oath.
-- **Why state defiance differs.** Article VI ranks federal law above state law; the three federal branches are not ranked, which is Bates's co-ordinacy argument. Cooper can be right about Arkansas without settling Merryman.
+- **Hypo: Arkansas enacts segregation in a district party to no suit.** On judgment supremacy, no decree binds those officials and they must be sued; on Cooper (judicial supremacy), the statute is void and enforcing it violates the oath.
+- **Why state defiance differs.** Article VI ranks federal law above state law; the three federal branches are not ranked amongst themselves, which is Bates's co-ordinacy argument. Cooper can be right about Arkansas without settling Merryman.
 - **Types of argument.** Text (Article VI, the oath), precedent (Marbury, *Peters*, *Sterling*, *Abelman*), structure (a State acts through all its officers), and practice. See [[Types of Constitutional Argument]].

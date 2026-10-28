@@ -15,8 +15,6 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — The casebook cites the case as "D. Md." and says Taney ruled "from the bench," while Bates calls it "a judge, at chambers." The standard citation (C.C.D. Md.) is used here.
-
 ## Snapshot
 
 Lincoln authorized a general by private order to suspend the writ in Maryland, soldiers arrested a secessionist sympathizer, and Taney, sitting alone as Circuit Justice, held on habeas that only Congress may suspend. The military refused his writ and his contempt attachment, so he filed the record and sent it to the President under the Take Care Clause. Article I, § 9, cl. 2 is in play, with the Fourth and Fifth Amendments behind it.
@@ -31,7 +29,7 @@ The casebook's introduction asks: "Do the courts have the power to bind the pres
 
 ## Rule
 
-Only Congress may suspend the privilege of the writ of habeas corpus, so a President cannot suspend it himself or delegate that discretion to a military officer, and a civilian may not be arrested and held on military order without judicial process. When the executive refuses the court's process, the court's power is exhausted: it records what happened and leaves enforcement to the President's Take Care duty.
+Only Congress may suspend the privilege of the writ of habeas corpus, so a President cannot suspend it himself or delegate that discretion to a military officer, and a civilian may not be arrested and held on military order without judicial process. <u>When the executive refuses the court's process, the court's power is exhausted: it records what happened </u>and leaves <u>enforcement to the President's Take Care duty.</u>
 
 - The privilege of the writ "could not be suspended, except by act of congress" — a point Taney "had supposed" was "admitted on all hands."
 - A President may not "delegate that discretionary power to a military officer, and . . . leave it to him to determine whether he will or will not obey judicial process."
@@ -95,9 +93,9 @@ These notes follow [[Bates, Opinion on the Suspension of Habeas Corpus|Bates's o
 
 **Note 2. "In thinking about whether the president must follow judicial judgments, does it matter if the question on the merits is fairly debatable? Would it matter if the judiciary's judgment in a case was flagrantly and horribly wrong? . . . What if the Supreme Court ordered Lincoln to leave the White House, turn Maryland over to secessionists . . . ? Or . . . what if the Supreme Court . . . had declared the Emancipation Proclamation unconstitutional? Would Lincoln have been obliged to return the newly freed slaves?"**
 
-- The hypotheticals are built to break judgment supremacy at the extreme, and it holds: comply if the court had jurisdiction, and the remedies are appeal, appointments and amendment.
+- The hypotheticals are built to break judgment supremacy at the extreme, and it holds: comply if the court had <u>jurisdiction</u>, and the remedies are appeal, appointments and amendment.
 - The coordinacy answer is that the oath to "preserve, protect and defend the Constitution" forbids executing an unconstitutional judgment — Paulsen's "Merryman Power," and Lincoln's and Bates's position.
-- Debatability cuts against non-compliance: if reasonable lawyers differ, the President's contrary view is not the clear usurpation the argument needs.
+- Debatability cuts against non-compliance: if reasonable lawyers differ, <u>the President's contrary view is not the clear usurpation the argument needs.</u>
 - The [[The Emancipation Proclamation|Emancipation Proclamation]] version is sharpest, because compliance would mean re-enslaving people — which is why Baude's limit is jurisdictional, not substantive.
 
 ### Further drilling

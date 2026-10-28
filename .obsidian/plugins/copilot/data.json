@@ -30,7 +30,6 @@
   "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
-  "autoAddActiveContentToContext": true,
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
@@ -326,6 +325,7 @@
   "enableMiyo": false,
   "enableMiyoSearchSkill": false,
   "miyoSearchAll": false,
+  "miyoExtraSearchFolders": [],
   "relevantNotesLiveUpdate": true,
   "miyoServerUrl": "",
   "selfHostSearchProvider": "firecrawl",
@@ -334,7 +334,7 @@
   "parallelApiKey": "",
   "exaApiKey": "",
   "supadataApiKey": "",
-  "docProcessorBackend": "plus",
+  "enableMiyoDocumentProcessing": false,
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": false,
   "autonomousAgentEnabledToolIds": [
@@ -365,6 +365,7 @@
     "activeBackend": "claude",
     "backends": {},
     "debugFullFrames": true,
+    "offerFeedbackCards": true,
     "notificationSound": true,
     "notificationSoundId": "piano",
     "welcomeDismissed": true,
@@ -375,9 +376,6 @@
           "disabled": true
         },
         "copilot-web-fetch": {
-          "disabled": true
-        },
-        "copilot-read-pdf": {
           "disabled": true
         }
       }
@@ -741,10 +739,7 @@
         "description": "A frontier open-weight model.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
@@ -802,10 +797,7 @@
         "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
@@ -887,7 +879,9 @@
       "minimax-m3"
     ]
   },
+  "autoAddActiveContentToContext": true,
+  "docProcessorBackend": "plus",
   "miyoConnectionMode": "local",
   "_keychainVaultId": "a97e6e72",
-  "settingsVersion": 14
+  "settingsVersion": 15
 }

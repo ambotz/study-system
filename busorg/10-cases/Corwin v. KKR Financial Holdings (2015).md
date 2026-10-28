@@ -13,7 +13,7 @@ posture_drove_outcome: true
 
 ## Rule
 
-Where a transaction is **not** subject to entire fairness, approval by a fully informed, uncoerced majority of the disinterested stockholders invokes the business judgment rule in a post-closing damages action, and does so even if Revlon would otherwise have applied.
+Where a transaction is **not** subject to entire fairness, approval by a fully informed, uncoerced majority of the disinterested stockholders invokes the business judgment rule in a post-closing damages action, and does so even if Revlon would otherwise have applied (enhanced scrutiny review would otherwise apply).
 
 ## Facts
 
@@ -33,7 +33,7 @@ Where a transaction is **not** subject to entire fairness, approval by a fully i
 - The complaint did not plead facts supporting an inference that KKR was a controlling stockholder. Where a party lacks majority voting control, Delaware courts look for "a combination of potent voting power and management control such that the stockholder could be deemed to have effective control of the board without actually owning a majority of stock," and that combination was absent.
 - Because entire fairness therefore did not apply, the effect of the uncoerced, informed stockholder vote is **outcome-determinative**, and the court expressly declines to decide whether Revlon governed the merger: "it does not matter."
 - When a transaction not subject to entire fairness is approved by a fully informed, uncoerced vote of the disinterested stockholders, the business judgment rule applies, and the complaint is properly dismissed.
-- Unocal and Revlon are "primarily designed to give stockholders and the Court of Chancery the tool of **injunctive relief** to address important M&A decisions in real time, **before closing**." They were not designed for post-closing damages claims, their standards do not match Van Gorkom's gross negligence test for due care liability, and with exculpatory charter provisions prevalent, due care liability is rarely even available.
+- Unocal and Revlon are "primarily designed to give stockholders and the Court of Chancery the tool of **injunctive relief** to address important M&A decisions in real time, **before closing**." <u>They were not designed for post-closing damages claims</u>, their standards do not match Van Gorkom's gross negligence test for due care liability, and with exculpatory charter provisions prevalent, due care liability is rarely even available.
 - The doctrine applies **only** to fully informed, uncoerced votes. If troubling facts about director behaviour were not disclosed and would have been material to a voting stockholder, the business judgment rule is not invoked.
 - The policy rationale is that where the disinterested equity owners can protect themselves at the ballot box by voting no, a litigation-intrusive standard promises more cost in litigation rents and inhibited risk-taking than benefit, and judges are poorly positioned to second-guess impartial decision-makers who have better information or an actual economic stake.
 - Affirmed on the basis of the Court of Chancery's reasoning.
@@ -48,7 +48,7 @@ Where a transaction is **not** subject to entire fairness, approval by a fully i
 
 Corwin is a short opinion doing two separable pieces of work, and keeping them apart is the whole discipline of using the case. Part I is a **controller definition** case: absent majority voting power, a stockholder is a controller only on a combination of potent voting power and management control amounting to effective control of the board, and neither an externally managed structure nor business dependence supplies it. Part II is a **cleansing** case: given no controller, an informed and uncoerced disinterested vote restores business judgment review post-closing.
 
-The sequencing point is the one to carry into any exam answer. Corwin operates only where entire fairness does not, so the first question on any fact pattern is whether a controller stands on the other side of the deal. If one does, the route back to business judgment is [[Kahn v. M&F Worldwide (2014)|MFW]], assigned the same day, and now § 144(b) and (c). If none does, Corwin is available. Getting these in the wrong order produces an answer that applies a cleansing doctrine to a transaction it cannot reach.
+The sequencing point is the one to carry into any exam answer. Corwin operates only where entire fairness does not, so the first question on any fact pattern is whether a controller stands on the other side of the deal. If one does, the route back to business judgment is [[Kahn v. M&F Worldwide (2014)|MFW]], assigned the same day, and now § 144(b) and (c). <u>If none does, Corwin is available</u>. Getting these in the wrong order produces an answer that applies a cleansing doctrine to a transaction it cannot reach.
 
 The doctrine is narrower than its reputation, and the limits are all in the opinion. Corwin reaches **post-closing damages only**, so it leaves pre-closing injunctive relief untouched — which is exactly the remedy Revlon and Unocal were built for, as [[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes]] and [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]] both illustrate. It requires a **fully informed** vote, which makes disclosure the entire battleground and which is why the materiality standard from [[In re Trulia (2016)|In re Trulia]], assigned the day before, does so much work here. It requires an **uncoerced** vote, which is where Omnicare's fait accompli analysis reappears: a vote whose outcome was predetermined cleanses nothing. And it leaves untouched claims of waste and of bad faith, since a fully informed vote cannot ratify what no rational person would approve.
 
@@ -57,10 +57,6 @@ The relationship to [[Charter exculpation of director liability|§ 102(b)(7)]] i
 The statutory sequel is [[Controlling stockholder safe harbours - 144(b) and (c)]]. Post-SB 21, § 144(b)(2) gives a controller transaction a statutory safe harbour on an informed, uncoerced vote of a majority of the votes cast by disinterested stockholders — cleansing by vote, promoted from common law to statute and extended into the controller context that Corwin itself could never reach. [[In re Investors Bancorp (2017)|In re Investors Bancorp]] already records the same idea at work in the ratification setting.
 
 Two neighbouring opinions frame the excerpt. Lyondell Chemical v. Ryan, excerpted immediately before, holds that the question under Revlon is not whether disinterested directors did everything they arguably should have to get the best price but whether they "utterly failed to attempt to obtain the best sale price" — the bad faith framing that survives exculpation. In re GGP, excerpted immediately after, opens on the rhythm that Corwin created: plaintiffs pleading blockholders who act like controllers and votes that were coerced or uninformed, defendants pleading passive blockholders and fully informed stockholders. That is the litigation Corwin generates, and it is where the doctrine actually lives.
-
-## Professor gloss
-
----
 
 ## Class layer
 
@@ -112,12 +108,6 @@ The plaintiffs' fallback on appeal was that if entire fairness did not apply, Re
 - The court supplies its own limiting principle rather than leaving it to later cases, stating twice that everything turns on the vote being fully informed and uncoerced, and noting that here all objective facts about the board's interests, KKR's interests and the negotiation were disclosed.
 - The cost-benefit framing is explicit and unusual for a standard-of-review holding: litigation rents and inhibitions on risk-taking are weighed directly against the protective value of judicial review.
 
-### Dissent / concurrence
-
-- Unanimous.
-
-One tension the opinion does not resolve is the gap between the stockholders' decision and the claim being extinguished. A stockholder voting on a merger is deciding whether to accept the consideration offered, not adjudicating whether the board ran a reasonable sale process — and a rational holder may well vote yes on a price she considers acceptable while believing a better one was available. Corwin treats the first decision as an answer to the second. The court's response is embedded in the informed-vote condition: if the process defects were disclosed, the holder had the information and chose anyway, and if they were not, there is no cleansing.
-
 ### Cold-call notes
 
 - **Say the sequence out loud before analysing anything.** Controller on both sides? If yes, entire fairness, and MFW or § 144 is the only way back. If no, ask whether the vote was fully informed and uncoerced, and if it was, business judgment review applies and the analysis ends there.
@@ -127,3 +117,4 @@ One tension the opinion does not resolve is the gap between the stockholders' de
 - **Do not overstate the holding as ratification.** The vote does not approve the breach; the vote changes the **standard of review**. A plaintiff can still win under business judgment review by pleading waste or bad faith, which is difficult but not conceptually foreclosed.
 - **Connect to Trulia the day before.** Because everything turns on whether the vote was fully informed, disclosure litigation is where Corwin cases are won and lost, and Trulia's materiality standard supplies the test.
 - **Have the § 144(b)(2) comparison ready.** SB 21 turned cleansing by vote into a statutory safe harbour and extended it to controller transactions, which is the one place Corwin itself could never operate.
+	-  Corwin applies post SB 21 when there is no conflict or controller (§ 144 does not apply). Use _Corwin_, _Revlon_ and _Unocal_. Corwin is core territory, a non-conflicted deal facing a post-closing Revlon or Unocal damages claim, is outside § 144 entirely.

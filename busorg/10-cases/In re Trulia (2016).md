@@ -17,7 +17,9 @@ A disclosure-only class settlement will be approved only where the supplemental 
 
 ## Facts
 
-- The only thing the class received was supplemental disclosure. The settlement provided Trulia stockholders no economic benefit, and "[t]he only money that would change hands is the payment of a fee to plaintiffs' counsel" — $375,000, unopposed by defendants.
+- Proposed settlement of a stockholder class action challenging Zillow, Inc.’s acquisition of Trulia, Inc. in a stock-for-stock merger—alleging Trulia's directors breached fiduciary duties in approving merger at an unfair exchange ratio. Parties reached a disclosure settlement four months later.
+	- Disclosure settlement: Company will supplement proxy materials to better inform voting stockholders in exchange for releasing claims to enjoin transaction. 
+- The only thing the class received was supplemental disclosure. The settlement provided Trulia stockholders no economic benefit, and "the only money that would change hands is the payment of a fee to plaintiffs' counsel" — $375,000, unopposed by defendants.
 - The four supplemental disclosures all concerned J.P. Morgan's financial analysis: synergy figures in the value creation analysis, selected comparable transaction multiples, selected public trading multiples, and implied terminal EBITDA multiples in a relative discounted cash flow analysis.
 - The Proxy already ran 224 pages excluding annexes and summarised the J.P. Morgan opinion in ten single-spaced pages. The adequacy of what was already disclosed is what makes the supplement worthless.
 - The record was thin: no motions were decided, not even a motion to expedite; fewer than 3,000 pages produced; three depositions, two before the agreement-in-principle and one "confirmatory" afterwards.
@@ -38,6 +40,7 @@ A disclosure-only class settlement will be approved only where the supplemental 
 - The Proxy already provided a more-than-fair summary in each of the four respects criticised, so the "get" did not warrant the "give" of a release. Approval denied.
 - Disclosure claims in deal litigation should **optimally be adjudicated outside the settlement context**, in an adversarial process, so the court's view of the merits is not entangled with the defendants' desire for a broad release.
 - Two such settings exist. On a preliminary injunction motion the adversarial posture survives and the plaintiff bears the burden of showing a reasonable likelihood of proving materiality. On a **mootness fee** application, made after defendants voluntarily supplement the proxy, defendants are motivated to oppose an excessive fee and the adversarial process again assists the court.
+	- Mootness fee—court determines if plaintiffs' counsel requires a fee. Defendants would be more inclined to oppose fee.
 - Going forward, disclosure settlements are "likely to be met with continued disfavor... unless the supplemental disclosures address a **plainly material** misrepresentation or omission, and the subject matter of the proposed release is narrowly circumscribed" to disclosure and sale-process claims that have been sufficiently investigated. Plainly material means it should not be a close call.
 - Where supplemental information is not plainly material, appointing an **amicus curiae** may be appropriate to supply the missing adversary.
 - Surviving fiduciary claims are to be tested at the pleading stage with "special care," because the risk of strike suits means too much turns on the mere survival of a complaint, and thirty years of Unocal and Revlon jurisprudence now equips both the litigants and the court to do that.
@@ -50,7 +53,7 @@ A disclosure-only class settlement will be approved only where the supplemental 
 
 ## Context
 
-Trulia is the procedural bookend to [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]], assigned the same day. Omnicare shows deal litigation working: a real claim, litigated on an expedited basis, producing an injunction that cleared the way for a cash bid worth more than twice the Genesis consideration. Trulia shows the same machinery running empty — the same expedited posture, the same threat of injunction, and a settlement that transfers nothing to anyone except plaintiffs' counsel. Reading the two together is the point of the session.
+Trulia is the procedural bookend to [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS Healthcare]], assigned the same day. Omnicare shows deal litigation working: a real claim, litigated on an expedited basis, producing an injunction that cleared the way for a cash bid worth more than twice the Genesis consideration. Trulia shows the same machinery running empty — the same expedited posture, the same threat of injunction, and a settlement that transfers nothing to anyone except plaintiffs' counsel.
 
 The diagnosis is an incentive problem, not a bad-faith problem. Chancellor Allen's line from Solomon v. Pathe supplies the frame: surviving a motion to dismiss means "economical[ly] rational defendants... will settle such claims, often for a peppercorn and a fee." Defendants buy closing certainty and deal insurance in the form of a broad release; plaintiffs' counsel get a fee; supplemental disclosure is a costless currency; and once the agreement in principle is struck, both sides of the caption want the same outcome at the fairness hearing. Nobody in the room is arguing against approval, and the court is asked to evaluate a bargain on a record built by people who agree.
 
