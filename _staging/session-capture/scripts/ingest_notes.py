@@ -253,9 +253,9 @@ def call_model(prompt, model, inbox):
         except (ValueError, AttributeError):
             pass
         hint = ""
-        if "login" in detail.lower():
-            hint = ("\n\nClaude Code on this Mac is not signed in. Open Terminal, run `claude`, type "
-                    "/login, sign in with your claude.ai account, then run this again.")
+        if any(w in detail.lower() for w in ("login", "oauth", "authenticate", "expired")):
+            hint = ("\n\nClaude Code on this Mac needs to sign in again. Open Terminal, run `claude`, "
+                    "type /logout, then /login, sign in with your claude.ai account, then run this again.")
         die("`claude -p` exited with status %d: %s%s\n(raw output: %s)"
             % (r.returncode, detail, hint, dump))
     text = raw
@@ -373,27 +373,35 @@ def unwrap_bad_links(text, stems, bad):
 
 # --------------------------------------------------------------------- routing
 
-def resolve(cls, sess, index):
+def resolve(cls, sess, index, notices):
+    """The date on the page wins. The class number is only a tiebreaker or a fallback."""
     header = sess.get("header", "")
     cn, date = sess.get("class_number"), sess.get("date")
-    if cn is not None:
-        hits = [e for e in index if e["session"] == cn]
-        if len(hits) != 1:
-            die("header %r says class %s, but no single placeholder has that session number." % (header, cn))
-        entry = hits[0]
-        if date and entry["date"] and entry["date"] != date:
-            die("header %r gives %s, but session %d is dated %s in the vault. Check the header."
-                % (header, date, cn, entry["date"]))
-        return entry
+    by_num = [e for e in index if e["session"] == cn] if cn is not None else []
     if date:
         hits = [e for e in index if e["date"] == date]
         if len(hits) == 1:
-            return hits[0]
-        if not hits:
-            die("no %s placeholder is dated %s (header %r). Add the date to the placeholder, or "
-                "write \"Class N\" on the page." % (cls, date, header))
-        die("more than one %s meeting is dated %s (header %r): %s. Write \"Class N\" on the page."
-            % (cls, date, header, ", ".join(str(e["session"]) for e in hits)))
+            entry = hits[0]
+            if cn is not None and cn != entry["session"]:
+                notices.append("header %r says class %s, but %s is session %d in the vault; "
+                               "filed under session %d (the date wins)."
+                               % (header, cn, date, entry["session"], entry["session"]))
+            return entry
+        if len(hits) > 1:
+            pick = [e for e in hits if e["session"] == cn]
+            if len(pick) == 1:
+                return pick[0]
+            die("more than one %s meeting is dated %s (header %r): %s. Write \"Class N\" on the page."
+                % (cls, date, header, ", ".join(str(e["session"]) for e in hits)))
+        if len(by_num) == 1 and not by_num[0]["date"]:
+            return by_num[0]
+        if len(by_num) == 1:
+            die("header %r gives %s, but no %s meeting is dated %s, and session %d is dated %s. "
+                "Fix the date on the placeholder or on the page." % (header, date, cls, date, cn, by_num[0]["date"]))
+        die("no %s placeholder is dated %s (header %r). Add the date to the placeholder."
+            % (cls, date, header))
+    if len(by_num) == 1:
+        return by_num[0]
     die("could not tell which meeting the pages headed %r belong to (no class number, no date)." % header)
 
 
@@ -512,6 +520,35 @@ def apply_to_file(entry, cls, notes_text, signals, stems, bad_links, dry, append
 
 # ------------------------------------------------------------------------ main
 
+def _last_output_path(inbox):
+    return os.path.join(inbox, "_last_model_output.txt")
+
+
+def reusable(inbox, files):
+    """A saved transcription exists and is newer than every photo in the inbox."""
+    p = _last_output_path(inbox)
+    if not os.path.isfile(p):
+        return False
+    newest = max(os.path.getmtime(os.path.join(inbox, f)) for f in files)
+    return os.path.getmtime(p) >= newest
+
+
+def load_last_output(inbox):
+    p = _last_output_path(inbox)
+    raw = open(p, encoding="utf-8").read().split("\n--- stderr ---")[0]
+    text = raw
+    try:
+        wrapper = json.loads(raw)
+        if isinstance(wrapper, dict) and "result" in wrapper:
+            if wrapper.get("is_error"):
+                die("the saved model output is an error, not a transcription: %s"
+                    % str(wrapper.get("result"))[:300])
+            text = wrapper["result"]
+    except ValueError:
+        pass
+    return extract_json(text, p)
+
+
 def run_class(cls, args):
     inbox, files = collect_photos(cls)
     if not files:
@@ -526,6 +563,9 @@ def run_class(cls, args):
 
     if args.from_json:
         obj = json.load(open(args.from_json, encoding="utf-8"))
+    elif args.reuse_last and reusable(inbox, files):
+        print("Reusing the saved transcription (no new model call).")
+        obj = load_last_output(inbox)
     else:
         prompt = build_prompt(cls, work, converted, index, link_targets(cls))
         obj = call_model(prompt, args.model, inbox)
@@ -537,9 +577,10 @@ def run_class(cls, args):
     sessions = validate(obj, converted_names)
 
     # Preflight: resolve every session and check every destination before writing anything.
+    notices = []
     plan, targets_seen = [], set()
     for s in sessions:
-        entry = resolve(cls, s, index)
+        entry = resolve(cls, s, index, notices)
         if entry["path"] in targets_seen:
             die("two groups of pages both resolve to %s." % os.path.basename(entry["path"]))
         targets_seen.add(entry["path"])
@@ -552,6 +593,8 @@ def run_class(cls, args):
         plan.append((s, entry, photo_names, photos_dir))
 
     reports = []
+    for n in notices:
+        print("note: " + n)
     for s, entry, photo_names, photos_dir in plan:
         bad = []
         notes = render_notes(s["blocks"], photo_names, stems, bad)
@@ -606,6 +649,8 @@ def main():
                     help="add the transcription beneath notes already under ## Notes, "
                          "under a dated heading, instead of refusing")
     ap.add_argument("--from-json")
+    ap.add_argument("--reuse-last", action="store_true",
+                    help="re-file the last saved transcription instead of calling the model again")
     args = ap.parse_args()
     if args.from_json and not args.cls:
         die("--from-json needs --class.")

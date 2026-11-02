@@ -104,7 +104,7 @@ The offer commenced April 17 and Mesa sued immediately. On April 22 the board, o
 
 - **On power: the board had it.** Section 141(a), § 160(a) and the board's fundamental duty to protect the corporate enterprise from harm reasonably perceived, whatever its source, together supply the authority. A board is not a passive instrumentality.
 - **On the standard: enhanced scrutiny, then business judgment.** Because of the omnipresent spectre of self-interest, directors bear the burden of showing reasonable grounds to believe a danger existed — met by good faith and reasonable investigation — and that the response was reasonable in relation to the threat posed. Only then does the business judgment rule attach.
-- **On the exclusion: valid here, and no per se rule against it.** The threat was a grossly inadequate coercive two-tier offer coupled with a greenmail threat; the response was proportionate, because including Mesa would have subsidised its own bid and Mesa could not belong to the class being protected from that bid.
+- **On the exclusion: valid here, and no per se rule against it.** The threat was a grossly inadequate coercive two-tier offer coupled with a greenmail threat; the response was proportionate, because including Mesa in the tender offer would have subsidised its own bid and Mesa could not belong to the class being protected from that bid.
 - **On the directors' interest: none disqualifying.** Since the exclusion is valid, the directors share the same benefit as all other holders, and large shareholdings alone create no personal pecuniary interest.
 - **Disposition:** reversed; preliminary injunction vacated.
 

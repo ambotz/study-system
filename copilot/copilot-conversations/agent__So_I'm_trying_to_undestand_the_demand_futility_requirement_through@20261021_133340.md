@@ -6,7 +6,7 @@ sessionId: "ac03a7e6-3394-47f4-91cb-9e1304fd8530"
 agentLabel: "So I'm trying to undestand the demand futility requirement t…"
 tags:
   - copilot-conversation
-usage: '{"usedTokens":172764,"contextWindow":1000000,"inputTokens":2,"outputTokens":5,"cacheReadTokens":171463,"cacheWriteTokens":1294,"updatedAt":1792873012850}'
+usage: '{"usedTokens":215612,"contextWindow":1000000,"inputTokens":2,"outputTokens":3,"cacheReadTokens":214177,"cacheWriteTokens":1430,"updatedAt":1793220550174}'
 ---
 
 **user**: So I'm trying to undestand the demand futility requirement through the lens of (1) derivative vs. direct and (2) who the deriviative shareholder is suing. So in deriviative shareholder suits, is it correct that sometimes the suit will be against another corporation and sometimes it will be against the own corproations board of directors? And in the latter, it will be an attempt to hold the Directors individually liable?
@@ -824,3 +824,222 @@ Both are vote-based safe harbors, and your Corwin module says § 144(b)(2) is "c
 
 **Your conclusion.** The idea that an informed disinterested vote protects a deal is now explicit in statute for conflicted and controller transactions. *Corwin* itself remains common law, for the non-conflicted deals the statute doesn't reach.
 [Timestamp: 2026/10/24 15:16:42]
+
+**user**: So explain simply what RBC was doing with Rural and EMS. Was it trying to have the same bidders pursue both? If so how and why?
+[Timestamp: 2026/10/28 14:52:18]
+
+**ai**: Yes, in effect. RBC advised Rural's special committee on a sale of Rural. At the same time, a competitor, Emergency Medical Services (EMS), was also for sale. The private equity firms looking at EMS were natural bidders for Rural too, and Warburg was a bidder in both deals.
+
+**What RBC wanted.** A buy-side financing role on the EMS deal. Your case file says RBC "devised a plan to favour bidders in the Rural auction in order to capture that business." So RBC had a reason to favor the Rural bidders who were also pursuing EMS: whichever of them won, RBC could ask to finance them.
+
+**How it did it**
+- It ran the Rural process, led the price negotiations, and produced the valuation work the board relied on.
+- It had back-channel communications with Warburg that the board didn't know about.
+- In the final hours, it tried to get buy-side financing from the winning bidder while it was still leading the price negotiations.
+- It modified its financial analysis and delivered the changed version on the day the board approved the merger, without saying so. The file says RBC's desire for Warburg's business "manifested itself in its financial analysis."
+
+**Why this was a problem.** RBC was supposed to advise the Rural board, but it was also courting the buyers for its own gain. It never disclosed that conflict, and it knew the board was uninformed about Rural's value. The trial court found that Rural's stand-alone value exceeded the sale price.
+
+**The legal result.** The directors breached their duty of care but weren't liable, because Rural had a § 102(b)(7) provision and they lacked scienter. RBC owed no fiduciary duty at all, but it was liable for aiding and abetting, because it knowingly duped the board for its own motives. Section 102(b)(7) protects directors, not third parties.
+
+Wanting the same bidders for both deals was not itself the wrong. The wrong was concealing the conflict and shaping the advice around it.
+[Timestamp: 2026/10/28 14:52:18]
+
+**user**: Explain it more simply and you can move off the note if you need to. RBC is working for rural. Another one of its competitors is for sale. So RBC takes one of rural's bidders and directs them to EMS (trying to get thier business too)?
+[Timestamp: 2026/10/28 14:59:19]
+
+**ai**: Close, but not quite. RBC didn't have to redirect anyone, because the same firms were already bidding on both companies. The "getting their business" part of your picture is right.
+
+**Simple version**
+- RBC was hired by Rural to sell Rural, so its job was to get Rural's stockholders the best price from the bidders.
+- Those same bidders were also looking at buying EMS. Buyers like that borrow money, so RBC hoped to be hired as their lender, called a buy-side financing role, on the EMS deal.
+- RBC therefore had a personal reason not to upset the bidders it was supposed to be negotiating against. A buyer who thinks RBC is on its side is more likely to give RBC the financing job.
+
+It's like a real estate agent hired by a seller who is also hoping to get the buyer's mortgage business. The agent has a reason to go easy on the buyer, which hurts the seller.
+
+**How that played out.** RBC favored those bidders in the Rural process, had private back-channel communications with Warburg, asked the winning bidder for a financing role at the last minute while still leading the price talks, and changed its valuation numbers on the day the board voted. It told the board none of this.
+
+**Why it was a legal problem.** Rural's board relied on RBC and didn't know about the conflict. The board accepted a sale price below what the trial court found Rural was worth on its own. RBC wasn't a fiduciary, but it was liable for knowingly tricking the board into a bad decision for its own benefit.
+[Timestamp: 2026/10/28 14:59:19]
+
+**user**: I guess the wrinkle here though is that RBC was going for buy-side on a different transaction (same bidders though)?
+[Timestamp: 2026/10/28 15:01:39]
+
+**ai**: Yes. The conflict came from RBC's hope of future business with those bidders, not from a stake in the Rural deal's own terms.
+
+**Two points on that.**
+- **The conflict was one step removed.** RBC wasn't being paid more if Rural sold for less. It wanted the bidders' goodwill and a financing job elsewhere. That makes it harder for the board to spot, because nothing in the Rural engagement itself shows it.
+- **The file isn't clear on every financing attempt.** The RBC file describes the EMS financing plan, and separately "eleventh-hour attempts to secure buy-side financing from the winning bidder." It doesn't say whether the last-minute attempt was for the Rural deal or for EMS. I earlier read it as the Rural deal, but that is my inference. Check the opinion before relying on it.
+
+**Why it doesn't matter legally.** The point of the case is concealment. The file says the "conflicted banker has an informational advantage" about its own conflicts and is "under an obligation not to act in a manner that is contrary to the interests of the board of directors, thereby undermining the very advice that it knows the directors will be relying upon." A conflict of any kind must be disclosed so that the board can decide whether to proceed. RBC disclosed none of its interest in financing work with these bidders, and then shaped the Rural process and its analysis around that interest.
+[Timestamp: 2026/10/28 15:01:39]
+
+**user**: Ok, and what is it called when RBC is helping Rural sell. Sell-side? And typically what does sell-side do? Are those typically investment banks? And buy-side is funds?
+[Timestamp: 2026/10/28 15:02:46]
+
+**ai**: Yes to the first part, with a wrinkle on "buy-side." This is general finance knowledge, not from your vault.
+
+**Sell-side.** RBC advising Rural on its own sale is sell-side advisory. It works for the seller, which here was Rural and its stockholders through the special committee. Typical sell-side work:
+- valuing the company,
+- marketing it to potential buyers and finding bidders,
+- running the auction or process,
+- negotiating price and terms,
+- giving the board a fairness opinion on the price.
+
+Sell-side advisors are typically investment banks. In your vault, the banker's analysis is what the board relies on, and stockholders are entitled to "a fair summary of the substantive work performed by the investment bankers" (see [[Disclosure settlements in deal litigation - the give and the get]]).
+
+**Buy-side, in M&A.** This means the buyer's side. A buyer can hire a buy-side advisor, usually also an investment bank. It can also borrow money to fund the deal, and the "buy-side financing" RBC wanted was a lending role, helping provide debt to the buyer. Investment banks do that too, which is why one bank can have both roles and a conflict.
+
+**Where your guess goes wrong.** In asset management, "buy-side" means funds (mutual funds, hedge funds) and "sell-side" means banks and brokers. That is a different use of the terms. In M&A, the private equity firms like Warburg were the **bidders**, the buyers, not the advisors. RBC wanted to work for them as their lender.
+
+So in *Rural/Metro*: Rural was the seller, RBC was the sell-side advisor, Warburg and others were buyers, and the financing RBC wanted was a bank-lending role to those buyers.
+[Timestamp: 2026/10/28 15:02:46]
+
+**user**: so how does the whole buy-side/sell-side play out in asset management?
+[Timestamp: 2026/10/28 15:04:28]
+
+**ai**: This is general finance knowledge, not from your vault.
+
+**Buy-side in asset management.** These are the institutions that buy securities with other people's money, hoping the investments rise in value:
+- mutual funds and ETF managers,
+- pension funds and endowments,
+- hedge funds,
+- insurance companies,
+- private equity and venture funds (when investing).
+
+Their job is to decide what to buy and hold, and they are paid for performance or on assets managed.
+
+**Sell-side in asset management.** These are the firms that sell securities and services to the buy-side, typically banks and brokerages:
+- executing trades,
+- making markets, meaning holding inventory so buyers and sellers can trade,
+- underwriting new stock and bond offerings,
+- producing research reports and trade ideas.
+
+**How they relate.**
+- The sell-side pitches ideas and research and executes the buy-side's trades.
+- The buy-side pays through trading commissions and fees, and sometimes pays for research that way.
+- The sell-side is paid for transactions, so it has an incentive to encourage more trading, and the buy-side knows that when it reads the research.
+
+**How this differs from the M&A usage.** In M&A, "sell-side" and "buy-side" refer to which party in a single deal an advisor represents, as in *Rural/Metro*. In asset management, the labels describe two kinds of firms in the investment world. The common thread is that the sell-side is usually the investment banks and brokers, and the buy-side is the party putting capital to work.
+[Timestamp: 2026/10/28 15:04:28]
+
+**user**: so do market makers count as sell-side? Like citadel?
+[Timestamp: 2026/10/28 15:06:28]
+
+**ai**: Mostly yes, but Citadel is a case where the categories blur. This is general finance knowledge, not from your vault.
+
+**Market makers in general.** A market maker stands ready to buy and sell a security, so others can trade when they want to. That is a service to other investors, and the market maker earns from the spread, so it is functionally sell-side. It isn't investing for the long term, and its clients are the buy-side firms and brokers whose orders it fills.
+
+**Citadel.** The name covers two separate businesses with common ownership:
+- **Citadel LLC** is a hedge fund. It is buy-side.
+- **Citadel Securities** is a market maker. It acts on the sell-side, as a liquidity provider.
+
+Citadel Securities isn't a traditional bank or brokerage with an advisory and research arm. People describe it as sell-side because of what it does, and some wouldn't use the label at all. The line between the two sides is loose in practice.
+
+**Why it matters for conflicts.** The reason for keeping the businesses separate is the same worry as in *Rural/Metro*: a firm that deals with the same counterparties in two roles can face competing incentives. The law and firms use separate entities and information barriers to manage that.
+[Timestamp: 2026/10/28 15:06:28]
+
+**user**: So going back to RBC, it gave one of the rural bidders (Wulburg) favorable price on Rural, in hopes that it would be able to finance the Rural buy? Where does EMS come in here?
+[Timestamp: 2026/10/28 15:07:39]
+
+**ai**: Your version is close, but it leaves out the second deal. The file describes two separate financing aims, and I can't fully tie them together from the file alone.
+
+**1. EMS financing.** The file says RBC "wanted a buy-side financing role in the EMS transaction" and "devised a plan to favour bidders in the Rural auction in order to capture that business." Rural is how RBC dealt with the sponsors, including Warburg, who were also looking at EMS. Favoring them in Rural was meant to win their EMS lending business. EMS is the prize in that plan.
+
+**2. Last-minute financing ask.** The file also says RBC made "eleventh-hour attempts to secure buy-side financing from the winning bidder while simultaneously leading the price negotiations." The file doesn't say which deal that financing was for. It may be the Rural buy, as you suggest, but I can't confirm that from the file.
+
+**Was the price favorable to Warburg?** The file supports part of that. The sale price was below Rural's stand-alone value, and RBC's desire for Warburg's business "manifested itself in its financial analysis," which RBC modified on the day of the vote. It doesn't say RBC deliberately set a low price for Warburg, only that its analysis and process were shaped by the conflict.
+
+**Putting it together.** Rural was RBC's way to curry favor with the sponsors, and both financing roles were about getting business from the same firms. That is why the conflict reached beyond the Rural deal itself.
+
+I'd read the opinion's factual section if you need to know exactly which financing attempt was for which deal.
+[Timestamp: 2026/10/28 15:07:39]
+
+**user**: I've uploaded folder that contains the day's readings in the print subfolder. Take a look at day 16 aiding and abetting and provide a crystal clear answer.
+[Timestamp: 2026/10/28 15:08:35]
+
+**ai**: I read the Class 16 packet's RBC excerpt (packet pp. 2–7, B&C 576–581). The PDF reader here doesn't work, so I extracted the text with a script. That text settles the point I hedged on earlier.
+
+**The answer: RBC had two financing goals, aimed at the same bidders.**
+
+1. **EMS financing (the larger plan).**
+   - The casebook headnote says RBC "hoped to fill a financing role for the firms considering buying EMS."
+   - Those firms would also bid on Rural, so RBC "devised a plan to favor bidders in the Rural auction in order to capture their business in a financing role for the EMS sale."
+   - Rural was RBC's way into the same group of buyers.
+2. **Rural financing (the last-minute attempt).**
+   - The opinion lists RBC's failure to disclose "its interest in providing the winning bidder in the Rural process with buy-side financing and its eleventh-hour attempts to secure that role while simultaneously leading the negotiations on price."
+   - This was financing for the Rural purchase itself, so my earlier doubt about which deal it was for is resolved.
+
+**Warburg.** The headnote describes Warburg as "one of the bidders in both transactions." The opinion says RBC's "desire for Warburg's business also manifested itself in its financial analysis, provided by RBC the day the Board approved the merger." It also mentions back-channel communications with Warburg and modifications to the valuation analysis, none of which the board knew about.
+
+**Your version, corrected.** You said RBC gave Warburg a favorable price on Rural hoping to finance the Rural buy. That is right for the second goal. EMS is the first goal, and Rural was the vehicle for it.
+
+**What the text does not say.** It doesn't say RBC set Warburg's price on purpose. It says RBC "manipulated the rural sales process to favor certain bidders (those also bidding for EMS)." The result was a "poorly-timed sale at a price that was not the product of appropriate efforts to obtain the best value reasonably available," and Rural's stand-alone value exceeded the sale price.
+
+**Why it's aiding and abetting.** The board didn't know any of this and breached its duty of care. The directors were exculpated under § 102(b)(7). RBC wasn't, and it acted with scienter, since it "intentionally duped" the board.
+
+I haven't read the Mindbody half of the packet (pp. 8–43). Tell me if you want that too.
+[Timestamp: 2026/10/28 15:08:35]
+
+**user**: Ok, so going back to the question: if Warburg buys Rural and RBC is financing that, who is buying EMS? How does RBC get any benefit in the EMS deal?
+[Timestamp: 2026/10/28 15:11:04]
+
+**ai**: The packet doesn't say who bought EMS. It refers only to "the firms considering buying EMS" and says Warburg was a bidder in both deals.
+
+**My recollection, which you should verify:** I believe EMS was ultimately acquired by a different private equity firm, Clayton, Dubilier & Rice (CD&R), and that Warburg bought Rural. Nothing in your packet or vault confirms that, so check the Court of Chancery opinion if you need it.
+
+**How RBC would have benefited in the EMS deal.** RBC wanted to be hired as a financing provider for whoever bought EMS. A private equity buyer funds its acquisition partly with borrowed money. A bank that arranges or provides that debt earns fees. That was the "buy-side financing role" RBC was after.
+
+**Why it didn't matter who bought which.** RBC's plan didn't depend on Warburg winning EMS. The pool of EMS buyers was the same group of firms bidding on Rural. By favoring those firms in the Rural process, RBC hoped to leave whichever of them won EMS with reason to hire RBC as its lender. The Rural engagement gave RBC access to those firms and a way to earn goodwill with them.
+
+**Two separate possible benefits for RBC**
+- **EMS financing:** fees from financing the EMS buyer, whoever it turned out to be.
+- **Rural financing:** fees from financing the Rural buyer, which RBC tried to secure at the last minute from the winning Rural bidder.
+
+In the second one, RBC was on both sides of the same deal: advising the seller on price while asking the buyer for a lending role. That is the clearest conflict, and the opinion says RBC did this "while simultaneously leading the negotiations on price."
+[Timestamp: 2026/10/28 15:11:04]
+
+**user**: So the fact there was a seperate EMS deal, and that whichever bidder won Rural, RBC would still win the overall general goodwill of the potential EMS buyers too, by favoring them during the Rural bidding?
+[Timestamp: 2026/10/28 15:12:57]
+
+**ai**: Yes, with two small adjustments.
+
+**What's right.** RBC's plan didn't depend on one bidder winning Rural. The packet says RBC favored "bidders in the Rural auction in order to capture their business in a financing role for the EMS sale." Every bidder in both deals was a potential EMS financing client. Favoring them during the Rural process was a way to build a relationship with that whole group, whoever ended up winning Rural.
+
+**Adjustments**
+- **"Goodwill" is your word.** The packet says RBC wanted to "capture their business," and says RBC "manipulated the rural sales process to favor certain bidders (those also bidding for EMS)." The favoritism was aimed at the overlapping bidders, not at all Rural bidders. The goodwill was the means, and the EMS financing business was the goal.
+- **The conflict existed from the start.** RBC's incentive came from having been engaged on Rural at the same time as the EMS sale. The favoritism, the back-channel communications, and the valuation changes were all conduct that followed from that incentive. The last-minute ask to the winning bidder added a second conflict on top.
+
+**Why this matters legally.** The opinion's key finding is that RBC concealed all of this from a board that relied on its advice. The favoritism hurt Rural's stockholders, and RBC knew the board was uninformed about Rural's value. It never said a word, which is why the court called it "fraud on the Board."
+[Timestamp: 2026/10/28 15:12:57]
+
+**user**: Help me understand how RBC and Trulia are related. Why does the note call out that the disclosure settlement in Trulia is somehow related to aiding and abetting
+[Timestamp: 2026/10/28 15:47:23]
+
+**ai**: The link is about what a disclosure settlement's release can destroy. Both notes use *Rural/Metro* as the example.
+
+**What *Trulia* was about.** Your Trulia note describes a typical disclosure settlement. The company adds a few disclosures to the proxy, and the plaintiffs drop their injunction motion and release claims for the whole class. The court denied approval. The problem was the "give" (a release of every claim in the transaction) against the "get" (four additions to a ten-page banker summary, none material). Your Trulia note says "Releases threaten the loss of claims that were never investigated, and Rural/Metro proves the risk is real rather than theoretical."
+
+**What happened in *Rural/Metro*.** Your RBC note says the Court of Chancery in *Trulia* held up *Rural/Metro* as the cautionary example. The court called it a "very close call" to reject a disclosure settlement whose release would have extinguished the claims against RBC. After new counsel took over, those claims later produced over $100 million for stockholders, most of it from the post-trial judgment you've been reading.
+
+**Why aiding and abetting specifically.** A release in a disclosure settlement covers the claims arising from the deal, including claims against third parties such as the advisor. The aiding and abetting claim against RBC was one of them. The claim was valuable, but proving it took real discovery. The opinion says "the manifest intentionality of RBC's conduct" was "evidenced by the bankers' own internal communications." Your Trulia note says that case involved fewer than 3,000 pages of discovery and three depositions. A quick settlement after limited discovery wouldn't have found those communications.
+
+**The takeaway for your outline.** A claim you haven't investigated can be worth far more than you know. That is why *Trulia* says a release must be narrowly circumscribed to claims that were sufficiently investigated, and why disclosure claims should be litigated in an adversarial setting instead of traded for a release.
+[Timestamp: 2026/10/28 15:47:23]
+
+**user**: Oh, so there was a rejected disclosure statement in RBC?
+[Timestamp: 2026/10/28 15:48:47]
+
+**ai**: Yes, with one wording fix. It was a proposed disclosure settlement, and as far as the text shows it was not approved.
+
+**What the *Trulia* opinion says.** I found the passage in the Class 14 packet. Bouchard writes that "the Court of Chancery initially considered it a 'very close call' to reject a disclosure settlement that would have released claims which subsequently yielded stockholders over $100 million, mostly from a post-trial judgment, after new counsel took over the case." He describes these as "unexplored but valuable claims that almost were released through disclosure settlements."
+
+**What that tells us**
+- A disclosure settlement was proposed in the *Rural/Metro* litigation, and its release would have covered claims against RBC and others.
+- The court nearly approved it. Rejecting it was a "very close call."
+- "Almost were released" means the release didn't go through. New counsel then took over, and the claims were litigated to the post-trial judgment you've been reading.
+
+**What the text doesn't say.** It doesn't give details about the *Rural/Metro* settlement itself, such as the terms or the supplemental disclosures involved. It also doesn't say who objected or why the court ultimately decided as it did. That passage is the only mention I found of it in the packet.
+
+**Why *Trulia* uses it.** A court nearly approved a settlement that would have extinguished claims worth over $100 million, and nobody had investigated them. That is the cautionary example for requiring narrow releases and real adversarial testing.
+[Timestamp: 2026/10/28 15:48:47]

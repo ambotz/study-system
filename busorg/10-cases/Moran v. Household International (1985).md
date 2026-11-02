@@ -15,6 +15,9 @@ posture_drove_outcome: false
 
 A board may adopt a shareholder rights plan **before any threat exists**, under 8 Del. C. §§ 157, 151 and 141(a), and its adoption receives the business judgment rule — but the plan is not self-executing: the decision whether to redeem the rights when an actual offer arrives is judged separately, under the same fiduciary standards.
 
+
+**Moran validates the pill’s adoption under Unocal; it does not validate the board’s use of the pill, which draws its own Unocal scrutiny when a real bid forces the redeem-or-not decision.** Same two-pronged standard (threat and proportionate response), applied at two different moments to two different board actions.
+
 ## Facts
 
 - Household adopted the plan by a **fourteen to two vote**, "not... during a battle with a corporate raider, but as a **preventive mechanism** to ward off future advances." The absence of a pending bid is the fact that frames the entire authority question.
@@ -79,7 +82,12 @@ Household International's management became concerned about the company's vulner
 
 The plan itself ran to a 48-page Rights Agreement. Each common share carried one right. Two events could activate the rights: the announcement of a tender offer for 30% of Household's shares, or the acquisition of 20% by any single entity or group.
 
-The consequences differ by trigger, and the difference is the design. On the 30% trigger the rights issue and become immediately exercisable to purchase 1/100 of a share of new preferred stock for $100, and the board may still **redeem** them for $.50 each. On the 20% trigger the rights issue and become **non-redeemable**. If a right is not exercised for preferred and a merger or consolidation then occurs, the holder may exercise each right to purchase $200 of the common stock of the tender offeror for $100 — the flip-over provision the court identifies as "at the heart of this controversy."
+The consequences differ by trigger, and the difference is the design. 
+On the 30% trigger the rights issue and become immediately exercisable to purchase 1/100 of a share of new preferred stock for $100, and the board may still **redeem** them for $.50 each. 
+	A tender offer is just a _request_ to shareholders — the bidder hasn’t actually taken anything yet. So the plan leaves the posture reversible: the board can still redeem (for the nominal $0.50) if it decides to let the offer through or strikes a better deal.
+On the 20% trigger the rights issue and become **non-redeemable**. If a right is not exercised for preferred and a merger or consolidation then occurs, the holder may exercise each right to purchase $200 of the common stock of the tender offeror for $100 — the flip-over provision the court identifies as "at the heart of this controversy."
+	**20% trigger = actual acquisition of a 20% block.** Now someone has gone out and _really bought_ a large stake. At that point the redemption window closes (there’s a short tail — about ten days — then it locks), and the Rights become **non-redeemable**. Point of no return: nobody can defuse the pill anymore.
+	- Feature in dispute
 
 Appellants, joined on the second and third points by the Securities and Exchange Commission, argued that the board lacked authority to adopt the plan at all: that no DGCL provision authorises such rights, that the board cannot usurp the stockholders' right to receive hostile tender offers, and that the board cannot fundamentally restrict the right to conduct a proxy contest. Household answered that § 157 authorises the rights and § 151(g) the underlying preferred.
 
@@ -96,7 +104,7 @@ The court also catalogued what the plan does not do: it does not destroy corpora
 
 - **On the standard: the business judgment rule applies, and pre-planning strengthens rather than weakens the case for it.** Adopting a defence before the pressure of a bid reduces the risk of a hasty judgment later.
 - **On authority: the plan is authorised.** Section 157 supports the rights, § 151 the underlying preferred, and § 141(a) supplies additional inherent power over the business and affairs of the corporation.
-- **On the stockholders' rights: unimpaired.** Numerous methods remain by which a hostile offer can be launched, and the plan does not fundamentally restrict proxy contests.
+- **On the stockholders' rights: unimpaired.** Numerous methods remain by which a hostile offer can be launched, and the plan does not fundamentally restrict proxy contests. (can still launch a contest under 20% ownership)
 - **On the transfer of power: no greater than any other defence, and less costly.** The plan works no structural change beyond what other defensive mechanisms work, and unlike them it imposes no cost on the corporation.
 - **On future conduct: expressly reserved.** A refusal to redeem when an actual offer arrives will be judged by the directors' actions at that time, under the same fiduciary standards.
 - **Disposition:** affirmed.
@@ -133,7 +141,7 @@ The real objection is not to the result but to the empirical premise. Moran upho
 - **Be precise about the two triggers.** A tender offer announced for **30%**, or an acquisition of **20%**. Redeemable at $.50 after the first; non-redeemable after the second. The asymmetry is deliberate — it lets a board keep bargaining after an offer is announced but ends the option once someone actually accumulates a block.
 - **Explain flip-over versus flip-in.** Moran's pill flips *over* into the acquiror's stock after a merger. The modern standard pill flips *in* to the target's stock, which dilutes the acquiror without requiring a merger. Knowing the difference shows you understand why nobody ever triggers a pill.
 - **Say why pre-planning helped rather than hurt.** Deliberation without the pressure of a pending bid reduces the risk of a bad judgment later. The intuition runs the opposite way for most students.
-- **Have the reservation ready, because it is the bridge to Airgas.** Adoption gets the business judgment rule; **refusal to redeem** is judged separately when an actual offer arrives, under the same standards. Airgas is that case, twenty-six years later.
+- **Have the reservation ready, because it is the bridge to Airgas.** Adoption gets the business judgment rule; **refusal to redeem** is judged separately when an actual offer arrives, under Enhanced Scrutiny based on Unocal prongs (1) threat and (2) proportionate response. Airgas is that case, twenty-six years later.
 - **Know what undermined the "numerous methods" premise.** The staggered board. Two annual meetings to replace a majority, and no bidder has ever run two successful proxy contests to get there. Selectica nonetheless holds the combination is not preclusive.
 - **Name the outer limit.** Dead-hand, no-hand and slow-hand pills, which prevent a newly elected board from redeeming, are invalid — Carmody v. Toll Brothers and Mentor Graphics v. Quickturn. That is what keeps "just say never" unlawful.
 - **Numbers worth holding.** Adopted 14–2; 48-page agreement; 30% and 20% triggers; $100 exercise price for 1/100 preferred; $.50 redemption; $200 of the offeror's stock for $100 on the flip-over.

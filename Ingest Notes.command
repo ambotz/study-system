@@ -11,7 +11,7 @@ if [ ! -f "$SCRIPT" ]; then
   read -k 1 "?Press any key to close this window..."
   exit 1
 fi
-python3 "$SCRIPT" "$@"
+python3 "$SCRIPT" --reuse-last "$@"
 rc=$?
 echo
 read -k 1 "?Press any key to close this window..."

@@ -19,22 +19,26 @@ A financial advisor who, for its own motives, **intentionally dupes** a board in
 
 - RBC was engaged by Rural/Metro's special committee to consider strategic alternatives while a competitor, Emergency Medical Services, was simultaneously up for sale. The overlap is what created the conflict: the firms bidding for EMS would also bid for Rural.
 - RBC wanted a **buy-side financing role in the EMS transaction**, and devised a plan to favour bidders in the Rural auction in order to capture that business. The conflict was not incidental to the engagement; it was the reason RBC shaped the process as it did.
-- RBC **never disclosed** to the board its interest in obtaining that financing role, or how it planned to use the Rural engagement to win it.
-- RBC made **eleventh-hour attempts to secure buy-side financing from the winning bidder while simultaneously leading the price negotiations**, and did not tell the board. Occupying both sides of the same negotiation is the clearest expression of the conflict.
+- RBC **never disclosed** to the Rural board its interest in obtaining that financing role, or how it planned to use the Rural engagement to win it.
+- RBC made **eleventh-hour attempts to secure buy-side financing from the winning Rural bidder while simultaneously leading the price negotiations**, and did not tell the board. Occupying both sides of the same negotiation is the clearest expression of the conflict.
 - RBC knew the board and the special committee were **uninformed about Rural's value**, and made no effort to inform them.
 - RBC's desire for Warburg's business "manifested itself in its financial analysis," which RBC **modified and delivered on the day the board approved the merger**. The board was unaware of the modifications.
 - RBC conducted **back-channel communications with Warburg** that the board did not know about.
 - The resulting sale was poorly timed and at a price the trial court found did not reflect appropriate efforts to obtain the best value reasonably available; the court found Rural's **stand-alone value exceeded the sale price**.
 - RBC's misleading presentation and undisclosed conflicts flowed into the **Proxy Statement**, which carried materially misleading information and omitted RBC's conflicts.
 - The board's own **lack of oversight** afforded RBC "the opportunity to indulge in the misconduct which occurred." *The board's failure is part of the causal story, not a defence for RBC.*
-- The directors were protected by a § 102(b)(7) provision and lacked the scienter required for a loyalty violation. *That is why the case is about the advisor.*
+- The directors were protected by a § 102(b)(7) provision and lacked the <u>scienter</u> required for a loyalty violation. *That is why the case is about the advisor.*
 - "The manifest intentionality of RBC's conduct" was established by **the bankers' own internal communications**.
 
 ## Court Ruling
 
 **Held**
 
-- The elements of aiding and abetting a breach of fiduciary duty, from Malpiede, are (i) the existence of a fiduciary relationship, (ii) a breach of the fiduciary's duty, (iii) **knowing participation** in that breach by the defendants, and (iv) damages proximately caused by the breach.
+- The elements of aiding and abetting a breach of fiduciary duty, from Malpiede, are 
+	- (i) the existence of a fiduciary relationship, 
+	- (ii) a breach of the fiduciary's duty, 
+	- (iii) **knowing participation** in that breach by the defendants, and 
+	- (iv) damages proximately caused by the breach.
 - "Knowing participation in a board's fiduciary breach requires that the third party act with the knowledge that the conduct advocated or assisted constitutes such a breach," and a bidder "may be liable to the target's stockholders if the bidder attempts to create or exploit conflicts of interest in the board."
 - The trial court's formulation is affirmed as a **narrow** holding: "[i]f the third party knows that the board is breaching its duty of care and participates in the breach by misleading the board or creating the informational vacuum, then the third party can be liable for aiding and abetting."
 - **It is the aider and abettor that must act with scienter.** The advisor must act "knowingly, intentionally, or with reckless indifference," with an "illicit state of mind," and the plaintiff must show the advisor had "actual or constructive knowledge that their conduct was legally improper." Whether a defendant acted with scienter is a **factual** determination.
@@ -116,7 +120,7 @@ Amicus briefs from industry groups warned that recognising a claim for aiding an
 *(Valihura, J.)*
 
 - The court builds the holding out of Malpiede rather than announcing anything new, which is how it can recognise a care-based aiding and abetting claim while insisting the holding is narrow.
-- Scienter is placed on the **aider and abettor's own conduct**, not merely on the primary breach. Knowing the board is breaching is not enough; the advisor must know its own participation is legally improper. That double requirement is what the court later leans on when it says these claims are among the hardest to prove.
+- Scienter regarding the breach of fidicuary duty and one's own acts related to that breach is requires—placed on the **aider and abettor's own conduct**, not merely on the primary breach. Knowing the board is breaching is not enough; the advisor must know its own participation is legally improper. That double requirement is what the court later leans on when it says these claims are among the hardest to prove.
 - The causal account matters as much as the mental one. RBC did not merely fail to correct a board that was already lost — RBC **created** the vacuum, by concealing its own conflicts, by withholding the modifications to its valuation, and by running back-channel negotiations. The board's own inattention gave RBC "the opportunity to indulge in the misconduct," but the misconduct is RBC's.
 - On exculpation, the court reads § 102(b)(7) as doing exactly what it says. It removes a remedy against directors; it does not erase the breach. Because the second Malpiede element asks only whether a fiduciary breached, the exculpated breach remains a perfectly good predicate.
 - The perverse-incentive passage is the normative core. A rule extending the shield to advisors would let a trusted adviser defraud its own client and then shelter behind the client's protection.

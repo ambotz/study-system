@@ -36,6 +36,7 @@ A corporation may buy out a dissident blockholder with corporate funds, at a pre
 - Under **8 Del. C. § 160** a corporation has statutory power to purchase and sell shares of its own stock, and "[t]he charge here is not one of violation of statute" but that the true motive was perpetuation of control.
 - If the board acted on "a sincere belief that the buying out of the dissident stockholder was necessary to maintain what the board believed to be proper business practices," it is not liable "even though hindsight indicates the decision was not the wisest course." If it "acted solely or primarily because of the desire to perpetuate themselves in office, the use of corporate funds for such purposes is improper."
 - Directors must **justify their actions**, but only those with a **personal pecuniary interest** — Cheff as an executive and Trenkamp as counsel — are held to a heightened standard of proof. A large shareholding alone does not create such an interest, because every shareholder shares in the benefit.
+	- Executive has interest because of position/pride/motivation, etc. 
 - The operative question is whether the directors showed **reasonable grounds to believe a danger to corporate policy and effectiveness existed** because of another person's stock ownership. "[T]he directors satisfy their burden by showing good faith and reasonable investigation," and "will not be penalized for an honest mistake of judgment, if the judgment appeared reasonable at the time the decision was made."
 - The Vice Chancellor erred in finding no substantial evidence of a threatened liquidation, because the board's fear "was not limited to the possibility of liquidation; it included the alternate possibility of a **material change in Holland's sales policies**, which the board considered vital to its future success."
 - Nine items of unrebutted testimony support the board's belief: Maremont's deception about his intentions; his stated view of the retail sales force; his demand for a board seat; his increased purchases after refusal; the employee unrest; the Dun & Bradstreet report; the Merrill Lynch recommendation; the advice of over-capitalisation; and the informal investigations by Staal and Cheff.
@@ -52,6 +53,9 @@ A corporation may buy out a dissident blockholder with corporate funds, at a pre
 ## Context
 
 Cheff is the ancestor of [[Unocal v. Mesa Petroleum (1985)|Unocal v. Mesa Petroleum]], excerpted immediately after it and assigned the same day, and the continuity is verbatim. Unocal takes Cheff's formulation — reasonable grounds to believe a danger to corporate policy and effectiveness existed, satisfied by good faith and reasonable investigation — and makes it the **first prong** of enhanced scrutiny. What Unocal adds is the second prong: proportionality, "reasonable in relation to the threat posed." Cheff supplies the threat inquiry and stops there.
+
+So the move from Cheff to Unocal is the court deciding that shifting the burden isn’t enough if the bar to clear it is this soft.
+	Unocal provides an _objective_ check on whether the response fit the threat — precisely because you can’t resolve the entrenchment worry by trusting the board’s stated motive alone.
 
 Unocal also quotes Cheff's premise about why the inquiry exists at all: "We must bear in mind the inherent danger in the purchase of shares with corporate funds to remove a threat to corporate policy when a threat to control is involved. The directors are of necessity confronted with a conflict of interest, and an objective decision is difficult." That sentence is the seed of the "omnipresent specter."
 
@@ -132,15 +136,9 @@ The Holland board approved on October 23 with all directors but Spatta present. 
 - The court separates **power** from **purpose** at the outset, which is what keeps the case from being about § 160 at all. Because the statute plainly authorises the purchase, everything turns on the motive behind it.
 - The conflict is acknowledged rather than assumed away. Directors buying out a threat to control are buying out a threat to themselves, and the court says so — then sets a burden of justification rather than a prohibition.
 - That burden is deliberately **process-shaped**: good faith and reasonable investigation. The court is asking whether the directors had reason to believe what they believed, not whether they were right, which is why nine items of what the board was *told* carry the holding.
-- The interest analysis is narrow in a way that matters later. Only a salary and a legal retainer count; equity does not, because equity aligns a director with the other holders. Unocal repeats the point when Mesa argues that the Unocal directors were interested by virtue of their shareholdings.
+- The interest analysis is narrow in a way that matters later. <u>Only a salary and a legal retainer count</u>; equity does not, because equity aligns a director with the other holders. Unocal repeats the point when Mesa argues that the Unocal directors were interested by virtue of their shareholdings.
 - On the premium, the court reasons from the market rather than from the corporation's perspective. A block has a control premium in anyone's hands, so a buyer who happens to be the issuer cannot claim an exemption from the going price.
 - The non-corporate funds passage is the sharpest piece of reasoning in the opinion, because it exposes the Vice Chancellor's holding as self-contradictory. Liability turned on a fact that is irrelevant under either branch of the court's own test.
-
-### Dissent / concurrence
-
-- Unanimous.
-
-The opinion leaves one thing conspicuously unexamined. The August 30 resolution authorised the repurchases "ostensibly for use in a stock option plan," and the court notes in a single clause that the plan "has never been implemented." Under a test that asks whether the directors acted solely or primarily to entrench, a stated corporate purpose that was never carried out is the most direct evidence of pretext the record could contain, and it goes unaddressed. The court's implicit answer is that the October purchase was separately considered and separately justified, but it never says so.
 
 ### Cold-call notes
 

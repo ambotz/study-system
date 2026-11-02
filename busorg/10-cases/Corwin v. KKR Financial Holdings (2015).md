@@ -15,6 +15,8 @@ posture_drove_outcome: true
 
 Where a transaction is **not** subject to entire fairness, approval by a fully informed, uncoerced majority of the disinterested stockholders invokes the business judgment rule in a post-closing damages action, and does so even if Revlon would otherwise have applied (enhanced scrutiny review would otherwise apply).
 
+Corwin still rears its teeth in exactly the place §144 never engages: **the third-party, arm’s-length merger with no controller and no interested fiduciary on the company’s side (no conflict)** — the ordinary Revlon sale to an unaffiliated acquirer.
+
 ## Facts
 
 - KKR owned **less than 1%** of Financial Holdings' stock, had no right to appoint any directors, and had no contractual right to veto any board action. Those three absences defeat the controller allegation and therefore keep entire fairness out of the case.
