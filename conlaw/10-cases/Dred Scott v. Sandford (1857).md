@@ -15,7 +15,7 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> Source check — The 4th ed. mislabels the Territories Clause as "Art. I, § 3" (p. 724); it is Art. IV, § 3. The 7–2 vote is inferred, as the excerpt gives no count.
+> [!caution] Source check — The 4th ed. mislabels the Territories Clause as "Art. I, § 3" (p. 724); it is Art. IV, § 3. The 7–2 vote is inferred, as the excerpt gives no count.
 
 ## Snapshot
 
@@ -113,7 +113,7 @@ Now repudiated: no person of African descent whose ancestors were enslaved could
 
 **Note 3. "How would you describe . . . Taney's interpretive method? Was it originalist? . . . Did [Curtis] think the Court followed the original meaning . . . too closely, or disregarded it?"**
 
-- Taney asks who was "in the minds of the framers," treating founding-era conduct as controlling against words that "would seem to embrace the whole human family" — expected application (original intent), not original meaning. Curtis asks what the words meant in law, and concludes that the Court disregarded it ([[Types of Constitutional Argument]]).
+- Taney asks who was "in the minds of the framers," treating founding-era conduct as controlling against words that "would seem to embrace the whole human family" — expected application, not original meaning. Curtis asks what the words meant in law, and concludes that the Court disregarded it ([[Types of Constitutional Argument]]).
 
 **Note 4. "The Court's decision produced the strongest and most sustained backlash against the authority of the Supreme Court's decisions in our nation's history."**
 

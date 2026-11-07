@@ -14,11 +14,10 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — The 4th-ed. casebook omits the O'Connor and Thomas concurrences and the Souter and Breyer dissents (p. 593), so those opinions (and Scalia's footnote reply to Breyer's comparative argument) are summarized here from the reported opinion at 521 U.S. 898, without quotation; verify against the 5th ed., which may excerpt them.
 
 ## Snapshot
 
-The Brady Act's interim provisions ordered local chief law enforcement officers to run background checks on prospective handgun buyers. Two sheriffs sued, won below, lost in a divided Ninth Circuit, and won again here. The Court held that Congress may not command state executive officers to administer a federal regulatory program. In play are the commerce power, the Necessary and Proper Clause, the Tenth Amendment and Article II.
+The Brady Act's interim provisions ordered local chief law enforcement officers to run background checks on prospective handgun buyers. Two sheriffs sued, won below, lost in a divided Ninth Circuit, and won again here. The Court held that <u>Congress may not command state executive officers to administer a federal regulatory program</u>. In play are the commerce power, the Necessary and Proper Clause, the Tenth Amendment and Article II.
 
 ## Issue
 
@@ -50,13 +49,21 @@ Congress may not command state executive officers to administer or enforce a fed
 **Held** (5–4; Scalia, J., for the Court, with Rehnquist, C.J., O'Connor, Kennedy and Thomas, JJ.; O'Connor and Thomas, JJ., concurring; Stevens, J., dissenting with Souter, Ginsburg and Breyer, JJ.; Souter and Breyer, JJ., dissenting separately)
 
 - **Congress may not conscript the state executive.** With "no constitutional text speaking to this precise question," the answer lies in history, structure and precedent, in that order.
+	- History: when the federal government directed state officials to do something, it always hinged on state judges, which is explictly called out in the Constitution under Article VI and Article IV § 1 Full Faith and Credit Clause. This, if anything, shows that Congress knew state executives were off limits. 
 - **The rule reaches officers.** "We held in New York that Congress cannot compel the States to enact or enforce a federal regulatory program. Today we hold that Congress cannot circumvent that prohibition by conscripting the State's officers directly." Reversed.
 - **Funding conditions and information-only requirements are left open.**
 
 **Scalia, for the Court**
 
+- History continued: even in war time, the President asked States' Governors; did not command them to give services of their state
 - Structure: the Constitution created "dual sovereignty," and "the Framers explicitly chose a Constitution that confers upon Congress the power to regulate individuals, not States."
+	-  Commerce Clause legislation allows for Congress to attempt to employ federal regulation through state mechanisms. However Congress must use means that are necessary and "proper" for carrying the power into execution, and forcing state executives to enforce it is not a proper means. Federalist 33: when it's not proper it becomes "merely an act of usurpation";  
 - Accountability and Article II: a State's government must "represent and remain accountable to its own citizens," while the Take Care Clause places execution in the President, a responsibility the Act "effectively transfers . . . to thousands of CLEOs in the 50 States," who act "without meaningful Presidential control."
+	- SOP implications as well as federalism concerns
+	- Congress is essentially bypassing federal enforcement power by going direclty to states and making them 'take care' of the federal laws congress passes. Violation of Art. 2 and Executive Power.
+	- **The consent problem (the best response).** If the Article II injury is real, state consent shouldn’t cure it, because the President’s power isn’t the states’ to waive. Yet, Scalia accepts cooperative federalism schemes.
+		- Blurs 10th amendment with Article 2
+	- Are CLEO's even exercising federal power? If so, appointments problem. But this is just 'reasonable efforts' so likely not 'significant authority' under [[Buckley v. Valeo (1976)]]
 
 **O'Connor, concurring**
 
@@ -69,6 +76,11 @@ Congress may not command state executive officers to administer or enforce a fed
 **Stevens, dissenting (joined by Souter, Ginsburg and Breyer)**
 
 - The Necessary and Proper Clause "is surely adequate to support the temporary enlistment of local police officers," and the Oath Clause binds them: "[t]here is not a clause, sentence, or paragraph in the entire text of the Constitution" that lets a local officer ignore a valid federal statute.
+- Can't assume from congressional inaction that Congress did not act because the powers were outside its authority. 
+-  Political safeguards protecting federalism are in place; states voted for this
+- Aggrandize argument:  the federal government is incentivized to create national bureaucracies to implement its policies without a state body/access
+- New York
+	- Dicta, forces a state legislator to make policies (blurred accountability), which the Brady Act does not do 
 - The early statutes gave state judges executive duties, so the majority's line "rests on empty formalistic reasoning of the highest order," and the States are anyway protected by their representation in Congress ([[Garcia v. San Antonio Metropolitan Transit Authority (1985)|Garcia]]).
 
 **Souter, dissenting**
@@ -89,13 +101,13 @@ Congress may not command state executive officers to administer or enforce a fed
 
 ## Where it sits
 
-**The anti-commandeering pair.** *New York v. United States* (1992) struck the "take title" provision of the Low-Level Radioactive Waste Policy Amendments Act, which forced States to legislate or keep the waste; Printz completes the pair. [[Garcia v. San Antonio Metropolitan Transit Authority (1985)|Garcia]] still governs laws that regulate States alongside private actors, while these two govern laws that tell States how to govern.
+**The anti-commandeering pair.** *New York v. United States* (1992) struck the "take title" provision of the Low-Level Radioactive Waste Policy Amendments Act, which forced States to legislate or keep the waste; Printz completes the pair. [[Garcia v. San Antonio Metropolitan Transit Authority (1985)|Garcia]] still governs laws that regulate States alongside private actors, while these two <u>govern laws that tell States how to govern</u>.
 
-**The routes left open.** Congress may regulate private parties directly, or pay for cooperation through conditional spending, which Scalia expressly distinguishes; see [[South Dakota v. Dole (1987)|South Dakota v. Dole]] and the coercion limit in [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]]. *Reno v. Condon* (2000) upheld a bar on States selling drivers' data, which regulated them as database owners and reached private resellers.
+**The routes left open.** Congress <u>may regulate private parties directly</u>, or pay for cooperation through conditional spending, which Scalia expressly distinguishes; see [[South Dakota v. Dole (1987)|South Dakota v. Dole]] and the coercion limit in [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]]. *Reno v. Condon* (2000) upheld a bar on States selling drivers' data, which regulated them as database owners and reached private resellers.
 
 **The doctrine since.** *Murphy v. NCAA* (2018) extended the rule to federal prohibitions on state legislation, grounding it in Article I's silence about "the power to issue direct orders to the governments of the States." *Haaland v. Brackeen* (2023) rejected a challenge to the Indian Child Welfare Act, which binds private and state actors alike.
 
-**The Article II thread.** Scalia's unitary-executive argument borrows [[The Federalist No. 70]] and ties Printz to the removal cases — [[Humphrey's Executor v. United States (1935)|Humphrey's Executor v. United States]] — and the Take Care Clause.
+**The Article II thread.** Scalia's unitary-executive argument (that the president must enforce laws of Congress angle) borrows [[The Federalist No. 70]] and ties Printz to the removal cases — [[Humphrey's Executor v. United States (1935)|Humphrey's Executor v. United States]] — and the Take Care Clause.
 
 ## Professor gloss
 
@@ -111,13 +123,13 @@ Congress may not command state executive officers to administer or enforce a fed
 
 - Scalia: the Supremacy Clause names "the Judges in every State," and courts apply other sovereigns' law routinely.
 - Stevens: judges have "merited as much respect as executive agents," so sparing "town constables" while pressing judges is "perverse."
-- Argue it by function: a legislature chooses for the State, a judge applies law as he finds it, and a CLEO searching records looks judge-like.
+- Argue it by function: a legislature chooses for the State, a judge applies law as he finds it, and a CLEO searching records looks judge-like; Scalia cuts the other way through a highly-formalistic approach. 
 
 **Note 3. ". . . should judges—especially originalist ones—change their constitutional beliefs every time new historical evidence is discovered?"**
 
 - Campbell (2013): commandeering was the Anti-Federalists' alternative to a large central bureaucracy, so Hamilton was conceding it, not claiming it — which inverts Scalia's reading of No. 27.
 - Bellia and Clark (2020) push back: change in 2013, then change again in 2020?
-- Either original meaning is fixed and judicial estimates must follow the evidence, or stare decisis absorbs the shock.
+- Either original meaning is fixed and judicial estimates must follow the evidence, or stare decisis absorbs the shock with changing precedent as new evidence is encountered.
 
 **Note 4. Section 1373(a) bars any official from prohibiting or "in any way restrict[ing]" the sharing of immigration-status information. "Is this provision unconstitutional under the anticommandeering doctrine?"**
 
@@ -129,6 +141,8 @@ Congress may not command state executive officers to administer or enforce a fed
 
 - Alito's account is structural: "conspicuously absent from the list of powers given to Congress is the power to issue direct orders to the governments of the States."
 - "[I]t was a matter of happenstance that the laws challenged in New York and Printz commanded 'affirmative' action as opposed to imposing a prohibition."
+- Murphy rejects the formalistic argument that anticommandeering only applies to Congress attempting the states to *do something* compared to prohibiting the states *from acting*
+	- Simply happenstance that the laws in New York and Printz involved affirmative action vs. prohibition
 - Keep ordinary preemption separate: regulating private actors and displacing state law is no order to a State.
 
 ### Further drilling

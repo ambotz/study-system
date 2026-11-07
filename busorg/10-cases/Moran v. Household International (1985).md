@@ -16,7 +16,7 @@ posture_drove_outcome: false
 A board may adopt a shareholder rights plan **before any threat exists**, under 8 Del. C. §§ 157, 151 and 141(a), and its adoption receives the business judgment rule — but the plan is not self-executing: the decision whether to redeem the rights when an actual offer arrives is judged separately, under the same fiduciary standards.
 
 
-**Moran validates the pill’s adoption under Unocal; it does not validate the board’s use of the pill, which draws its own Unocal scrutiny when a real bid forces the redeem-or-not decision.** Same two-pronged standard (threat and proportionate response), applied at two different moments to two different board actions.
+**Moran validates the pill’s adoption under Unocal; it does not validate the board’s use of the pill (not decided), which draws its own Unocal scrutiny when a real bid forces the redeem-or-not decision.** Same two-pronged standard (threat and proportionate response), applied at two different moments to two different board actions.
 
 ## Facts
 

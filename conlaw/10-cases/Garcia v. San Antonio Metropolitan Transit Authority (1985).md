@@ -16,7 +16,7 @@ posture_drove_outcome: false
 
 ## Snapshot
 
-Congress applied the Fair Labor Standards Act's wage and overtime rules to a municipal transit authority, which sued claiming immunity as a State performing a traditional governmental function. It won twice below and lost here. The Court overruled *National League of Cities v. Usery*, holding that no judicially defined enclave of state functions escapes generally applicable commerce regulation and that the States' protection lies in the national political process. The Tenth Amendment and the Commerce Clause are in play.
+Congress applied the Fair Labor Standards Act's wage and overtime rules to a municipal transit authority, which sued claiming immunity as a State performing a traditional governmental function. It won twice below and lost here. The Court overruled *National League of Cities v. Usery*, holding that no judicially defined enclave of state functions escapes generally applicable commerce regulation and <u>that the States' protection lies in the national political process</u>. The Tenth Amendment and the Commerce Clause are in play.
 
 ## Issue
 
@@ -42,7 +42,7 @@ States have no judicially enforced immunity from generally applicable Commerce C
 - **In 1976 *National League of Cities v. Usery* held the FLSA could not reach the States' "traditional governmental functions," and SAMTA stopped complying.** *The statute is identical in both cases, so Powell can say nothing changed but the Court's view.*
 - **Over the next eight years the lower courts split badly over what counts as a traditional function: airports and highway authorities were immune, mental health facilities were not.** *The incoherence is Blackmun's main reason for overruling, and the dissenters never answer it.*
 - **In 1979 the Department of Labor opined that SAMTA was covered, SAMTA sued for a declaration that *National League of Cities* barred the FLSA, and Garcia, a SAMTA employee, intervened for the Secretary of Labor.** *A pre-enforcement suit by the regulated government, with the employee supplying a private party and the case's name.*
-- **The District Court twice granted summary judgment for SAMTA, the second time after a remand in light of *Long Island Rail Road*, and the case came up on direct appeal.** *Two rounds below on shifting authority show the test could not be applied.*
+- **The District Court twice granted summary judgment for SAMTA, the second time after a remand in light of *Long Island Rail Road* (SCOTUS case), and the case came up on direct appeal.** *Two rounds below on shifting authority show the test could not be applied.*
 - **The FLSA's requirements applied to SAMTA exactly as to private employers, and SAMTA claimed immunity only as a government, never because its operations were local.** *Blackmun: SAMTA "faces nothing more than the same minimum-wage and overtime obligations that hundreds of thousands of other employers . . . have to meet." The commerce question was conceded, so the case tests state-as-state immunity alone.*
 
 ## Holding and reasoning
@@ -50,6 +50,7 @@ States have no judicially enforced immunity from generally applicable Commerce C
 **Held** (5–4; Blackmun for the Court; Powell dissenting, joined by Burger, C.J., Rehnquist and O'Connor; O'Connor dissenting, joined by Powell and Rehnquist; Rehnquist dissenting separately, omitted here)
 
 - **No immunity.** A rule "that turns on a judicial appraisal of whether a particular governmental function is 'integral' or 'traditional'" is "unsound in principle and unworkable in practice."
+	- There was no judicially-enforceable immunity to keep in the first place. Nobody has that immunity as a judicial entitlement. 
 - **The precedent is overruled.** Applying the FLSA to SAMTA "contravened no affirmative limit on Congress' power under the Commerce Clause." Reversed.
 - **Reserved.** "These cases do not require us to identify or define what affirmative limits the constitutional structure might impose on federal action affecting the States."
 
@@ -59,12 +60,16 @@ States have no judicially enforced immunity from generally applicable Commerce C
 - A historical test freezes the States in place and is "line-drawing of the most arbitrary sort," while a test of "necessary" services protects almost nothing, since a State can always contract out.
 - The deeper objection is democratic: the States "must be equally free to engage in any activity that their citizens choose for the common weal," and cannot "serve as laboratories" if they "must pay an added price" for functions once left private.
 - State sovereignty is what the Constitution leaves, not a pre-constitutional given, and the Framers protected the States through the national government's structure. "The political process ensures that laws that unduly burden the States will not be promulgated."
+	- "We doubt that courts ultimately can identify principled constitutional limitations on the scope of Congress’ Commerce Clause powers over the States merely by relying on a priori definitions of state sovereignty."
+	- Variety of powers withdrawn from STates by Art. 1, § 10 
 
 **Powell, dissenting (joined by Burger, C.J., Rehnquist and O'Connor)**
 
 - The decision "effectively reduces the Tenth Amendment to meaningless rhetoric when Congress acts pursuant to the Commerce Clause," and "an unelected majority of five Justices" discards settled understanding.
 - Members of Congress, once elected, "are Members of the Federal Government," and "[t]he States' role in our system of government is a matter of constitutional law, not of legislative grace."
+	- The President, although elected by the electoral college, is not a representative of the States' interests
 - The holding makes "federal political officials . . . the sole judges of the limits of their own power," contrary to [[The Federalist No. 78]] and [[Marbury v. Madison (1803)|Marbury]].
+- Practically, the adminsitraiton and enforcement of federal laws are in the hands of staff and civil service employees; far removed from the Congressional members themselves *who are now Federal Officials*
 
 **O'Connor, dissenting (joined by Powell and Rehnquist)**
 
@@ -81,7 +86,7 @@ States have no judicially enforced immunity from generally applicable Commerce C
 
 **Federalism enforced through politics.** Garcia is the high-water mark of that view. It closes a line that began with *Maryland v. Wirtz* (1968), upholding the FLSA's extension to state schools and hospitals, turned in *National League of Cities v. Usery* (1976), and was hollowed out by *EEOC v. Wyoming* (1983) and *Long Island Rail Road* (1982). The casebook files it after *United States v. Comstock*, under the Necessary and Proper Clause and state sovereignty, because O'Connor locates the limit in [[McCulloch v. Maryland (1819)|McCulloch]].
 
-**Never overruled, but routed around.** *New York v. United States* (1992) and [[Printz v. United States (1997)|Printz v. United States]] (1997) distinguish laws that regulate States alongside private parties, which Garcia permits, from laws that command States to govern, which are forbidden. *Gregory v. Ashcroft* (1991) added a clear-statement rule, and [[United States v. Lopez (1995)|United States v. Lopez]] (1995) revived limits on the commerce power itself. Rehnquist's omitted dissent predicted that the old principle would again command a majority.
+**Never overruled, but routed around.** *New York v. United States* (1992) and [[Printz v. United States (1997)|Printz v. United States]] (1997) distinguish <u>laws that regulate States alongside private parties, which Garcia permits, from laws that command States to govern, which are forbidden</u>. *Gregory v. Ashcroft* (1991) added a clear-statement rule, and [[United States v. Lopez (1995)|United States v. Lopez]] (1995) revived limits on the commerce power itself. Rehnquist's omitted dissent predicted that the old principle would again command a majority.
 
 **The political-safeguards theory itself.** O'Connor answers its 1950s academic pedigree with a 1954 observation that there was then a "burden of persuasion on those favoring national intervention," a burden that "has surely shifted." Stevens's [[Printz v. United States (1997)|Printz]] dissent quotes Garcia to argue that the political safeguards answer commandeering too.
 
@@ -92,12 +97,18 @@ States have no judicially enforced immunity from generally applicable Commerce C
 **Note 1. "What is the holding of Garcia? What, exactly, does the Court consider 'the principal and basic limit' on congressional power? . . . How can the Court tell whether 'the internal safeguards of the political process have performed as intended' . . . ?"**
 
 - Narrowly, the FLSA reaches a municipal transit authority and *National League of Cities* is overruled; broadly, no enclave of state functions is immune.
+- **Middle (the money sentence):** the limit the Commerce Clause imposes to protect the “States as States” is **“one of process rather than one of result.”** _Garcia_ converts the state-sovereignty limit from **substantive** (court-defined spheres of immunity, _NLC_) to **procedural** (is the political process intact?).
 - The limit is structural — electoral qualifications, the Electoral College, equal Senate representation — but Blackmun gives no criteria for a failure of process.
+- For a federal law that (a) is within the commerce power and (b) regulates the States the same way it regulates private parties (the FLSA situation), _Garcia_ makes the **political process the principal and basic safeguard**
 
 **Note 2. "Justice O'Connor says that the majority 'washes its hands of all efforts to protect the States.' Is that correct? . . . is Garcia an exemplar of the 'political question' doctrine in non-jurisdictional form? . . . such as the non-delegation doctrine?"**
 
+-
 - It borrows both political-question factors: no manageable standards, and something close to a commitment to Congress.
 - It is not jurisdictional, though: the Court reaches the merits and could still strike a law showing a failure of process. The nondelegation parallel holds (see [[Gundy v. United States (2019)|Gundy v. United States]]).
+	- **_South Carolina v. Baker_ (1988).** Three years after _Garcia_, the Court gave the only real doctrinal handle: a state must show it was **(1) deprived of its right to participate in the national political process, or (2) singled out in a way that left it politically isolated and powerless.** But, baker too demanding. So Court drew **bright-line substantive rules for the scenarios where the process predictably fails**:
+		- Anti-commandeering — Congress can’t compel a state to _legislate_ ([[Printz v. United States (1997)]])
+		- **Anti-coercion spending** — conditions so coercive they’re a “gun to the head” (_NFIB_, 2012, Medicaid).
 
 **Note 3. "As the opinion notes, the principal original safeguard for federalism, the representation of state governments in the Senate, was eliminated by the Seventeenth Amendment. How should that amendment be taken into consideration?"**
 
@@ -116,7 +127,7 @@ States have no judicially enforced immunity from generally applicable Commerce C
 
 ### Further drilling
 
-- **Hypo: a wage law for state employees only.** Garcia's premise weakens, since SAMTA lost because it faced "the same" obligations as private employers.
+- **Hypo: a wage law for state employees only.** Garcia's premise weakens, since SAMTA lost because it faced "the same" obligations as <u>private employers</u>.
 - **Hypo: Congress sets SAMTA's fares and routes.** That directs how the State governs rather than regulating it as an employer — commandeering under *New York v. United States* and [[Printz v. United States (1997)|Printz v. United States]].
 - **Hypo: transit grants conditioned on the federal minimum wage.** The spending route of [[South Dakota v. Dole (1987)|South Dakota v. Dole]], and most of SAMTA's budget was already federal money.
 - **Memorable lines.** Blackmun: "process rather than one of result." Powell: "meaningless rhetoric"; "not of legislative grace." O'Connor: "washes its hands"; "underdeveloped capacity for self-restraint."

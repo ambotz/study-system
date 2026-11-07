@@ -14,8 +14,6 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — The extract omits Darby's facts and procedural history; the Posture here (indictment of a Georgia lumber manufacturer, quashed by the District Court, direct appeal by the United States) comes from the reported case, not the casebook. The bridge note on p. 523 refers to a "note 7" that does not exist in the 4th ed. (the notes run 1–4) and cites Carter Coal as "293 U.S. 238," which should be 298 U.S. 238; check both against the 5th ed.
-
 ## Snapshot
 
 The Fair Labor Standards Act barred the interstate shipment of goods made below a federal minimum wage or above a maximum week, and separately commanded those wages and hours for employees producing goods for commerce. A Georgia lumber manufacturer was indicted, the District Court quashed the indictment, and the United States appealed directly. A unanimous Court upheld both provisions, overruled [[Hammer v. Dagenhart (1918)|Hammer v. Dagenhart]], and called the Tenth Amendment "a truism." In play: the Commerce Clause, the Necessary and Proper Clause, and the Tenth Amendment.
@@ -24,6 +22,7 @@ The Fair Labor Standards Act barred the interstate shipment of goods made below 
 
 - May Congress prohibit the interstate shipment of lumber made by employees paid below a prescribed minimum wage or worked beyond prescribed maximum hours?
 - May Congress prohibit the employment of workers in the production of goods "for interstate commerce" at other than prescribed wages and hours?
+	- This is the big question (even Holmes conceeded in *Hammer*)
 - Does the Tenth Amendment bar either regulation?
 
 ## Rule
@@ -39,7 +38,7 @@ Congress may prohibit the interstate shipment of any article for any motive, sub
 - **The Fair Labor Standards Act of 1938 set up "a comprehensive legislative scheme for preventing the shipment in interstate commerce of certain products and commodities produced in the United States under labor conditions as respects wages and hours which fail to conform to standards set up by the Act."** *Congress's stated target is competition in goods made under substandard conditions — the unfair-competition rationale Day rejected in [[Hammer v. Dagenhart (1918)|Hammer v. Dagenhart]], now the Act's purpose.*
 - **Section 15(a)(1) made it unlawful to ship interstate any goods "in the production of which any employee was employed in violation of section 6 or section 7."** *The Hammer statute's structure extended to all workers, so the case could not be decided without confronting Hammer.*
 - **Sections 6 and 7 set, for the Act's first year, a 25-cent minimum wage and a 44-hour week without overtime for employees "engaged in commerce or in the production of goods for commerce."** *Coverage runs to production for commerce, not production as such — the gap [[Wickard v. Filburn (1942)|Wickard v. Filburn]] later closes by aggregation.*
-- **Section 15(a)(2) made it unlawful to violate those wage and hour provisions directly.** *This regulates the factory itself, the thing even Holmes conceded Congress could not touch, and it is what forces the means-end holding.*
+- **Section 15(a)(2) made it unlawful to violate those wage and hour provisions directly.** *<u>This regulates the factory itself, the thing even Holmes</u> conceded Congress could not touch, and it is what forces the means-end holding.*
 - **Darby made lumber in Georgia, which had no wage and hour law of its own, and was indicted under both provisions.** *Lumber is harmless in itself, so Hammer's harmful-article test would defeat the shipment ban; and the State's choice to leave wages unregulated is the premise of the pretext argument.*
 - **The District Court quashed the indictment, holding the Act unconstitutional as applied.** *Hammer was still on the books below and controlled the first count, which is why the Court had to meet it rather than distinguish it.*
 - **The United States appealed directly to the Supreme Court, which reversed.** *A criminal case with no trial record, so the Act is judged on its face; nothing turns on how Darby's mill actually operated.*
@@ -60,21 +59,26 @@ Congress may prohibit the interstate shipment of any article for any motive, sub
 - Regulation includes prohibition. The power "extends not only to those regulations which aid, foster and protect the commerce, but embraces those which prohibit it," and the conceded categories — noxious articles, stolen articles, kidnapped persons, liquor, convict-made goods — are illustrations, not limits.
 - State policy is irrelevant to federal scope: the power "can neither be enlarged nor diminished by the exercise or nonexercise of state power," and it is "no objection" that its exercise "is attended by the same incidents which attend the exercise of the police power of the states."
 - Hammer, decided "by a bare majority of the Court, over the powerful and now classic dissent of Mr. Justice Holmes," cannot be reconciled with a plenary power to exclude; its harmful-article distinction and its motive-and-effect thesis have both lost force.
-- Production is reached as a means. Citing [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]], Congress having adopted the policy of excluding substandard goods "may choose the means reasonably adapted to the attainment of the permitted end even though they involve control of intrastate activities." The evil is "the spread of substandard labor conditions through the use of the facilities of interstate commerce" and the resulting "dislocation of the commerce itself."
+- Production is reached as a means to an end. Citing [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]], Congress having adopted the policy of excluding substandard goods "may choose the means reasonably adapted to the attainment of the permitted end even though they involve control of intrastate activities." The evil is "the spread of substandard labor conditions through the use of the facilities of interstate commerce" and the resulting "dislocation of the commerce itself."
+	- Innovative move. Takes **McCulloch’s N&P means-end logic for the hard part (reaching production that affects commerce).** McCulloch’s reasoning is doing the _same_ job in Darby that it did for the Bank — reaching an activity _outside_ the core enumerated power as an appropriate means to a legitimate enumerated end. The only change is the end: “regulate interstate commerce” instead of “carry fiscal powers into execution.”
 - The Tenth Amendment: "[t]here is nothing in the history of its adoption to suggest that it was more than declaratory of the relationship between the national and state governments as it had been established by the Constitution before the amendment."
 
 ## Arguments rejected
 
 - *The ban is "nominally a regulation of the commerce," but its real object is wages and hours in manufacture, and it overrides "the policy of the state which has elected to leave them unregulated" instead of aiding the destination states as the liquor and convict-goods cases did.* Stone: a regulation "is not a forbidden invasion of state power merely because either its motive or its consequence is to restrict the use of articles of commerce within the states of destination."
+	- Don't look at motive or function; formal as to commerce part
 - *Hammer confines the exclusion power to articles with some harmful property, and precedent should control.* That distinction "was novel when made"; "such vitality, as a precedent, as it then had, has long since been exhausted."
 - *Manufacture is not commerce, so Congress cannot fix wages and hours in a lumber mill.* Conceded as to manufacture itself, but Congress "may choose the means reasonably adapted to the attainment of the permitted end."
+	- As to non-commerce part, use means to an end to reach that activity (function?)
 - *The Tenth Amendment reserves local labor regulation to the states.* It was "declaratory" of a relationship the Constitution had already established, and never withdrew means "appropriate and plainly adapted to the permitted end."
 
 ## Where it sits
 
-**The road from 1918.** After Hammer, Congress taxed child-labor profits and lost in [[Bailey v. Drexel Furniture Co (1922)|Bailey v. Drexel Furniture Co]]; the Child Labor Amendment stalled at 28 of 36 ratifications. The Court then carried Hammer into the New Deal: *A.L.A. Schechter Poultry Corp. v. United States* (1935) struck a Brooklyn slaughterhouse's wage and hour codes as reaching commerce only "indirectly," and *Carter Coal* (1936) held "[p]roduction is a purely local activity." After the court-packing plan ([[Senate Report on Court Packing]]) and Roberts's shift, *NLRB v. Jones & Laughlin Steel Corp.* (1937) upheld the Wagner Act 5–4.
+**The road from 1918.** After Hammer, Congress taxed child-labor profits and lost in [[Bailey v. Drexel Furniture Co (1922)|Bailey v. Drexel Furniture Co]]; the Child Labor Amendment stalled at 28 of 36 ratifications. The Court then carried Hammer into the New Deal: [[A.L.A. Schechter Poultry Corp. v. United States]] struck a Brooklyn slaughterhouse's wage and hour codes as reaching commerce only "indirectly," and *Carter Coal* (1936) held "[p]roduction is a purely local activity." After the court-packing plan ([[Senate Report on Court Packing]]) and Roberts's shift, *NLRB v. Jones & Laughlin Steel Corp.* (1937) upheld the Wagner Act 5–4.
 
 **Where the shift becomes doctrine.** Darby adopts Holmes's Hammer dissent on the shipment ban, goes past Holmes by sustaining direct regulation of production on a [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] means-end argument, and reads the Tenth Amendment as adding nothing to the enumeration.
+
+Shreveport/Swift → Jones & Laughlin (the modern origin) → Darby (generalizes it + kills _Hammer_ and the Tenth Amendment limit)
 
 **Forward.** [[Wickard v. Filburn (1942)|Wickard v. Filburn]] extends the second holding to production never intended for commerce. [[United States v. Lopez (1995)|United States v. Lopez]] and [[Gonzales v. Raich (2005)|Gonzales v. Raich]] sort the modern categories — channels (Darby's ban), instrumentalities, and activities substantially affecting commerce (Darby and Wickard). [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]] revives the means-end limit: a law may be necessary yet not "proper."
 
@@ -86,13 +90,14 @@ Congress may prohibit the interstate shipment of any article for any motive, sub
 
 **Note 1. "The unanimous (!) opinion in Darby not only rejects the reasoning in Hammer v. Dagenhart, but also the concessions to federalism made by Justice Holmes's dissent. . . . Is it persuasive . . . or did Justice Holmes have the most persuasive middle ground?"**
 
-- Holmes's middle ground: Congress may close the channels it controls but not regulate the factory. Darby removes the incoherence of letting the same end turn on drafting form, at the cost of the "direct intermeddling" limit.
+- Holmes's middle ground: Congress may close the channels it controls but not regulate the factory. <u>Darby removes the incoherence of letting the same end turn on drafting form</u>, at the cost of the "direct intermeddling" limit.
 - Stone's case is precedent, not text — *Gibbons* on completeness, McCulloch on means; he offers no reading of "regulate Commerce" that separates production from shipment.
 
 **Note 2. "Is the following passage from Darby — 'extends to those activities intrastate which so affect interstate commerce . . . as to make regulation of them appropriate means to the attainment of a legitimate end' — an interpretation of the Commerce Clause or the Necessary and Proper Clause? . . . Does it matter?"**
 
 - Necessary and Proper, in Commerce Clause clothing. "Legitimate end," "appropriate" and "plainly adapted" are McCulloch's words, and Stone cites McCulloch at 421.
 - It matters because means-end framing carries limits the clause alone does not: the end must be regulating interstate commerce and the means must be "proper" — the handle Scalia uses in [[Gonzales v. Raich (2005)|Gonzales v. Raich]] and Roberts in [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]].
+	- “Legitimate end” limit as the robust one and flag the “proper” limit as real-in-doctrine-but-linguistically-contested (cross-link it to your Bray hendiadys note).
 - Motive, meanwhile, becomes unreviewable, so McCulloch's pretext inquiry survives only in the tax cases ([[Bailey v. Drexel Furniture Co (1922)|Bailey v. Drexel Furniture Co]]) and in NFIB's tax-versus-penalty line.
 
 **Note 3. "At the time of Darby, the Child Labor Amendment . . . had received twenty-eight ratifications . . . . After Darby, the Amendment seemed moot. Would there have been any value in continuing to pursue ratification anyway?"**

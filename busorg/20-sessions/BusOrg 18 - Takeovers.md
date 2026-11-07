@@ -17,6 +17,13 @@ reconciled: false
 
 ## Notes
 
+Game theory of two-tier offers (were determined coercive after Unocal, so mainly all cash or all stock offers now)
+![[Pasted image 20261105125903.png]]
+
+Tendering is therefore never worse and sometimes better — a dominant strategy — so _everyone_ tenders, the bid succeeds, and everyone ends up at $54… **even though if nobody had tendered, the bid dies and everyone keeps $60.** Individually rational, collectively self-destructive. That’s the prisoner’s dilemma, and it’s exactly the “threat” Unocal was reacting to: a structurally coercive, below-value bid that succeeds not because it’s a good deal but because shareholders are stampeded.
+* Note: $60 is not necessarily what the stock is trading for at market, but more so what the stock is instrinsically worth*
+
+
 
 ## Signals
 

@@ -39,7 +39,7 @@ Congress is not confined to the means the Constitution names: where the end is l
 
 ## Operative facts
 
-- **No enumerated power mentions a bank or a corporation, and no clause excludes incidental powers as the Articles had.** *The charter can rest only on implied powers; the Tenth Amendment's omission of "expressly" is the hinge.*
+- **No enumerated power mentions a bank or a corporation, and no clause excludes incidental powers as the Articles had.** *The charter can rest only on implied powers; the Tenth Amendment's omission of "expressly" is the hinge that kills Maryland's claim.*
 - **Congress chartered the First Bank in 1791 for twenty years, after the principle was "opposed with equal zeal and ability" in debate and in Washington's cabinet.** *Both the practice Marshall credits and the argument he is adjudicating, Hamilton against Jefferson and Madison.*
 - **The charter was allowed to expire in 1811, a recharter bill having failed under Madison's presidency.** *A lapse cuts both ways: Jackson later counts 1791 and 1816 against 1811 and 1815 to call the precedents "equal."*
 - **The War of 1812 brought financial crisis, and the embarrassments of doing without a Bank "convinced those who were most prejudiced against the measure of its necessity."** *Necessity shown by events rather than by reasoning, which is why Marshall must disclaim reliance on it.*
@@ -53,14 +53,15 @@ Congress is not confined to the means the Constitution names: where the end is l
 
 **Held** (unanimous — "We are unanimously of opinion"; Marshall, C.J., for the Court; reversed)
 
-- **Congress may incorporate a bank.** The act "is a law made in pursuance of the constitution, and is a part of the supreme law of the land."
+- **Congress may incorporate a bank.** The act "is a law made in pursuance of the constitution, and is a part of the supreme law of the land." (Art. 1, Sec. 8, Cl. 18)
 - **The branches are valid.** The Bank "may, we think, be safely trusted with the selection of places where those branches shall be fixed."
-- **Maryland's tax is "unconstitutional and void,"** which is "the unavoidable consequence of that supremacy which the constitution has declared."
+- **Maryland's tax is "unconstitutional and void,"** which is "the unavoidable consequence of that supremacy which the constitution has declared." (Art. 6, Cl. 2)
 
 **Marshall, C.J., for the Court**
 
 - **Practice.** "[A] bold and daring usurpation might be resisted" however long acquiesced in, but a "doubtful question" about the powers of equal representatives of the people "ought to receive a considerable impression from that practice." He then disclaims reliance: the result would be the same "were the question entirely new."
-- **The people, not the States.** The Constitution "derives its whole authority" from the ratifying conventions, and the people's act "could not be negatived" by the State governments. The government is one "of enumerated powers," yet "supreme within its sphere of action."
+	- Likely because practice could be argued to cut both ways and be determined by necessity rather than constitutional understanding. 
+- **The people, not the States.** The Constitution "derives its whole authority" from the ratifying conventions, and <u>the people's act "could not be negatived"</u> by the State governments. The government is one "of enumerated powers," yet "supreme within its sphere of action."
 - **A constitution, not a code.** A document detailing every means "would partake of the prolixity of a legal code," so "only its great outlines should be marked"; Article I, § 9's restrictions would be pointless if nothing were implied. "[W]e must never forget that it is a constitution we are expounding."
 - **"Necessary and proper."** "[N]o word conveys to the mind, in all situations, one single definite idea"; Article I, § 10 says "absolutely necessary" when it means that, and "proper" can only "qualify that strict and rigorous meaning." The Clause sits "among the powers of Congress, not among the limitations," so "if it does not enlarge, it cannot be construed to restrain."
 - **Application and judicial role.** Incorporation is "never used for its own sake," and a bank is "a convenient, a useful, and essential instrument" of the government's "fiscal operations." Once the means is appropriate, "the degree of its necessity . . . is to be discussed in another place."
@@ -90,13 +91,16 @@ Congress is not confined to the means the Constitution names: where the end is l
 
 **Note 1. "What does Chief Justice Marshall say about Jefferson's arguments? About Hamilton's? About Madison's?"**
 
-- Jefferson's "indispensable" reading of "necessary" is rejected.
+- Jefferson's "indispensable" <u>reading of "necessary" is rejected</u>.
 - Hamilton's ordinary meaning and corporation-as-means are adopted almost verbatim. Madison's 1791 position is rejected, his conversion is evidence that statesmen "have yielded those opinions."
 
 **Note 2. "Does he consider the practice dispositive? What kinds of questions does Marshall think can and cannot be settled by practice?"**
 
 - No. Practice gets "a considerable impression" on a "doubtful question" about the division of power, but cannot legitimate "a bold and daring usurpation."
+	- Mirrors the idea of liquidation, but text must be unclear and practice must be consistent. 
 - Structure dominates: it carries the tax holding, which has no text at all. Compare [[Madison, Letter to Lafayette|Madison]] and [[Jackson, Veto Message on the Bank|Jackson]]; see [[Types of Constitutional Argument]].
+- The immunity is pure structural inference, built from the Supremacy Clause (Art. VI) plus the nature of the Union (representation reinforcing)
+	- Representation is the real check (the core move). The only safeguard against the taxing power is political — a legislature can tax only those represented in it. When a state taxes its own citizens, “they act upon themselves,” and representation restrains abuse. But a state taxing the Bank burdens the whole nation, whose citizens have no vote in that state. The structural check is therefore absent, so the power is unconfined — and an unchecked power to tax is the power to destroy.
 
 **Note 3. "Does Marshall think the Necessary and Proper Clause restricts the powers of the national government?"**
 
@@ -106,6 +110,9 @@ Congress is not confined to the means the Constitution names: where the end is l
 **Note 4. "What, exactly, does Marshall say that 'necessary' means? What work does he think 'proper' does in the clause? . . . Is 'Let the end be legitimate' a good paraphrase?"**
 
 - "Necessary" admits degrees; "proper" only qualifies its strictness, making the phrase a unity — Bray's hendiadys reading, which [[Printz v. United States (1997)|Printz]] and [[NFIB v. Sebelius (2012)|NFIB]] abandon.
+	- Bray: necessary and proper” is a **hendiadys** — a figure where two words joined by “and” express _one_ complex idea rather than two independent things.
+	- The conventional reading treats the phrase as two separate requirements — a law must be (1) _necessary_ **and** (2) _proper_ — two independent hurdles. Bray says that’s wrong grammar. Read as a hendiadys, “proper” doesn’t add a second test; it **qualifies and shades “necessary.”**
+	- It **fits Marshall in _McCulloch_.** Marshall never ran “proper” as a separate hurdle; he fused the idea — “let the end be legitimate… all means which are _appropriate_, which are _plainly adapted_ to that end… are constitutional.” On Bray’s reading that unified “appropriately necessary” gloss _is_ the clause, rather than Marshall quietly dropping “proper.”
 - Imperfect: it drops "necessary" and adds "consist with the letter and spirit," which is where "proper" lives.
 
 **Note 5. "Does Marshall say which enumerated powers the incorporation of the Bank would be 'necessary and proper' to carry into execution? Did Hamilton?"**
@@ -115,7 +122,7 @@ Congress is not confined to the means the Constitution names: where the end is l
 
 **Note 6. "What, exactly, was the problem with the tax? . . . Should these questions . . . be resolved by constitutional interpretation?"**
 
-- The first: Marshall disclaims any inquiry into "what degree of taxation is the legitimate use." Maryland did single the Bank out, but he never rests there; modern doctrine does.
+- The first: Marshall disclaims any inquiry into "what degree of taxation is the legitimate use." Maryland did single the Bank out, but he never rests there; modern doctrine does (See Baker).
 - *Johnson v. Maryland* (1920) extends it to regulation: no state license for a mail carrier, though perhaps rules on "turning at the corners of streets."
 - The closing question is the live one: "In the legislature of the Union alone, are all represented" points to Congress — [[Garcia v. San Antonio Metropolitan Transit Authority (1985)|Garcia]] runs the same logic in reverse.
 
@@ -123,5 +130,8 @@ Congress is not confined to the means the Constitution names: where the end is l
 
 - **Hypothetical: a one-percent tax on every Maryland bank.** Discrimination is gone, but the tax still falls on the Bank's "operations."
 - **Is a pretext inquiry manageable?** He reserves it while forbidding any weighing of necessity; [[United States v. Lopez (1995)|Lopez]] never reaches motive.
+	- Marshall's limit: Marshall reserves a check on **ends**: Congress may not use a legitimate enumerated power as a _cover_ for pursuing an object it has no power to reach. That is pretext inquiry policies the ends, not the means.
+		- Quote: "let the end be legitimate… all means which are appropriate, which are plainly adapted to that end… are constitutional”
 - **Compact or people?** One State's people cannot confer a sovereignty over what all the States created. See [[Campbell, Four Views on the Nature of the Union]].
+	- Requires an idea of a federal politic
 - **Memorable lines.** "[I]t is a constitution we are expounding." "[A] splendid bauble."

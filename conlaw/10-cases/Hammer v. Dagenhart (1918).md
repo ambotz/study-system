@@ -80,7 +80,7 @@ Congress may not use its power to exclude goods from interstate commerce to regu
 
 **Pretext.** Day finds the Act's "necessary effect" is to regulate the hours of child labor, applying Marshall's pretext warning in [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] to the commerce power. [[United States v. Darby (1941)|United States v. Darby]] abandons the inquiry: motive is "for the legislative judgment."
 
-**Aftermath.** Congress tried a tax on child-labor profits and lost 8–1 in [[Bailey v. Drexel Furniture Co (1922)|Bailey v. Drexel Furniture Co]], then proposed a Child Labor Amendment that stalled. *Schechter Poultry* (1935) and *Carter Coal* (1936) carried the production reasoning into the New Deal, *Jones & Laughlin Steel* (1937) turned the corner, and Darby overruled Hammer by name. The intuition that some activity lies beyond national power because it is local returns in [[United States v. Lopez (1995)|United States v. Lopez]] and [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]].
+**Aftermath.** Congress tried a tax on child-labor profits and lost 8–1 in [[Bailey v. Drexel Furniture Co (1922)|Bailey v. Drexel Furniture Co]], then proposed a Child Labor Amendment that stalled. [Schechter Poultry (1935)]  and *Carter Coal* (1936) carried the production reasoning into the New Deal, *Jones & Laughlin Steel* (1937) turned the corner, and Darby overruled Hammer by name. The intuition that some activity lies beyond national power because it is local returns in [[United States v. Lopez (1995)|United States v. Lopez]] and [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]].
 
 ## Professor gloss
 
@@ -90,7 +90,7 @@ Congress may not use its power to exclude goods from interstate commerce to regu
 
 - Text favors Holmes. The clause grants power over commerce among the states in unqualified terms, and a ban on carriage is a rule about carriage; Day must read a purpose requirement into "regulate."
 - Structure favors Day, and it is his strongest ground: a commerce power reaching production reaches everything made for sale, leaving the enumeration no work. The weakness is his misquotation, since the amendment reserves powers not "delegated."
-- Precedent favors Holmes. *Champion v. Ames* and *Caminetti* both ban movement of harmless things to suppress local vice, so Day's harmful-goods line does not describe them.
+- Precedent favors Holmes. *Champion v. Ames* and *Caminetti* both ban movement of harmless things themselves to suppress local vice, so Day's harmful-goods line does not describe them.
 
 **Note 2. "Justice Holmes concedes that the Constitution forbids 'direct intermeddling' with the states' 'exclusive control over their methods of production.' Why? What is his apparent theory of the limits of Congress's powers? Does it make sense?"**
 
@@ -107,6 +107,6 @@ Congress may not use its power to exclude goods from interstate commerce to regu
 ### Further drilling
 
 - **The pivotal fact.** The goods were harmless when shipped. Make the goods contaminated in the factory and the ban survives even on Day's test, because movement then spreads the harm.
-- **Shipping versus making.** A ban on *shipping* child-made goods is the Hammer statute, invalid in 1918 and valid after Darby. A ban on *employing* children regulates production directly, which Holmes himself conceded Congress could not reach.
+- **Shipping versus making.** A ban on *shipping* child-made goods is the Hammer statute, invalid in 1918 and valid after Darby. <u>A ban on *employing* children regulates production directly, which Holmes himself conceded Congress could not reach</u>.
 - **Formalism or functionalism?** Day is functional about the statute, looking to "necessary effect," and formal about the categories, since production is local. Holmes inverts both; [[Wickard v. Filburn (1942)|Wickard v. Filburn]] discards the categories.
 - **Memorable lines.** Day: "of themselves harmless"; "our system of government be practically destroyed." Holmes: "the product of ruined lives"; "some self-seeking State."

@@ -13,8 +13,8 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — The 4th-ed. extract omits the Stevens and Souter dissents entirely (bracketed editors' note) and cuts Kennedy's concurrence off mid-argument; if the 5th ed. excerpts Souter's dissent or more of Kennedy, add those points before class.
 ## Snapshot
+
 
 Congress made it a federal crime to possess a gun in a school zone. Lopez, a 12th-grade student charged federally after Texas dropped its case, was convicted; the Fifth Circuit reversed and the Supreme Court affirmed, holding that § 922(q) exceeds the commerce power because simple possession is not economic activity and the statute carries no jurisdictional element. It is the first statute struck down as beyond the Commerce Clause since the New Deal.
 
@@ -28,7 +28,7 @@ Congress made it a federal crime to possess a gun in a school zone. Lopez, a 12t
 
 The commerce power reaches three categories: the channels of commerce, the instrumentalities and things in commerce, and activities that substantially affect commerce. Under the third, Congress may not regulate noneconomic intrastate activity whose link to commerce runs through inferences that would equally support a police power.
 
-- Congress may regulate "the use of the channels of interstate commerce," "the instrumentalities . . . or persons or things in interstate commerce," and "those activities that substantially affect interstate commerce."
+- Congress may regulate (1) "the use of the channels of interstate commerce," (2) "the instrumentalities . . . or persons or things in interstate commerce," and (3) "those activities that <u>substantially</u> affect interstate commerce."
 - "Where economic activity substantially affects interstate commerce, legislation regulating that activity will be sustained"; noneconomic intrastate activity is aggregated only where the statute is "an essential part of a larger regulation of economic activity."
 - A jurisdictional element "would ensure . . . that the firearm possession in question affects interstate commerce"; findings help where an effect is not "visible to the naked eye."
 - The enumeration "presuppose[s] something not enumerated," and the Court preserves the "distinction between what is truly national and what is truly local."
@@ -42,7 +42,7 @@ The commerce power reaches three categories: the channels of commerce, the instr
 - **He was convicted, and the Fifth Circuit reversed, holding § 922(q) beyond the commerce power; the Court granted certiorari "[b]ecause of the importance of the issue."** *The Court reviews a holding of unconstitutionality, not a conviction it must undo.*
 - **In a 1994 amendment Congress added findings on the effect of guns in schools.** *Breyer leans on them; the majority works from the government's concession that the Act itself has none.*
 - **The United States defended the Act on the theory that guns in schools lead to violent crime, which raises insurance costs, deters interstate travel and impairs education, and so the national economy.** *Accepting those links would let Congress regulate family law and school curricula, and that is what sinks the statute.*
-- **After Lopez, Congress added a jurisdictional element, reaching a firearm "that has moved in or that otherwise affects interstate commerce."** *The decision's practical effect is a drafting rule: the courts of appeals have upheld the amended statute, and the Court has not taken it up.*
+- **After Lopez, Congress added a jurisdictional element, reaching a firearm "that has moved in or that otherwise affects interstate commerce."** *The decision's practical effect is a <u>drafting rule</u>: the courts of appeals have upheld the amended statute, and the Court has not taken it up.*
 
 ## Holding and reasoning
 
@@ -65,6 +65,7 @@ The commerce power reaches three categories: the channels of commerce, the instr
 
 - "[O]ur case law has drifted far from the original understanding of the Commerce Clause": at the founding "commerce" meant "selling, buying, and bartering, as well as transporting for these purposes," used "in contradistinction to productive activities such as manufacturing and agriculture."
 - On a substantial-effects gloss the bankruptcy, coinage, post office and patent powers are surplusage: "The power we have accorded Congress has swallowed Art. I, § 8."
+	- Response against Thomas and boring statutory interpretation arguments: This is a Constitution, not a code. Don't read it like a statute—it's not meant to be read like one. See [[McCulloch v. Maryland (1819)]]
 
 **Breyer, J., dissenting (joined by Stevens, Souter and Ginsburg, JJ.)**
 
@@ -76,13 +77,13 @@ The commerce power reaches three categories: the channels of commerce, the instr
 - *Violent crime imposes costs spread nationally through insurance and deters interstate travel, so guns in schools substantially affect commerce.* On that reasoning Congress "could regulate not only all violent crime, but all activities that might lead to violent crime, regardless of how tenuously they relate to interstate commerce."
 - *Guns degrade the learning environment, education drives national productivity, and Congress could rationally find a substantial effect (Breyer).* The same chain supports family law, a federal curriculum and child rearing, because "depending on the level of generality, any activity can be looked upon as commercial"; the Court would have "to pile inference upon inference."
 - *The commercial/noncommercial line revives the discredited formalism of "production" and "indirect" effects that Wickard rejected (Breyer).* Rehnquist concedes the line "may in some cases result in legal uncertainty," but so long as enumerated powers have "judicially enforceable outer limits," that is the price.
-- *Wickard aggregation lets the Court count all guns in all school zones, and the total is large (Breyer).* Aggregation applies to activity economic in character, and Wickard "involved economic activity in a way that the possession of a gun in a school zone does not."
+- *Wickard aggregation lets the Court count all guns in all school zones, and the total is large (Breyer).* <u>Aggregation applies to activity economic in character</u>, and Wickard "involved economic activity in a way that the possession of a gun in a school zone does not."
 
 ## Where it sits
 
 **The arc of the unit.** [[Hammer v. Dagenhart (1918)|Hammer v. Dagenhart]] drew a categorical line: manufacture is not commerce; [[United States v. Darby (1941)|United States v. Darby]] and [[Wickard v. Filburn (1942)|Wickard v. Filburn]] erased it and substituted effects plus aggregation. Rehnquist overrules none of them, reads them as recognizing "outer limits," and rebuilds a line on a new axis: economic versus noneconomic activity.
 
-**The working test.** Rehnquist's four considerations became the test: whether the activity is economic, whether there is a jurisdictional element, whether Congress made findings, and how attenuated the chain is. *United States v. Morrison* (2000) applied them to the Violence Against Women Act's civil remedy and struck it down despite extensive findings.
+**The working test.** Rehnquist's four considerations became the test: (1) whether the activity is economic, (2) whether there is a jurisdictional element, (3) whether Congress made findings, and (4) how attenuated the chain is. *United States v. Morrison* (2000) applied them to the Violence Against Women Act's civil remedy and struck it down despite extensive findings.
 
 **The limits of Lopez.** [[Gonzales v. Raich (2005)|Gonzales v. Raich]] shows how far the escape hatch reaches: the "essential part of a larger regulation" language sustained the Controlled Substances Act against homegrown marijuana. The no-limiting-principle argument returns in [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]], on the insurance mandate.
 
@@ -94,19 +95,21 @@ The commerce power reaches three categories: the channels of commerce, the instr
 
 **Note 1. "The different opinions in Lopez start from different premises . . . . Which one do you find most persuasive? What is that decision's weakest point?"**
 
-- Rehnquist: the New Deal cases always had "outer limits," so the economic/noneconomic line enforces them. Weakest point: the line is new, and he concedes "legal uncertainty."
+- Rehnquist: the New Deal cases always had "outer limits," so the economic/noneconomic line enforces them. Substantial effect required, not just an effect. Weakest point: the line is new, and he concedes "legal uncertainty."
 - Breyer: effects, aggregation and rational basis, all from Wickard. Weakest point: he "is unable to identify any activity that the States may regulate but Congress may not."
-- Thomas: "commerce" is trade, so the substantial-effects test is wrong at the root. Weakest point: it would unsettle Wickard and Darby.
+- Thomas: "commerce" is trade, so the substantial-effects test is wrong at the root. Weakest point: it would unsettle Wickard and Darby. Also reads Constitution like a Code. 
 
 **Note 2. "Could Congress accomplish its objectives . . . by including a 'jurisdictional element'? . . . Does the italicized language save the statute?"** — a firearm "that has moved in or that otherwise affects interstate commerce."
 
-- Split the prongs. "Has moved in" is a category-two theory, but nearly every gun has crossed a state line, so the hook screens out almost nothing, and past power does not imply power forever.
+- Split the prongs. "Has moved in" is a category-two theory (persons or things in commerce), but nearly every gun has crossed a state line, so the hook screens out almost nothing, and past power does not imply power forever.
 - "Otherwise affects" restates the category-three question case by case. Thomas (*Alderman*): the hook "cannot be reconciled with Lopez" and "could very well remove any limit on the commerce power."
+
 
 **Note 3. "Does Morrison follow a fortiori from Lopez? . . . Was Morrison correct in discounting the significance of congressional findings?"**
 
 - A fortiori on the activity: gender-motivated violence is "not, in any sense of the phrase, economic activity," so that factor does the work.
 - Morrison's record was stronger and it still lost, so findings cannot cure an inference-on-inference chain: "[s]imply because Congress may conclude that a particular activity substantially affects interstate commerce does not necessarily make it so."
+-  "Simply because Congress may conclude that a particular activity substantially affects interstate commerce does not necessarily make it so" Lopez --> very judicial supremacy tone; against Departmentalism; atleast for Congress.
 
 **Note 4. "Was the statute in Lopez solving a problem that the states were unable to resolve by themselves? . . . Should a collective-action-problem concept of federalism affect the interpretation of Article I, Section 8?"**
 

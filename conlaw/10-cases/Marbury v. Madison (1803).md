@@ -18,7 +18,7 @@ posture_drove_outcome: true
 
 ## Snapshot
 
-Jefferson's Secretary of State withheld a justice-of-the-peace commission Adams had signed and Marshall had sealed. Marbury sought mandamus in the Supreme Court's original jurisdiction. The Court held that his right had vested, that the laws afforded a remedy and that mandamus was proper — but that § 13 of the Judiciary Act of 1789, read to confer that jurisdiction, was repugnant to Article III. In play: Article II, §§ 2–3; Article III, § 2, cl. 2; the Article VI oath.
+Jefferson's Secretary of State withheld a justice-of-the-peace commission Adams had signed and Marshall had sealed. Marbury sought mandamus in the Supreme Court's original jurisdiction. The Court held that his right had vested, that the laws afforded a remedy and that mandamus was proper — but that § 13 of the Judiciary Act of 1789, read to confer that jurisdiction, was not valid under original and appellate jurisdiction mandates of Article 3, Sec. 2. Cl. 2. In play: Article II, §§ 2–3; Article III, § 2, cl. 2; the Article VI oath.
 
 ## Issue
 
