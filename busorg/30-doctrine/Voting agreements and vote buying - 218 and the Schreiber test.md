@@ -56,7 +56,8 @@ The distinction Ringling drew before § 218(c) existed: the voting trust statute
 
 A pooling agreement creates **promises**, not powers. Absent an express grant, no party may vote another's shares and no arbitrator may enforce his own decision — "[t]he power to enforce a decision does not seem a necessary or usual incident of such a function," and a convenient implied power "would not justify implying a delegation of the power in the absence of some indication that the parties bargained for that means."
 
-The fix is an **irrevocable proxy under § 212(e)**: irrevocable "if it states that it is irrevocable and if, and only as long as, it is coupled with an interest sufficient in law to support an irrevocable power," and the interest may be "**in the stock itself or an interest in the corporation generally**."
+The fix is an **irrevocable proxy under § 212(e)**: irrevocable "if it states that it is irrevocable and if, and only as long as, it is <u>coupled with an interest sufficient in law to support an irrevocable power</u>," and the interest may be "**in the stock itself or an interest in the corporation generally**."
+	-- Can affirmatively delegate the voting rights of of a stock irreversibly (recipient must have a legally sufficient stake) 
 
 Without it, the remedy is **rejection of the breaching party's votes** in an election review — "[t]he Court of Chancery may, in a review of an election, reject votes of a registered shareholder where his voting of them is found to be in violation of rights of another person." Blunt, and it binds only the parties: in Ringling the non-party's votes stood untouched.
 
@@ -76,15 +77,15 @@ The older rule — that vote buying was per se illegal as a matter of public pol
 
 ## Standard of review / burden
 
-| | |
-|---|---|
-| Validity of a pooling agreement | Presumptively valid; a deadlock-breaking arbitration provision is reasonable |
-| Limit on a stockholder's vote | Only the duty owed to fellow shareholders |
-| Vote buying by a **stockholder** | Permitted — the vote is the holder's own asset to sell |
-| Vote buying by **management with corporate assets** | Voidable, tested for **intrinsic fairness**; per se illegal if the purpose is to defraud or disenfranchise |
-| Burden at the pleading stage | Plaintiff pleads consideration personal to the stockholder plus voting as directed |
-| Burden at trial | "[S]ignificant burden" on the plaintiff to prove coercion and to negate independent business reasons |
-| What saves a management arrangement | A **ratifying vote of disinterested stockholders** — present in Schreiber, absent in Hewlett |
+|                                                     |                                                                                                                           |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Validity of a pooling agreement                     | Presumptively valid; a deadlock-breaking arbitration provision is reasonable                                              |
+| Limit on a stockholder's vote                       | Only the duty owed to fellow shareholders                                                                                 |
+| Vote buying by a **stockholder**                    | Permitted — the vote is the holder's own asset to sell                                                                    |
+| Vote buying by **management with corporate assets** | Voidable, tested for **intrinsic fairness**; per se illegal if the purpose is to defraud or disenfranchise                |
+| Burden at the pleading stage                        | Plaintiff pleads consideration personal to the stockholder plus voting as directed (per se illegal or otherwise voidable) |
+| Burden at trial                                     | "[S]ignificant burden" on the plaintiff to prove coercion and to negate independent business reasons                      |
+| What saves a management arrangement                 | A **ratifying vote of disinterested stockholders** — present in Schreiber, absent in Hewlett                              |
 
 ## Exceptions
 

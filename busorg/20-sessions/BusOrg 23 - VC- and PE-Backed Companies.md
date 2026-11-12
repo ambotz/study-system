@@ -1,17 +1,18 @@
 ---
 class: busorg
-session: 27
-title: "Overflow"
-date: 2026-12-03
+session: 23
+title: "VC- and PE-Backed Companies"
+date: 2026-11-18
 professor: Buccola
 reconciled: false
 ---
 
-# BusOrg 27 — Overflow
+# BusOrg 23 — VC- and PE-Backed Companies
 
 ## Readings
 
-- *no assigned reading*
+- [[In re Trados (2013)]]
+- [[New Enterprise Associates 14 v. Rich (2023)]]
 
 ## Notes
 

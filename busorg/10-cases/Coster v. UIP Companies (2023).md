@@ -4,10 +4,10 @@ citation: 300 A.3d 656
 court: Del. Supr.
 year: 2023
 class: busorg
-session: 21
+session: 22
 topic: Stockholder franchise
 feeds_module: "[[Interference with the franchise - Schnell, Blasius and the Coster standard]]"
-read_for: 2026-11-12
+read_for: 2026-11-16
 posture_drove_outcome: true
 ---
 
@@ -60,7 +60,8 @@ The sequence, all recounted in the opinion: [[Schnell v. Chris-Craft Industries 
 
 What Coster keeps from Blasius is more important than what it discards. The **burden stays on the board**. The threat must be **real and not pretextual**. Motivations must be **proper and not selfish**. And the "we know better" defence is still no defence — restated from Blasius, in 2023, as live law. What goes is the phrase "compelling justification" as an independent gate, because in practice it decided cases before they were analysed.
 
-The practical consequence for this course is that the **Blasius/Unocal distinction the casebook draws after [[Air Products v. Airgas (2011)|Air Products v. Airgas]] has collapsed**. The note there observes that stockholders' ability to receive tender offers "receives little protection under Unocal" while their right to vote "enjoys robust protection under Blasius," calls the distinction hard to defend — "[t]here is not much difference between the decision to tender your shares to a hostile acquiror and the decision whether to vote in favor of hostile slate of directors" — and notes that it "appears to have collapsed" in Coster. Both now run through [[Takeover defences - Unocal enhanced scrutiny]], with the franchise cases distinguished by the **sensitivity** applied rather than by the standard used.
+The practical consequence for this course is that the **Blasius/Unocal distinction the casebook draws after [[Air Products v. Airgas (2011)|Air Products v. Airgas]] has unified**. The note there observes that stockholders' ability to receive tender offers "receives little protection under Unocal" while their right to vote "enjoys robust protection under Blasius," calls the distinction hard to defend — "[t]here is not much difference between the decision to tender your shares to a hostile acquiror and the decision whether to vote in favor of hostile slate of directors" — and notes that it "appears to have collapsed" in Coster. Both now run through [[Takeover defences - Unocal enhanced scrutiny]], with the franchise cases distinguished by the **sensitivity** applied rather than by the standard used.
+	Still, a board defending against a **proxy contest / consent solicitation** (your hostile board attempt) faces a _stricter application_ of the unified standard (harder for Board to hold out) than a board defending against a **pure tender offer** (takeover attempt), where Airgas shows how much room “just say no” gives. Same test, different intensity depending on whether the franchise is directly impaired. Takeover = more susceptible to substantive coercion (?)
 
 Two limits are worth holding. First, this enhanced review is **situationally specific**: Mercier warned against a more muscular Unocal outside election interference and control contests, because elsewhere "more traditional tools are available to police self-dealing or improperly motivated director action." Second, **preclusion is measured by what remains, not by what was lost**. Coster lost her blocking position and the court still found no preclusion, because a swing vote among three equal owners is a realistic path to control. That is the same move as Selectica and Airgas — delay and difficulty are not preclusion so long as a realistic route survives.
 
@@ -91,11 +92,14 @@ Buyout discussions with Coster continued through 2015 without resolution. She be
 
 In August 2017 Coster provided a $7.3 million valuation and demanded to inspect books and records, following up in October. After much back and forth about the adequacy of the documents, on April 4, 2018 she called a special stockholders meeting to elect new board members. UIP then had a five-member board with three sitting directors — Schwat, Bonnell and the chief financial officer Stephen Cox — and two vacancies from Wout's death and Bruggen's departure.
 
-The May 22, 2018 meeting went nowhere: each of Coster's motions on board size and composition failed on Schwat's opposition. That same day the board reduced the number of seats to three by unanimous written consent. A second meeting on June 4 ended in the same deadlock, leaving Schwat, Bonnell and Cox in place.
+The May 22, 2018 meeting went nowhere: each of Coster's motions on board size and composition failed on Schwat's opposition. That same day the board reduced the number of seats to three by unanimous written consent. A second meeting on June 4 ended in the same deadlock, leaving Schwat, Bonnell and Cox as Directors. 
 
 Coster then sued in the Court of Chancery seeking a custodian under 8 Del. C. § 226(a)(1). Her complaint mainly sought a neutral tie-breaker to facilitate director elections but also alleged a lack of distributions and transparency — and asked for a custodian with "broad oversight and managerial powers," empowered to "exercise full authority and control over the Company, its operations, and management."
 
 That breadth was the problem. A custodian with such powers would have triggered broad termination rights in the SPE contracts and threatened UIP's revenue stream. Facing that, the board decided to issue the equity long promised to Bonnell. On its own valuation of a 100% non-controlling interest at $123,869, the board offered and Bonnell purchased a one-third interest for $41,289.67. The Stock Sale diluted Coster to one third, destroyed her blocking position, and mooted the custodian action. She sued to cancel it.
+	-Final stockholder control: Coster/Schwat/Bonnell at 33% each. 
+	-Threat (prong one): Coster's broad custodian response
+	-Response to threat (prong two): Selling 1/3 to Bonnell (as per plan), diluting Coster
 
 ### Issue
 
@@ -107,7 +111,7 @@ That breadth was the problem. A custodian with such powers would have triggered 
 ### Holding
 
 - **On Schnell: properly cabined.** It reaches board action within the board's legal power that is motivated for selfish reasons to interfere with the franchise.
-- **On entire fairness: not a substitute.** Equitable review is required on top of it where the board interferes with director elections.
+- **On entire fairness: not a substitute.** Equitable review is required on top of entire fairness where the board interferes with director elections.
 - **On the standard: Schnell and Blasius are folded into Unocal.** The board bears the burden on two questions — a real, non-pretextual threat to an important corporate interest with proper and non-selfish motivations, and a response reasonable in relation to the threat that is neither preclusive nor coercive.
 - **On application: the Stock Sale survives.** The deadlock and the broadly empowered custodian request posed an existential threat; the board's mixed motives were genuine and not pretextual; the sale was tailored, with more aggressive options left unused; and it was not preclusive, because Coster retains a realistic path to control as a swing vote among three equal owners.
 - **Disposition:** affirmed.
@@ -131,7 +135,7 @@ That breadth was the problem. A custodian with such powers would have triggered 
 - The candid diagnosis of Blasius is the hinge: requiring a compelling justification made outcomes "for the most part, preordained," and courts responded by manipulating the inputs — narrowing "primary purpose," diluting "compelling." A standard that is evaded in practice is not a standard.
 - Unocal is chosen because it already does both jobs. It "subsume[s] the question of loyalty... whether the directors have acted for proper reasons," which is Schnell's concern, and it can be applied with the sensitivity Blasius brings to the franchise.
 - Blasius's substance is preserved deliberately — the burden, the non-pretextual threat, the proper motivation, and the unavailability of "we know better." What is discarded is a label, not a protection.
-- On the facts, **mixed motives** are handled by asking whether the legitimate ones are genuine rather than whether the illegitimate ones are absent. The board admittedly wanted to undermine Coster's leverage; what saves it is that the succession plan predated the dispute, was favoured by the founder, and "stood alongside the more problematic purposes."
+- On the facts, **mixed motives** are handled by asking whether the legitimate ones are genuine rather than whether the illegitimate ones are absent. The board admittedly wanted to undermine Coster's leverage; what saves it is that <u>the succession plan predated the dispute</u>, was favoured by the founder, and "stood alongside the more problematic purposes."
 - Tailoring is assessed against the alternatives **not** taken, which is the practical content of Pell's "closer fit between means and ends."
 - Preclusion is measured prospectively. The court asks what path to control remains, not what position was lost — and finds one, because three equal owners who are not bound to vote together leave Coster a swing vote.
 - The plaintiff's own litigation choice supplies the threat. Had the custodian request been tailored to the deadlock, there would have been no risk to the SPE contracts and no legitimate objective for the board to serve.
@@ -145,11 +149,13 @@ The synthesis is clean but leaves the same soft spot the old law had, relocated.
 ### Cold-call notes
 
 - **State the two-part test with the burden.** Board bears it. First, a real non-pretextual threat to an important corporate interest, with proper and non-selfish motivations. Second, a response reasonable in relation to the threat, neither preclusive nor coercive. Add the tailoring requirement — only what is necessary.
+	- Coster filing for control = threat
 - **Say clearly what happened to Blasius.** The "compelling justification" label is gone as an independent gate because it made outcomes preordained; the substance is preserved inside Unocal. Do not say Blasius was overruled, and do not say it survives unchanged.
 - **Keep Schnell's domain precise.** Board acts within its legal power but is motivated for selfish reasons. That is the Schnell branch, now absorbed into the motivation half of the first question.
 - **Quote the surviving Blasius line.** The threat "cannot be justified on the grounds that the board knows what is in the best interests of the stockholders." It is the clearest proof that the substance travelled.
 - **Have the entire fairness point ready.** A transaction can be entirely fair in price and process and still be set aside for inequitable interference with an election. Fairness and equity are different inquiries.
-- **Explain the preclusion finding, because it is counterintuitive.** Coster lost her blocking half-interest and the court still found no preclusion, because three equal owners not bound to vote together leave her a swing vote. Preclusion asks what remains, not what was taken — the same move as Selectica and Airgas.
+- **Explain the preclusion finding, because it is counterintuitive.** Coster lost her blocking half-interest and the court still found no preclusion, because three equal owners not bound to vote together leave her a swing vote. <u>Preclusion asks what remains</u>, not what was taken — the same move as Selectica and Airgas.
 - **Use the overreach point if pushed on fairness to Coster.** She filed without any meaningful effort to negotiate board composition and asked for full authority and control over the company. Her own request generated the existential threat that justified the dilution.
 - **Connect to the Airgas note.** The old sharp line — weak protection for tender offers under Unocal, robust protection for the franchise under Blasius — has collapsed. Both now run through enhanced scrutiny, differing in sensitivity rather than in standard.
+	- Still, franchise protections are more sensitive
 - **Numbers worth holding.** Three founders at a third each, reduced to two halves in 2011; a $2,125,000 non-binding term sheet in 2014; a $7.3 million valuation from Coster in 2017 against a board valuation of $123,869; a one-third interest sold for $41,289.67; two deadlocked meetings on May 22 and June 4, 2018; five seats reduced to three.

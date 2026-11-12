@@ -12,6 +12,10 @@
 *.pdf.tmp
 .pandoc-cache/
 
+# Python bytecode from the scripts in .claude/
+__pycache__/
+*.pyc
+
 # Never commit credentials
 .env
 *.pem

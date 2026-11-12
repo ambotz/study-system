@@ -4,10 +4,10 @@ citation: 500 A.2d 1346
 court: Del. Supr.
 year: 1985
 class: busorg
-session: 18
+session: 19
 topic: Takeover defences
 feeds_module: "[[The poison pill - statutory authority and Unocal limits]]"
-read_for: 2026-11-05
+read_for: 2026-11-09
 posture_drove_outcome: false
 ---
 

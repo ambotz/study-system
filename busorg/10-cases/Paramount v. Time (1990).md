@@ -4,12 +4,12 @@ citation: 571 A.2d 1140
 court: Del. Supr.
 year: 1990
 class: busorg
-session: 19
+session: 20
 topic: Takeover defences
 feeds_module:
   - "[[Takeover defences - Unocal enhanced scrutiny]]"
   - "[[Sale of control - Revlon and the duty to maximise price]]"
-read_for: 2026-11-09
+read_for: 2026-11-11
 posture_drove_outcome: true
 ---
 
@@ -74,6 +74,9 @@ Note how differently the same facts read under the other doctrines in this chunk
 The one thing the opinion passes over is the special committee. Time's board created a committee of outside directors to oversee the merger, and the committee "concluded, shortly after its creation, that it was not necessary either to retain independent consultants, legal or financial, or even to meet." Against [[Smith v. Van Gorkom (1985)|Smith v. Van Gorkom]] that is a striking fact to leave unremarked, and it is available to a plaintiff arguing that the informed-decision finding rests on the board's *pre-June* work rather than on anything it did once Paramount appeared.
 
 ## Professor gloss
+
+Unocal prong one
+* Maybe another proper justification/response to a viable 'threat' is to protect other constituencies --> still included under coroporation purpose 
 
 ---
 

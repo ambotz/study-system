@@ -2,7 +2,7 @@
 
 Buccola · Autumn 2026
 
-Generated 2026-10-05 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class busorg`.
+Generated 2026-11-12 from `99-meta/case-index.json`. Do not edit; regenerate with `.claude/scripts/index_to_byclass.py --class busorg`.
 
 ## Sources
 
@@ -125,13 +125,20 @@ Generated 2026-10-05 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 - [[RBC Capital Markets v. Jervis (2015)]] — pp. 576–581 · case
 - [[In re Mindbody, Inc., Stockholder Litigation (2024)]] — pp. 46–81 · case
+- *8 Del. C. 144(d)(6)(C)* — statute · doctrine module
+    - → [[Aiding and abetting a fiduciary breach - knowing participation]]
+    - → [[Controlling stockholder safe harbours - 144(b) and (c)]]
+    - → [[Deal protection devices - Unocal review of merger lock-ups]]
 
 ### Class 17 — Takeovers · Wed 2026-11-04
 
 - [[Cheff v. Mathes (1964)]] — pp. 442–448 · case
-- [[Unocal v. Mesa Petroleum (1985)]] — pp. 448–456 · case
 
 ### Class 18 — Takeovers · Thu 2026-11-05
+
+- [[Unocal v. Mesa Petroleum (1985)]] — pp. 448–456 · case
+
+### Class 19 — Takeovers · Mon 2026-11-09
 
 - *8 Del. C. 151, 157* — statute · doctrine module
     - → [[Preferred versus common - the duty to the residual claimants]]
@@ -139,45 +146,28 @@ Generated 2026-10-05 from `99-meta/case-index.json`. Do not edit; regenerate wit
 - [[Moran v. Household International (1985)]] — pp. 459–462 · case
 - [[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes (1986) (redux)]] — pp. 486–496 · case
 
-### Class 19 — Takeovers · Mon 2026-11-09
+### Class 20 — Takeovers · Wed 2026-11-11
 
 - [[Paramount v. Time (1990)]] — pp. 496–506 · case
 - [[Paramount v. QVC (1994)]] — pp. 506–518 · case
 - [[Air Products v. Airgas (2011)]] — pp. 463–476 · case
 
-### Class 20 — Voting · Wed 2026-11-11
-
-- *8 Del. C. 141(d), 212, 216, 218* — statute · doctrine module
-    - → [[Stockholder voting machinery - 212, 216, 141(d) and 228]]
-    - → [[Oversight liability - Caremark and good faith]]
-    - → [[Voting agreements and vote buying - 218 and the Schreiber test]]
-- [[Ringling Brothers v. Ringling (1947)]] — pp. 85–91 · case
-- [[Hewlett v. Hewlett-Packard (2002)]] — pp. 91–98 · case
-
 ### Class 21 — Voting · Thu 2026-11-12
 
-- [[Schnell v. Chris-Craft Industries (1971)]] — pp. 80–82 · case
-- *8 Del. C. 228(a)* — statute · doctrine module
+- *8 Del. C. 141(d), 212, 216, 218, 228(a)* — statute · doctrine module
     - → [[Interference with the franchise - Schnell, Blasius and the Coster standard]]
     - → [[Modern charter and bylaws - what each instrument carries]]
     - → [[Stockholder voting machinery - 212, 216, 141(d) and 228]]
+- [[Schnell v. Chris-Craft Industries (1971)]] — pp. 80–82 · case
+- [[Hewlett v. Hewlett-Packard (2002)]] — pp. 91–98 · case
+
+### Class 22 — Voting · Mon 2026-11-16
+
 - [[Blasius Industries v. Atlas Corp (1988)]] — pp. 82–87 · case
 - [[Coster v. UIP Companies (2023)]] — pp. 88–95 · case
-
-### Class 22 — Voting (and Activism) · Mon 2026-11-16
-
-- *1934 Act 13; SEC Rule 13D* — statute · doctrine module
-    - → [[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]
-- *1934 Act 14; SEC Rule 14a-19* — statute · doctrine module
-    - → [[Federal disclosure and the universal proxy - Rules 13d-1 and 14a-19]]
-    - → [[Preferred versus common - the duty to the residual claimants]]
 - [[The Williams Companies Stockholder Litigation (2021)]] — pp. 477–486 · case
-- *8 Del. C. 144(d)(6)(b) (post-SB 21)* — statute · doctrine module
-    - → [[Aiding and abetting a fiduciary breach - knowing participation]]
-    - → [[Cleansing by stockholder vote - Corwin and the fully informed vote]]
-    - → [[Controller buyouts - the MFW dual protection structure]]
 
-### Class 23 — VC and PE Problems · Wed 2026-11-18
+### Class 23 — VC- and PE-Backed Companies · Wed 2026-11-18
 
 - [[In re Trados (2013)]] — pp. 645–660 · case
 - [[New Enterprise Associates 14 v. Rich (2023)]] — pp. 96–98 · case
@@ -201,6 +191,6 @@ Generated 2026-10-05 from `99-meta/case-index.json`. Do not edit; regenerate wit
 
 - [[University of Chicago Articles and Bylaws]] — Canvas · document
 
-### Class 27 — Overflow · Thu 2026-12-03
+### Class 27 — Review · Mon 2026-12-07
 
 - *no assigned reading*

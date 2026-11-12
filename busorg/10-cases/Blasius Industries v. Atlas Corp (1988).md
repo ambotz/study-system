@@ -4,10 +4,10 @@ citation: 564 A.2d 651
 court: Del. Ch.
 year: 1988
 class: busorg
-session: 21
+session: 22
 topic: Stockholder franchise
 feeds_module: "[[Interference with the franchise - Schnell, Blasius and the Coster standard]]"
-read_for: 2026-11-12
+read_for: 2026-11-16
 posture_drove_outcome: true
 ---
 
@@ -32,7 +32,7 @@ Where a board acts for the **primary purpose** of preventing or impeding the eff
 
 **Held**
 
-- Where the board acts "in good faith and with appropriate care, **for the primary purpose of preventing or impeding an unaffiliated majority of shareholders from expanding the board and electing a new majority**," the action "constituted an offense to the relationship between corporate directors and shareholders that has traditionally been protected in courts of equity." The December 31 action was invalid and is voided.
+- Where the board acts "in good faith and with appropriate care, **for the primary purpose of preventing or impeding an unaffiliated majority of shareholders from expanding the board and electing a new majority**," the action "constituted an offense to the relationship between corporate directors and shareholders that has traditionally been protected in courts of equity." The December 31 action was <u>invalid and is voided</u>.
 - If the board had been **selfishly** motivated — if "there was no policy dispute or issue that really motivated this action, but that asserted policy differences were pretexts for entrenchment for selfish reasons" — "one would not need to inquire further. The action taken would constitute a breach of duty." That is the Schnell branch, and it is not this case.
 - If the board had acted "**completely independently** of the consent solicitation, which merely had an incidental impact upon the possible effectuation of any action authorized by the shareholders, it is very unlikely that such action would be subject to judicial nullification. The board, as a general matter, is **under no fiduciary obligation to suspend its active management** of the firm while the consent solicitation process goes forward."
 - **Why the business judgment rule does not apply.** "The shareholder franchise is the **ideological underpinning** upon which the legitimacy of directorial power rests." Shareholders have only two protections against inadequate performance — sell, or vote to replace the board — and whether the vote is "an unimportant formalism, or... an important tool of discipline, it is clear that it is critical to the theory that legitimates the exercise of power by some... over vast aggregations of property that they do not own."
@@ -66,7 +66,9 @@ The safe harbour in the opinion is as important as the rule. A board is "under n
 
 Note finally what makes the remedy work. The consent solicitation ran under **8 Del. C. § 228(a)**, which lets stockholders act "without a meeting, without prior notice and without a vote" on consents signed by holders of the minimum number of votes needed at a meeting. That mechanism is what allowed Blasius to expand the board and elect eight directors in a single step — and it is why adding two seats overnight was decisive rather than merely inconvenient.
 
-## Professor gloss
+##  Gloss
+
+**Why it’s a “solicitation” in Blasius.** This is the tie-in that makes the mechanics click: Blasius held only **9.1%**. That’s nowhere near the majority-of-outstanding it needed. So it had to **go out and persuade enough _other_ stockholders to sign consents** to reach the threshold — that’s why it’s a consent _solicitation_, not just Blasius signing a piece of paper. And that, in turn, is why the board’s “pack the board overnight” move was so aggressive: instead of letting Blasius try to assemble that majority and arguing against it, the board structurally guaranteed that even a successful majority-of-outstanding consent couldn’t install a board majority in one step. The board wasn’t stopping a lone 9% holder — it was cutting off the holder’s ability to **build a majority coalition** through the consent process.
 
 ---
 
@@ -76,12 +78,13 @@ Note finally what makes the remedy work. The consent solicitation ran under **8 
 
 - Two consolidated cases tried together, both about who is entitled to sit on the Atlas board.
 - The **first** challenges the validity of board action at a telephone meeting on December 31, 1987 adding two directors. The **second** arises from the consent solicitation itself and asks the court to determine its outcome.
+	- Direct claims brought by Blasius itself
 - Findings are made on a preponderance of the admissible evidence after trial.
 - The posture is what gives the opinion its unusual shape. Because the Chancellor makes findings about **motivation** on a full record, he can hold both that the board acted sincerely and that its principal purpose was to preclude the stockholders — a combination a pleading-stage ruling could not produce, and the combination that forces the new standard.
 
 ### Facts
 
-Blasius Industries began buying Atlas stock in July 1987 and filed a Schedule 13D on October 29 disclosing that with affiliates it owned 9.1% of the common stock. The filing said Blasius intended to encourage management to consider a restructuring or other value-enhancing transaction, and that it was exploring the feasibility of obtaining control, including a tender offer or "appropriate" board representation.
+Blasius Industries began buying Atlas (gold mining co.) stock in July 1987 and filed a Schedule 13D on October 29 disclosing that with affiliates it owned 9.1% of the common stock. The filing said Blasius intended to encourage management to consider a restructuring or other value-enhancing transaction, and that it was exploring the feasibility of obtaining control, including a tender offer or "appropriate" board representation.
 
 Blasius had recently come under the control of Michael Lubin and Warren Delano, who after experience in commercial banking had for a short time run a venture capital operation for a small investment banking firm. Atlas management did not welcome their involvement. Atlas had a new chief executive, Weaver, who had overseen a restructuring: three of five divisions sold, the once-important domestic uranium operation being closed, the company refocused on gold mining. By October 1987 the structural changes were largely complete.
 
@@ -91,7 +94,7 @@ On December 30 Blasius delivered a signed written consent doing three things: ad
 
 The reaction was immediate. Weaver conferred with Masinter, the company's outside counsel and a director, who viewed the consent as an attempt to take control. They called an emergency board meeting even though a regular meeting was a week away, on January 6. The purpose was to act on their conclusion "that we should add at least one and probably two directors to the board." At a telephone meeting the next day, December 31, the board amended the bylaws to expand from seven to nine and appointed John Devaney and Harry Winters to the new positions.
 
-There was testimony that the board was implementing an expansion plan predating Blasius's emergence. The Chancellor found the two men strengthened the board and that their selection would be judged sensible and prudent, but concluded the strengthening was not the principal motive. The principal motive was to impede or preclude a majority of the shareholders from adopting the course Blasius proposed.
+There was testimony that the board was implementing an expansion plan predating Blasius's emergence. The Chancellor found the two men strengthened the board and that their selection would be judged sensible and prudent, but concluded the <u>strengthening was not the principal motive. The principal motive was to impede or preclude a majority of the shareholders</u> from adopting the course Blasius proposed.
 
 On January 6 the board convened for its scheduled meeting, heard a full report from its financial advisor on the feasibility of the Blasius proposal, and voted to reject it.
 
@@ -132,11 +135,6 @@ On January 6 the board convened for its scheduled meeting, heard a full report f
 - The dispositive distinction at the end is between **persuasion and preclusion**. The board had the time and the resources to argue its case to the stockholders; choosing instead to make their decision impossible is what converts disagreement into usurpation.
 - Calling the result "an unintended violation of the **duty of loyalty**" is the opinion's most striking phrase. Loyalty ordinarily implies conflicted self-interest, and the Chancellor has just found none; he uses the label because the wrong is a taking of the beneficiary's authority, not a failure of care.
 
-### Dissent / concurrence
-
-- Single-judge Chancery opinion; no dissent.
-
-The standard announced proved harder to live with than the reasoning suggests, and Coster says so directly: requiring a compelling justification made outcomes "for the most part, preordained," and courts responded by narrowing "primary purpose" or diluting "compelling." There is also an unresolved tension inside the opinion. The Chancellor accepts that a board may spend corporate funds to persuade stockholders and may take independent action with incidental electoral effect, but almost every meaningful defensive step in a control contest has some electoral effect — so everything turns on the characterisation of "primary purpose," which the opinion treats as a finding of fact rather than a test.
 
 ### Cold-call notes
 
@@ -144,7 +142,7 @@ The standard announced proved harder to live with than the reasoning suggests, a
 - **Give both reasons the business judgment rule does not apply.** Legitimacy — the franchise is the ideological underpinning of directorial power. And allocation — this is a question of authority between principal and agent, not an exercise of power over corporate property.
 - **Quote the two lines that do the most work.** "[I]t does not create Platonic masters," and the "vast difference between expending corporate funds to inform the electorate and exercising power for the primary purpose of foreclosing effective shareholder action."
 - **Know the safe harbour.** No obligation to suspend active management during a consent solicitation; independent action with incidental effect is very unlikely to be nullified. Coster restates it as the clear-day principle.
-- **Be ready on why "we know better" fails.** It may well be true on any number of matters, and it is irrelevant on the one question the stockholders are entitled to decide — who sits on the board.
+- **Be ready on why "we know better" fails.** It may well be true on any number of matters, and it is irrelevant on the one question the stockholders are entitled to decide — who sits on the board. The whole question is who gets to determine 'we'
 - **Explain the mechanism.** Section 228(a) consents let a majority amend the bylaws, expand the board and elect eight directors in one action. That is why two extra seats, added overnight, converted a single step into two elections.
 - **Trace the doctrine to today.** Stroud recognised both standards applied; Liquid Audio put Blasius "within Unocal"; Mercier and Pell reworked it; Coster folded Schnell and Blasius into Unocal-shaped enhanced scrutiny while keeping Blasius's substance — burden on the board, no pretextual threat, and "we know better" is still no justification.
 - **Numbers worth holding.** 9.1% stake; seven seats expanded to nine overnight against a proposed fifteen with eight new directors; consent delivered December 30, board acted December 31, regular meeting due January 6; proposal formally rejected January 6.

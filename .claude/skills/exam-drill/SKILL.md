@@ -1,0 +1,136 @@
+---
+name: exam-drill
+description: Generate and run timed exam practice — full exams, short-form single-issue reps, opening-paragraph drills, and rewrites of past answers. Use when asked to drill, practise, run a timed attempt, set up exam practice, or build a hypo bank. Pulls material from 40-professor and 30-doctrine, enforces the real exam's constraints, and hands the result to essay-grade.
+---
+
+# exam-drill
+
+Produces the rep, enforces the constraint, and hands the output to
+`essay-grade`. It does not grade — the separation exists so an attempt is scored
+against the rubric rather than against whatever the generator had in mind.
+
+Three practice modes, plus rewrite. Each exists because the diagnostic named a
+specific failure that mode attacks.
+
+| Mode | Length | Attacks |
+|---|---|---|
+| `opening-paragraph` | first 150 words only, 10 min | thesis placement, commitment grammar |
+| `short-form` | one issue, 20–25 min | element discipline, counterargument weighting |
+| `timed-full` | full past exam, real clock | budget discipline, visible structure, triage |
+| `rewrite` | an answer already written | converts a named failure into a habit |
+
+## Before generating anything
+
+Read `<class>/40-professor/<Professor> - exam writing profile.md`. The
+constraints the rep must replicate are stated there, and they differ:
+
+- **Buccola** — three questions, 60/20/20, three hours, **closed-book and word-limited this year** where both past exams said "There are no word limits." Forty points every year are the paired-authority theory essay, and its framing is verbatim boilerplate.
+- **Baude** — three questions, weights that move every year at 35 words per point, **in-class and closed-book this year** where every circulated answer came from an eight-hour open-book take-home. Q3 is a normative reform essay with no fact pattern, worth 20–30 points, every single year.
+
+**Every circulated answer in this vault was written open-book.** Generating a rep
+that allows lookup reproduces the wrong constraint. Default to closed-book for
+both classes this year and say so in the rep header.
+
+## Mode: opening-paragraph
+
+Ten minutes, first 150 words, nothing else. Highest reps-per-hour in the set and
+it targets the axis that correlates hardest with grade.
+
+1. Draw a prompt — a past question, or a stem generated from a `30-doctrine` module with `exam_likelihood: high`.
+2. State the budget and the professor's verdict word (`should` for Baude, `likely` for Buccola).
+3. Require: sentence one is the holding; sentences two to four name the test or list the reasons, and where the test has factors, **pre-score them**.
+
+The target shape, from a Baude exemplar:
+
+> "I believe that the judge should not allow Professor Vector to present this evidence to the jury. There are three main considerations here: whether the evidence is directly related to the case in question, whether the evidence is specific, and whether the probabilities involved are significant and large. The evidence is not directly related to the case, but it appears to be both specific and large."
+
+Four sentences, and the reader already knows the holding, the test, and that two
+of three factors cut the other way.
+
+Grade with `essay-grade` on axes 1 and 5 only. Ten of these in a sitting is a
+reasonable session; score them as a batch and look at the distribution.
+
+## Mode: short-form
+
+One issue, 20–25 minutes, 300–450 words.
+
+Build the stem from a doctrine module: take its `Elements` and its
+`Common trap`, then write a fact pattern that **turns on the trap**. The point of
+a short-form rep is not coverage — it is forcing one line-drawing decision. The
+`Facts` section of a two-layer BusOrg case file is built for this: a fact is
+pivotal if changing it would change the result, so invert one pivotal fact and
+ask what moves.
+
+Require in every short-form answer:
+
+- a holding in sentence one;
+- the test marched or folded, per the professor's polarity;
+- one counterargument stated at its strongest, attributed, answered, and **graded** — *"this is the weaker argument because…"*;
+- a named missing fact with what it would change, where the professor invites it. Baude asks for this in terms and it is free points; Buccola says "you should not assume facts not in the prompt," so flag the gap without filling it.
+
+## Mode: timed-full
+
+A full past exam under the real constraints. These are the expensive reps —
+budget maybe six across the quarter, not twenty.
+
+1. **Set the clock and the caps before reading the prompt.** Write the per-question word budget at the top of the answer file. For Baude, derive it from the point weights at 35 words per point; the weights move every year, so read them off the page rather than reusing last year's.
+2. **Spend two minutes on triage first.** Every shortfall in the 1L corpus was concentrated in the question Ashwin reached last — CivPro Q2 at 75% of cap, Contracts Q3 at roughly 40%. The fix is allocation before drafting, not writing faster.
+3. **Closed-book.** No casebook, no outline, no vault. A one-page sheet only where the real exam allows one.
+4. **Hand the result to `essay-grade` unedited.** An attempt tidied before grading measures nothing.
+
+Available material, by professor:
+
+- `busorg/40-professor/` — Buccola 2023 and 2024 exams with circulated answers, Birdthistle 2025 as a contrast. The file named `...2026.Winter.Memo.pdf` is a student answer script, not professor commentary.
+- `conlaw/40-professor/` — Baude 2018, 2021, 2023 with five circulated answers.
+- `1L/.../Elements - Exam Study/` — Baude's Elements 2019, 2021, 2024 with seven circulated answers. Different course, same grader, and the largest exemplar set available.
+
+## Mode: rewrite
+
+Take an answer already written and rewrite it to fix **one** named axis. Cheapest
+way to convert a diagnosis into a habit, because the substance is already settled
+and all the attention goes to the prose.
+
+Good candidates from the 1L corpus, each with a known defect:
+
+- Elements 2025 Q1A — the contradictory opening. Rewrite to one clean holding.
+- Elements 2025 Q2 and Q3 — 748 and 1,042 words with no internal structure. Rewrite with headings only; change nothing else.
+- CivPro 2025 Q1B — a chronological tour of Twombly through Swanson that mentions the plaintiff twice. Rewrite to apply the standard to Barbara's complaint.
+- CivPro 2025 Q3 — the losing arguments front-loaded. Rewrite with the holding first and the losers answered in place.
+
+Grade the rewrite on the targeted axis and record both scores, so the error log
+shows the delta.
+
+## Generating a hypo bank
+
+Where a class has no past-exam material for a topic, generate stems into
+`<class>/40-professor/hypo-bank.md` rather than scattering them. Build each stem
+from a doctrine module and record which module it came from, so a rep can be
+traced back to the rule it tests.
+
+Draw preferentially from modules with `professor_emphasis: 3` and
+`exam_likelihood: high`, and from the archetypes the professor actually repeats.
+For Baude the highest-yield targets are the tax-power-versus-penalty question,
+which appeared in 2018 Q1, 2021 Q1 and 2023 Q2, and the [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]]
+categories, which anchor two of three Q1s. For Buccola it is the paired-authority
+essay: build pairs across case/case, statute/case and statute/statute lines, and
+drill the recurring Delaware themes — legislative retrenchment after an unpopular
+decision, ex ante predictability, private ordering, deference to market practice.
+
+## After the attempt
+
+1. Hand the answer to `essay-grade`, which writes the attempt file and the error-log row.
+2. Update `last_drilled` on each doctrine module the rep covered. **This is the only frontmatter field this skill may write**, and only on a completed attempt.
+
+   ```
+   python3 .claude/scripts/build_cards.py --help
+   ```
+
+   Use a script to set the date; do not hand-edit the YAML.
+3. Leave `confidence` alone. It is self-rated and human-only, and it is the field the drill queue leans on hardest.
+4. Leave `professor_emphasis` and `exam_likelihood` alone. Only `session-reconcile` may revise them, because their whole value is that they track what the professor actually did in class.
+
+## What this skill does not do
+
+- It does not grade. `essay-grade` does.
+- It does not write session or case files.
+- It does not generate a hypo that smuggles in facts the professor's instructions forbid assuming.

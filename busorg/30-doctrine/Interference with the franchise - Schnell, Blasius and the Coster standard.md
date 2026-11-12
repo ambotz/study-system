@@ -39,6 +39,9 @@ Two reasons, both from [[Blasius Industries v. Atlas Corp (1988)|Blasius Industr
 
 - "The board, as a general matter, is **under no fiduciary obligation to suspend its active management** of the firm while the consent solicitation process goes forward."
 - Action taken "**completely independently** of the consent solicitation, which merely had an **incidental** impact," is "very unlikely" to be nullified.
+	- Consent solicitation under § 228 for written consent
+	- Clear day = when there is no threat/contest --> lenient treatment of board activity
+	- In the middle of a storm = during active consent solicitation/contest --> board gets heightened scrutiny 
 - [[Coster v. UIP Companies (2023)|Coster v. UIP Companies]] restates it: "[i]f the Atlas board had acted **on a clear day** to establish new seats and to fill the vacancies, the circumstances would have been different. But for the Atlas board, the skies were cloudy, and it was raining."
 
 ### Persuasion versus preclusion
@@ -65,7 +68,7 @@ The same line separates lawful advocacy from vote buying in [[Voting agreements 
 
 "The Blasius 'compelling justification' standard of review turned out to be **unworkable in practice**. Once the court required a compelling justification to justify the board's action, the outcome was, for the most part, **preordained**." Courts avoided that by "limiting the 'primary purpose' requirement and redefining what it meant to be compelling."
 
-**What survives is the substance, not the label.** Coster preserves the burden on the board, the non-pretextual threat requirement, the proper-motivation requirement, and the unavailability of the "we know better" defence.
+**What survives is the substance, not the label.** Coster preserves the burden on the board, the non-pretextual threat requirement, the proper-motivation requirement, and the unavailability of the "we know better" defense.
 
 ### Schnell's surviving domain
 
@@ -75,19 +78,34 @@ It was long confined to "those instances that threaten the fabric of the law, or
 
 ## Standard of review / burden
 
-| | |
-|---|---|
-| Trigger | Board action interfering with a director election or a stockholder vote **in a contest for corporate control** |
-| Standard | Enhanced scrutiny, Unocal-shaped, applied with sensitivity to the franchise |
-| Burden | On the **board**, on both questions |
-| Question one | Real, non-pretextual threat to an important corporate interest; proper, non-selfish motivations |
-| Question two | Reasonable in relation to the threat; **not preclusive or coercive**; tailored to only what is necessary |
-| Never sufficient | "[T]he board knows better than do the shareholders" |
-| Never sufficient | Strict compliance with the DGCL and the bylaws |
-| Never sufficient | A finding of **entire fairness** |
-| Independence | "[S]ituationally specific and... **independent of other standards of review**" |
-| Domain limit | Not a general standard — outside election interference and control contests, "more traditional tools are available" |
-| Typical remedy | The action is **voided or enjoined** |
+|                  |                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Trigger          | Board action interfering with a director election or a stockholder vote **in a contest for corporate control**      |
+| Standard         | Enhanced scrutiny, Unocal-shaped, applied with sensitivity to the franchise                                         |
+| Burden           | On the **board**, on both questions                                                                                 |
+| Question one     | Real, non-pretextual threat to an important corporate interest; proper, non-selfish motivations                     |
+| Question two     | Reasonable in relation to the threat; **not preclusive or coercive**; tailored to only what is necessary            |
+| Never sufficient | "[T]he board knows better than do the shareholders"                                                                 |
+| Never sufficient | Strict compliance with the DGCL and the bylaws                                                                      |
+| Never sufficient | A finding of **entire fairness**                                                                                    |
+| Independence     | "[S]ituationally specific and... **independent of other standards of review**"                                      |
+| Domain limit     | Not a general standard — outside election interference and control contests, "more traditional tools are available" |
+| Typical remedy   | The action is **voided or enjoined**                                                                                |
+
+
+Question One Acceptable Standard—What Counts as Reasonable Justification of a threat?
+* “reasonable justification” = a threat to the corporation or its stockholders that is real, investigated, and not reducible to “we know who should run this place.” The single disqualifier to memorize: if the only honest statement of the threat is _“the stockholders would vote the wrong way,”_ you have no justification at all.*
+
+Question Two Acceptable Standard—What is a fine response?
+1. **Tailored to only what is necessary.** This is the heart of it. The board must pick the **narrowest effective** means to neutralize the threat — “a closer fit between means and ends” (Pell v. Kill). A response that does _more_ than the threat requires fails, even with a good justification.
+2. **Not preclusive — it must leave a realistic path to control.** The response can make the insurgent’s job _harder_, but not _impossible_. Measure it by **what remains**, not what the plaintiff lost. In Coster, the stock sale cost Coster her 50% blocking position, but she emerged as a **swing vote** among three equal owners — “a realistic path to control negates the preclusive impact.” That’s fine. (Same logic as Selectica/Airgas: delay and difficulty aren’t preclusion.)
+3. **Not coercive.** It can’t force a distinct constituency’s hand or jam a management-sponsored outcome down shareholders’ throats.
+
+### The worked contrast — Coster passed, Blasius failed
+
+- **Blasius (fails Q2):** faced with a 9.1% holder’s consent solicitation, the board **packed itself** — added directors to turn one election into two — for the **primary purpose of defeating the vote.** Not tailored (it went straight at precluding the franchise), and the only justification left was “board knows better.” Even though the board was sincere, unselfish, and the new directors were qualified, the _response_ was aimed at foreclosing the stockholders. **Enjoined.**
+
+- **Coster (passes Q2):** faced with an existential custodian petition, the board did the **narrowest thing** that solved it — a stock sale to break the 50/50 deadlock — **left harsher options unused**, and **left Coster a swing vote.** Tailored, non-preclusive, restrained. **Upheld.**
 
 The entire-fairness row is the least intuitive and the most testable. In Coster the Stock Sale was found entirely fair in price and process, and the Supreme Court still required separate equitable review, "[b]ecause... 'inequitable action does not become permissible simply because it is legally possible.'"
 
@@ -117,6 +135,10 @@ None of it mattered, because the board's **principal motivation** was to preclud
 [[Coster v. UIP Companies (2023)|Coster v. UIP Companies]] is both the successor standard and the case where the board wins.
 
 The distinguishing line: **Blasius had a real alternative and used the wrong one; the UIP board faced an existential threat and chose the narrowest response available.**
+	Blausius alternatives
+		1. Let the consent solicitation run its course — don’t interfere at all.
+		2. Persuade — “inform the electorate.”
+		3. Rely on the fact that even a Blasius-controlled board would owe fiduciary duties.
 
 The threat was real: Coster's custodian petition under § 226(a)(1) asked not for a tie-breaker but for a custodian empowered to "exercise full authority and control over the Company," which "would have given rise to broad termination rights in SPE contracts and threatened UIP's revenue stream." The motivations were mixed — "retaining and rewarding Bonnell, mooting the Custodian Action, and **undermining [Coster's] leverage**" — but genuine, not pretexts, and the succession plan had been conceived on a clear day and favoured by the founder. The response was tailored, with more aggressive deadlock-breaking options left unused. And it was not preclusive, because Coster emerged with a swing vote among three equal owners.
 

@@ -11,9 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[Paramount v. Time (1990)|Paramount v. Time]]
-- [[Paramount v. QVC (1994)|Paramount v. QVC]]
-- [[Air Products v. Airgas (2011)|Air Products v. Airgas]]
+- 8 Del. C. 151, 157 → [[Preferred versus common - the duty to the residual claimants]], [[The poison pill - statutory authority and Unocal limits]]
+- [[Moran v. Household International (1985)]]
+- [[Revlon v. MacAndrews & Forbes (1986)|Revlon v. MacAndrews & Forbes (1986) (redux)]]
 
 ## Notes
 

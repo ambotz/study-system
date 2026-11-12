@@ -4,10 +4,10 @@ citation: 2002 WL 549137
 court: Del. Ch.
 year: 2002
 class: busorg
-session: 20
+session: 21
 topic: Stockholder voting
 feeds_module: "[[Voting agreements and vote buying - 218 and the Schreiber test]]"
-read_for: 2026-11-11
+read_for: 2026-11-12
 posture_drove_outcome: true
 ---
 
@@ -26,7 +26,7 @@ Vote buying is **illegal per se** where "the object or purpose is to defraud or 
 - HP had **1,941,391,000 shares** outstanding and eligible to vote, and management reported approval "by an extremely thin margin." If the margin was under 1% of shares voted, the 17 million switched votes "could have determined the outcome."
 - The Hewlett Parties and their allies held about **18%** of HP's voting shares, had opposed the merger publicly since November 2001, and waged a full proxy contest.
 - HP's stock fell **18.7%** on announcement, from $23.21 to $18.87 — about $8.5 billion of stockholder value — and was down 27.2% by early November, against a 9.9% gain in an index of comparable companies.
-- **HP took no protective step** such as a ratifying vote of independent stockholders. *The absence of a cleansing device is what leaves the claim standing.*
+- **HP took no protective step** such as a ratifying vote of independent stockholders. *The absence of a cleansing device is what leaves the claim standing.* See Schrieber (cleansing device present)
 - There was **no binding contract** obliging Deutsche Bank to vote any particular way. *Argued and rejected as a required element.*
 - The votes bought were **less than a majority** of the outstanding shares. *Argued and rejected as a required element.*
 
@@ -59,7 +59,7 @@ Hewlett is the outer boundary of the freedom [[Ringling Brothers v. Ringling (19
 
 That is also how the case coexists with **§ 218(c)**, which expressly validates voting agreements. Section 218(c) is about holders binding themselves to one another. Schreiber's intrinsic fairness test polices arrangements where a stockholder receives "consideration personal to the stockholder" in exchange for a vote — the personal-consideration element is what separates a pooling agreement from vote buying.
 
-Note what the court does **not** do. It does not hold vote buying unlawful, does not hold that management may never buy votes, and does not resolve anything on the merits. Schreiber itself upheld a management vote-buying arrangement because the transaction was submitted to a ratifying vote of disinterested stockholders. **The absence of any such cleansing device here is what leaves the claim alive**, and it is the practical lesson: a management arrangement that touches the franchise needs an independent ratification to survive.
+Note what the court does **not** do. It does not hold vote buying unlawful, does not hold that management may never buy votes, and does not resolve anything on the merits. S<u>chreiber itself upheld a management vote-buying arrangement</u> because the transaction was submitted to a ratifying vote of disinterested stockholders. **The absence of any such cleansing device here is what leaves the claim alive**, and it is the practical lesson: a management arrangement that touches the franchise needs an independent ratification to survive.
 
 The case belongs to the franchise-protection line that dominates the next session. [[Schnell v. Chris-Craft Industries (1971)|Schnell v. Chris-Craft Industries]] condemns using the corporate machinery for inequitable purposes; [[Blasius Industries v. Atlas Corp (1988)|Blasius Industries v. Atlas Corp]] condemns board action whose primary purpose is to thwart a stockholder vote; Hewlett condemns spending corporate money to change how a vote comes out. Chancellor Allen's formulation in Blasius describes exactly the line Hewlett draws: "there is a vast difference between expending corporate funds to **inform** the electorate and exercising power for the primary purpose of **foreclosing** effective shareholder action."
 
@@ -142,7 +142,7 @@ The standard the court applies is easier to state than to run. Schreiber's intri
 - **Know the two elements the court refuses to require.** No binding contract, and no majority of outstanding shares. Both rejections follow from the same premise — the injury runs to the other stockholders, not between the parties to the arrangement.
 - **Have the threshold formulation ready.** Facts supporting a reasonable inference that in exchange for "consideration personal to the stockholder," a stockholder agreed to vote or in fact voted as directed by another.
 - **Name the missing safeguard.** No ratifying vote of independent stockholders. Schreiber upheld a management arrangement that had one, and the contrast is the practical takeaway.
-- **Be ready for "wasn't this just ordinary commercial pressure?"** The honest answer is that the court never decides it — this is a pleading-stage ruling, the plaintiffs bear a significant burden at trial, and HP is entitled to show that Deutsche Bank switched for independent business reasons.
+- **Be ready for "wasn't this just ordinary commercial pressure?"** The honest answer is that the court never decides it — this is a pleading-stage ruling, the plaintiffs bear a significant burden at trial, and HP is entitled to <u>show that Deutsche Bank switched for independent business reasons.</u>
 - **Answer the corporate-funds objection.** HP argued only "future business" was promised. The court's reply is one sentence: that future business "would necessarily have to be paid for with corporate funds."
 - **Connect to the franchise cases the next day.** Schnell, Blasius and Hewlett are three routes to the same principle — informing the electorate is legitimate, foreclosing or purchasing its decision is not.
 - **Numbers worth holding.** 1,941,391,000 shares outstanding; 25 million voted against, 17 million switched; the Hewlett bloc at about 18%; a margin alleged to be under 1%; an 18.7% price drop worth roughly $8.5 billion; four days between the credit facility and the vote.

@@ -386,6 +386,10 @@
           "source": "cp",
           "start": 46,
           "end": 81
+        },
+        {
+          "case": "8 Del. C. 144(d)(6)(C)",
+          "kind": "statute"
         }
       ]
     },
@@ -400,7 +404,14 @@
           "source": "bc",
           "start": 442,
           "end": 448
-        },
+        }
+      ]
+    },
+    {
+      "session": 18,
+      "date": "2026-11-05",
+      "title": "Takeovers",
+      "readings": [
         {
           "case": "Unocal v. Mesa Petroleum (1985)",
           "kind": "case",
@@ -411,8 +422,8 @@
       ]
     },
     {
-      "session": 18,
-      "date": "2026-11-05",
+      "session": 19,
+      "date": "2026-11-09",
       "title": "Takeovers",
       "readings": [
         {
@@ -436,8 +447,8 @@
       ]
     },
     {
-      "session": 19,
-      "date": "2026-11-09",
+      "session": 20,
+      "date": "2026-11-11",
       "title": "Takeovers",
       "readings": [
         {
@@ -464,20 +475,20 @@
       ]
     },
     {
-      "session": 20,
-      "date": "2026-11-11",
+      "session": 21,
+      "date": "2026-11-12",
       "title": "Voting",
       "readings": [
         {
-          "case": "8 Del. C. 141(d), 212, 216, 218",
+          "case": "8 Del. C. 141(d), 212, 216, 218, 228(a)",
           "kind": "statute"
         },
         {
-          "case": "Ringling Brothers v. Ringling (1947)",
+          "case": "Schnell v. Chris-Craft Industries (1971)",
           "kind": "case",
           "source": "bc",
-          "start": 85,
-          "end": 91
+          "start": 80,
+          "end": 82
         },
         {
           "case": "Hewlett v. Hewlett-Packard (2002)",
@@ -489,21 +500,10 @@
       ]
     },
     {
-      "session": 21,
-      "date": "2026-11-12",
+      "session": 22,
+      "date": "2026-11-16",
       "title": "Voting",
       "readings": [
-        {
-          "case": "Schnell v. Chris-Craft Industries (1971)",
-          "kind": "case",
-          "source": "bc",
-          "start": 80,
-          "end": 82
-        },
-        {
-          "case": "8 Del. C. 228(a)",
-          "kind": "statute"
-        },
         {
           "case": "Blasius Industries v. Atlas Corp (1988)",
           "kind": "case",
@@ -517,21 +517,6 @@
           "source": "cp",
           "start": 88,
           "end": 95
-        }
-      ]
-    },
-    {
-      "session": 22,
-      "date": "2026-11-16",
-      "title": "Voting (and Activism)",
-      "readings": [
-        {
-          "case": "1934 Act 13; SEC Rule 13D",
-          "kind": "statute"
-        },
-        {
-          "case": "1934 Act 14; SEC Rule 14a-19",
-          "kind": "statute"
         },
         {
           "case": "The Williams Companies Stockholder Litigation (2021)",
@@ -539,17 +524,13 @@
           "source": "bc",
           "start": 477,
           "end": 486
-        },
-        {
-          "case": "8 Del. C. 144(d)(6)(b) (post-SB 21)",
-          "kind": "statute"
         }
       ]
     },
     {
       "session": 23,
       "date": "2026-11-18",
-      "title": "VC and PE Problems",
+      "title": "VC- and PE-Backed Companies",
       "readings": [
         {
           "case": "In re Trados (2013)",
@@ -634,8 +615,8 @@
     },
     {
       "session": 27,
-      "date": "2026-12-03",
-      "title": "Overflow",
+      "date": "2026-12-07",
+      "title": "Review",
       "readings": []
     }
   ]

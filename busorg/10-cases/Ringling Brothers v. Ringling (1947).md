@@ -4,10 +4,10 @@ citation: 53 A.2d 441
 court: Del. Supr.
 year: 1947
 class: busorg
-session: 20
+session: null
 topic: Stockholder voting
 feeds_module: "[[Voting agreements and vote buying - 218 and the Schreiber test]]"
-read_for: 2026-11-11
+read_for: null
 posture_drove_outcome: true
 ---
 
@@ -60,7 +60,7 @@ The **remedy** is the second lesson and is easy to miss. Chancery did not order 
 
 Note the limiting phrase in the validity holding: a stockholder may vote for any reason "so long as he **violates no duty owed his fellow shareholders**." That reservation is the doorway to [[Hewlett v. Hewlett-Packard (2002)|Hewlett v. Hewlett-Packard]], assigned the same day, where the question is whether votes were procured by corporate management in a way that injures the franchise of everyone else. Ringling says stockholders own their votes; Hewlett says management may not buy them with the stockholders' own money.
 
-The case also sits against the board-centric default that runs through the rest of the course. Stockholders may contract freely about **their own** voting, which is why the agreement here is enforceable at all, but they may not by bylaw take over what § 141(a) gives the board — see [[Gorman v. Salamone (2015)|Gorman v. Salamone]] and [[Director primacy - limits on constraining the board]]. The dividing line is that a pooling agreement allocates the stockholders' own rights among themselves.
+The case also sits against the <u>board-centric default </u>that runs through the rest of the course. Stockholders may contract freely about **their own** voting, which is why the agreement here is enforceable at all, but they may not by bylaw take over what § 141(a) gives the board — see [[Gorman v. Salamone (2015)|Gorman v. Salamone]] and [[Director primacy - limits on constraining the board]]. The dividing line is that a pooling agreement allocates the stockholders' own rights among themselves.
 
 ## Professor gloss
 

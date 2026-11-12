@@ -75,9 +75,9 @@ The same principle recurs outside the franchise. [[Unocal v. Mesa Petroleum (198
 
 ### Facts
 
-Dissident stockholders of Chris-Craft Industries had for some time been pressing management about a change in management designed, as they saw it, to lift the company out of its business doldrums. Management turned a deaf ear and disingenuously resisted producing a list of stockholders to the plaintiffs or their confederates.
+Dissident stockholders of Chris-Craft Industries (boat manufacturing to conglomerate) had for some time been pressing management about a change in management designed, as they saw it, to lift the company out of its business doldrums. Management turned a deaf ear and disingenuously resisted producing a list of stockholders to the plaintiffs or their confederates.
 
-On October 16, 1971 the stockholders committee filed with the SEC its intention to wage a proxy fight. Two days later, at a directors' meeting scheduled for October 18, management enlarged the meeting's agenda to include a bylaw amendment advancing the annual meeting from January 11, 1972 to December 8, 1971. It did so under a relatively new section of the Delaware Corporation Law, and in strict compliance with it.
+On October 16, 1971 the stockholders committee filed with the SEC its intention to wage a proxy fight. Two days later, at a directors' meeting scheduled for October 18, management enlarged the meeting's agenda to include a bylaw amendment <u>advancing the annual meeting from </u>January 11, 1972 to December 8, 1971. It did so under a relatively new section of the Delaware Corporation Law, and in strict compliance with it.
 
 Management also hired two established proxy solicitors. The combined effect of the refused stockholder list, the professional solicitation and roughly a month less time — including the time required to clear proxy material at the SEC — was, as the Chancery Court found, to leave the plaintiffs little chance of waging a successful proxy fight before December 8.
 

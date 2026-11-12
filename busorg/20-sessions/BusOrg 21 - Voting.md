@@ -11,10 +11,9 @@ reconciled: false
 
 ## Readings
 
-- [[Schnell v. Chris-Craft Industries (1971)|Schnell v. Chris-Craft Industries]]
-- 8 Del. C. 228(a) → [[Interference with the franchise - Schnell, Blasius and the Coster standard]], [[Modern charter and bylaws - what each instrument carries]], [[Stockholder voting machinery - 212, 216, 141(d) and 228]]
-- [[Blasius Industries v. Atlas Corp (1988)|Blasius Industries v. Atlas Corp]]
-- [[Coster v. UIP Companies (2023)|Coster v. UIP Companies]]
+- 8 Del. C. 141(d), 212, 216, 218, 228(a) → [[Interference with the franchise - Schnell, Blasius and the Coster standard]], [[Modern charter and bylaws - what each instrument carries]], [[Stockholder voting machinery - 212, 216, 141(d) and 228]]
+- [[Schnell v. Chris-Craft Industries (1971)]]
+- [[Hewlett v. Hewlett-Packard (2002)]]
 
 ## Notes
 

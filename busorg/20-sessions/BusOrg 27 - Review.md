@@ -1,18 +1,17 @@
 ---
 class: busorg
-session: 23
-title: "VC and PE Problems"
-date: 2026-11-18
+session: 27
+title: "Review"
+date: 2026-12-07
 professor: Buccola
 reconciled: false
 ---
 
-# BusOrg 23 — VC and PE Problems
+# BusOrg 27 — Review
 
 ## Readings
 
-- [[In re Trados (2013)|In re Trados]]
-- [[New Enterprise Associates 14 v. Rich (2023)|New Enterprise Associates 14 v. Rich]]
+- *no assigned reading*
 
 ## Notes
 
