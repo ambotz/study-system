@@ -14,8 +14,6 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!caution] Source check — the extract carries Rehnquist's footnote markers 1, 2 and 3 but not the footnotes themselves, and footnote 3 is where the Court elaborates the highway-safety purpose of 23 U.S.C. § 101(b); read the footnotes in the reporter before relying on the germaneness discussion.
-
 ## Snapshot
 
 Congress withheld 5% of federal highway funds from any State that let people under twenty-one buy or publicly possess alcohol. South Dakota, which allowed nineteen-year-olds to buy weak beer, sued and lost in both courts below. The Court affirmed, 7–2, upholding the condition as a valid exercise of the spending power and declining to decide whether Congress could legislate a drinking age directly. The spending power and § 2 of the Twenty-first Amendment are in play.
@@ -25,13 +23,13 @@ Congress withheld 5% of federal highway funds from any State that let people und
 The casebook asks "what is the scope of Congress's power to attach strings" to federal money.
 
 - Is 23 U.S.C. § 158 a valid exercise of the spending power?
-- Does § 2 of the Twenty-first Amendment operate as an independent constitutional bar?
+- Does § 2 of the Twenty-first Amendment operate as an independent constitutional bar? No
 - Is the loss of 5% coercive rather than merely persuasive?
 - **Argued, not decided.** Could Congress legislate a drinking age directly?
 
 ## Rule
 
-Congress may buy with conditional grants what it could not command directly. Four limits apply: the spending must serve the general welfare; the condition must be unambiguous, germane to the federal interest in the program, and not a direction to the State to act unconstitutionally. Beyond them lies an outer boundary where "pressure turns into compulsion."
+Congress may buy with conditional grants what it could not command directly. Four limits apply: (1) the spending must serve the general welfare; (2) the condition must be unambiguous, (3) germane to the federal interest in the program, and (4) not a direction to the State to act unconstitutionally. Beyond them lies an outer boundary where "pressure turns into compulsion."
 
 - "Congress may attach conditions on the receipt of federal funds" to "further broad policy objectives by conditioning receipt of federal moneys upon compliance . . . with federal statutory and administrative directives."
 - The expenditure must be "in pursuit of 'the general welfare,'" but "courts should defer substantially to the judgment of Congress."

@@ -22,7 +22,10 @@ A class whose whole assignment was scanned as one PDF can declare it in
 print-map.json under "packet_source": {"<session>": {"file": ..., "runs":
 [[first,last,offset], ...]}}. The packet body is then those page runs in order,
 and the cover lists the readings without per-reading packet pages, since the
-scan is already the assignment in syllabus order.
+scan is already the assignment in syllabus order. A "not_in_scan" list names
+readings the index carries against another edition that the scan does not
+contain; they are resolved through print-map like any other extra reading, and
+where that is impossible the cover says so instead of claiming they are inside.
 
 Printed page -> PDF page uses the source's fixed "offset" in case-index.json
 (the same one extract_case.py relies on). EPUB sources are refused: an EPUB has
@@ -316,8 +319,9 @@ def main():
             runs = whole.get("runs") or [[1, page_count(path), 0]]
             label = whole.get("label", "5th ed. scan")
             span = "; ".join(dash(f + o, l + o) for f, l, o in runs)
-            scanned = [r for r in s["readings"] if r.get("source")]
-            extra = [r for r in s["readings"] if not r.get("source")]
+            outside = set(whole.get("not_in_scan") or [])
+            scanned = [r for r in s["readings"] if r.get("source") and r["case"] not in outside]
+            extra = [r for r in s["readings"] if not r.get("source") or r["case"] in outside]
             for r in scanned:
                 rows.append({"name": r["case"], "src": f"{label} {span}", "pp": "in this packet"})
             for f, l, o in runs:
@@ -330,8 +334,13 @@ def main():
                 parts, why = resolve(ix, pmap, srcdir, r)
                 if parts is None:
                     rows.append({"name": r["case"], "src": "NOT PRINTED", "pp": "—"})
-                    notes.append(f"{r['case']}: not printed ({why}).")
-                    problems.append(f"Class {n}: {r['case']} — {why}")
+                    if r["case"] in outside:
+                        # declared as outside the scan in print-map.json; expected, not a defect
+                        notes.append(f"{r['case']}: not in the {label} scan and not printed "
+                                     f"({why}).")
+                    else:
+                        notes.append(f"{r['case']}: not printed ({why}).")
+                        problems.append(f"Class {n}: {r['case']} — {why}")
                     continue
                 start = cursor
                 for q in parts:

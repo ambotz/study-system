@@ -1,5 +1,5 @@
 {
-  "_about": "Con Law print sources for .claude/scripts/build_print_packets.py. Con Law's casebook is held as an EPUB, which has no pages to cut, so most packets are built from the EPUB separately. A class whose whole assignment was scanned from the 5th edition is declared under packet_source: the packet body is those page runs in order, and the cover lists the readings without separate page cuts, because the scan is already the assignment in syllabus order. runs are [first_pdf_page, last_pdf_page, offset], where printed 5th-ed page = pdf page + offset.",
+  "_about": "Con Law print sources for .claude/scripts/build_print_packets.py. Con Law's casebook is held as an EPUB, which has no pages to cut, so most packets are built from the EPUB separately. A class whose whole assignment was scanned from the 5th edition is declared under packet_source: the packet body is those page runs in order, and the cover lists the readings without separate page cuts, because the scan is already the assignment in syllabus order. runs are [first_pdf_page, last_pdf_page, offset], where printed 5th-ed page = pdf page + offset. not_in_scan names readings the index carries against the 4th-ed EPUB that the 5th-ed scan does not contain, so the cover does not claim they are in the packet.",
   "course": "Constitutional Law I",
   "packet_source": {
     "3": {
@@ -65,6 +65,42 @@
           14,
           347
         ]
+      ]
+    },
+    "21": {
+      "file": "Con law 1 - Class 21 (Taxing) - pp 596-609.pdf",
+      "label": "5th ed.",
+      "runs": [
+        [
+          1,
+          14,
+          595
+        ]
+      ]
+    },
+    "24": {
+      "file": "Con law 1 - Class 24 (Secession) - pp 760-780.pdf",
+      "label": "5th ed.",
+      "runs": [
+        [
+          1,
+          22,
+          759
+        ]
+      ]
+    },
+    "26": {
+      "file": "Con law 1 - Class 26 (Article V) - pp 805-815.pdf",
+      "label": "5th ed.",
+      "runs": [
+        [
+          2,
+          12,
+          803
+        ]
+      ],
+      "not_in_scan": [
+        "The Riddles of Article V"
       ]
     }
   },
@@ -132,6 +168,18 @@
       {
         "file": "Four Views - Diagrams.pdf",
         "label": "Four Views diagrams (Canvas)"
+      }
+    ],
+    "Bailey v. Drexel Furniture Co (1922)": [
+      {
+        "file": "Child Labor Tax Case.pdf",
+        "label": "259 U.S. 20 (Canvas)"
+      }
+    ],
+    "Jefferson Davis, Farewell Address to the Senate": [
+      {
+        "file": "Davis Farewell.pdf",
+        "label": "Senate Chamber, Jan. 21, 1861 (Canvas)"
       }
     ]
   }

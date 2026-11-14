@@ -45,3 +45,36 @@
 J. Stevens 
 -  Printz—Scalia response regarding Article II bypass structure (Only the President can take care and faithfully execute the laws of the nation )
 	- Best response: Scalia accepts voluntary cooperative federalism schemes, which, under his logic, would also bypass Article II executive enforcement 
+
+<u>Taxes</u>
+* Indirect tax (duties, imports, etc. that are passed on) --> Uniform tax = same rate (same X% or $X per Y in every state)
+* Direct tax --> Apportioned tax = same amount per person (dollar amount) (each state pays the same per capita, so the rate must be different if resources are allocated differently; interstate allocation rule)
+	* **Why apportionment was fatal rather than merely annoying.** Run the arithmetic. Two states, 1 million people each. State A’s per-capita income is $100k; State B’s is $25k. Congress wants $200M. Apportionment by population means each state owes exactly $100M. State A’s rate: $100M ÷ $100B = 0.1%. State B’s rate: $100M ÷ $25B = 0.4%. The poorer state pays four times the rate. Apportionment forces the burden to track _heads_, but income tracks _wealth_, and the mismatch is ruinous. “Must be apportioned” effectively meant “cannot exist.”
+
+
+![[Pasted image 20261113121113.png]]
+
+
+
+* Capititation = tax per head (i.e., $10 per person; not an underlying 20% per person of something)
+	* NFIB logic: Not Capitation if it can be avoided. The payment for lack of insurance survives _precisely because you can avoid it_. Buy insurance and you owe nothing. That’s what disqualifies it as a capitation — a head tax reaches you for existing, with no means of escape. The feature that makes the mandate feel coercive is the same feature that makes it indirect.
+* **§8 cl. 1** — the _grant_: “Taxes, Duties, Imposts and Excises.” “Taxes” is the general word and includes direct taxes. Attached to it is a proviso that reaches only the last three: “but all Duties, Imposts and Excises shall be uniform.”
+- **§2 cl. 3 and §9 cl. 4** — the apportionment limit, stated twice, reaching “Capitation, or other direct, Tax.”
+- **§9 cl. 5** — no export taxes.
+- **Sixteenth Amendment** — carves income taxes out of apportionment.
+- Apportionment walkthrough (J. Irdell in Hylton has a good arithmetic walkthrough why apportionment can work on things aside from capitation)
+	- `If any state had no carriages, there could be no apportionment at all`
+	- apportionment was built for a world where heads and wealth tracked each other. Land was the one big tax base where that held. The doctrine’s whole subsequent history — _Hylton_, _Pollock_, the Sixteenth Amendment, _Moore_ — is the law coping with the fact that it stopped being true.
+Tax or penalty?
+* Run Bailey factors:
+	* 1. Prohibitory?
+	* 2. Scineter requirement?
+	* 3. Who is the regulating agency?
+	* 4. Nature of the regulation? Prescribed code of conduct? ('indispensable' according to J. Taft)
+		* Response: (1) can move into executive via admin law (but see non-delegation problem) or (2) make it a payable credit {There is no longer “a heavy exaction for a departure/not prohibitory anymore}
+			* See Steward Machine
+Spending
+* Madison— must spend only in furthernance of an enumerated power, reading the 'general welfare' as part of the prior phrase
+* Hamilton—general welfare promotion can be its own end, but must not be local
+* Degree of sucess ≠ coercive (Dole)
+	* Pulling back past grants state already has = Coercive (NFIB)

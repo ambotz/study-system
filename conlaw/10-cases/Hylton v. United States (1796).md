@@ -13,8 +13,6 @@ read_for: null
 posture_drove_outcome: false
 ---
 
-> [!note] Quotation — Paterson's circular argument reads "it is not tax, and therefore must be a duty or excise" in both editions (5th ed. p. 599). The wording is the casebook's own and is not an extraction error, although the sense requires *it is not a direct tax*. Quote the sentence as printed.
-
 ## Snapshot
 
 Congress laid an annual duty on carriages at one rate throughout the country, unapportioned by population. Hylton, in a test case on stipulated facts, argued that the tax was "direct" and void for want of apportionment. On a writ of error the Court affirmed, three Justices writing seriatim: a tax is direct only if apportionment can reasonably apply to it, and a carriage tax cannot be apportioned without absurdity. Article I's apportionment rule meets the uniformity rule of § 8.
@@ -58,11 +56,12 @@ Whether a tax is "direct" turns on whether apportionment can sensibly be applied
 - Begins from a burden of proof — counsel "did not satisfy my mind," and "if I only doubted, I should affirm" — then adds that in a doubtful case the "deliberate decision of the National Legislature" settles it.
 - Argues from surplusage: on a closed list of four species the general power "to lay and collect Taxes" would be "unnecessary," so other taxes "may be laid by the rule of uniformity, or not."
 - Applies the functional test: a carriage tax "cannot be laid by the rule of apportionment, without very great inequality and injustice."
+- Four types of taxes: Direct taxes, Duties, Imposts, Excises
 
 **Paterson, J.**
 
 - Breaks the circle. Each side argued from the other category's boundaries, so "[t]he argument on both sides turns in a circle," and neither "duty" nor "excise" can carry the weight.
-- Sets the taxonomy: direct taxes; "Duties, imposts, and excises"; and "All other classes of an indirect kind, and not within any of the classifications enumerated under the preceding heads."
+- Sets the taxonomy: (1) direct taxes; (2) "Duties, imposts, and excises"; and (3) "All other classes of an indirect kind, and not within any of the classifications enumerated under the preceding heads."
 - Reads the clause's purpose frankly and then holds it to that purpose, the compromise being "radically wrong," and classifies consumption taxes as "circuitous modes of reaching the revenue of individuals, who generally live according to their income."
 
 **Iredell, J.**
@@ -76,13 +75,15 @@ Whether a tax is "direct" turns on whether apportionment can sensibly be applied
 - *A carriage tax is not a duty, impost or excise, and those are the only indirect taxes the Constitution names, so it must be direct.* Paterson: the premise is false, because the Constitution leaves room for taxes "of an indirect kind" under none of the named heads.
 - *Apportionment should be favored over uniformity, so "direct" should be construed broadly.* Paterson: this compromise "is radically wrong," and "[t]he rule, therefore, ought not to be extended by construction."
 - *A tax on a man's own property, unavoidable except by giving the property up, is direct in substance whatever it is called.* Paterson: taxes "on expenses or consumption" are indirect, and "the individual may be said to tax himself." Chase reserves the harder case, doubting whether "a general assessment of personal property" is direct.
-- *A tax in neither category has no constitutional rule, so apportionment supplies the default.* Iredell: uniformity is the default, because the Constitution was "intended to affect individuals, and not states."
+- *A tax in neither category has no constitutional rule, so apportionment supplies the default.* Iredell:<u> uniformity is the default</u>, because the Constitution was "intended to affect individuals, and not states."
 
 ## Where it sits
 
 **The first review of a federal statute, and a weak precedent for it.** Hylton is the first case in which the Court passed on an act of Congress, seven years before [[Marbury v. Madison (1803)|Marbury v. Madison]], and it sustained the act with Hamilton arguing for the government. Stipulated facts, an invented carriage count and a government-paid challenger make it an unclean precedent. The mechanics are in [[Express Limits on the Power to Tax]].
 
 **Ninety-nine years, then contradiction.** In *Pollock* (1895) Fuller, C.J., held a tax on "a person's entire income" from real or personal property direct, distinguished Hylton and remarked that "[t]he case is badly reported." His structural argument mirrors Paterson's, and Harlan dissented for four.
+
+![[Pasted image 20261114100951.png]]
 
 **Amendment rather than overruling.** The Sixteenth Amendment (1913) removed income taxes from the apportionment rule — "the third time in history that the country had reversed a Supreme Court decision with a constitutional amendment," after *Chisholm v. Georgia* and [[Dred Scott v. Sandford (1857)|Dred Scott v. Sandford]]. Article V did the correcting.
 
@@ -100,26 +101,39 @@ Whether a tax is "direct" turns on whether apportionment can sensibly be applied
 **Note 2. "What do you make of the argument that a tax should be direct only if it could reasonably be apportioned? Is that common sense, or circular? . . . How would a tax on land be apportioned more fairly than a tax on carriages?"**
 
 - Circular on its face, since the consequence fixes the category; the defense is that apportionment is a rule of collection never meant to reach a subject it cannot fit.
-- Land is where the note bites. It too is unevenly distributed relative to population, yet all three Justices call a land tax direct, so the reductio proves too much.
+- Land is where the note bites. It too is unevenly distributed relative to population, yet all three Justices call a land tax direct, so the reductio proves too much. --> based on tradition and history where land, wealth, and heads roughly tracked (when Constituion was first made)
 
 **Note 3. "Are all federal taxes subject to either uniformity or apportionment? . . . what falls in the gap between them? Why might the framers . . . have wanted for some taxes to be subject to neither?"**
 
 - Paterson's third class of taxes "of an indirect kind" is the gap, and Iredell makes uniformity the default.
 - The framers likely wanted a plenary taxing power, with two targeted protections rather than a taxonomy.
+- Note: income tax is direct tax (as interpreted by Pollock)
 
 **Note 4. "The line between direct and indirect taxes remains elusive."**
 
 - Hylton "became an early precedent establishing broad national power to impose unapportioned taxes on commodities, consumption, and conduct," and it held until Pollock struck the income tax as unseverable.
 - Pollock distinguishes Hylton rather than overruling it. The line stays elusive because Chase and Iredell supply a filter, not a definition.
 
-**Note 5. "Does the Sixteenth Amendment moot the question of which taxes are 'direct'? . . . Suppose Congress were to adopt a tax on all forms of wealth . . . . What is the best answer?"**
+**Note 5. The Sixteenth Amendment. "Does the Sixteenth Amendment moot the question of which taxes are 'direct'? Does it suggest that Pollock's view was wrong and that Hylton's was right? Or does it concede that Pollock had interpreted the Constitution correctly, and that was why it needed to be amended?"**
 
-- It moots only income, which is why [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]] still had to ask whether the shared responsibility payment was a capitation. The amendment reads as a concession to Pollock, not a correction of it.
-- A wealth tax splits the opinions: grotesque to apportion under Chase and Iredell, and so indirect; the paradigm direct tax under Paterson's account. *Moore* (2024) left it open.
+- It moots only income — "on incomes, from whatever source derived" — which is why [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]] still had to ask whether the shared responsibility payment was a capitation.
+- The three questions are not alternatives with one right answer; the amendment is evidence both ways. The concession reading is the stronger one: you do not amend around a decision you think was wrong on its own terms, and the casebook flags this as "the third time in history that the country had reversed a Supreme Court decision with a constitutional amendment."
+- The rebuttal is that amendment is also the cheapest way to fix a wrong decision you cannot wait for the Court to correct. Compare [[Dred Scott v. Sandford (1857)|Dred Scott]], reversed by the Thirteenth and Fourteenth Amendments and plainly not conceded to have been right.
+
+**Note 6. Corpus linguistics. "Is this a promising path?"**
+
+- The note points to Bush & Jeffries, 45 Harv. J.L. & Pub. Pol'y 523 (2022), concluding that the direct/indirect line "was much less elusive than modern readers believe," and that direct taxes at a minimum included taxes on "land, houses, slaves, capitations, and general assessments."
+- For: frequency data is evidence of ordinary meaning, and it is public and checkable in a way that a judge's intuition about 1787 usage is not.
+- Against: it measures ordinary usage, and "direct Tax" may be a term of art among a small drafting class; it cannot see the apportionment-feasibility reasoning that actually drove Chase and Iredell; and the study's own list includes "general assessments," which is exactly the contested category.
+- Note the tension with the case: if the line was clear, all three Justices in Hylton got it wrong within a decade of ratification.
+
+**Note 7. The wealth tax and the mandate. "Suppose Congress were to adopt a tax on all forms of wealth (or all forms of wealth except real property). . . . What is the best answer? What if Congress were to adopt a tax on not purchasing health insurance?"**
+
+- A wealth tax splits the opinions: grotesque to apportion under Chase and Iredell, and so indirect; the paradigm direct tax under Paterson's account of what the framers were protecting. *Moore v. United States* (2024) left it open.
+- The health-insurance half is the setup for [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]], and the casebook says so. Carry the answer forward: a tax on *not* doing something has no base to apportion, which on Chase's feasibility test makes it indirect — and that is how the mandate survived the direct-tax objection even as it failed under the Commerce Clause.
 
 ### Further drilling
 
 - **Vary the measure.** A carriage tax assessed on value is Chase's reserved case of "a general assessment of personal property," which Pollock later held direct.
 - **Why apportionment fits only capitations.** It fixes each state's total by population, so rates must move state by state; an unevenly spread base yields wild rates, an absent one an impossible rate.
-- **Corpus linguistics.** A 5th-edition note argues the direct-indirect line "was much less elusive than modern readers believe." Usage frequency evidences ordinary meaning, not a term of art.
 - **Memorable details.** Hamilton argued for the tax. The 125 stipulated carriages. Iredell's $3.80 against $35.

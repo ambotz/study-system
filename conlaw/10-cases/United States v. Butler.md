@@ -15,7 +15,7 @@ posture_drove_outcome: false
 
 ## Rule
 
-The spending power "is not limited by the direct grants of legislative power found in the Constitution" (Hamilton's reading, not Madison's), but Congress may not use taxing and spending "to purchase compliance" with a regulatory plan it could not enact directly, a restrictive half the Court later abandoned.
+The spending power "is not limited by the direct grants of legislative power found in the Constitution" (Hamilton's reading, not Madison's), **but** Congress may not use taxing and spending "to purchase compliance" with a regulatory plan it could not enact directly, a restrictive half the Court later abandoned.
 
 ## Facts
 

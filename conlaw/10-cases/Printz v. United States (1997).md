@@ -142,7 +142,7 @@ Congress may not command state executive officers to administer or enforce a fed
 - Alito's account is structural: "conspicuously absent from the list of powers given to Congress is the power to issue direct orders to the governments of the States."
 - "[I]t was a matter of happenstance that the laws challenged in New York and Printz commanded 'affirmative' action as opposed to imposing a prohibition."
 - Murphy rejects the formalistic argument that anticommandeering only applies to Congress attempting the states to *do something* compared to prohibiting the states *from acting*
-	- Simply happenstance that the laws in New York and Printz involved affirmative action vs. prohibition
+	- Simply happenstance that the laws in New York and Printz involved affirmative action
 - Keep ordinary preemption separate: regulating private actors and displacing state law is no order to a State.
 
 ### Further drilling

@@ -1,7 +1,7 @@
 ---
 reading: "Jefferson Davis, Farewell Address to the Senate"
 kind: document
-source: "Canvas (not in the casebook); built from public sources pending the Canvas version"
+source: "Canvas — 'Davis Farewell.pdf' (not in the casebook); Senate Chamber, January 21, 1861"
 class: conlaw
 session: 24
 topic: "Nature of the Union — state sovereignty and the right of secession"
@@ -12,8 +12,6 @@ feeds_module:
 read_for: null
 ---
 
-> [!caution] Source check — Not in the casebook. The text quoted here was retrieved from the Papers of Jefferson Davis at Rice University (transcribed there from the *Congressional Globe*, 36th Cong., 2d Sess., p. 487), through an automated page fetch rather than from the printed volume, and spot-checked against the Teaching American History transcription, which differs in small orthographic details ("three-fifths" for "three fifths," "unencumbered by" for "unencumbered of"). Confirm every quotation against the Canvas PDF before using one in an exam answer.
-
 ## What it is
 
 Jefferson Davis's remarks in the Senate Chamber on January 21, 1861, announcing that Mississippi had declared her separation from the United States and that his functions as her senator were therefore at an end. He had represented Mississippi since 1857 and had been Secretary of War under Pierce; less than three weeks later he was chosen provisional president of the Confederacy.
@@ -21,6 +19,8 @@ Jefferson Davis's remarks in the Senate Chamber on January 21, 1861, announcing 
 The speech is assigned with [[Buchanan, Address to Congress]] and [[Lincoln, First Inaugural Address]] as the third position on secession, and it is the only one of the three that defends secession as lawful. It is short, and it is a legal argument rather than a political manifesto: Davis says explicitly that "[t]he occasion does not invite me to go into argument," and then makes four — on state sovereignty, on the difference between nullification and secession, on coercion, and on the Declaration of Independence.
 
 Read it as a primary source for the Southern constitutional case. The last of the four arguments is an argument that the Declaration's equality principle does not extend to enslaved people, and it is set out here because the course needs the position stated accurately, not because it is defensible.
+
+The Canvas PDF is three pages and abridged at two points — after the passage on what a seceding State surrenders, and before the closing adieu — so the speech runs straight from the agency theory to the Declaration argument without the intervening material.
 
 ## What to notice
 
@@ -32,7 +32,7 @@ Read it as a primary source for the Southern constitutional case. The last of th
 - **Why Davis needs the distinction between nullification and secession.** Jackson's Nullification Proclamation and Force Bill were the precedent for coercion, and Davis's separation move is what disarms them. "The phrase 'to execute the laws,' was an expression which General Jackson applied to the case of a State refusing to obey the laws while yet a member of the Union. That is not the case which is now presented."
 - **The no-coercion argument, and why it is stronger than Buchanan's.** "[T]here are no laws of the United States to be executed within the limits of a seceded State." [[Buchanan, Address to Congress|Buchanan]] argued that no enumerated power authorizes war on a State; Davis argues that there is nothing left to execute, which meets [[Lincoln, First Inaugural Address|Lincoln's]] reframing of coercion as ordinary law enforcement against individuals head-on. Its weakness is that it is entirely parasitic: it holds only if the secession was valid, and Lincoln's answer is that the ordinance is void, so the laws still run.
 - **War, not enforcement, is the only honest description.** "You may make war on a foreign State. If it be the purpose of gentlemen, they may make war against a State which has withdrawn from the Union." Davis concedes that the Union may use force; he denies that force can be called execution of the laws. That concession is worth noticing, because it means the dispute with Lincoln is not about whether force is possible but about what the seceded State has become.
-- **The symmetry argument, offered as proof of good faith.** Davis recalls the demand to coerce Massachusetts after a fugitive slave was rescued in Boston and says his answer was the same: "it is her right to go, and I will neither vote one dollar nor one man to coerce her back." The rhetorical work is to present secession as a neutral structural principle rather than a sectional device.
+- **The symmetry argument, offered as proof of good faith — but cut from the assigned text.** Elsewhere in the speech Davis recalls the demand to coerce Massachusetts after a fugitive slave was rescued in Boston and says his answer was the same: "it is her right to go, and I will neither vote one dollar nor one man to coerce her back." The rhetorical work is to present secession as a neutral structural principle rather than a sectional device. The Canvas PDF elides this passage, so it is background rather than something to quote back in class.
 - **The costs of leaving are accepted, and used as an argument.** A seceding State "surrenders all the benefits, (and they are known to be many,) deprives herself of the advantages, (they are known to be great,) severs all the ties of affection, (and they are close and enduring,)" and "thus divesting herself of every benefit, taking upon herself every burden, she claims to be exempt from any power to execute the laws of the United States within her limits." The argument is that the exit is a bargain, not a free option — which is his answer to the charge that secession makes the Union "a rope of sand," in [[Buchanan, Address to Congress|Buchanan's]] phrase.
 - **The stated cause is the Declaration of Independence, read as an attack on slavery.** "She has heard proclaimed the theory that all men are created free and equal, and this made the basis of an attack upon her social institutions; and the sacred Declaration of Independence has been invoked to maintain the position of the equality of the races."
 - **Davis's reading of the Declaration limits it to political communities.** "That Declaration of Independence is to be construed by the circumstances and purposes for which it was made." The colonists meant "that no man was born—to use the language of Mr. Jefferson—booted and spurred to ride over the rest of mankind; that men were created equal—meaning the men of the political community; that there was no divine right to rule; that no man inherited the right to govern; that there were no classes by which power and place descended to families." On that reading the Declaration is about hereditary aristocracy, not about slavery, and "[t]hey have no reference to the slave."
