@@ -27,7 +27,22 @@ AXES = [
     "commitment_grammar",
     "budget_discipline",
 ]
-MODES = {"timed-full", "short-form", "opening-paragraph", "rewrite"}
+
+# Which axes a mode is allowed to score. A micro-drill that scores axes it
+# cannot observe produces a number with nothing behind it, so the set is
+# enforced rather than advised.
+#   None  -> all six required
+#   set   -> exactly this set required
+#   "any" -> at least one axis, caller's choice (rewrite targets one habit)
+MODE_AXES = {
+    "timed-full": None,
+    "short-form": None,
+    "opening-paragraph": {"thesis_placement", "commitment_grammar"},
+    "outline": {"visible_structure", "element_discipline", "budget_discipline"},
+    "triage": {"budget_discipline"},
+    "rewrite": "any",
+}
+MODES = set(MODE_AXES)
 REQUIRED = {"source", "mode", "professor", "prompt_ref", "axes", "verdict", "next_rep"}
 
 
@@ -41,14 +56,35 @@ def slug(text: str) -> str:
     return re.sub(r"\s+", " ", text)[:60]
 
 
+def scored_axes(g: dict) -> list:
+    """The axes this grade carries, in canonical order."""
+    return [a for a in AXES if a in g["axes"]]
+
+
 def validate(g: dict) -> None:
     missing = REQUIRED - g.keys()
     if missing:
         fail(f"missing required keys: {sorted(missing)}")
     if g["mode"] not in MODES:
         fail(f"mode must be one of {sorted(MODES)}, got {g['mode']!r}")
-    if set(g["axes"]) != set(AXES):
-        fail(f"axes must be exactly {AXES}, got {sorted(g['axes'])}")
+
+    unknown = set(g["axes"]) - set(AXES)
+    if unknown:
+        fail(f"unknown axes: {sorted(unknown)}")
+
+    expected = MODE_AXES[g["mode"]]
+    if expected is None:
+        if set(g["axes"]) != set(AXES):
+            fail(f"mode {g['mode']!r} scores all six axes; got {sorted(g['axes'])}")
+    elif expected == "any":
+        if not g["axes"]:
+            fail(f"mode {g['mode']!r} needs at least one axis")
+    elif set(g["axes"]) != expected:
+        fail(
+            f"mode {g['mode']!r} scores exactly {sorted(expected)}; got {sorted(g['axes'])}. "
+            "A micro-drill cannot observe the other axes."
+        )
+
     for axis, entry in g["axes"].items():
         if not isinstance(entry, dict):
             fail(f"axes.{axis} must be an object")
@@ -66,7 +102,8 @@ def yaml_scalar(value) -> str:
 
 
 def render(g: dict, date: str) -> str:
-    scores = {a: g["axes"][a]["score"] for a in AXES}
+    axes = scored_axes(g)
+    scores = {a: g["axes"][a]["score"] for a in axes}
     fm = [
         "---",
         f"kind: exam_attempt",
@@ -78,10 +115,11 @@ def render(g: dict, date: str) -> str:
         f"date: {date}",
         "scores:",
     ]
-    fm += [f"  {a}: {scores[a]}" for a in AXES]
+    fm += [f"  {a}: {scores[a]}" for a in axes]
     fm += [
+        f"axes_scored: {len(axes)}",
         f"score_total: {sum(scores.values())}",
-        f"score_max: {3 * len(AXES)}",
+        f"score_max: {3 * len(axes)}",
         "graded_by: essay-grade",
         "---",
         "",
@@ -90,7 +128,7 @@ def render(g: dict, date: str) -> str:
     body = [f"# {g['source']} — {g['mode']}", ""]
     body += ["## Verdict", "", g["verdict"].strip(), ""]
     body += ["## Axes", ""]
-    for axis in AXES:
+    for axis in axes:
         e = g["axes"][axis]
         body += [
             f"### {axis.replace('_', ' ').capitalize()} — {e['score']}/3",
@@ -131,10 +169,11 @@ def main() -> int:
     out = attempts / f"{date} - {slug(grade['source'])} - {grade['mode']}.md"
     text = render(grade, date)
 
-    total = sum(grade["axes"][a]["score"] for a in AXES)
-    weakest = min(AXES, key=lambda a: grade["axes"][a]["score"])
+    axes = scored_axes(grade)
+    total = sum(grade["axes"][a]["score"] for a in axes)
+    weakest = min(axes, key=lambda a: grade["axes"][a]["score"])
     log_line = (
-        f"| {date} | {grade['mode']} | {grade['source']} | {total}/{3 * len(AXES)} "
+        f"| {date} | {grade['mode']} | {grade['source']} | {total}/{3 * len(axes)} "
         f"| {weakest.replace('_', ' ')} | {grade['next_rep'].strip().splitlines()[0][:80]} |"
     )
 

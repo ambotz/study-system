@@ -53,6 +53,49 @@ in the profile instead.
 
    Run with `--dry-run` first and show the rendered output, then write.
 
+## Which axes a mode may score
+
+A micro-drill cannot observe every axis, and scoring one it cannot see produces
+a number with nothing behind it. The script enforces the set.
+
+| Mode | Axes scored |
+|---|---|
+| `timed-full`, `short-form` | all six |
+| `opening-paragraph` | 1 thesis placement, 5 commitment grammar |
+| `outline` | 2 visible structure, 3 element discipline, 6 budget discipline |
+| `triage` | 6 budget discipline |
+| `rewrite` | whichever axis the rewrite targeted — at least one |
+
+`score_max` is computed from the axes actually scored, so a 7/9 outline and a
+14/18 timed-full are both legible in the error log without pretending to be the
+same measurement.
+
+**The two halves of the rubric split cleanly.** Axes 2, 3 and 6 are decided
+before a word is written; axes 1 and 5 only exist on the page. That is why the
+outline rep and the opening rep are run as a pair, and why the gap between them
+is worth more than either score — see the combined rep in `exam-drill`.
+
+## Grading an outline
+
+Same 0–3 scale, different evidence. An outline is not prose and must not be
+graded as though it were trying to be.
+
+- **Visible structure.** Is there one entry per decision, in the order the
+  decider hits them, with the professor's sourcing — Buccola's invented
+  standard-of-review gates, Baude's mirror of the prompt's own labels and verbs?
+  A list of topics is a 1. A sequence of gates is a 3.
+- **Element discipline.** Does each gate carry its test with the elements
+  enumerated and a holding attached, or just the gate's name? "Entire fairness"
+  is a 1. "Entire fairness — not cleansed under 144(b)(1), no delegated
+  committee, Enya voted → fair price and fair dealing, likely fails" is a 3.
+- **Budget discipline.** Are words allocated per gate before drafting, and does
+  the allocation track the point weights? An outline with no numbers on it
+  scores 0 on this axis however good the substance, because allocation is the
+  thing the drill exists to train.
+
+Do not score an outline on prose quality, hedging, or sentence construction.
+If the outline reveals a substance problem, it goes in `substance_notes`.
+
 ## The six axes
 
 Each scores 0–3. The anchors are Ashwin's own answers, so the scale is
@@ -174,6 +217,10 @@ took.
 
 `fix` is one instruction the next attempt can follow, not a paragraph of advice.
 "Put the holding in sentence one" is a fix; "work on your structure" is not.
+
+Carry only the axes the mode allows. An `outline` grade carries three keys, a
+`triage` grade one, an `opening-paragraph` grade two. The script rejects the
+wrong set rather than silently scoring air.
 
 ## What this skill does not do
 

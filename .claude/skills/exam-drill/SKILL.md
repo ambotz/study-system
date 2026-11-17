@@ -9,15 +9,22 @@ Produces the rep, enforces the constraint, and hands the output to
 `essay-grade`. It does not grade — the separation exists so an attempt is scored
 against the rubric rather than against whatever the generator had in mind.
 
-Three practice modes, plus rewrite. Each exists because the diagnostic named a
+Five practice modes, plus rewrite. Each exists because the diagnostic named a
 specific failure that mode attacks.
 
-| Mode | Length | Attacks |
-|---|---|---|
-| `opening-paragraph` | first 150 words only, 10 min | thesis placement, commitment grammar |
-| `short-form` | one issue, 20–25 min | element discipline, counterargument weighting |
-| `timed-full` | full past exam, real clock | budget discipline, visible structure, triage |
-| `rewrite` | an answer already written | converts a named failure into a habit |
+| Mode | Length | Attacks | Axes graded |
+|---|---|---|---|
+| `outline` | one question, 4–5 min | structure, element discipline, allocation | 2, 3, 6 |
+| `opening-paragraph` | first 150 words only, 7–10 min | thesis placement, commitment grammar | 1, 5 |
+| `triage` | whole exam, 10 min | allocation across questions, nothing else | 6 |
+| `short-form` | one issue, 20–25 min | element discipline, counterargument weighting | all six |
+| `timed-full` | full past exam, real clock | everything under a real budget | all six |
+| `rewrite` | an answer already written | converts a named failure into a habit | the targeted axis |
+
+**The rubric splits in half and the modes split with it.** Axes 2, 3 and 6 are
+settled before a word is written; axes 1 and 5 only exist on the page. An
+outline rep cannot see a softened verb and an opening rep cannot see a starved
+section. Running only one kind leaves half the diagnostic untouched.
 
 ## Before generating anything
 
@@ -30,6 +37,75 @@ constraints the rep must replicate are stated there, and they differ:
 **Every circulated answer in this vault was written open-book.** Generating a rep
 that allows lookup reproduces the wrong constraint. Default to closed-book for
 both classes this year and say so in the rep header.
+
+## Mode: outline
+
+Four to five minutes on one question. No prose. This is the skill Baude tells
+you to use, in the exam instructions themselves:
+
+> "My advice is to sketch an outline to each of the questions before you
+> actually begin to write. If you just dive in, you may get lost halfway
+> through and you may run out of space."
+
+Produce exactly three things per gate and nothing else:
+
+1. **The gate, in the order the decider hits it.** Sourced per professor —
+   Buccola's answers invent a standard-of-review sequence (*Direct or
+   Derivative → Controlling Stockholder → Conflicted Director → Entire Fairness
+   → Revlon → Unocal*); Baude's mirror the prompt's own labels and convert its
+   verbs into sub-headings, which both 2023 scripts did independently with
+   `Can?` / `Should?`.
+2. **The holding for that gate**, in the professor's verdict word. Not "discuss
+   whether it was cleansed" — *"not cleansed, no delegated committee under
+   144(b)(1)."* A gate with no holding attached is a topic list.
+3. **A word budget.** Baude's past caps run a constant 35 words per point, so
+   the budget is arithmetic, not instinct. An outline with no numbers on it
+   scores 0 on budget discipline however good the substance.
+
+Target four to eight gates. An outline that runs to fifteen has not triaged,
+which is the failure this mode exists to catch.
+
+## Mode: triage
+
+Ten minutes, the whole exam, allocation only. No gates, no holdings — read all
+the questions, note the point weights, and write the word budget per question
+and per sub-part. Then stop.
+
+This exists because every shortfall in the 1L corpus was concentrated in the
+question reached last: CivPro Q2 at 75% of cap, Contracts Q3 at roughly 40%.
+Those are not writing-speed failures, they are allocation failures, and they
+happen in the first ten minutes or not at all.
+
+Baude's own advice points the same way — *"If you just dive in… you may run out
+of space"* — and his exam closes every year with "REMINDER: Did you check your
+word count for each question?"
+
+Note that Buccola's weights have been a fixed 60/20/20 both years, so triage
+there is nearly free. Baude's move every year — 30/50/20, then 50/20/30, then
+45/30/25 — so the weights must be read off the page, never assumed.
+
+## The combined rep — the one to run first
+
+Fifteen minutes, one question, both halves of the rubric:
+
+- **3 min** read the prompt
+- **4 min** outline, as above
+- **7 min** write the opening only, as below
+- then **compare the two**
+
+The comparison is the real output. Where the outline named a clean holding and
+the prose lost it, the failure is transcription, not planning. Where the outline
+was already a topic list, more writing practice will not help.
+
+Elements 2025 Q1A is the worked example: in outline form, *"not strictly bound,
+facts differ"* is a perfectly good bullet. On the page it came out as
+*"should be bound by 9th circuit precedent… Instead of following the decision
+from ChatGPT, we should not allow the seizure."* The plan was right and the
+sentence lost it. That distinction is invisible unless both artifacts exist side
+by side.
+
+Grade as two entries — one `outline`, one `opening-paragraph` — against the same
+`prompt_ref`, so the error log carries both and the delta is queryable.
 
 ## Mode: opening-paragraph
 
