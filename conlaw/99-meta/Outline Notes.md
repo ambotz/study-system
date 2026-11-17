@@ -78,3 +78,21 @@ Spending
 * Hamilton—general welfare promotion can be its own end, but must not be local
 * Degree of sucess ≠ coercive (Dole)
 	* Pulling back past grants state already has = Coercive (NFIB)
+		* Dole compared to NFIB on coercion: (1) magnitude: 10% of entire state budget conditioned and (2) cross-program leverage: **conditioning the continuation of an existing program on acceptance of a new one, at a scale that leaves no real choice**. Size and structure together; neither alone would have done it.
+
+Bounds to the necessary and proper clause?
+	-- just other enumerated powers? Legitmate end (McCulloch)? Any tests to be able to deploy? Key cases?
+
+Coercion and spending -- what are the limits:
+* hypo: what if Congress repealed all funding and then passed a bill that included it with the condition. --> If the violation is threatening money a State _already has_, what stops Congress from repealing Medicaid outright and re-enacting it tomorrow with the expansion built in — one program, take it or leave it, no pre-existing funds to threaten? On Roberts’s reasoning that should be fine. Does that make the holding a real structural protection, or a drafting rule?
+	* **Ranked responses to the hypo:**
+		* **1. Reliance, read functionally.** The best one. Coercion under _Pennhurst_/_Barnes_ asks whether the State accepted “voluntarily and knowingly,” and Roberts measures choice “not merely in theory but in fact.” A State with fifty years of Medicaid infrastructure and a quarter of its budget committed isn’t choosing on a blank slate. “Existing funds” is a proxy for reliance, not a formal category — and you’re using Roberts’s own functional language against the formal reading of his rule.
+		* **2. Look through the sequencing.** Repeal-then-re-offer is substantively identical to threaten-to-withdraw. The gun is reloaded, not holstered. Strong intuitively; the burden is explaining why two individually lawful steps combine into an unlawful one — doable (that’s what unconstitutional conditions doctrine does) but it needs the argument spelled out.
+		* **3. Limit the bundling.** Expansion is germane to Medicaid, so this bundle survives. But the hypo can’t generalize: re-enact Medicaid conditioned on something unrelated and the bundle itself becomes the violation. Concedes the case, saves the doctrine.
+		* **4. Political impossibility.** Repealing Medicaid outright would defund every State, including willing ones. True, and it’s why the holding bites in practice — but it’s an admission that the constraint is formal, not legal.*
+
+"Constitution, not a code" — J. Marshall (what case?) --> helps combat expressio unius arguments and the like + enlarges incidental powers arguments? 
+
+
+**Nullification vs. secession.** Nullification: the state says one federal _statute_ exceeds the delegated powers, so it’s void, and the state won’t let it operate inside its borders. The compact is intact; the agent overstepped. The state stays in and appeals to the other states. Secession: the state says the _compact itself_ has been materially breached, so it’s discharged, and leaves.
+* Draw parallels between opinion and judgement precedent theories for judicial supremacy?

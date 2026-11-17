@@ -15,17 +15,21 @@ read_for: null
 posture_drove_outcome: true
 ---
 
-> [!caution] Source check — Grier's dissent and the Swayne/Miller opinion below are from the 5th ed. (scanned pp. 774–780); the 4th-ed. EPUB prints only the Chief Justice's opinion. The casebook omits the posture and statement of facts, which are taken from the U.S. Reports. The casebook cites the case as 1868 (the December 1868 Term); it was decided April 12, 1869, and is usually cited as 1869.
-
 ## Snapshot
 
-The United States issued bearer bonds to Texas; the insurgent state government sold them during the rebellion, and the Reconstruction government sued in the State's name in the Court's original jurisdiction to recover them. The defendants answered that Texas was not a State of the Union, so secession had to be decided to decide jurisdiction. The Court held the ordinance absolutely null, Texas a State throughout, and the Guarantee Clause the source of the restoring power — Congress's.
+The United States issued bearer bonds to Texas; the insurgent Texas state government sold them during the rebellion (for cotton and other goods), and the Reconstruction government sued in the State's name in the Court's original jurisdiction to recover them (restrain purchaser from collecting). The defendants answered that Texas was not a State of the Union (instead a new Territory), so secession had to be decided to decide jurisdiction. The Court held the ordinance absolutely null, Texas a State throughout, and the Guarantee Clause the source of the restoring power — Congress's.
 
 ## Issue
 
 - Did Texas cease to be a State, or a member of the Union, by the ordinance of secession and the acts giving it effect, so that original jurisdiction fails?
 - Did the insurgent government's contract divest the State's title to the bonds?
 - From what power does the authority to restore a rebel State's relations derive, and in which branch?
+
+| Question          | Holding                                                          | Which track it resolves                         |
+| ----------------- | ---------------------------------------------------------------- | ----------------------------------------------- |
+| Is Texas a State? | Ordinance to succeed absolutely null; she was a State throughout | Jurisdiction — she may sue                      |
+| Did title pass?   | Not divested; insurgent government’s act had no force            | Bonds — Texas recovers                          |
+| Who restores her? | Guarantee Clause, primarily legislative, resides in Congress     | Governments — President’s acts only provisional |
 
 ## Rule
 
@@ -41,6 +45,10 @@ A State cannot leave the Union by its own act: the ordinance of secession and ev
 - **1861: a Texas convention adopted an ordinance of secession, a majority of citizens ratified it, and the legislature passed acts to carry it into effect, breaking off relations with the Union and establishing new relations with the Confederacy.** *Chase concedes the premise entirely — "the relations of Texas to the Union were broken up" — so everything turns on legal operation. Had the acts had force, Texas was no State and could not sue here.*
 - **During the war the insurgent government contracted the bonds away to White and others to raise money.** *Title passes only if the insurgent legislature's acts were valid, and the purpose of the sale puts it on the rebellion side of Chase's unpublished line.*
 - **Emancipation changed who "the people" of Texas were: "[t]he new freemen . . . part of the people."** *Why the pre-war government could not simply resume, which forces the Guarantee Clause analysis.*
+	- Emancipation added roughly 250,000 people in Texas to the body politic.
+	- The changed people is what makes restoration a genuine constitutional problem rather than a formality, without conceding an inch on whether Texas ever left.
+		- Change of body poliitc = new laws 
+	- Once the question is “what government must a reconstituted people have,” you are asking what a republican form of government requires — and that’s Art. IV § 4 Guarantee Clause, which Chase holds is primarily legislative.
 - **After the surrender the President appointed a provisional governor and called a convention; the constitution was amended, elections were held, and a government acknowledging its obligations to the Union took office.** *Executive-created, which forces Chase to decide whose power Reconstruction is.*
 - **Congress afterwards treated that government as provisional under the Reconstruction Acts, which declared Texas a "rebel State" and placed her in the fifth military district, "subject, not to the civil authority, but to the 'military authorities of the United States.'"** *The same statutes supply the majority's confirmation and the dissent's refutation.*
 - **That government sued in the State's name to recover the bonds and restrain their payment.** *Original jurisdiction runs to suits by a State, so secession had to be decided to decide the Court's power.*
@@ -51,8 +59,9 @@ A State cannot leave the Union by its own act: the ordinance of secession and ev
 **Held** (5–3; Chase, C.J.; Grier dissenting; Swayne, joined by Miller, dissenting on jurisdiction and agreeing on the merits)
 
 - **Texas remained a State of the Union.** The ordinance and implementing acts were "utterly without operation in law," so she "continued to be a State, and a State of the Union," and may sue.
-- **Title was not divested.** "[T]he title of the State [to the bonds] was not divested by the act of the insurgent government in entering into this contract."
+- **Title was not divested.** "[T]he title of the State [to the bonds] was not divested by the act of the insurgent government in entering into this contract." Insurgent government's act had no force.
 - **Restoration belongs primarily to Congress.** The President "might institute temporary government within insurgent districts, occupied by the National forces," but the guarantee power "resides in Congress," so his action is only "provisional."
+	- Tool: Necessary and Proper Clause + practically the duty can only be discharged by legislating 
 
 **Chase, C.J., for the Court**
 
@@ -70,6 +79,7 @@ A State cannot leave the Union by its own act: the ordinance of secession and ev
 **Swayne, J., joined by Miller, J.**
 
 - Agrees with Grier that Texas in "her present condition" cannot "maintain an original suit in this court," a question on which "this court is bound by the action of the legislative department," and agrees on the merits.
+	- Whether the US can sue on behalf of Texas itself should be a political matter (not just whether Congress can restore Texas govt.)
 
 ## Arguments rejected
 
@@ -101,6 +111,13 @@ A State cannot leave the Union by its own act: the ordinance of secession and ev
 - The rhetorical half is the live one: if an exit must first be added by amendment, even consensual secession is unconstitutional and Chase's reservation of exit by consent is empty.
 - Against expressio unius: Congress admits States, so undoing may be incident to doing, and Article IV grants power rather than listing every fate a State may have.
 
+<u>Ways States can Exit—According to Chase</u>
+- **Consensual exit.** Chase’s reservation is exit by “revolution, or by consent of the States” — the States, not Congress. He never specifies how many or by what mechanism, and that silence is the live problem your Note 2 is poking at. Three readings are available:
+
+1. _Unanimous consent_, which follows from the contract logic Chase inherits from Lincoln — one party may breach, but rescission requires all. Consent has to be mutual. 
+2. _Amendment_ under Art. V, three-fourths. Most natural given that Chase is working in constitutional rather than contractual terms, since “consent of the States” is how the Constitution normally speaks of ratification.
+3. _Congress alone_, on the power-to-undo-is-incident-to-the-power-to-do theory — Congress admits States, so perhaps it can release them. (less supported/most tenuous)
+
 **Note 3. "[I]f the people of Quebec voted for secession the central government would be obligated to enter into negotiations with it on the terms of secession, including how to apportion the national debt and where to draw the new nation's boundary lines . . . ."**
 
 - A third answer, between nullity and a right to secede: no unilateral right, but a duty to negotiate once a clear majority has spoken.
@@ -111,4 +128,4 @@ A State cannot leave the Union by its own act: the ordinance of secession and ev
 - **What was actually at stake.** A suit over bonds: the most famous statement of the nature of the Union decided whether a party could sue.
 - **"[A]bsolutely null" cannot mean what it says.** Void every Texas statute from 1861 to 1865 and no marriage is valid, no deed recorded. The bond sale financed the war; a bona fide bearer purchaser has no place in the theory at all.
 - **Why did Texas need re-admission?** She did not — only restoration of a lawful government. The awkward fact is the Thirteenth Amendment, ratified while the South was unrepresented.
-- **Consistent with *Luther v. Borden*?** Luther made a State's lawful government a political question, yet the Court decides for itself that the Reconstruction government is Texas's; the dissenters would have applied it all the way down.
+- **Consistent with *Luther v. Borden*?** Luther made a State's lawful government a political question, <u>yet the Court decides for itself that the Reconstruction government is Texas's</u>; the dissenters would have applied it all the way down.

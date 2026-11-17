@@ -29,7 +29,7 @@ The casebook asks "what is the scope of Congress's power to attach strings" to f
 
 ## Rule
 
-Congress may buy with conditional grants what it could not command directly. Four limits apply: (1) the spending must serve the general welfare; (2) the condition must be unambiguous, (3) germane to the federal interest in the program, and (4) not a direction to the State to act unconstitutionally. Beyond them lies an outer boundary where "pressure turns into compulsion."
+Congress may buy with conditional grants what it could not command directly. Four limits apply: (1) the spending must serve the general welfare; (2) the condition must be unambiguous, (3) germane to the federal interest in the program, and (4) not a direction to the State to act unconstitutionally. Beyond them lies an outer boundary where "pressure turns into compulsion." --> Coercion
 
 - "Congress may attach conditions on the receipt of federal funds" to "further broad policy objectives by conditioning receipt of federal moneys upon compliance . . . with federal statutory and administrative directives."
 - The expenditure must be "in pursuit of 'the general welfare,'" but "courts should defer substantially to the judgment of Congress."
@@ -67,6 +67,7 @@ Congress may buy with conditional grants what it could not command directly. Fou
 
 - Accepts the framework, calling the split "a disagreement about the application of a principle rather than a disagreement on the principle itself."
 - Breaks on germaneness: a minimum drinking age "is not sufficiently related to interstate highway construction to justify so conditioning funds appropriated for that purpose."
+	- Doesn't buy safety argument
 - Denies the concession: South Dakota said only that the Amendment removes the subject from federal power, conceding nothing about whether "the condition imposed by § 158 is reasonably related to highway construction."
 - Calls § 158 "far too over and under-inclusive": it stops teenagers drinking nowhere near a highway, while "[e]ighty-four percent of all highway fatalities involving alcohol occur among those whose ages exceed 21."
 - Offers a categorical limit: Congress may not "impose requirements on a grant that go beyond specifying how the money should be spent," so § 158 is "a regulation determining who shall be able to drink liquor."
@@ -103,7 +104,8 @@ Congress may buy with conditional grants what it could not command directly. Fou
 
 **Note 2. "What are the constraints that the majority identifies for the spending power? . . . Which ones are more constraining, and which ones are less?"**
 
-- General welfare, nearly toothless; unambiguous notice, from *Pennhurst*'s contract theory; germaneness, suggested without elaboration in *Massachusetts v. United States*; and the independent constitutional bar. Coercion sits outside the four, a caveat from *Steward Machine*.
+- (1) General welfare, nearly toothless; (2) unambiguous notice, from *Pennhurst*'s contract theory; (3) germaneness, suggested without elaboration in *Massachusetts v. United States*; and (4) the independent constitutional bar. 
+- Coercion sits outside the four, a caveat from *Steward Machine*.
 - Only germaneness and coercion could ever constrain, and O'Connor agrees on the other three; Dole applies both so loosely that neither works.
 
 **Note 3. "Is the question whether a spending condition is sufficiently related or germane simply another way of asking whether the condition is 'necessary and proper' for carrying into effect its highway appropriation?"**
@@ -119,7 +121,9 @@ Congress may buy with conditional grants what it could not command directly. Fou
 **Note 5. "Is it possible to draw a principled line? Is this a question of degree, or does it turn on the conceptual distinction between germane and non-germane conditions? . . . could Congress just redefine the purpose of its highway spending to get around O'Connor's rule?"**
 
 - Rehnquist gives a percentage without a theory of why any percentage matters: a line, not a principled one.
-- O'Connor trades degree for category, asking whether the requirement specifies how the money is spent; the test is administrable but forbids much ordinary conditional spending.
+- O'Connor trades degree for category, asking whether the requirement specifies how the money is spent (condition itself must be related to the program); the test is administrable but forbids much ordinary conditional spending.
+	- Ex. Condition highway funds on using it on highway-related stuff.
+	- Response: (1) define purpose of the program/federal law broadly and (2) creates a line-drawing problem on what is and is not spending/regulatory
 - Her rule probably does not survive a well-drafted preamble: relabel the program as funding safe interstate travel and a drinking age looks germane.
 
 ### Further drilling
