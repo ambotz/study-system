@@ -38,3 +38,8 @@ __pycache__/
 _inbox/*/*
 !_inbox/*/.gitkeep
 */20-sessions/_photos/
+
+# Cowork scratch output. Generated artefacts land here before being filed into
+# the vault proper; the audio is large binary git cannot diff or compress, and
+# the scripts are regenerable from 50-outline. Keep on disk, out of git.
+Claude outputs/
