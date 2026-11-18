@@ -106,6 +106,8 @@ The Constitution is supreme written law made by the people, it binds every offic
 
 ## Professor gloss
 
+Baude opened the course by splitting the document into three jobs — rights, separation of powers, federalism — and used that split as the organising frame for the whole term rather than as background. He drew the line between constitutional and statutory law at two features: the Constitution is supreme over statutes and it is more ambiguous, which is why its fights run at a higher level of abstraction. On reading the text he warned that punctuation and capitalisation may not carry much meaning. The exam instruction he gave in the first class was to make constitutional arguments to a fact set.
+
 ## Common trap
 
 - **"The Constitution is just, so read rights into it to close any gap."** The sixth theme says the opposite, and Roane's "nose of wax" names the failure mode.

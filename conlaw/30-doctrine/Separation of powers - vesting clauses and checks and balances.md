@@ -117,6 +117,8 @@ Each branch may exercise only the power the Constitution gives it, and one branc
 
 ## Professor gloss
 
+Baude took Youngstown as a separation-of-powers case and not only an executive-power case. The proposition he drew from Black is that the executive must cite an authority for every action, with no residual power to fall back on, and that past practice does not supply one where the practice itself was wrong. Frankfurter narrows which practices could ever count — those that were emergency, temporary, and permitted by Congress — and Douglas reaches the same result through the Takings Clause, since compensation requires the power of the purse and only Congress holds it.
+
 ## Common trap
 
 - **"Youngstown held that the President was at his lowest ebb."** Black wrote for the Court and never used the categories; the three categories are Jackson's concurrence. Name the opinion you are applying.

@@ -94,6 +94,8 @@ Constitutional arguments come in five types (text, historical context, structure
 
 ## Professor gloss
 
+Baude introduced the five modes — text, structure, context, precedent and practice, policy — and then immediately ranked them against the facts of Youngstown, reading the majority as putting text and structure above practice. The ranking, not the list, is what he did with them. Practice is the mode he pressed on: that a thing has happened before does not make it lawful, because the practice itself can have been wrong.
+
 ## Common trap
 
 - **Listing the five types and stopping.** The casebook's questions are about ranking, whether some types draw content from others, and whether some apply only when others run out. Name the controlling type and say why.

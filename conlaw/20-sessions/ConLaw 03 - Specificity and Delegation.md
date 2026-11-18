@@ -4,7 +4,7 @@ session: 3
 title: "Specificity and Delegation"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 3 — Specificity and Delegation

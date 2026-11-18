@@ -11,7 +11,7 @@ authority:
   - U.S. Const. art. II, § 3
   - 34 U.S.C. § 20913(d)
   - 18 U.S.C. § 2250
-professor_emphasis: 2
+professor_emphasis: 3
 exam_likelihood: high
 confidence: 1
 last_drilled: 
@@ -104,6 +104,8 @@ The test is "not demanding": only two delegations have ever failed, both in 1935
 - **Runner-up:** [[The Non-Delegation Doctrine's Good Year]]. Use the 1935 invalidations when the hypothetical involves a standardless transfer of code-making power to private trade groups. [[A.L.A. Schechter Poultry Corp. v. United States|Schechter Poultry]] was unanimous, including Brandeis and Cardozo, so it cannot be dismissed as the work of the conservative bloc, and Gorsuch invokes its "delegation running riot."
 
 ## Professor gloss
+
+Baude framed nondelegation as a line-drawing problem rather than a rule. In pure form Congress cannot delegate legislative power, but the post roads debate sets up a Zeno's paradox: Congress cannot specify every route between every post office, so some handing-off is unavoidable and the question is only where the line falls. He gave three ways to draw it, in this order — policy, historical context, and practice. On Gundy he posed the question rather than answering it, asking whether Gorsuch's three categories of permissible delegation actually differ from the intelligible-principle test given that filling up the details is what the test already licenses, and noting that Alito agreed with the dissent's reasoning while declining to join it. The reasons he gave for the test surviving are the line-drawing difficulty and the availability of the Major Questions Doctrine to do the same work through statutory interpretation.
 
 ## Common trap
 

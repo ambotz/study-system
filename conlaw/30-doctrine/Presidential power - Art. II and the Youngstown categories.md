@@ -108,6 +108,8 @@ The President needs authority from a statute or from the Constitution itself, an
 
 ## Professor gloss
 
+Baude ran Youngstown as four opinions rather than one holding, and was explicit that Jackson's three categories are a concurrence while Black wrote for five. Two propositions were emphasised in terms: the majority puts text and structure above practice, and emergency is not itself executive power. He placed the seizure in Jackson's third category. Black's rule as he taught it is that the executive must cite an authority whenever it acts, statutory or constitutional, and that Commander in Chief is still a limited power.
+
 ## Common trap
 
 - **"Youngstown holds that the President was at his lowest ebb."** Black's test is whether the act is legislative in character; Jackson's test is what Congress has said. Name the opinion you are applying.

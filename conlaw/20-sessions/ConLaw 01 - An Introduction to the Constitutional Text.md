@@ -4,7 +4,7 @@ session: 1
 title: "An Introduction to the Constitutional Text"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 1 — An Introduction to the Constitutional Text

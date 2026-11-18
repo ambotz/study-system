@@ -4,7 +4,7 @@ session: 2
 title: "Introduction"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 2 — Introduction
