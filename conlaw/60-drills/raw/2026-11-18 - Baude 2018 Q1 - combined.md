@@ -45,13 +45,14 @@ rank them — that ranking is graded.
 
 ---
 
-## Opening — 7 min
+## Gate openings — 7 min
 
-Sentence one is the holding. Nothing appended, no contradiction in sentence two.
-Then name the test or list the reasons, and pre-score them where the test has
-factors. Verdict word is **should**. Hedge the argument, never your own verb.
+**One opening per gate above, 25–40 words each.** Not a roadmap paragraph — a
+five-gate question gets five short openings. Each leads with the disposition for
+that gate, with its authority attached. Verdict word is **should**. Hedge the
+argument, never your own verb.
 
-Stop at ~150 words, mid-sentence if that is where you are.
+Write the heading, then the opening, for each gate. Stop at the buzzer.
 
 
 

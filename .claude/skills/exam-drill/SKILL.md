@@ -15,8 +15,7 @@ specific failure that mode attacks.
 | Mode | Length | Attacks | Axes graded |
 |---|---|---|---|
 | `outline` | one question, 4–5 min | structure, element discipline, allocation | 2, 3, 6 |
-| `opening-paragraph` | first 150 words only, 7–10 min | thesis placement, commitment grammar | 1, 5 |
-| `triage` | whole exam, 10 min | allocation across questions, nothing else | 6 |
+| `opening-paragraph` | one opening per gate, ~7 min | thesis placement, commitment grammar | 1, 5 |
 | `short-form` | one issue, 20–25 min | element discipline, counterargument weighting | all six |
 | `timed-full` | full past exam, real clock | everything under a real budget | all six |
 | `rewrite` | an answer already written | converts a named failure into a habit | the targeted axis |
@@ -65,24 +64,25 @@ Produce exactly three things per gate and nothing else:
 Target four to eight gates. An outline that runs to fifteen has not triaged,
 which is the failure this mode exists to catch.
 
-## Mode: triage
+## Allocation is a checklist item, not a drill
 
-Ten minutes, the whole exam, allocation only. No gates, no holdings — read all
-the questions, note the point weights, and write the word budget per question
-and per sub-part. Then stop.
+Every shortfall in the 1L corpus sat in the question reached last — CivPro Q2 at
+75% of cap, Contracts Q3 at roughly 40%. That is an allocation failure, and the
+fix belongs at minute zero of a real attempt, not in its own practice mode.
 
-This exists because every shortfall in the 1L corpus was concentrated in the
-question reached last: CivPro Q2 at 75% of cap, Contracts Q3 at roughly 40%.
-Those are not writing-speed failures, they are allocation failures, and they
-happen in the first ten minutes or not at all.
+The whole operation is arithmetic off the cover page: Baude's ratio has been a
+constant **35 words per point** and his weights move every year, so read them
+and multiply. Buccola has been a fixed **60/20/20** both years, so there is
+nothing to decide at all. Neither takes sixty seconds, and neither improves with
+repetition.
 
-Baude's own advice points the same way — *"If you just dive in… you may run out
-of space"* — and his exam closes every year with "REMINDER: Did you check your
-word count for each question?"
+Reading every question before answering any is also not what a real sitting
+looks like — it burns minutes and destroys momentum on a long issue-spotter.
+Write the budget from the weights **before** reading question one, then read and
+answer in order.
 
-Note that Buccola's weights have been a fixed 60/20/20 both years, so triage
-there is nearly free. Baude's move every year — 30/50/20, then 50/20/30, then
-45/30/25 — so the weights must be read off the page, never assumed.
+So: no `triage` mode. Step 1 of `timed-full` carries it instead, and it belongs
+on the exam-day line of the one-pager.
 
 ## The combined rep — the one to run first
 
@@ -109,22 +109,53 @@ Grade as two entries — one `outline`, one `opening-paragraph` — against the 
 
 ## Mode: opening-paragraph
 
-Ten minutes, first 150 words, nothing else. Highest reps-per-hour in the set and
-it targets the axis that correlates hardest with grade.
+**One opening per gate, not one opening per question.** This is the correction
+that matters: the unit is the analytical move, not the paper.
 
-1. Draw a prompt — a past question, or a stem generated from a `30-doctrine` module with `exam_likelihood: high`.
-2. State the budget and the professor's verdict word (`should` for Baude, `likely` for Buccola).
-3. Require: sentence one is the holding; sentences two to four name the test or list the reasons, and where the test has factors, **pre-score them**.
+In a multi-issue answer there is no single holding to lead with, and the
+circulated answers do not write a navigation paragraph — **one of fourteen**
+Baude Con Law openings is a roadmap. Navigation is carried by headings. What
+each heading then opens with is a disposition, in one or two sentences, and that
+is the thing being drilled.
 
-The target shape, from a Baude exemplar:
+So a rep on a five-gate question is **five openings of 25–40 words**, not one
+opening of 150. Same budget, five repetitions of the move instead of one.
+
+### What a gate opening looks like
+
+All three are verbatim from circulated answers.
+
+> **Tax?** — "Based on Bailey and Sebelius, the GFSPT is not a tax under Congress's taxing-powers: (1) The cost of the tax is probably high enough to be a 'prohibitory financial punishment'; (2) there's no scienter requirement; (3) the 'tax' is collected by other agencies."
+
+Heading, verdict, three-factor test enumerated inline — one sentence.
+
+> **Standing** — "The State of California has standing to sue in this case."
+
+Eleven words. A threshold issue cleared so the real analysis can start.
+
+> **School** — "Same as State Courts, except replace DOJ with the Department of Education. It's also not responsible for collecting revenue."
+
+Twenty words for a whole listed issue, by cross-reference. Under a cap, that is
+the skill.
+
+### The exception — single-thesis questions
+
+Where the question has one call and one answer, the question *is* the unit, and
+the opening is holding-plus-pre-scored-factors:
 
 > "I believe that the judge should not allow Professor Vector to present this evidence to the jury. There are three main considerations here: whether the evidence is directly related to the case in question, whether the evidence is specific, and whether the probabilities involved are significant and large. The evidence is not directly related to the case, but it appears to be both specific and large."
 
-Four sentences, and the reader already knows the holding, the test, and that two
-of three factors cut the other way.
+Four sentences and the reader knows the holding, the test, and that two of three
+factors cut against it. Baude's Q3 normative essay is always this shape.
 
-Grade with `essay-grade` on axes 1 and 5 only. Ten of these in a sitting is a
-reasonable session; score them as a batch and look at the distribution.
+### Running it
+
+1. Draw a prompt and outline it first — the gates define the units.
+2. State the professor's verdict word: `should` for Baude, `likely` for Buccola.
+3. Write one opening per gate. Each leads with a disposition; none restates the question.
+
+Grade on axes 1 and 5 only, one entry per question rather than per gate, with
+the weakest gate opening quoted as the evidence.
 
 ## Mode: short-form
 
@@ -150,7 +181,7 @@ A full past exam under the real constraints. These are the expensive reps —
 budget maybe six across the quarter, not twenty.
 
 1. **Set the clock and the caps before reading the prompt.** Write the per-question word budget at the top of the answer file. For Baude, derive it from the point weights at 35 words per point; the weights move every year, so read them off the page rather than reusing last year's.
-2. **Spend two minutes on triage first.** Every shortfall in the 1L corpus was concentrated in the question Ashwin reached last — CivPro Q2 at 75% of cap, Contracts Q3 at roughly 40%. The fix is allocation before drafting, not writing faster.
+2. **Write the word budget before reading question one.** Sixty seconds, straight off the cover page's weights. Every shortfall in the 1L corpus sat in the question reached last, and that is fixed here or not at all.
 3. **Closed-book.** No casebook, no outline, no vault. A one-page sheet only where the real exam allows one.
 4. **Hand the result to `essay-grade` unedited.** An attempt tidied before grading measures nothing.
 

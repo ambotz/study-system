@@ -15,9 +15,16 @@ open it, start a timer, write.
 |---|---|
 | 3 min | read the prompt |
 | 4 min | outline — gates in order, a holding on each, words budgeted |
-| 7 min | write the opening only, ~150 words |
+| 7 min | write **one opening per gate**, 25–40 words each |
 
 Then stop. Do not write the body. Do not tidy anything.
+
+**One opening per gate, not one per question.** A five-gate question gets five
+short openings, not a single 150-word roadmap paragraph. Of fourteen circulated
+Baude openings only one is a roadmap — navigation is carried by headings, and
+what each heading opens with is a disposition. The exception is a single-thesis
+question like Q3, where the question is the unit and the opening is a holding
+plus pre-scored factors.
 
 The outline and the opening get graded separately, on different axes, against
 the same prompt. Axes 2, 3 and 6 are settled before a word is written; axes 1
@@ -26,12 +33,12 @@ the outline named a clean holding and the prose lost it, the problem is
 transcription. Where the outline was already a topic list, more writing practice
 will not help.
 
-## The triage rep — 10 minutes
+## Allocation
 
-Whole paper, allocation only. Read all three questions, note the weights, write
-a word budget per question and per part. Then stop. Baude's ratio has been a
-constant **35 words per point**, and his weights move every year, so read them
-off the page rather than reusing last year's.
+Not a drill — a checklist item at minute zero of a real attempt. Baude's ratio
+has been a constant **35 words per point** and his weights move every year, so
+read them off the cover page and multiply before you read question one.
+Buccola has been a fixed 60/20/20, so there is nothing to decide.
 
 ## Rules
 
@@ -49,14 +56,15 @@ two professor profiles have inverted polarity — and say *grade today's reps*.
 
 Batch it. Write the whole sitting, then hand over all the files at once.
 
-## Today's set — Wed 18 Nov
+## The set — Tue 24 Nov, after the attack outline
 
-Baude 2018. Four openings, four outlines, one triage. About 70 minutes.
+Baude 2018, four units. About an hour.
 
-- [[2026-11-18 - Baude 2018 - triage]] — do this one first
-- [[2026-11-18 - Baude 2018 Q1 - combined]] — 30 pts, 1050 words
-- [[2026-11-18 - Baude 2018 Q2 - combined]] — 50 pts, 1750 words, two parts
-- [[2026-11-18 - Baude 2018 Q3 - combined]] — 20 pts, 700 words
+- [[2026-11-18 - Baude 2018 Q3 - combined]] — 20 pts, 700 words. **Start here.** Single-thesis, near-zero doctrinal recall, and the archetype worth the most preparation: a normative reform essay worth 20–30 points every single year.
+- [[2026-11-18 - Baude 2018 Q2 - combined]] — 50 pts, 1750 words. Part B is a light design answer; Part A is the heavier one.
+- [[2026-11-18 - Baude 2018 Q1 - combined]] — 30 pts, 1050 words. Heaviest doctrinal load, so do it last.
+
+Filenames keep their original date; the plan moved, the material did not.
 
 **2018 is the teaching paper, not a timed-full.** It is the only Baude Con Law
 exam with two circulated student answers, which makes it the one worth working

@@ -63,7 +63,6 @@ a number with nothing behind it. The script enforces the set.
 | `timed-full`, `short-form` | all six |
 | `opening-paragraph` | 1 thesis placement, 5 commitment grammar |
 | `outline` | 2 visible structure, 3 element discipline, 6 budget discipline |
-| `triage` | 6 budget discipline |
 | `rewrite` | whichever axis the rewrite targeted — at least one |
 
 `score_max` is computed from the axes actually scored, so a 7/9 outline and a
@@ -218,9 +217,9 @@ took.
 `fix` is one instruction the next attempt can follow, not a paragraph of advice.
 "Put the holding in sentence one" is a fix; "work on your structure" is not.
 
-Carry only the axes the mode allows. An `outline` grade carries three keys, a
-`triage` grade one, an `opening-paragraph` grade two. The script rejects the
-wrong set rather than silently scoring air.
+Carry only the axes the mode allows. An `outline` grade carries three keys and
+an `opening-paragraph` grade two. The script rejects the wrong set rather than
+silently scoring air.
 
 ## What this skill does not do
 

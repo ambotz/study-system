@@ -39,7 +39,6 @@ MODE_AXES = {
     "short-form": None,
     "opening-paragraph": {"thesis_placement", "commitment_grammar"},
     "outline": {"visible_structure", "element_discipline", "budget_discipline"},
-    "triage": {"budget_discipline"},
     "rewrite": "any",
 }
 MODES = set(MODE_AXES)
