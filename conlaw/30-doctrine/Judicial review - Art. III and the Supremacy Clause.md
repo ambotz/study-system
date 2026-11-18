@@ -88,6 +88,8 @@ A federal court deciding a case must apply the Constitution over a conflicting s
 
 ## Professor gloss
 
+Baude teaches Marbury as a strategic opinion rather than a syllogism: Marshall did not want to find out whether Jefferson would obey, so he put the power to read the Constitution in dicta, told Jefferson he was wrong, and denied relief on original jurisdiction so nothing had to be enforced. Work the holding in that order — commission complete on signing, Judiciary Act read broadly, conflict with Art. III § 2 cl. 2, then supremacy — and press 'in Pursuance thereof' in Art. VI cl. 2 as the strongest textual argument against it, since in pursuit of rather than in accordance with dissolves the conflict. Dred Scott is the first real test and he leaves the dilemma open: the Court that can act heroically is the one that can strike the Missouri Compromise. The bar on advisory opinions is the structural companion — the Justices refused in 1793 on separation of powers, their position as judges of last resort, and the Opinion Clause confining advice to the executive departments — and the reason that matters is that advising makes the Court an ally of the branch it will later review.
+
 ## Common trap
 
 - **"Marbury established judicial supremacy."** Marbury holds that a court must apply the Constitution over a conflicting statute in the case before it. The line "the federal judiciary is supreme in the exposition of the law of the Constitution" is [[Cooper v. Aaron (1958)|Cooper v. Aaron]]'s (1958), in a passage Cooper conceded was unnecessary, and Cooper's supporting authorities speak of judgments, not opinions.

@@ -12,7 +12,7 @@ authority:
   - U.S. Const. art. VI, cl. 2
   - U.S. Const. amend. X
   - Child Labor Tax Law, Revenue Act of 1919, tit. XII
-professor_emphasis: 2
+professor_emphasis: 3
 exam_likelihood: high
 confidence: 1
 last_drilled: 
@@ -98,6 +98,8 @@ Congress may tax almost anything, so long as the exaction is really a tax and is
 - **Argue for Bailey on the merits:** A shipment ban operates on goods crossing state lines, while the child-labor tax operated inside the factory and dictated hours, so the tax was the more intrusive statute though formally the gentler one.
 
 ## Professor gloss
+
+Baude separates the two textual limits by the mischief each addresses: apportionment guards against a uniform tax with disparate impact, uniformity against a disparately targeted statute. On direct taxes, Hylton's reasoning runs backwards and he says so — if apportionment would not make sense, the Court declares the tax not direct — with the historical category being capitation and land taxes, and the opinion contemplating taxes that are neither duties nor direct. The deference cases then remove almost every other limit: taxation is not confined to what Congress could regulate, excessiveness is not reviewed, and motive is not reviewed. Bailey is the single counterexample, resting on a de facto scienter requirement and recharacterising the tax as an illegal regulation. His summary is the frame to use — inconsistent case law with no real limits but a technical limit all the same — so the pathway in a tax hypo is to concede the deference line and argue Bailey on scienter and penal character.
 
 ## Common trap
 

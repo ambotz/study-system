@@ -103,6 +103,8 @@ The President may fire at will any officer who exercises executive power, so a f
 
 ## Professor gloss
 
+Baude teaches removal as a spectrum running from unitary executive to congressional control, with the live question being whether the two arguments meet in the middle — he flagged that middle ground as exam material. His framing of the history is that it is a wash: 1789, the Tenure in Office Act, Myers, Humphrey's Executor, Morrison, Free Enterprise Fund, Seila Law, and now Slaughter and Cook, with no side able to claim the practice. Read Humphrey's narrowly: it does not adopt congressional control but holds the FTC to be quasi-legislative and quasi-judicial rather than executive, so the exception survives only as far as that characterisation does. The pressure points after Slaughter are the ones the opinion leaves open — civil servants five or six layers below an agency head, non-Article III judges, and odd appointees like the Registrar of Copyrights, where his working answer is that whoever appointed the officer's boss may be able to remove them.
+
 ## Common trap
 
 - **"Humphrey's was flatly overruled."** The overruling is conditional in form: the "observation" about bodies with no executive power survives, and [[Morrison v. Olson|Morrison]], *Wiener* and the non-Article III courts are untouched. An answer treating every for-cause protection as void overshoots.

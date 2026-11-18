@@ -10,8 +10,8 @@ authority:
   - U.S. Const. art. I, § 8, cl. 18
   - U.S. Const. art. I, § 9
   - U.S. Const. art. III, § 1
-professor_emphasis: 2
-exam_likelihood: medium
+professor_emphasis: 3
+exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
@@ -93,6 +93,8 @@ Every officer of the United States must be appointed by the President with the S
 - **Counter on a different axis:** [[Marbury v. Madison (1803)|Marbury v. Madison]] enforces an appointment against the executive's wishes: the appointment was complete at signature and withholding the commission was "violative of a vested legal right," though the Court denied the remedy for want of jurisdiction.
 
 ## Professor gloss
+
+Baude runs the officer line off Buckley's 'significant authority' test and ties it back to Chadha: the question is a threshold of power, not a job title, and not everyone exercising federal functions crosses it. He pressed the structural puzzle that Federalist 76 presents appointment as a presidential choice checked by the Senate, yet inferior officers can be placed beyond the President's appointment entirely. On the congressionally appointed officer he set up, the distinction to draw is between Congress prescribing who may serve and Congress choosing who serves — a qualification like 'learned in the law' narrows the President's field and is valid, while naming the appointee transfers the choice and is not — and severability is the right second move, since the Act survives with only the appointment mechanism struck. Where the officer is odd, his working answer from the removal class transfers: ask who appointed the officer's superior.
 
 ## Common trap
 

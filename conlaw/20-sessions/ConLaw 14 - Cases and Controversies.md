@@ -4,7 +4,7 @@ session: 14
 title: "Cases and Controversies"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 14 — Cases and Controversies

@@ -4,7 +4,7 @@ session: 20
 title: "State Sovereignty"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 20 — State Sovereignty

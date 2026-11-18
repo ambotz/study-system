@@ -4,7 +4,7 @@ session: 13
 title: "Judicial Supremacy"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 13 — Judicial Supremacy

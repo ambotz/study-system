@@ -4,7 +4,7 @@ session: 21
 title: "Taxing"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 21 — Taxing

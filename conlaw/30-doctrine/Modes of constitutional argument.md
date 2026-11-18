@@ -94,7 +94,7 @@ Constitutional arguments come in five types (text, historical context, structure
 
 ## Professor gloss
 
-Baude introduced the five modes — text, structure, context, precedent and practice, policy — and then immediately ranked them against the facts of Youngstown, reading the majority as putting text and structure above practice. The ranking, not the list, is what he did with them. Practice is the mode he pressed on: that a thing has happened before does not make it lawful, because the practice itself can have been wrong.
+Baude introduced the five modes and immediately ranked them against Youngstown, reading the majority as putting text and structure above practice; the ranking, not the list, is what he does with them. His exam instruction sharpens this into three argument types to keep separate and make separately — a policy argument, a constitutional argument, and a constitutional argument a court will accept — and his grading view is that there is no right answer but many bad ones, the way answers go bad being inconsistency. Liquidation is the piece he told you to dig deep on: where the text is ambiguous, and almost anything can be argued ambiguous, practice settles meaning if it is reasoned on constitutionality and repeated or settled. Those two conditions are the whole test, so an answer invoking practice should establish both rather than asserting that something has long been done.
 
 ## Common trap
 

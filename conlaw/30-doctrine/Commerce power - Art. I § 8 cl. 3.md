@@ -90,6 +90,8 @@ Congress may regulate commerce that crosses state lines, and local activity whos
 
 ## Professor gloss
 
+Lopez supplies the three categories — channels, instrumentalities, substantial effects — and only the third requires economic activity, which is why a train-robbery statute survives under channels with no economic nexus. Read Lopez as building the test first and applying it to guns second; Raich then loosens it by treating economic activity as a class of activities, turning the case into a framing contest over how large the regulatory scheme is, with Scalia reaching substantial effects through Necessary and Proper. Baude's standing instruction is explicit: always level-set which prong you are in and which case supplies it, because the prongs carry different requirements and answers that blur them go wrong. Note too that these federalism cases do not overrule each other the way the separation-of-powers line does, so the stack is cumulative and you are choosing among live tests rather than applying the latest one.
+
 ## Common trap
 
 - **"The activity substantially affects commerce, so the law is valid."** After [[United States v. Lopez (1995)|United States v. Lopez]] the first question is whether the activity is economic; the effects inquiry is reached only for economic activity or for a noneconomic measure embedded in a market scheme.

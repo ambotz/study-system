@@ -5,7 +5,7 @@ authority:
   - U.S. Const. art. I, § 9, cl. 3
   - U.S. Const. art. I, § 9, cl. 7
   - Urgent Deficiency Appropriation Act of 1943, § 304
-professor_emphasis: 1
+professor_emphasis: 2
 exam_likelihood: low
 confidence: 1
 last_drilled: 
@@ -83,6 +83,8 @@ Congress may not single out particular people and punish them by statute instead
 - **Remedial asymmetry:** Obama announced that "the executive branch will construe section 2262 not to abrogate these Presidential prerogatives," which is category three in [[Youngstown Sheet & Tube Co. v. Sawyer (1952)|Youngstown]], and even a void restriction creates no appropriation. Roosevelt's path in Lovett was different: sign, object, comply, and let the injured employees sue. See [[Presidential power - Art. II and the Youngstown categories]] and [[Enforcement discretion - Art. II § 3 Take Care]].
 
 ## Professor gloss
+
+Baude drew the attainder line at valence rather than at specificity: Congress may not single out an individual for a negative, criminal judgment, but a positive, targeted, civil act aimed at named people is constitutionally fine. The clause therefore does no work against most targeted legislation, and the hypo to watch is a burden dressed as a civil measure — the argument runs on whether the act is punitive in character, not on whether it names someone.
 
 ## Common trap
 

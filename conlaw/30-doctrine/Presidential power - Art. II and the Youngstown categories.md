@@ -108,7 +108,7 @@ The President needs authority from a statute or from the Constitution itself, an
 
 ## Professor gloss
 
-Baude ran Youngstown as four opinions rather than one holding, and was explicit that Jackson's three categories are a concurrence while Black wrote for five. Two propositions were emphasised in terms: the majority puts text and structure above practice, and emergency is not itself executive power. He placed the seizure in Jackson's third category. Black's rule as he taught it is that the executive must cite an authority whenever it acts, statutory or constitutional, and that Commander in Chief is still a limited power.
+Baude used the Civil War materials to probe where the Youngstown framework stops working. The Prize Cases are distinguishable from Youngstown on two facts he named — Congress was out of session so its position is genuinely unknown rather than contrary, and the war was domestic rather than in a foreign theatre, which is Black's line. The Emancipation Proclamation he puts squarely back inside Youngstown because it is a seizure of property on land. So in an emergency hypo, resist the pull toward category three: establish first whether Congress has actually spoken, and if it has not, argue the zone of twilight and let the domestic-or-foreign character of the action do the rest of the work. He also pressed the limit on his own framing — martial law is a step beyond repelling an attack, and the Proclamation reached only the South, so a war power justified by hostilities does not obviously extend to places where there are none.
 
 ## Common trap
 

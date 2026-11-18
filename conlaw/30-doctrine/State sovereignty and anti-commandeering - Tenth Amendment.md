@@ -116,6 +116,8 @@ Congress may regulate a State on the same terms as private parties, but it may n
 
 ## Professor gloss
 
+Baude puts the commandeering line at means rather than at subject matter: Congress may regulate the States, and may regulate private parties directly, but using state machinery as the means fails the 'proper' half of Necessary and Proper, which is the defect in the Brady Act. Scalia's Article II argument is the one to lead with — Congress cannot bypass federal enforcement by conscripting state officers, because accountability should run to the executive — and the two supporting arguments are resource drain and implicit buy-in. He pressed the cost of the rule himself: it means States cannot enforce federal law even when willing, so cooperative federalism is unavailable, and his answer is that a State enacting the same law itself is fine because the separation-of-powers objection disappears. He also said he sees no tangible difference between Printz and Garcia on this axis, which is the opening to argue the line is unprincipled.
+
 ## Common trap
 
 - **"The Tenth Amendment reserves powers not expressly delegated."** The word "expressly" is not in the Amendment. Day inserted it in [[Hammer v. Dagenhart (1918)|Hammer v. Dagenhart]], Marshall had already rejected it in [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]], and [[United States v. Darby (1941)|United States v. Darby]] made the Amendment a truism.

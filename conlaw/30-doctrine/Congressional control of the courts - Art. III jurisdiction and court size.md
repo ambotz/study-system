@@ -8,8 +8,8 @@ authority:
   - U.S. Const. art. I, § 2, cl. 5
   - U.S. Const. art. I, § 3, cl. 6
   - U.S. Const. art. II, § 4
-professor_emphasis: 2
-exam_likelihood: medium
+professor_emphasis: 3
+exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
@@ -87,6 +87,8 @@ Article III fixes little about the federal courts and leaves the rest to Congres
 - **What the Constitution requires:** One original-meaning reading takes "Exceptions . . . and . . . Regulations" to concern fact review and housekeeping, not the removal of constitutional questions; [[The Federalist No. 78]] and [[Brutus No. 11]] both assumed the Court would pass on the constitutionality of laws.
 
 ## Professor gloss
+
+Baude marked this one as an exam question in terms: what are Congress's limits on jurisdiction stripping. His own answer starts from the text — Art. III § 2 cl. 2's Exceptions power is real, and exceptions are not a total ban, which is the core theory — and then adds the timing limit McCardle exposes: Congress repealed jurisdiction after oral argument, and he thinks it cannot strip after the Court rules even though the Constitution does not say so. The question he leaves for you is where between argument and judgment the line falls, and the way to answer is to argue from what the limit is protecting rather than from text that does not exist. Two further distinctions do work: lower-court jurisdiction is freely strippable because Congress creates those courts under § 1, which makes the Supreme Court the only hard case; and the Marbury-style prudential reading is available, that the Court acquiesced to preserve its authority for later.
 
 ## Common trap
 

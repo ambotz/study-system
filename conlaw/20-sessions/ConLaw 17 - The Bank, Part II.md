@@ -4,7 +4,7 @@ session: 17
 title: "The Bank, Part II"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 17 — The Bank, Part II

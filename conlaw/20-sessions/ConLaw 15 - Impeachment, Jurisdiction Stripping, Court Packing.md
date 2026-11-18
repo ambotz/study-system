@@ -4,7 +4,7 @@ session: 15
 title: "Impeachment, Jurisdiction Stripping, Court Packing"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 15 — Impeachment, Jurisdiction Stripping, Court Packing

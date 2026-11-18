@@ -4,7 +4,7 @@ session: 18
 title: "The Commerce Clause"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 18 — The Commerce Clause

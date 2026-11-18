@@ -104,6 +104,8 @@ No State may leave the Union by its own act, because the Constitution rests on t
 
 ## Professor gloss
 
+Baude laid out four readings of 'we the People' and marked two of them wrong, which is unusual enough to be worth carrying: Jefferson, that the people means the States of the people with no federal body, is wrong; Wilson, that it means the nation with no real State conventions, is equally wrong; Madison's quasi position and Marshall's, that it means States plus people with the federal government supreme only within its limited powers, are the live ones. Marshall's version is the usable formulation because it builds the limit into the supremacy claim. He also closed the Bank arc with liquidation and flagged it as exam material: practice over time settles meaning, which is why Jackson's veto did not unsettle the Bank's constitutionality and Madison turned out to be right by the mechanism he had himself described.
+
 ## Common trap
 
 - **"Texas v. White is a purely nationalist case."** The "indestructible States" half is quoted more often for the States than against them, and it underlies [[Printz v. United States (1997)|Printz v. United States]] and the dissents in [[Garcia v. San Antonio Metropolitan Transit Authority (1985)|Garcia v. San Antonio Metropolitan Transit Authority]]: the States' separate existence, not just their reserved powers, is constitutionally protected. The phrase confers no power on a State, however: the same opinion suspends Texas's membership rights and gives restoration to Congress.

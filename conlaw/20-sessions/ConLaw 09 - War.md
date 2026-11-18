@@ -4,7 +4,7 @@ session: 9
 title: "War"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 9 — War

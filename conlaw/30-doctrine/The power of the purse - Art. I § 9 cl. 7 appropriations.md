@@ -9,7 +9,7 @@ authority:
   - U.S. Const. art. II, § 3
   - U.S. Const. art. III, § 2
   - 31 U.S.C. § 1324
-professor_emphasis: 2
+professor_emphasis: 3
 exam_likelihood: high
 confidence: 1
 last_drilled: 
@@ -95,6 +95,8 @@ No federal money may be spent unless a statute appropriates it: "No Money shall 
 - **Second counter-case:** [[United States v. Lovett (1946)]] runs the purse against Congress rather than the executive, and shows that control of appropriations is not plenary when its purpose is punishment.
 
 ## Professor gloss
+
+Baude treats the purse as a real check with an internal limit: Congress cannot use appropriations to accomplish what it could not do directly, so defunding executive orders or vetoes is impermissible, and the same end-run principle blocks curtailing a war by funding decisions. The pathway is to ask what Congress is actually accomplishing rather than what instrument it used — refusing to fund a particular war is on different footing from refusing to fund the office of Commander in Chief, and the argument is about which the facts describe. Running the other way he took Scalia's position in Clinton that the President must spend what Congress has mandated, with traditional impoundment discretion surviving only where the mandate is not absolute and impeachment as the remedy. EO 14242 is the pressure point: the Department of Education still exists but an executive that declines to hire cannot spend, so argue the duty at the level of the appropriation rather than the programme — a mandate to spend on a function is violated by defunding the staff who perform it, and if that argument fails, the honest conclusion is that the constraint is political because nobody will have standing.
 
 ## Common trap
 

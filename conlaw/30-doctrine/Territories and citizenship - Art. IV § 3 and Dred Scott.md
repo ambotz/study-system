@@ -16,7 +16,7 @@ authority:
   - U.S. Const. amend. V
   - U.S. Const. amend. XIII
   - U.S. Const. amend. XIV, § 1
-professor_emphasis: 2
+professor_emphasis: 3
 exam_likelihood: medium
 confidence: 1
 last_drilled: 
@@ -103,6 +103,8 @@ Congress governs federal territory, and on the better reading the Territories Cl
 - **Where the argument landed:** Congress banned territorial slavery in 1862, with Fessenden voting "on what I understand to be the law of right"; the Senate seated Revels in 1870; and the Thirteenth and Fourteenth Amendments reversed both holdings formally. Douglas knew "but one mode of reversing judicial decisions," appeal; the other modes are elections, appointments, new cases and Article V. See [[Amendment process - Art. V]].
 
 ## Professor gloss
+
+Baude uses Dred Scott to show originalist argument failing on its own terms: Taney rests citizenship on what the founders perceived, and the history cuts the other way, because contemporaries including preachers read 'all men' to include black men. On the merits he treats the Territory Clause move as a ridiculous argument from a textualist perspective — the clause grants Congress power over territories — and reads the real hook as the Fifth Amendment due process claim that the Missouri Compromise takes property without process, with the Territory Clause discussion serving only to bolster it. The structural trap is that Taney disclaims jurisdiction and rules anyway, passing straight through the gate Marshall built in Marbury; when a court tells you it lacks jurisdiction and then reaches the merits, that is the argument, and the answer is that everything after the jurisdictional holding is advisory.
 
 ## Common trap
 

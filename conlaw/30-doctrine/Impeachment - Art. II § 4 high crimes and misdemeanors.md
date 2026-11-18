@@ -9,8 +9,8 @@ authority:
   - U.S. Const. art. II, § 2, cl. 1
   - U.S. Const. art. III, § 1
   - U.S. Const. art. III, § 2, cl. 3
-professor_emphasis: 2
-exam_likelihood: medium
+professor_emphasis: 3
+exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
@@ -93,6 +93,8 @@ The President, the Vice President and civil officers can be removed only by impe
 - **The practical pole:** [[United States v. Nixon (1974)|United States v. Nixon]] shows that the only presidential removal-in-fact came through a subpoena enforced in court and a resignation, not a Senate vote — evidence that impeachment works, when it works, as a threat.
 
 ## Professor gloss
+
+Baude fixes 'high Crimes and Misdemeanors' between two poles: it need not be an indictable offence — it is a term of art from English practice meaning abuse of office or violation of public trust — but it must be more than unsatisfactory performance or policy disagreement, which is what the Chase acquittal establishes ex post. Johnson supplies the paradigm, the concrete ground being removal of the Secretary of War, with the irony that Slaughter now makes that removal lawful. Justiciability closes the judicial route: impeachment is a political question, so the real constraint is the Senate's two-thirds. Use that bar comparatively — he ranked the three responses to judicial disagreement as impeachment (textual, highest bar), jurisdiction stripping (narrow, surgical), and court packing (no text at all), and the two-thirds requirement is what makes impeachment the sound-but-unavailable option while the other two need only a majority.
 
 ## Common trap
 

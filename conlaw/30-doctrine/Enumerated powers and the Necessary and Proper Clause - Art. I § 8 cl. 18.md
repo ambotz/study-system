@@ -85,6 +85,8 @@ Congress may choose any reasonable means of carrying out its enumerated powers, 
 
 ## Professor gloss
 
+Baude marked McCulloch as an exam item in the form of an instruction: enumerate each participant's view and say how Marshall answered it. Marshall's moves in order — necessary cannot mean indispensable, because where there are two ways to do a thing neither is indispensable yet both are necessary; the Bank is incidental, which concedes Madison's framing and then disputes the application, Madison's answer being that a corporation is an end rather than a means, to which the post office is the classic response; and necessary is still not everything convenient, because the end must be legitimate, meaning itself constitutional, after which all appropriate means follow. The operative limit is pretext: where the means is a pretext for an illegitimate end a court will intervene, and that is the hook to press against Wickard. Bring the Bank Debate views with you — Madison's incidental test, Jefferson's nugatory test, Hamilton's means-to-an-end — because the question is usually which of them Marshall actually adopted.
+
 ## Common trap
 
 - **"McCulloch means deference, full stop."** The opinion also contains the two limits that decide modern cases — "consist with the letter and spirit of the constitution" and the pretext reservation — and [[Printz v. United States (1997)|Printz v. United States]] and [[NFIB v. Sebelius (2012)|NFIB v. Sebelius]] both quarry [[McCulloch v. Maryland (1819)|McCulloch v. Maryland]] for a limit rather than for deference.

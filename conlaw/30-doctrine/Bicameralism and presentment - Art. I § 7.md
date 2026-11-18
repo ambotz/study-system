@@ -106,6 +106,8 @@ A law can be made, changed, or repealed only by the same text passing both House
 
 ## Professor gloss
 
+Baude's organising question was what counts as legislative versus executive power, and his answer is procedural: the House and the Attorney General were doing functionally the same thing in Chadha, so the difference lies in how the decision was reached. Legislative power is whatever must pass bicameralism and presentment; executive power is the residue. Clinton turns on the same line — the Item Veto Act let the President change a bill's text, which is not execution, even though declining to spend is. So when a branch reaches a defensible result by a doubtful route, do not argue about the result: identify the procedure used, ask whether that procedure is the one Article I § 7 requires for an act of this character, and look for the two tells he gave — an action that amends the law's operation, and an action fixating on named individuals, which is administration.
+
 ## Common trap
 
 - **"The defect in Chadha was that only one House acted."** Presentment is an independent requirement, so a two-House concurrent resolution fails too; that is why § 5(c) of the War Powers Resolution, removal of forces "if the Congress so directs by concurrent resolution," is void.

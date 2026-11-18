@@ -100,6 +100,8 @@ Judicial review is not judicial supremacy: a court's duty to prefer the Constitu
 
 ## Professor gloss
 
+Baude runs the oath as the engine on both sides: it is Marbury's own reason for judicial review, and it is equally the reason a President who thinks a statute unconstitutional and has no ruling against him may decline to enforce it. The sorting rule he gave is sequential — no ruling yet, the executive may act on its own reading; a ruling exists, judicial review binds; and a statute both political branches think constitutional can still fall, as the Line Item Veto Act did. Among departmentalists the live split is remedial rather than interpretive: most accept that the judgment in the case binds even where the opinion does not, while the hard version would disobey the judgment too — and his practical check on that is that other executive officers may refuse the President. Departmentalism also does not travel beyond the three federal branches, which is why Brown is a Supremacy Clause case and Cooper v. Aaron answers it with a flat claim of judicial supremacy.
+
 ## Common trap
 
 - **"Marbury said the judiciary is supreme in exposition."** Marbury holds that a court must apply the Constitution over a conflicting statute in the case before it. The sentence "the federal judiciary is supreme in the exposition of the law of the Constitution" is Cooper's, written in 1958, and appears nowhere in Marbury.

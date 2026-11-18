@@ -8,8 +8,8 @@ authority:
   - U.S. Const. art. I, § 9, cl. 7
   - U.S. Const. art. II, § 2, cl. 1
   - U.S. Const. amend. X
-professor_emphasis: 2
-exam_likelihood: medium
+professor_emphasis: 3
+exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
@@ -91,6 +91,8 @@ A federal court may decide a constitutional question only while resolving an act
 - **Hold in reserve:** [[Ex parte Levitt (1937)|Ex parte Levitt]] — the clearest formal rule in the Constitution, and no plaintiff who could raise it.
 
 ## Professor gloss
+
+Baude's own position leads: where a court has jurisdiction its judgment binds the parties, and everything beyond that, including whether other courts must follow the opinion, is not binding. Standing is jurisdictional, so no standing means no merits, and the order in an answer is particular injury then relief, never the reverse — Levitt failed because nobody could show the appointment operated on them, and Buckley shows the fix, a pending case in which the challenged power is exercised over you. Mellon closes the shortcuts: no taxpayer standing, and a State suing the federal government needs its own theory. The one orthodox exception he noted is that taxpayer standing is fine when you are challenging a tax you pay. The consequence he accepts rather than evades is that unconstitutional spending may be unreviewable unless a chamber of Congress sues, so where the honest answer is that nobody has standing, say so and say the constraint is political.
 
 ## Common trap
 

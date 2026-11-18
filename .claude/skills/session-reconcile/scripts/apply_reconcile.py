@@ -129,7 +129,10 @@ def main() -> int:
         print(f"note: {session.name} is already reconciled; re-running will overwrite the gloss",
               file=sys.stderr)
     s_new = "---\n" + set_key(s_fm, "reconciled", "true", session.name) + "---\n" + s_body
-    if s_new.replace("reconciled: true", "reconciled: false", 1) != session_text:
+    # The only permitted change is the flag itself. On a re-run the file is
+    # already `true`, so the two texts are identical; on a first run they differ
+    # by exactly that one line.
+    if s_new != session_text and s_new.replace("reconciled: true", "reconciled: false", 1) != session_text:
         fail("session file would change in more than the `reconciled` flag — aborting")
 
     if args.dry_run:

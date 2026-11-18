@@ -4,7 +4,7 @@ session: 16
 title: "The Bank, Part I"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 16 — The Bank, Part I

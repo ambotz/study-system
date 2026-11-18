@@ -4,7 +4,7 @@ session: 12
 title: "The Dred Scott Case"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 12 — The Dred Scott Case

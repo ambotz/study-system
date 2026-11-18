@@ -108,6 +108,8 @@ The President must enforce the laws and may not suspend a statute or excuse peop
 
 ## Professor gloss
 
+Baude reads the Take Care Clause as conferring discretion rather than imposing a duty to prosecute, and he works the question through Cox's four opinions as a spectrum rather than a holding — Jones that no court may compel the U.S. Attorney to sign, the dissent that the case must at least be brought so the declination happens in public, Brown's middle position that the officer must prepare the indictment without signing it, and Wisdom's strong discretion with a federalism overlay. Adams v. Richardson supplies the limits: a statutory mandate, a general policy of non-enforcement, or appropriated resources misused under the guise of discretion. The way through a non-enforcement hypo is to run those three in order, then ask the two questions he pressed — is there a case-by-case backdoor left open, which usually saves the policy while raising rule-of-law concerns, and is the President claiming unconstitutionality or merely policy disagreement, which he flagged as potentially decisive. Expect the real obstacle to be standing rather than the merits.
+
 ## Common trap
 
 - **"Cox has one holding."** There were two different 4–3 majorities: signing cannot be compelled, drafting can, and the order was reversed only because it required both. Getting the split wrong is the first cold-call trap.

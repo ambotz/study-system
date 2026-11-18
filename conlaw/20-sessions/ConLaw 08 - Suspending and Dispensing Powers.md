@@ -4,7 +4,7 @@ session: 8
 title: "Suspending and Dispensing Powers?"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 8 — Suspending and Dispensing Powers?

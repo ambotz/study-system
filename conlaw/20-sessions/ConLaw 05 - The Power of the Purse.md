@@ -4,7 +4,7 @@ session: 5
 title: "The Power of the Purse"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 5 — The Power of the Purse

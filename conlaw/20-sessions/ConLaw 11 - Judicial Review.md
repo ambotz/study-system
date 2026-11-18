@@ -4,7 +4,7 @@ session: 11
 title: "Judicial Review"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 11 — Judicial Review

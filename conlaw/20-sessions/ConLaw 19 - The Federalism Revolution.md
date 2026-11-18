@@ -4,7 +4,7 @@ session: 19
 title: "The Federalism Revolution?"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 19 — The Federalism Revolution?

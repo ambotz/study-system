@@ -4,7 +4,7 @@ session: 4
 title: "Bicameralism and Presentment"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 4 — Bicameralism and Presentment

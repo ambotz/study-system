@@ -98,6 +98,8 @@ The Constitution gives the President no express immunity or privilege, but the C
 
 ## Professor gloss
 
+Baude maps Trump v. United States as a core with an undefined perimeter: directing the Attorney General is core and absolutely immune, talking with the Vice President is presumptively immune, and everything else is simply unclarified — which is where a hypo will be placed. The question he pressed is the one the majority does not answer: granting that the President may direct a cabinet officer, does it follow that he may use that power for any purpose at all. He set out the Court's two defences with his own counters attached — immunity runs only to the President though he can pardon everyone else, and it is meant to stop the DOJ being weaponised against predecessors though the decision itself stopped a prosecution — and he left the dissent's Seal Team Six hypothetical standing with no majority response. The approach is to argue from the purpose-versus-power gap and from the unanswered hypothetical, not from the core, which is conceded.
+
 ## Common trap
 
 - **"Nixon holds that the President can be prosecuted."** [[United States v. Nixon (1974)|United States v. Nixon]] decided a subpoena for evidence in seven other defendants' trial; the President was an unindicted coconspirator, and whether he could be prosecuted stayed open until 2024.

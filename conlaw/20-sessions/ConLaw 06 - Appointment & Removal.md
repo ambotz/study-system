@@ -4,7 +4,7 @@ session: 6
 title: "Appointment & Removal"
 date: 
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 6 — Appointment & Removal

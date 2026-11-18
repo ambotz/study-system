@@ -4,7 +4,7 @@ session: 10
 title: "Impeachment, Removal, Prosecution"
 date: 2026-10-19
 professor: Baude
-reconciled: false
+reconciled: true
 ---
 
 # ConLaw 10 — Impeachment, Removal, Prosecution

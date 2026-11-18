@@ -124,6 +124,8 @@ Congress decides whether the nation goes to war; the President, as Commander in 
 
 ## Professor gloss
 
+Baude's structural move is that the Commander in Chief Clause had to be written down at all, which cuts against an inherent military executive — if the power came with Article II there would be no need to name it. The operative distinction is Madison's, read out of the framing debates: the change from 'make' to 'declare' war leaves the President an inherent power to repel attacks but not to initiate, so the question in any hostilities hypo is which side of repel-versus-initiate the facts sit on, and Lincoln's blockade is the model of the former. On the War Powers Resolution he splits the two provisions and you should too: § 5(c)'s concurrent-resolution mechanism is unconstitutional under Chadha and presentment, which everyone accepts, while § 5(b)'s sixty-day clock is only unconstitutional if the President has authority to continue hostilities indefinitely without Congress — so argue the premise, not the provision.
+
 ## Common trap
 
 - **"The Prize Cases approve unilateral presidential war."** Grier says the opposite: "He has no power to initiate or declare a war." The holding is a power to respond to force already used against the nation.
