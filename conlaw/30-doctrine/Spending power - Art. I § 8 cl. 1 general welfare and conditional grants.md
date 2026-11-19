@@ -12,7 +12,7 @@ authority:
   - U.S. Const. amend. XXI, § 2
   - 23 U.S.C. § 158
   - 42 U.S.C. § 1396c
-professor_emphasis: 2
+professor_emphasis: 3
 exam_likelihood: high
 confidence: 1
 last_drilled: 
@@ -95,6 +95,8 @@ Congress may spend on objects outside its other enumerated powers and may attach
 - **What NFIB leaves alone:** Germaneness (expanding Medicaid is germane to Medicaid), Dole's four limits, and private grant recipients.
 
 ## Professor gloss
+
+Baude teaches spending as the Hamiltonian view the Court came around to, against Madison's narrower reading that 'general welfare' limits only the laying of taxes. Run Dole as four prongs plus a fifth overall limit — general welfare, unambiguous, germaneness, not unconstitutional, no coercion — with two observations about how the test behaves: the fourth prong is close to unusable, and between Dole and NFIB the unambiguous prong became the leading one, operating almost as a nondelegation doctrine. O'Connor supplies the two arguments against a condition: not germane, and her categorical limit that Congress may direct where money goes but not attach separate regulations as a quid pro quo. NFIB is where coercion stops being dicta, and the two facts that did it are the ones to match in any hypo — the sheer size of the grant, and old funds withdrawn in reliance. His two-step hypo is the pathway out: repeal the old programme and decouple it, then enact the new one on current terms, which removes the reliance and leaves nothing to be coerced by. Note also that spending reaches what commerce cannot, since Printz leaves States free to keep conduct legal.
 
 ## Common trap
 
