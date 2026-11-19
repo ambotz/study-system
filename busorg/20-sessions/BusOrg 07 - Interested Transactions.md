@@ -4,7 +4,7 @@ session: 7
 title: "Interested Transactions"
 date: 2026-10-13
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 7 — Interested Transactions

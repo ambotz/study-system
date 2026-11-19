@@ -71,6 +71,8 @@ The distinguishing line: **inside a fiduciary relationship the law demands the p
 
 ## Professor gloss
 
+Buccola frames the partnership defaults as a set of risks rather than a set of rules: any partner binds the firm, partners are liable for partnership debts, partnership assets are exposed to an individual partner's creditors, but one partner's debts do not become another's. Internally the defaults are equal sharing with contribution among partners, mutual duties of care and loyalty, and dissolution at will or on death. The analytic payoff he drew is the holdout problem — risk rises with the number of partners, because any one can obstruct — and the moral hazard that a poor partner's equity is worth more precisely because he cannot cover the liabilities. The practical rule that follows, and the one to state in a formation hypo: keep the partnership small and limited, and keep each partner's finances clear.
+
 ## Common trap
 
 1. **Arguing the manager earned it.** Cardozo concedes that Salmon gave time, labour and money, that he made the venture a success, and that Meinhard "had already been richly paid." He then holds those recriminations have force only "if conduct is to be judged by the common standards of competitors." Quote the concession before rejecting it.

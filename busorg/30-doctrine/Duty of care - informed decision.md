@@ -6,7 +6,7 @@ authority:
   - 8 Del. C. § 141(e)
   - 8 Del. C. § 251(b)
   - 8 Del. C. § 102(b)(7)
-professor_emphasis: 2
+professor_emphasis: 3
 exam_likelihood: high
 confidence: 1
 last_drilled: 
@@ -74,6 +74,8 @@ Section 251(b) requires directors to act in an informed and deliberate manner be
 The operative line: **the business judgment rule protects substance, not process.** A fact pattern attacking the wisdom of a choice is a Shlensky problem. A fact pattern attacking the information behind a choice is a Van Gorkom problem.
 
 ## Professor gloss
+
+Buccola calls Van Gorkom the anti-canon of corporate law and teaches it as the one successful duty of care claim, successful because it is process-driven. His framing: $55 was not the problem, the informality of how the price was reached was — so when a hypo hands you an apparently good price, attack the process and not the number. The court declines the business judgment rule only because the dereliction was egregious, and the sting is that directors who obtained a premium over a $33–40 market still paid $25 million personally, with an equitable remedy that can reach third parties. The fix is the one to name immediately: 102(b)(7) exculpates directors from monetary damages for care violations, which is why a plaintiff seeking money must plead loyalty instead. He also planted the background condition — the imperial CEO who controls board composition — as what makes the process failure possible.
 
 ## Common trap
 

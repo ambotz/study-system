@@ -84,6 +84,8 @@ The same facts under § 144(b) come out differently: the disinterested vote alon
 
 ## Professor gloss
 
+MFW and Corwin are taught as the pair that SB 21 codified — independent committee plus majority of the minority, now running through 144(a)(1) and (a)(2) for interested directors and 144(b) and (c) for controllers. The reason the dual structure exists is the one to state: a single protection leaves the controller's influence intact at the other end of the transaction, so the committee must be able to say no and the minority vote must be fully informed and uncoerced. Buccola's framing of the Revlon trigger belongs here too, since it determines whether enhanced scrutiny applies at all — breakup, sale, or change of control of some type — and he flagged identifying that trigger as exam material, pointing at Paramount v. Time for when a breakup or sale becomes inevitable.
+
 ## Common trap
 
 1. **Reciting the two-prong requirement post-SB 21.** Classify the deal first. Going private takes § 144(c) and both protections; anything else takes § 144(b) and one of three routes.

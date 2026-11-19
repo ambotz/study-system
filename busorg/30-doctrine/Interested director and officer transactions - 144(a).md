@@ -106,6 +106,8 @@ The distinguishing line: **a safe harbour protects what the approving body actua
 
 ## Professor gloss
 
+Buccola opens with the framing that duty of care claims are essentially dead in litigation outside M&A and injunctive relief, which is why interested-transaction analysis is where the action is. Trustee per se voidability is gone: a conflicted transaction is no longer automatically void, and 144(a) supplies three cleansing routes — disinterested directors or a committee, stockholders, or the court on fairness. Note what SB 21 changed, because he flagged it twice: 144(a)(1) now speaks only of disinterestedness, independence having dropped out, with a strong presumption of disinterestedness attaching. The definitions live in 144(e)(4) — interested means a material stake, independent means no relationship influencing the decision. The sequence in any hypo is cleansed to business judgment, uncleansed to entire fairness, and entire fairness means a trial, because the process needs discovery.
+
 ## Common trap
 
 1. **Saying § 144 compliance means the business judgment rule applies — pre-SB 21.** It does not. The old statute says only that the transaction is not void or voidable "solely for this reason." Which version of the statute governs the fact pattern is the first thing to establish, and the answer changes the remedy, not just the analysis.

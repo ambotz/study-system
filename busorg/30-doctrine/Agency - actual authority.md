@@ -3,8 +3,8 @@ topic: Agency
 sub_topic: Actual authority / manifestation versus intention
 authority:
   - Restatement (Third) of Agency § 3.01
-professor_emphasis: 2
-exam_likelihood: medium
+professor_emphasis: 3
+exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
@@ -59,6 +59,8 @@ No true counter-case is assigned. The nearest contrast is [[Detroit Lions v. Arg
 The distinguishing line: **Motors Liquidation asks what the agent could do; Argovitz asks what the agent owed while doing it.** A fact pattern about whether the principal is bound is an authority question; a fact pattern about whether the agent must answer for the outcome is a loyalty question. Both can be live at once.
 
 ## Professor gloss
+
+Buccola splits agency into an external relationship, which is mandatory and cannot be contracted around, and an internal one, which is fiduciary. Externally two things follow and he treats them as non-waivable: the principal is liable for the agent's acts under respondeat superior, and the agent can bind the principal to contracts and conveyances. Actual authority is what the principal conveyed; apparent authority is what the principal led the third party to believe, so the third party must know of the authority ex ante for the contract to bind. Motors Liquidation is the limiting case and the pathway when a hypo narrows a grant: authority is limited to what was given, but a principal cannot confine scope so nebulously that nobody can tell, and the working presumption is that a lawyer filing on your behalf binds you.
 
 ## Common trap
 

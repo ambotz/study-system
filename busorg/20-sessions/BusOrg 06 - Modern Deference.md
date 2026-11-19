@@ -4,7 +4,7 @@ session: 6
 title: "Modern Deference"
 date: 2026-10-12
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 6 — Modern Deference

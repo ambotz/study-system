@@ -116,6 +116,8 @@ What the covenant could **not** do is the part that decides the motion. "Delawar
 
 ## Professor gloss
 
+Trados is the case and the holding is that the board must maximise value for the residual claimants, not for the fund that nominated it — which bites because VC designees are dual fiduciaries whose obligations run to the common. Buccola then pressed the harder question he flagged as hard: what exactly is the duty in a hierarchical capital structure. He ruled out maximising preferred value, ruled out maximising common value alone since zeroing out the common is not value-maximising, and landed on maximising the value of the shares as a whole. Work his $60m example to see why the answer changes with the distribution, and note the outcome — entire fairness applied once the business judgment rule was rebutted, yet no damages, because the price was fair, so a fair price can cure an unfair process. NEA v. Rich supplies the private-company overlay: drag-along rights are valid as stockholder agreements binding the stockholder rather than the board, while a covenant not to sue is enforceable except as to intentional wrongs.
+
 ## Common trap
 
 1. **Saying the board owes duties to the preferred.** It owes them **contract**. The fiduciary duty runs to the residual claimants, and where discretion is exercised the board prefers the common — subject to honouring the preferred's stated rights.

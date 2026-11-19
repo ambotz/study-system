@@ -4,7 +4,7 @@ session: 14
 title: "Application: Friendly M&A Litigation"
 date: 2026-10-28
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 14 — Application: Friendly M&A Litigation

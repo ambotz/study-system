@@ -4,7 +4,7 @@ session: 20
 title: "Takeovers"
 date: 2026-11-11
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 20 — Takeovers

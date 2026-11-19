@@ -70,6 +70,8 @@ The distinguishing line: **ask what the plaintiff must prove to win.** If provin
 
 ## Professor gloss
 
+Buccola's working line is harm distribution, not Tooley's words: direct means a single holder is singled out, derivative means everyone is affected equally — a dividend paid to all but one holder, or an issuance that dilutes only one, is direct. He laid out three litigation postures and two of them collapse into the same answer: a stockholder suing an adverse party where demand is futile, and a stockholder suing his own board, are both derivative. Riverstone is the move worth stealing, because it manufactures a direct claim out of what looks derivative: the merger cancelled the shares and waived the corporation's litigation rights against its own directors without pricing that waiver, which harmed the selling stockholders disproportionately. In any merger hypo, ask what intangible the deal gave away and whether it was valued — that is where a direct theory comes from.
+
 ## Common trap
 
 1. **Asking whether this stockholder was hurt differently from the others.** That is "special injury," and Tooley abolished it.

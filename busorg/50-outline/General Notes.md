@@ -64,4 +64,11 @@
 	**One-liner for an exam:** _Time’s threat was not structural coercion but opportunity loss plus substantive coercion — the risk that holders would take $200 in cash in ignorance of the strategic value of a Warner combination the board had spent six years building — and the board’s preference for its own time horizon was treated as a question of authority, not of value._
 	Substantive coercion’s object is not the price. It’s the **stockholders’ judgment about** the price. The threat is “they’ll get it wrong about what we’re building,” not “your bid is too low.” The board isn’t saying _our reservation price is $X and you’re under it_; it’s saying _we have a plan, we believe in good faith it’s worth more, and whether and when to sell is our call, not theirs._
 		Combination of control + long term value --> misleading shareholders if you dangle something in front of them that abandons this for short term gains
-	- 
+
+Ways to create change
+* Vote, suit, sale
+
+Controlling stockholder
+- under 144(e)(2) -- there is a hard floor at at least 1/3. So Musk would technically not count in the Tesla Solar City case, sitting at 22.1%. So what would be the outcome after 144?
+	  1. _Reading one — there’s a hole._ Sections 144(b) and (c) are written as **safe harbors**: a controlling stockholder transaction “may not be the subject of equitable relief... if” the procedures are met. A safe harbor that by its terms doesn’t reach you leaves you exactly where you were — under pre-SB 21 common law, which means entire fairness with MFW’s both-prongs-ab-initio as the only cleanser. The result is perverse: a 60% holder gets the generous one-prong § 144(b) menu, while a 25% founder who dominates the board gets nothing and faces the harsher old regime.
+	  2. _Reading two — there’s no hole, just a narrower category._ The General Assembly has now **defined** “controlling stockholder” in the DGCL. Fail the definition and you are simply not a controller; the deal isn’t a “controlling stockholder transaction” under § 144(e)(3) at all, so it runs through § 144(a) as an ordinary interested-stockholder matter, or draws plain business judgment review. Ending the open-ended _Kahn v. Lynch_ inquiry was arguably the whole point.

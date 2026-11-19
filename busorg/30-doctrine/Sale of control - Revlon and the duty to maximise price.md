@@ -106,6 +106,8 @@ The distinguishing line: **Revlon attaches when stockholders are being cashed ou
 
 ## Professor gloss
 
+Name the acquisition structure first — asset sale needs the board plus a 271 vote, merger needs the agreement plus the target's stockholders, a stock purchase needs neither, which is why Perelman went hostile. Revlon shifts the duty to maximising price once takeover becomes inevitable, and Buccola flags that inevitability is contestable with a single bidder; enhanced scrutiny exists because the business judgment rule is too weak and entire fairness too exacting. Always name the duty breached, though on Revlon's own facts care versus loyalty did not affect the remedy, since the court enjoined the deal protection without damages. Paramount supplies the limiting principle and is the exam target he named: no actual sale of the business means Revlon is not triggered, because otherwise even issuing stock would be suspect. Hold Unocal and Revlon as overlapping rather than alternative — both are implicated when a board sells in order to defeat a threat.
+
 ## Common trap
 
 1. **Saying Revlon requires an auction.** It requires the best value reasonably available. Revlon itself involved an auction that already existed and a lock-up that killed it; the obligation is reasonableness, not any particular process.

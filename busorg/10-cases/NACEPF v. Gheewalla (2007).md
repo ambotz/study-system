@@ -56,7 +56,7 @@ The decision was a deliberate retreat from Credit Lyonnais and the "zone of inso
 
 The doctrinal architecture is the **residual claimant** framework that [[In re Trados (2013)|In re Trados]] states directly and that [[Quadrant Structured Products v. Vertin (2014)|Quadrant Structured Products v. Vertin]], assigned the same day, applies. Directors maximise firm value for the residual claimants. In a solvent company that is the stockholders; on insolvency creditors "join the class of residual claimants" and get standing to enforce the same duties. The duties themselves never change, which is exactly what makes the rule administrable.
 
-Quadrant then supplies the operational content Gheewalla leaves open, and it is the more useful case in practice. Insolvency is pleaded by the **balance sheet** test or the **cash flow** test. Specific transfers from an insolvent company to its controller draw **entire fairness**. But ordinary **business strategy** decisions — including the decision to take more risk, or to keep operating rather than liquidate — stay in the business judgment rule, and Quadrant explains that holding otherwise "would be inconsistent with the explanation the Delaware Supreme Court gave in Gheewalla for declining to recognize" direct duties.
+**Quadrant then supplies the operational content Gheewalla leaves open, and it is the more useful case in practice. Insolvency is pleaded by the **balance sheet** test or the **cash flow** test. Specific transfers from an insolvent company to its controller draw **entire fairness**. But ordinary **business strategy** decisions — including the decision to take more risk, or to keep operating rather than liquidate — stay in the business judgment rule, and Quadrant explains that holding otherwise "would be inconsistent with the explanation the Delaware Supreme Court gave in Gheewalla for declining to recognize" direct duties.
 
 Three practical limits follow from the holding and are worth carrying.
 
@@ -75,7 +75,7 @@ Three practical limits follow from the holding and are worth carrying.
 ### Posture
 
 - Appeal from the Court of Chancery's dismissal under Rule 12(b)(6) for failure to state a claim.
-- Only **Count II** is relevant: that because Clearwire was insolvent or in the zone of insolvency, the defendants owed fiduciary duties to NACEPF "as a substantial creditor" and breached them.
+- Only **Count II** is relevant: that because Clearwire was insolvent or in the zone of insolvency, the defendants owed fiduciary duties to North American Catholic Educational Programming Foundation (NACEPF) "as a substantial creditor" and breached them.
 - Affirmed.
 - The posture is decisive and self-inflicted. NACEPF **waived** any derivative theory both below and on appeal, so the only question was whether a **direct** creditor claim exists. A derivative complaint on the same facts would not have been barred by Gheewalla's own holding.
 
@@ -87,7 +87,7 @@ Gheewalla, Cardinale and Daly served as directors of Clearwire at the behest of 
 
 NACEPF was not a stockholder. It sued as a putative creditor, asserting direct claims against directors who had served while Clearwire was either insolvent or in the zone of insolvency.
 
-The Court of Chancery set out the two tests for insolvency — a deficiency of assets below liabilities with no reasonable prospect of successful continuation, or an inability to meet maturing obligations as they fall due — and found, for Rule 12(b)(6) purposes, that the complaint adequately alleged operation in the zone of insolvency for a substantial part of the relevant period and actual insolvency for at least part of it. It declined to define the zone precisely.
+The Court of Chancery set out the two tests for insolvency — (1) a deficiency of assets below liabilities with no reasonable prospect of successful continuation, or (2) an inability to meet maturing obligations as they fall due — and found, for Rule 12(b)(6) purposes, that the complaint adequately alleged operation in the zone of insolvency for a substantial part of the relevant period and actual insolvency for at least part of it. It declined to define the zone precisely.
 
 It then held that creditors in the zone may not assert direct claims, and, assuming arguendo that a direct claim might exist in actual insolvency, held that the complaint failed to meet the pleading requirements described in Production Resources and Big Lots.
 
@@ -112,9 +112,13 @@ It then held that creditors in the zone may not assert direct claims, and, assum
 - Creditors of a corporation in the zone of insolvency have no right to assert direct fiduciary claims against its directors.
 - When a solvent corporation navigates the zone of insolvency, the directors' focus does not change.
 - When a corporation is insolvent, its creditors take the place of the shareholders as the residual beneficiaries of any increase in value.
+	- Solvent = stockholders as residual claimants who can sue
+	- Insolvent = creditors as residual claimants who can sue 
 - Creditors of an insolvent corporation have standing to maintain derivative claims on the corporation's behalf for breaches of fiduciary duty.
 - Insolvency does not convert derivative claims into direct ones; it supplies standing, and the claims continue to belong to the corporation.
 - Individual creditors of an insolvent corporation have no right to assert direct fiduciary claims, but may bring derivative claims or any available direct non-fiduciary claim.
+
+![[Pasted image 20261118123444.png]]
 
 ### Reasoning
 
@@ -136,11 +140,11 @@ The rule is clean but it leaves a real gap in the one case that motivated the do
 ### Cold-call notes
 
 - **Answer the standing question, not the duty question.** Directors' duties run to the **corporation** throughout. Insolvency changes **who may enforce** them, not what they are.
-- **Give the two-by-two.** Zone of insolvency: no direct claim, no derivative standing (the company is still solvent, so stockholders enforce). Actual insolvency: no direct claim, but **derivative standing** for creditors.
-- **Know the two tests for insolvency.** Balance sheet — assets below liabilities with no reasonable prospect of continuing; or cash flow — inability to meet maturing obligations as they fall due. Quadrant, assigned the same day, applies the balance sheet test.
+- **Give the two-by-two.** Zone of insolvency: no direct claim, <u>no derivative standing for creditors</u> (the company is still solvent, so stockholders enforce). Actual insolvency: no direct claim, but **derivative standing** for creditors.
+- **Know the two tests for insolvency.** (1) Balance sheet — assets below liabilities with no reasonable prospect of continuing; or (2) cash flow — inability to meet maturing obligations as they fall due. Quadrant, assigned the same day, applies the balance sheet test.
 - **Have the list of existing creditor protections ready.** Contract, fraudulent conveyance, the implied covenant, bankruptcy, general commercial law. It is the court's central answer, and it is why the direct claim is called a gap-filler for a gap that does not exist.
 - **Quote the guidance rationale.** "[C]lear signal beacons and brightly lined channel markers." The holding is driven by administrability, which is also why the zone is never defined.
 - **State the conflict point.** A direct duty to individual creditors would conflict with the duty to maximise value for all those interested in the insolvent corporation, and would chill vigorous good faith negotiation with creditors.
 - **Do not overstate the holding.** Non-fiduciary direct claims — contract, tort, fraudulent transfer — are expressly preserved. NACEPF's own relationship was contractual, under the Master Use and Royalty Agreement.
 - **Note the self-inflicted wound.** NACEPF waived the derivative theory. The opinion is a lesson in pleading as much as in doctrine.
-- **Connect forward to § 102(b)(7).** A creditor suing derivatively is seeking to impose personal liability on directors, so an exculpatory charter applies and the claim must be loyalty or bad faith.
+- **Connect forward to § 102(b)(7) duty of care exculpation.** A creditor suing derivatively is seeking to impose personal liability on directors, so an exculpatory charter applies and the claim must be loyalty or bad faith.

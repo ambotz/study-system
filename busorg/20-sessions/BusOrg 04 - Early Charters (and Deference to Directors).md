@@ -4,7 +4,7 @@ session: 4
 title: "Early Charters (and Deference to Directors)"
 date: 2026-10-05
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 4 — Early Charters (and Deference to Directors)

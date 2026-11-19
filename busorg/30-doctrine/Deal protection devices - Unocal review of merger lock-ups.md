@@ -103,6 +103,8 @@ Veasey, C.J., dissenting with Steele, J., put the practitioner's objection: a lo
 
 ## Professor gloss
 
+Itemise the package rather than judging it whole: break-up fee, lock-up on a business unit at a discount, force-the-vote, no-shop, no fiduciary out. Revlon's combination forced stockholders toward yes and drew the injunction. Omnicare is where Buccola disagrees with the court outright — good deal protection was thrown out, Omnicare's bid was conditional and might have evaporated, and the directors made a decision — so the rule is narrow and mechanical: no agreement may combine force-the-vote with a voting agreement or lock-up that makes approval certain. His defence of the result is market structure, returning leverage to targets. Time adds the voting trigger worth remembering in any stock deal: issuing 20% or more of stock requires a stockholder vote, which is exactly why Time restructured to an all-cash offer for Warner and escaped the vote altogether.
+
 ## Common trap
 
 1. **Reaching for Revlon first.** Ask whether there is a change of control only to decide whether Revlon adds anything. Deal protections get Unocal review either way, which is why Omnicare never decides the Revlon question.

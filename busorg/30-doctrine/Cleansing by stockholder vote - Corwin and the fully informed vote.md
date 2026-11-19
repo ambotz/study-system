@@ -100,6 +100,8 @@ The distinguishing line: **Corwin defers to a vote that could have gone the othe
 
 ## Professor gloss
 
+Buccola's sorting rule is by remedy and by who is conflicted. Revlon is for injunctions, not post-closing damages; once the deal closes, approval by disinterested stockholders restores the business judgment rule, which is Corwin, and 144(e) preserves equitable relief regardless. On who is conflicted: a conflicted controller routes to 144; a controller present but not conflicted routes to Corwin. The practical consequence he traced is the litigation economy — after Revlon, 95% of mergers drew suits, which fell to roughly 45% after Trulia, because the peppercorn disclosure settlement, where the board adds information and the stockholders pay the plaintiffs' fees, had become an additional deal tax. In a post-closing hypo the first question is therefore not the breach but whether the vote was fully informed and uncoerced, because that answer decides the standard.
+
 ## Common trap
 
 1. **Applying Corwin to a controller transaction.** The doctrine is expressly limited to transactions "with a party other than a controlling stockholder." Check the gateway first, every time. Use 144(a) or (b) for controller transactions

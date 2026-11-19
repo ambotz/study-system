@@ -3,8 +3,8 @@ topic: Interested and controller transactions
 sub_topic: § 144(d)(6)(c) (post-SB 21) — the aiding-and-abetting savings clause qualifying the safe harbours
 authority:
   - 8 Del. C. § 144(d)(6)(c) (post-SB 21, savings clause preserving aiding and abetting claims)
-professor_emphasis: 2
-exam_likelihood: medium
+professor_emphasis: 3
+exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
@@ -52,6 +52,8 @@ The clause operates where:
 [[In re Mindbody, Inc., Stockholder Litigation (2024)|In re Mindbody, Inc., Stockholder Litigation]] marks where the preserved claim still fails. The distinguishing line: **(d)(6)(c) keeps the courthouse door open, but the plaintiff must still prove knowing participation in a director breach — a clean process does not lower that bar, and passive awareness by an arm's-length buyer clears it no more after SB 21 than before.** The clause removes a statutory defence; it does not supply the scienter the common law demands.
 
 ## Professor gloss
+
+Buccola's structural point is that the safe harbours do not close the equitable door: the savings clause explicitly preserves equitable remedies, which is why aiding and abetting survives cleansing and why Revlon keeps working as an injunction theory after 144. The sorting he gave is the one to apply — a conflicted controller goes through 144, a controller present but unconflicted goes through Corwin, and in either case equitable relief remains available. The practical reason this matters is targeting: third parties are attractive defendants because they have deeper pockets and no exculpation, so a cleansed transaction can still generate a live claim against the adviser or counterparty rather than against the board.
 
 ## Common trap
 

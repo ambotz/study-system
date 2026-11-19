@@ -4,8 +4,8 @@ sub_topic: Zapata — SLC motions to terminate; the corporation bears the burden
 authority:
   - Del. Ct. Ch. R. 23.1
   - common law (Zapata v. Maldonado; In re Oracle)
-professor_emphasis: 2
-exam_likelihood: medium
+professor_emphasis: 3
+exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
@@ -64,6 +64,8 @@ The question is whether "material considerations other than the best interests o
 The distinguishing line: **under Zapata the corporation must prove independence; under Rule 23.1 the plaintiff must plead facts creating reasonable doubt about it.** The same relationships can therefore produce opposite results depending on which motion is before the court. Allocation of the burden is doing at least as much work as the underlying facts.
 
 ## Professor gloss
+
+Buccola teaches Oracle against Zuckerberg as a direct contradiction and invites you to exploit it. Zapata runs in two steps — the committee's independence, good faith and reasonable investigation, then the court's own independent business judgment — and in Oracle the fight is entirely on independence, where Stanford ties between the SLC members and the defendants defeated it. His comment is the exam material: that is again just a social relationship, which is exactly what Zuckerberg years later held insufficient to destroy independence. So in any SLC hypo, name the inconsistency rather than picking a side, and argue from which relationship actually constrains judgment. Remember what the SLC is for: the company forms it after a derivative complaint survives, to take over and terminate the action, which makes its composition the whole ballgame.
 
 ## Common trap
 

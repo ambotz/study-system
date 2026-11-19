@@ -94,6 +94,8 @@ The distinguishing line: **in 1815 the charter enumerated what the corporation c
 
 ## Professor gloss
 
+Buccola walks the charter provision by provision and the section numbers are the currency: 102(a) for what must be in the certificate — purpose, which can be as broad as all lawful acts, name, address, and the share structure, which is where power is allocated; 102(b) as the catch-all, of which 102(b)(7) exculpation is the one charters actually use; 122 for the broad grant of corporate powers; 141(a) vesting management in the board; and 109 for bylaws, which must provide an annual meeting and which stockholders may amend though in practice the board does. The structural point he draws out of 102(a) is blank-check preferred: capping total shares but leaving the terms of future preferred unspecified keeps discretion over power allocation in the board's hands, which is the mechanism behind the pill. In a drafting hypo, name the instrument before the rule — what belongs in the charter is not what belongs in the bylaws, and the allocation of power turns on which one carries it.
+
 ## Common trap
 
 1. **Reading a charter for what it says rather than what it varies.** Every article is an election. The exam version gives you a charter provision and asks what the default would have been.

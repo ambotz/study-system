@@ -118,6 +118,8 @@ State law says who may vote and how the meeting runs. Two federal rules sit on t
 
 ## Professor gloss
 
+Buccola lists four variables that decide whether a vote can actually discipline a board, and the first question in any activism hypo is which of them are present. Insider control: dual-class shares in the charter, a controlling stockholder, or informal insider aggregation needing no legal mechanism — each pushes the dispute toward fiduciary litigation instead. A staggered board doubles the cost of a proxy fight because two consecutive campaigns are needed, which lengthens the activist's horizon and is created by charter or initial bylaws. Retail shares vote with management about ninety per cent of the time and often do not vote at all. Finally the board controls election procedures. On written consent under 228, note the practical obstacles he gave: most public companies disallow it in the charter, dispersed holdings make solicitation expensive, and advance-notice bylaws destroy surprise by forcing the plan to be filed. His NVIDIA aside is the clean illustration — a board can always fire the CEO, unless dual-class lets the CEO fire the board.
+
 ## Common trap
 
 1. **Reaching for the default without checking the instrument.** Every provision here opens with "unless otherwise provided." Read the charter and bylaws first; the default is the fallback, not the answer.

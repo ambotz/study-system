@@ -4,7 +4,7 @@ sub_topic: Special-act charters versus the modern enabling statute
 authority:
   - N.Y. Laws 1815, ch. CLXXIII (National Insurance Co.)
 professor_emphasis: 2
-exam_likelihood: low
+exam_likelihood: medium
 confidence: 1
 last_drilled: 
 ---
@@ -59,6 +59,8 @@ The modern Delaware **enabling statute** inverts the default. Corporate existenc
 The distinguishing line: **in 1815 the charter was the only place corporate power came from; today the charter is the only place board authority may be varied.** In both worlds the certificate is the privileged instrument — what changed is whether it grants power or withholds a default.
 
 ## Professor gloss
+
+Buccola gave the sources of corporate law as a ranked list worth reproducing: the general incorporation statute (DGCL), then the charter, then the bylaws, with fiduciary duties sitting alongside as the equitable layer — and his operative statement is that a corporate act is valid only when it is consistent with both the legal and the fiduciary constraints. Against that he set the three judicial routes and their relative weight: quo warranto and ultra vires are both rare, the latter because modern powers are drafted so broadly, which leaves the shareholder suit as the main threshold mechanism. The historical arc explains why: specific charters with narrow powers until 1830, general statutes with still-narrow terms to 1880, general and flexible after — so ultra vires withered as drafting widened.
 
 ## Common trap
 

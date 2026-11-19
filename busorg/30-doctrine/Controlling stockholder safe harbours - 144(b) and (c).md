@@ -100,6 +100,8 @@ The distinguishing line: **MFW required both protections, adopted from the outse
 
 ## Professor gloss
 
+Tesla 2 is Buccola's worked example and the step order is the answer structure: does the business judgment rule apply, which turns first on whether Elon is a controlling stockholder — if not, the case is dismissed — and then on whether the remaining directors are interested or materially related; if the rule does not apply, entire fairness on fair price and fair dealing. The outcome is the useful part: the process was poor, the price was fair, and entire fairness was satisfied anyway, so do not treat a bad process as dispositive. Control at 22% was never decided, and SB 21 then fixed the threshold at one third in 144(c)(2). Post-SB 21 the controller routes are 144(b)(1), an independent committee of wholly disinterested directors, or 144(b)(2), a majority of disinterested stockholders — and a go-private or freeze-out needs both. His aside on recusal is a usable fact-level argument: Elon sat in the room after recusing himself, which is subtle coercion, and if you recuse yourself you should not be in the room.
+
 ## Common trap
 
 1. **Applying MFW to an ordinary controller transaction post-SB 21.** One prong now suffices under § 144(b). Reciting the two-prong requirement everywhere is the most likely error on the amended statute.

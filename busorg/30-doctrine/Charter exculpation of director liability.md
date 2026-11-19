@@ -83,6 +83,8 @@ The distinguishing line: **§ 102(b)(7) changes the remedy, not the standard.** 
 
 ## Professor gloss
 
+Buccola introduces 102(b)(7) as the legislative answer to Van Gorkom: it exculpates directors from monetary damages for duty of care violations, and it is the one thing he says charters actually capitalise on out of all of 102(b). The consequence to carry into every damages question is his own formulation — if the plaintiff wants money, the plaintiff must plead duty of loyalty. That turns exculpation into a pleading gate rather than a defence, so in a hypo the sequence is to identify the claim as care, apply 102(b)(7) to kill the monetary remedy, and then ask what is left: injunctive relief, or a loyalty theory the facts may or may not support.
+
 ## Common trap
 
 1. **Treating the provision as a defence to the breach.** Section 102(b)(7) does not make uninformed conduct lawful. The breach still occurred; the damages remedy is gone. Answers that conclude "no breach" rather than "no monetary liability" lose the distinction the statute is built on.

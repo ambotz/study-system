@@ -100,6 +100,8 @@ Only Congress may suspend the privilege of the writ of habeas corpus, and only d
 
 ## Professor gloss
 
+Baude ran Merryman and the Bates opinion as the departmentalism problem in its sharpest form rather than as a habeas doctrine: the clause sits in Article I, which is the textual argument that suspension is Congress's to make, and Lincoln suspended anyway. Bates supplies the structural answer he quoted on the other side — if any one branch may determine the extent of its own powers and those of the other two, that branch controls the whole government — which is why the question is who decides rather than what the clause means. Carry it as the emergency case that tests everything else: a President acting against the clause's placement is at his lowest ebb on Jackson's framework, so the defence has to be that the power is conclusive and preclusive, and the historical practice of 1861 is the only support for that. McCardle is the companion move, since Congress reached the same result by stripping jurisdiction rather than by suspending.
+
 ## Common trap
 
 - **"Lincoln defied an order to release Merryman."** Taney issued a writ and a contempt attachment, both refused, and his final opinion ordered only that the record be filed and transmitted to the President. What was adjudged matters, because the judgment-supremacy debate turns on it.

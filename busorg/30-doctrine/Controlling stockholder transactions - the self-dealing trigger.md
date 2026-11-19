@@ -95,6 +95,8 @@ The distinguishing line: **Sinclair shows that total control without disproporti
 
 ## Professor gloss
 
+Start from the default: shareholders owe no duty because they do not control the corporation's assets, so everything turns on whether this one controls — practically, the holder who controls the directors. Sinclair is the template and the claims split for one reason: a pro rata payment is not self-dealing, which requires a pecuniary advantage to one holder at another's expense, so motive is irrelevant to the dividend claim. His economic gloss cuts against tunneling allegations — past roughly 51% the controller increasingly harms itself. Tesla 1 adds the sliding scale below 50%, where the question is a non-ratable benefit. MindBody is the fact pattern he marked as exam material and told you to compare with Sinclair: Stollmeyer could not sell his whole stake without crushing the price, which gave him a conflict in wanting to cash out, and he hid information — a loyalty breach that nonetheless drew only nominal damages, because the stockholders could not prove the price would have been higher.
+
 ## Common trap
 
 1. **Collapsing the two questions.** Controller status and self-dealing <u>are separate.</u> Sinclair had status and lost the trigger on two claims; a fact pattern can supply a 60% holder and still get business judgment if the transaction is proportionate.

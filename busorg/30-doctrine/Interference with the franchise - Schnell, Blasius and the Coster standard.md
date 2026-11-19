@@ -146,6 +146,8 @@ The lesson a plaintiff should take is that **overreach can supply the threat**. 
 
 ## Professor gloss
 
+Buccola's headline is doctrinal consolidation: after Coster, the Blasius voting defence folds into Unocal, run with a gimlet eye — threat to corporate policy, then a proportionate response measured against the loss of the franchise. Blasius itself is the fact pattern: an activist planning to expand the board by written consent under 228, and a board that appoints new directors up to the charter maximum in response. Atlas acted within its charter and bylaws, so the only live question is whether the change was motivated by the written-consent solicitation. He marked the timing line as exam material and it is the pathway in any entrenchment hypo — had Atlas added the two directors before Blasius filed, it would have been completely fine, which is present-day ex ante activist defence, and no other line can be drawn without contradicting Moran and Airgas. Treat activism as the modern reincarnation of the hostile bidder: buy a smaller stake and win the vote rather than buy control.
+
 ## Common trap
 
 1. **Saying Blasius requires a "compelling justification."** As of Coster it does not, as a separate gate. The substance survives inside Unocal-shaped enhanced scrutiny — do not say the case was overruled either.

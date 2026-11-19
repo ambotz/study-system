@@ -4,7 +4,7 @@ session: 8
 title: "Good Faith and Oversight"
 date: 2026-10-14
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 8 — Good Faith and Oversight

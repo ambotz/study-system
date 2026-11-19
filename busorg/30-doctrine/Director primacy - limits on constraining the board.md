@@ -90,6 +90,8 @@ The distinguishing line: **courts distinguish by prototype, not by definition.**
 
 ## Professor gloss
 
+Gorman and Moelis are taught as a pair about who may take power away from the board, and 141(a) is the gate: only the board hires and fires the CEO, because that is a corporate affair, so a bylaw amendment by written consent cannot do it. Buccola then asked what Gorman could actually do, and the answer is the pathway for any hypo where a stockholder wants control — amend the charter, which needs the board to propose and the stockholders to approve, or simply replace the board and let the new board act. Moelis is the mirror image, a holder who wanted to divest his shares and keep control, and the response was legislative: 122(18) now permits stockholder agreements conferring such rights. Note the drafting condition on 122(18) and do not overstate it — the agreement must not contravene the certificate or Delaware law.
+
 ## Common trap
 
 1. **Treating it as a fiduciary duty question.** No breach is alleged in either case. These are **power** cases, which is why facial challenges succeed with no showing of harm and why the provisions are void rather than voidable.

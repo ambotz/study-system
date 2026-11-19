@@ -64,6 +64,8 @@ The distinguishing line: **Argovitz offers a fiduciary only one way out — disc
 
 ## Professor gloss
 
+Buccola used Argovitz to separate the breach from the remedy, and the remedy is where he pressed. Argovitz breached the duty of loyalty, not the Gamblers, yet the Gamblers' contract was voided — so ask why Sims does not simply recover money from Argovitz. His answer is allocation of risk: Sims chose Argovitz and gave him authority, so Sims bears that choice. Carry the two default rules as a pair: the wrongdoer agent pays for a fiduciary breach, and the third party normally gets the benefit of its bargain. A hypo that voids a third party's contract is pushing against the second rule, and the argument runs on whether the third party knew enough to lose that protection.
+
 ## Common trap
 
 1. **Arguing the deal was good for the principal.** *Burleson*, quoted in Argovitz: the question "does not relate to the mala fides of the agent nor to whether or not a greater sum might have been procured." The inquiry stops once the adverse interest exists.

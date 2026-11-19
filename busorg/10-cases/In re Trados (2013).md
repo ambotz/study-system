@@ -90,8 +90,12 @@ The doctrine travels to other divergences. [[Quadrant Structured Products v. Ver
 Trados developed translation software. It raised venture capital in 2000 to support a growth strategy aimed at an initial public offering, issuing preferred stock in successive rounds — Wachovia put in $5 million for 3,640,000 Series A shares, Invision AG $2 million for 2,350,174 Series F — with most investors also obtaining the right to designate directors. Revenue grew year over year, but not enough to satisfy the backers, and by 2004 the VC directors were looking to exit.
 
 On July 7, 2004 the board hired Joseph Campbell as chief executive. The Wachovia-designated director suggested a plan to incentivise executives to pursue a sale, and the board agreed, recognising that the executives "may not have sufficient incentives to remain in the Company's service and to pursue a potential acquisition of the Company, **due to the high liquidation preference of the Company's preferred stock**."
+	- The common is the residual claim: no floor, unlimited upside, and worth something only if the company keeps operating long enough to outgrow the preference.
+	- The preferred holds a floor — the preference is paid first and in full before the common sees a dollar — so the preferred’s downside is protected in a way the common’s never is.
+	- Because of that floor, the preferred “gain less from increases in firm value than they lose from decreases,” which pushes a preferred-dominated board toward lower-risk, lower-value strategies. The common want the opposite: the dice rolled again.
 
 Campbell and Budge presented the Management Incentive Plan in December 2004 — though they and Hummel were its three largest recipients — and the entire board, including Campbell and Hummel, approved it unanimously. The MIP gave senior management an escalating percentage of sale proceeds depending on valuation, with a cutback reducing any MIP payout by consideration received as an equity holder. Campbell got 30%, Hummel 12%, Budge 10%.
+	Any MIP payout was reduced by consideration received as an equity holder, which “ensured that management would focus exclusively on proceeds received through the MIP.” Converting management from common-aligned to preferred-aligned is what the plan actually accomplished.
 
 Campbell's tenure produced record profits. On February 11, 2005 he agreed with Mark Lancaster of SDL to sell Trados for $60 million — $50 million cash and $10 million in SDL stock. The board reviewed and approved the terms on an April 8 conference call and a letter of intent followed on April 11. Lancaster agreed that Campbell would become SDL's President and Chief Strategy Officer and join its board.
 
@@ -145,7 +149,7 @@ Marc Christen, who owned about 5% of the common, sought appraisal and in July 20
 
 - Single-judge Chancery opinion; no dissent.
 
-The unsatisfying part is how much the result depends on a counterfactual the directors never examined. Laster finds that nobody on the board considered the common stockholders at all, that the MIP was designed to make sure nobody would, and that the process was unfair in every component — and then concludes there was no breach because a valuation performed years later in litigation shows the common were worthless. The doctrine permits this, since entire fairness is unitary and price can carry the day. But it means the directors' vindication rests on a fact they never bothered to establish, and the opinion's own treatment of the $0.10 minutes shows how willing the court was to disregard the contemporaneous record in both directions.
+The unsatisfying part is how much the result depends on a counterfactual the directors never examined. Laster finds that nobody on the board considered the common stockholders at all, that the MIP was designed to make sure nobody would, and that the process was unfair in every component — and then concludes there was no breach because a valuation performed years later in litigation shows the common were worthless. The doctrine permits this, since <u>entire fairness is unitary and price can carry the day</u>. But it means the directors' vindication rests on a fact they never bothered to establish, and the opinion's own treatment of the $0.10 minutes shows how willing the court was to disregard the contemporaneous record in both directions.
 
 ### Cold-call notes
 

@@ -137,6 +137,8 @@ Watch for the **§ 220(f) trap** in the other direction. A corporation that keep
 
 ## Professor gloss
 
+Buccola frames 220 as a balancing test rather than a list: a stronger proper purpose buys access to more kinds of document, which is why Yahoo's reach into texts and emails started to look like ordinary post-motion discovery. The structural reason it matters is the judge-made heightened pleading standard for derivative suits, justified precisely because books and records are available first — so use 220 before filing, and say so. Two consequences to carry: Caremark pleadings get much stronger when the plaintiff has director communications, which is plausibly what SB 21 was reacting to; and the incorporation condition cuts both ways, since the defendant may use the produced documents to attack the complaint, effectively moving the motion to dismiss forward. Post-SB 21, 220 rolls back the categories and codifies incorporation. His framing instruction for every case is here too: say who is liable, on what standard of review, and to whom.
+
 ## Common trap
 
 1. **Treating credible basis as a merits standard.** It is the lowest possible burden of proof and a showing that satisfies it "may ultimately fall well short of demonstrating that anything wrong occurred." Yahoo! says so three separate times.

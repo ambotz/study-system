@@ -114,6 +114,8 @@ The pleading lesson is the loudest one. Plaintiffs waived the claim that Vista a
 
 ## Professor gloss
 
+Rural Metro is the structure: the special committee's failure is a duty of care breach, not loyalty, 102(b)(7) exculpates the directors, and Malpiede still lets stockholders pursue the adviser for aiding and abetting that care breach. Buccola presses the conceptual problem rather than reciting the elements — how does one aid and abet someone else's negligence, when the principal ordinarily has a mens rea the care breach lacks — and his conclusion is that loyalty is the easier predicate. Note the perverse incentive he identified: exculpated directors who hold stock actually benefit from a finding of breach against the adviser. MindBody draws the line on the other side: Vista knew and still escaped, because an arm's-length counterparty need not disclaim its own benefits, and its silence on the proxy was not enough. So in an adviser hypo, argue the predicate duty first, then knowing participation, and expect the counterparty's arm's-length status to be the defence.
+
 ## Common trap
 
 1. **Asking only whether the third party knew of the breach.** Scienter has two halves, and the second — knowledge that its **own** conduct was legally improper — is what Mindbody turns on.

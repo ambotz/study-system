@@ -4,7 +4,7 @@ session: 12
 title: "Derivative Procedure"
 date: 2026-10-22
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 12 — Derivative Procedure

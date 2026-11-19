@@ -5,8 +5,8 @@ authority:
   - 8 Del. C. § 160(a) (power to purchase, hold and deal in the corporation's own shares)
   - 8 Del. C. § 141(e) (reliance on officer reports; cited as § 141(f) in Cheff)
   - common law (Cheff v. Mathes; Unocal)
-professor_emphasis: 2
-exam_likelihood: medium
+professor_emphasis: 3
+exam_likelihood: high
 confidence: 1
 last_drilled: 
 ---
@@ -98,6 +98,8 @@ The distinguishing line: **Cheff asks only whether the board had good reason; Un
 Unocal also inverts Cheff's fact pattern. In Cheff the corporation paid a **premium to the raider** and the other holders got nothing; in Unocal the corporation paid a premium to **everyone but** the raider. The Supreme Court notes the irony that Mesa, "a corporate raider with a national reputation as a 'greenmailer'," was the one complaining about selective treatment, and says that selective repurchase "is neither unknown nor unauthorized — [t]he only difference is that heretofore the approved transaction was the payment of 'greenmail'."
 
 ## Professor gloss
+
+Buccola opens the takeover unit with why it exists: fiduciary litigation is poor at dictating management decisions and really only deters bad actors and self-dealing, so the real disciplinary devices are sale and vote. The threat of aggregation is itself the discipline — a buyer pays a premium because it is buying control, so management keeps itself in line to avoid becoming a target. Cheff then splits into two questions and only the second matters: a board may buy its own shares under 160, so the issue is never power but whether the purchase was fiduciarily improper. His three candidate motives are the template carried forward into Unocal — protect shareholders from a bad plan, protect non-shareholder constituents, or protect the directors themselves — and his warning is how low the bar sits, since an articulable justification suffices. Press the economics against the first motive: if the plan were bad, why is the raider paying more.
 
 ## Common trap
 

@@ -69,6 +69,8 @@ The distinguishing line: **a fact pattern attacking the wisdom of a choice is a 
 
 ## Professor gloss
 
+The business judgment rule is a standard of review while care and loyalty are standards of conduct — which is why Shlensky never reached whether Wrigley satisfied care at all. Shlensky pleaded no conflict, only a bad profit-maximising decision, and that is what the rule forecloses absent fraud, illegality or conflict; Buccola's flat statement is that there is likely no duty to maximise corporate profits. Bayer shows the other entry point: identify a conflict and the good-faith presumption is lost, though the company may still rebut. The pathway in a hypo attacking a board decision is therefore never that the decision was reasonable — it is that the plaintiff pleaded the wrong thing, and the way back in is a conflict or a process failure, not a bad outcome. Entire fairness is the destination once the rule is defeated, and it too is a standard of review rather than of conduct.
+
 ## Common trap
 
 1. **Arguing the merits.** Any answer explaining why the board's decision was commercially wrong has already conceded the case. The court in [[Shlensky v. Wrigley (1968)|Shlensky v. Wrigley]] says expressly that the correctness of the decision is beyond its jurisdiction and ability. Argue what a court may examine, not what the board should have done.

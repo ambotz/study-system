@@ -136,6 +136,8 @@ The other counterweight is [[Omnicare v. NCS Healthcare (2003)|Omnicare v. NCS H
 
 ## Professor gloss
 
+Unocal is two prongs — a reasonable threat to corporate policy, the main one, then proportionality — and the four threat justifications are the engine: coercion (valid per Unocal), low price, non-shareholder constituents, and entrenchment (invalid per Cheff). Buccola boxed the exam instruction: use those four as the prong-one threat to get back to board deference under heightened scrutiny. Paramount v. Time is where the test stops biting, because the threat was substantive rather than structural — Paramount's all-cash offer created timing uncertainty about Time's strategy — and Buccola pushed hard on it, asking why shareholders cannot decide the company's culture themselves and concluding the court seems to be protecting non-shareholders or finding another route back to deference. Airgas completes the slide: substantive coercion now just means the price is too low, so a board may refuse an offer for that reason alone, and his question is whether threat means anything any more. Note the structural facts that made Airgas work — staggered board, 15% pill, 67% supermajority merger provision.
+
 ## Common trap
 
 1. **Forgetting who bears the burden.** The **directors** carry both prongs. Enhanced scrutiny inverts the ordinary presumption, and saying "the plaintiff must show" gives away the whole point of the standard.

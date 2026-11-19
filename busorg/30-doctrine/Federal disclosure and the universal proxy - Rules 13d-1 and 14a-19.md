@@ -7,7 +7,7 @@ authority:
   - Securities Exchange Act § 13(d) (15 U.S.C. § 78m(d))
   - Securities Exchange Act § 14(a) (15 U.S.C. § 78n(a))
   - common law (Williams, for how the gaps in this regime are argued in Delaware)
-professor_emphasis: 
+professor_emphasis: 2
 exam_likelihood: medium
 confidence: 1
 last_drilled: 
@@ -110,6 +110,8 @@ The case against it, which is the one the court found persuasive on these facts:
 **The live question**, and a good one to be ready for: after the 2023 amendments, could a board defend a pill that triggers only on undisclosed accumulation past five per cent, uses the federal beneficial-ownership definition unmodified, and aggregates only holders with an actual agreement? That is a plan tailored to the one gap that survives.
 
 ## Professor gloss
+
+Buccola uses 13(d) only as the mechanism that makes the lightning strike possible, and that is the role to give it: disclosure is triggered at five per cent, but the ten-day window lets an accumulator reach 4.9% and then strike before anyone knows, buying cheaply from sellers who are misinformed about the company's prospects. Williams' rights plan was built to close exactly that gap, which is why its trigger matches the statutory threshold. Two aggregation features are worth naming because they are what made the plan arguably too stringent: holdings are aggregated across a group, and the acting-in-concert or daisy-chain provision aggregates two holders who never communicated with each other provided each communicated with a third.
 
 ## Common trap
 

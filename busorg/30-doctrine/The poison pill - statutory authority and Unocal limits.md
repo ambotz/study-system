@@ -120,6 +120,8 @@ Williams also shows that a board can win the *process* half of prong one and sti
 
 ## Professor gloss
 
+Williams is where the pill meets activism and the doctrine splits. Moran lets a board adopt a pill under clear skies with no Unocal scrutiny, but Williams applies Unocal anyway because this pill targets a voting play rather than a tender offer — and Buccola's reason is the asymmetry worth reproducing: a hostile bidder can take the pill to court during the contest, whereas an activist cannot, because suing mid-proxy reveals the play and moves the price, so the mere existence of the pill forecloses activism entirely. Delaware is accordingly more protective of voting than of selling. On prong one the court rejected deterring activism and rejected short-termism, both because stockholders should decide, and accepted only the lightning strike — the gap left by the ten-day disclosure window in 13(d), during which an activist accumulates cheaply while sellers are uninformed. The usable rule of thumb: a low trigger signals an activism pill, a high one a takeover pill.
+
 ## Common trap
 
 1. **Answering only the adoption question.** Adoption gets the business judgment rule. **Refusal to redeem** gets Unocal. Most pill problems are about the second.

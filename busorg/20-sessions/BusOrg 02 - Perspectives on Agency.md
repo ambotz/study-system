@@ -4,7 +4,7 @@ session: 2
 title: "Perspectives on Agency"
 date: 2026-09-30
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 2 — Perspectives on Agency

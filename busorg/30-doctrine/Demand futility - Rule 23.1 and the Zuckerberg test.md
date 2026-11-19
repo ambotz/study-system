@@ -72,6 +72,8 @@ The distinguishing line: **Rankin owed his career and a named building to the de
 
 ## Professor gloss
 
+Buccola's gate is substantive before it is procedural: a stockholder cannot force the corporation to sue over a lack of profit, because the business judgment rule protects that, so the underlying claim has to be oversight, a Caremark theory, or a DGCL violation. The derivative complaint then has two parts and the defence answers both — merits, and the demand-futility allegations about conflicts on the board as it stands when the suit is filed. The three prongs to recite: interested in the transaction, meaning a material personal benefit; interested in the litigation, meaning a substantial likelihood of liability; or not independent of someone who is. His point on the third prong is the trap — friendship and shared wealth are social relationships and do not defeat independence.
+
 ## Common trap
 
 1. **Running Aronson's two prongs.** Superseded as the general frame. Give the three questions.

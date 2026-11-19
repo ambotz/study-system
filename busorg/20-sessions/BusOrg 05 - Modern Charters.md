@@ -4,7 +4,7 @@ session: 5
 title: "Modern Charters"
 date: 2026-10-07
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 5 — Modern Charters

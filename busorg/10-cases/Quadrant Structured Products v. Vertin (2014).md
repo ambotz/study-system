@@ -85,7 +85,7 @@ Three practical points to carry.
 ### Posture
 
 - Motion to dismiss under Court of Chancery Rule 12(b)(6), where "the pleading standards... are minimal."
-- Quadrant, a holder of Athilon debt securities, asserted **derivative** fiduciary claims against the board and against EBF, plus **direct** fraudulent transfer claims against EBF and ASIA.
+- Quadrant, a holder of Athilon debt securities, asserted **derivative** fiduciary claims against the Athilon board and against EBF, plus **direct** fraudulent transfer claims against EBF and ASIA.
 - Denied as to two theories, granted as to the third.
 - The posture matters because the whole case turns on **characterisation** rather than on evidence. Three challenged decisions, identical pleading standard, and two survive while one does not — which makes this the cleanest available illustration of where the line falls.
 

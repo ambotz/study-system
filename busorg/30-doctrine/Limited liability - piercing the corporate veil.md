@@ -3,7 +3,7 @@ topic: Limited liability
 sub_topic: Common law veil piercing / enterprise entity versus dummy corporation
 authority:
   - common law
-professor_emphasis: 2
+professor_emphasis: 3
 exam_likelihood: medium
 confidence: 1
 last_drilled: 
@@ -69,6 +69,8 @@ The dissent in the same case (Keating, J.), which is the strongest form of the o
 The distinguishing line: **the majority asks whose business was being conducted; the dissent asks whether capital was illusory or trifling compared with the business to be done and the risks of loss.** Keating would pierce only for a corporation vested with a public interest, undercapitalised against liabilities certain to arise in the ordinary course, where income could have covered higher premiums — and expressly not where finances later dwindle through competition or bad times.
 
 ## Professor gloss
+
+Buccola taught Walkovszky as two distinct theories that are easy to run together. Enterprise liability asks the court to ignore the formal lines when several corporations function as one — same shareholders, same purpose, same kinds of assets, no true differentiation and no reason for the separation except evading liability. Veil piercing is the separate claim against the owner, and his assessment is that it is very hard with multiple shareholders: Carlton is a good candidate and still failed, because the normal rule is strict separation. The pathway when a hypo gives you a fragmented corporate group is to argue enterprise liability first and name the legitimate reason separation can have — different tranches of risk for different investors — then explain why it is absent on these facts.
 
 ## Common trap
 

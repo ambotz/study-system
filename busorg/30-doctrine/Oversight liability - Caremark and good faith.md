@@ -85,6 +85,8 @@ The distinguishing line: **absence of a system for a risk that could destroy the
 
 ## Professor gloss
 
+Buccola's opening instruction is procedural and worth obeying on every question: always start by asking who is on the board, and if the facts do not say, director conflict is not in issue. The doctrinal route is the one to recite — oversight failure evidences a lack of good faith, good faith runs to loyalty under Stone v. Ritter, and it has to go that way because 102(b)(7) exculpates care, so there is no monetary liability on a care theory. His substantive claim is the one most likely to be tested: Caremark is not about protecting investors, who are aligned with board practice; it is a public-law doctrine aimed at violations of positive law, which makes it govern the director-public relationship rather than the director-shareholder one. He calls that a puzzle and leaves it open, with Delaware using corporate law to enforce positive law. Marchand is the successful pleading, Segway the extension to officers that did not lower the pleading standard.
+
 ## Common trap
 
 1. **Pleading it as a care claim.** Oversight is **loyalty**, through good faith. Calling it care concedes exculpation and loses the only advantage the theory has.

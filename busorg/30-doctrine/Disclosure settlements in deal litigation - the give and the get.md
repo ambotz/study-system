@@ -4,7 +4,7 @@ sub_topic: Ct. Ch. R. 23 — approval of disclosure-only class settlements, and 
 authority:
   - Del. Ct. Ch. R. 23
   - common law (Trulia; Pure Resources "fair summary"; Solomon v. Pathe)
-professor_emphasis: 2
+professor_emphasis: 3
 exam_likelihood: medium
 confidence: 1
 last_drilled: 
@@ -87,6 +87,8 @@ The incentive diagnosis is the durable part. Plaintiffs' leverage is the threat 
 The distinguishing line: **the harm from a disclosure settlement is not only that the class gets nothing, but that the release extinguishes claims nobody investigated.** A settlement whose "get" is worthless and whose "give" is unbounded fails on both halves of the test, and Rural/Metro shows the second half is where the real money is.
 
 ## Professor gloss
+
+Buccola treats the disclosure settlement as a market phenomenon rather than a doctrine: a merger draws a fiduciary-duty suit attacking the proxy as insufficient, the board responds by adding information, and the stockholders pay the plaintiffs' fees — which he calls a peppercorn lawsuit and an additional deal tax, since the corporation funds both sides and the class gets disclosure nobody reads. The numbers are the evidence to cite: roughly 95% of mergers were challenged before Trulia and about 45% after. In a hypo offering a disclosure-only settlement, the argument is that the give is worthless and the get is a fee, so the court should refuse it — which is Trulia's move and the reason the rate halved.
 
 ## Common trap
 

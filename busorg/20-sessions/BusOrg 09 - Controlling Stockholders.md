@@ -4,7 +4,7 @@ session: 9
 title: "Controlling Stockholders"
 date: 2026-10-15
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 9 — Controlling Stockholders

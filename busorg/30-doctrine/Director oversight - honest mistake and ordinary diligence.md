@@ -70,6 +70,8 @@ The distinguishing line: **Scott measures oversight against what comparable inst
 
 ## Professor gloss
 
+Scott v. Depeyster is where Buccola plants deference, and he keeps the two claims apart: the ultra vires point is a legal claim that the transaction was not insurance, while the liability point is a fiduciary claim that fails because the directors acted in good faith. Two propositions to carry: deference to directors on the duty of care starts here, and the care actually required changes with the times, so an old standard is not a safe guide to a modern one. His counterfactual is the pathway for a hypo about an act outside the charter — had Scott sought an injunction on the discounted notes rather than damages he would probably have got it, because any shareholder can hold the corporation to its authorised powers. The remedy sought, not the breach alleged, is what decides that case.
+
 ## Common trap
 
 1. **Answering with what the directors could have done.** One trip to the bank, or one comparison of cancelled checks to the check book, would have exposed the fraud, and the court says so. It is still not the test.

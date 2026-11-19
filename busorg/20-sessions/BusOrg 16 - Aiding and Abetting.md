@@ -4,7 +4,7 @@ session: 16
 title: "Aiding and Abetting"
 date: 2026-11-02
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 16 — Aiding and Abetting

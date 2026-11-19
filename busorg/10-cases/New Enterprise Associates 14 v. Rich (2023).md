@@ -60,11 +60,18 @@ The doctrinal move that makes it work is the distinction between **eliminating**
 
 The second move is the **level** at which the waiver operates. A charter or bylaw binds everyone and defines the shares; a stockholder-level agreement binds only its signatories and only governs how they exercise rights they still hold. That is why the covenant does not damage Delaware's "corporate brand," and it is also why the opinion warns that the same provision "would likely be unreasonable if it appeared in an agreement that purported to restrict the rights of **retail stockholders**."
 
-**The limits are the examinable part.** Three of them are stated flatly: a broad waiver of any fiduciary claim is a non-starter; a narrowly tailored one is likely unreasonable against retail holders; and no covenant can exculpate **intentional** wrongdoing. The last is what actually decides the motion — the covenant is valid, and it still does not get the defendants out, because the complaint pleads intentional bad faith.
+**The limits are the examinable part.** Three of them are stated flatly: (1) a broad waiver of any fiduciary claim is a non-starter; (2) a narrowly tailored one is likely unreasonable against retail holders; and (3) no covenant can exculpate **intentional** wrongdoing. The last is what actually decides the motion — the covenant is valid, and it still does not get the defendants out, because the complaint pleads intentional bad faith.
 
 The covenant-not-to-compete analogy is the practical signal to lawyers. Delaware will enforce these where sophisticated parties use them to create value and will scrutinise them closely everywhere else, which is exactly how it treats restrictive covenants.
 
 Note the relationship to the rest of the course. The permissiveness here sits beside the rigidity of [[West Palm Beach Firefighters v. Moelis & Co (2024)|West Palm Beach Firefighters v. Moelis & Co]] and [[Gorman v. Salamone (2015)|Gorman v. Salamone]], which hold that neither a company-level stockholder agreement outside the charter (Moelis) nor a stockholder-adopted bylaw (Gorman) can take over the board's § 141(a) authority. The reconciliation is the same level distinction: **you may constrain how you exercise your own rights; you may not rearrange the board's**. See [[Director primacy - limits on constraining the board]]. It also anticipates [[Miller v. HCP & Co (2018)|Miller v. HCP & Co]] in session 25, where the parties simply used an LLC and waived fiduciary duties outright — and the court's answer there is that having chosen that structure, they cannot recover the protection through the implied covenant.
+
+![[Pasted image 20261117183722.png|379]]
+
+
+- Moelis was a **power** question. No breach pleaded, no harm shown; the provisions were simply beyond the corporation’s capacity to grant in that instrument.
+	- Note: Moeilis was essentially overruled and now can be done via § 122(18); if provision found in Charter --> only makes contracts voidable, but not ab initio void. 
+- Rich is an **enforceability** question. The covenant is valid, then tested for reasonableness under the Manti factors with the burden on the proponent, and capped — a broad waiver is “a non-starter,” a tailored one is likely unreasonable against retail holders, and none can reach intentional wrongdoing.
 
 ## Professor gloss
 

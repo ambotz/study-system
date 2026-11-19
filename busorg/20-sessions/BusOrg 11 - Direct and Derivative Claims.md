@@ -4,7 +4,7 @@ session: 11
 title: "Direct and Derivative Claims"
 date: 2026-10-21
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 11 — Direct and Derivative Claims

@@ -4,7 +4,7 @@ session: 13
 title: "Books & Records"
 date: 2026-10-27
 professor: Buccola
-reconciled: false
+reconciled: true
 ---
 
 # BusOrg 13 — Books & Records
