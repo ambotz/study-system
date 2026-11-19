@@ -49,7 +49,13 @@ Nothing else is required of you.
 
 ## What is mine
 
-Reconciling, grading, generating rep files, keeping the tracker working.
+Reconciling, grading, keeping the tracker working, and **generating rep files**.
+
+Say *"I need rep files for X"* and they appear in `<class>/60-drills/raw/`,
+prompt and budget loaded, in the same shape as the Baude 2018 set. Sources in
+order: real past papers while they last; then hypos built from a doctrine
+module, using the Professor gloss as the stem; and for BusOrg, paired-authority
+prompts at any time, since that prompt is boilerplate and only the pair changes.
 
 ## What is yours alone
 
@@ -62,7 +68,7 @@ write it.
 These were considered and dropped. They are not pending work.
 
 - Triage drill — allocation is arithmetic off the cover page, not a skill
-- Drill-queue script — the outline is the queue
+- Drill-queue *script* — I pick targets from the error log and outline instead. Generation itself stays.
 - Flashcard artifact — review loop covers it
 - Audio — optional, not part of the loop
 - Master outline — `30-doctrine` already is one
