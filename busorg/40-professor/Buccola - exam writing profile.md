@@ -43,6 +43,19 @@ Instruction 5 licenses bare section numbers and bare case names with no years,
 courts, or pin cites — the style every strong answer uses, and the style that
 costs nothing closed-book.
 
+## How much pre-SB 21 law to know — answered in office hours
+
+Asked directly, twice:
+
+> "Focus on the current law, but the previous law will help you get there if you understand how it developed/why the current law is the way it is"
+
+> "Likely won't get asked on the exam how an issue or hypothetical would come out under what the law as 10 years ago, but you need to know what that law was so the current law can be properly applied. **Might get some extra points for distinguishing what the change was over time**"
+
+So: answer under current law. Do not run a parallel analysis under the old
+regime — he is telling you that is not the question. But a clause naming what
+changed and why is worth points, which suits his paired-authority essay exactly,
+since several of those pairings are a statute answering a decision.
+
 ## Question archetypes
 
 | | Q1 — 60 pts | Q2 — 20 pts | Q3 — 20 pts |

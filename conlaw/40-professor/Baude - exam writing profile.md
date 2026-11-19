@@ -22,6 +22,20 @@ vault.
 Three questions, 100 points. **Weights move every year** — 30/50/20, then
 50/20/30, then 45/30/25 — at a constant **35 words per point**.
 
+## Exam-day materials — confirmed in office hours
+
+Asked directly whether it is closed-book with no text at all, his answer was no:
+
+> "(1) will get one sheet of paper, front and back, (2) Might get a full copy of the constitution"
+
+Two consequences for the one-pager. **Do not spend lines on constitutional
+text** — if the Constitution is supplied, every clause you transcribe is a
+wasted line, and if it is not, the clauses you need are the handful you should
+know cold anyway. Spend the sheet on closed lists that are not in the
+Constitution: the Youngstown categories with the conclusive-and-preclusive
+carve-outs, *Dole*'s conditions plus coercion, the *Casey* and *Ramos* factor
+sets, Lopez's three categories, and case-plus-Justice pairings.
+
 This year's syllabus changes the constraint:
 
 > "your grade for this course will be based on an **in-class, closed-book exam**."

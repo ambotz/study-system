@@ -97,9 +97,12 @@ def main() -> int:
 
     vault = pathlib.Path(args.vault).resolve()
     klass = payload["class"]
-    session = vault / klass / "20-sessions" / payload["session_file"]
+    # Sources are normally class meetings, but office-hours notes and other
+    # professor capture live elsewhere and reconcile the same way.
+    subdir = payload.get("source_dir", "20-sessions")
+    session = vault / klass / subdir / payload["session_file"]
     if not session.is_file():
-        fail(f"no such session file: {session}")
+        fail(f"no such source file: {session}")
 
     planned = []
     for m in payload["modules"]:
