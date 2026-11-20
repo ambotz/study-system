@@ -123,6 +123,9 @@ spine, the method layer, and the one module he labelled an exam question.
 
 → [[Enforcement discretion - Art. II § 3 Take Care]]
 
+
+![[Pasted image 20261120114243.png]]
+
 ---
 
 ## Nondelegation - Art. I § 1 and the intelligible principle
